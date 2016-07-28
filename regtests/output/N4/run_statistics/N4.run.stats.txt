@@ -1,0 +1,126 @@
+1000	Number of sequences in input file BEFORE QC (nucleotide)	5
+1001	-min length	446
+1002	-avg length	743
+1003	-max length	955
+1004	-total base pairs (bp)	3719
+1005	Number of sequences AFTER QC (nucleotide)	5
+1006	-min length	446
+1007	-avg length	725
+1008	-max length	904
+1009	-total base pairs (bp)	3627
+1000	Number of sequences in input file BEFORE QC (nucleotide)	5
+1001	-min length	446
+1002	-avg length	743
+1003	-max length	955
+1004	-total base pairs (bp)	3719
+1005	Number of sequences AFTER QC (nucleotide)	5
+1006	-min length	446
+1007	-avg length	725
+1008	-max length	904
+1009	-total base pairs (bp)	3627
+1000	Number of sequences in input file BEFORE QC (nucleotide)	5
+1001	-min length	446
+1002	-avg length	743
+1003	-max length	955
+1004	-total base pairs (bp)	3719
+1005	Number of sequences AFTER QC (nucleotide)	5
+1006	-min length	446
+1007	-avg length	725
+1008	-max length	904
+1009	-total base pairs (bp)	3627
+2000	Number of translated ORFs BEFORE QC (amino)	4
+2001	-min length	47
+2002	-avg length	138
+2003	-max length	230
+2004	-total base pairs (bp)	552
+2005	Number of tranlated ORFs AFTER QC (amino)	3
+2006	-min length	61
+2007	-avg length	168
+2008	-max length	230
+2009	-total base pairs (bp)	505
+6000	Total Protein Annotations	0
+1000	Number of sequences in input file BEFORE QC (nucleotide)	5
+1001	-min length	446
+1002	-avg length	743
+1003	-max length	955
+1004	-total base pairs (bp)	3719
+1005	Number of sequences AFTER QC (nucleotide)	5
+1006	-min length	446
+1007	-avg length	725
+1008	-max length	904
+1009	-total base pairs (bp)	3627
+2000	Number of translated ORFs BEFORE QC (amino)	4
+2001	-min length	47
+2002	-avg length	138
+2003	-max length	230
+2004	-total base pairs (bp)	552
+2005	Number of tranlated ORFs AFTER QC (amino)	3
+2006	-min length	61
+2007	-avg length	168
+2008	-max length	230
+2009	-total base pairs (bp)	505
+5000	Total Protein Annotations refseq-nr-2014-01-18 (LAST)	10
+5000	Total Protein Annotations CAZY_2014_09_04 (LAST)	10
+5000	Total Protein Annotations COG_2013-12-27 (LAST)	0
+5000	Total Protein Annotations seed-2014-01-30 (LAST)	12
+7000	Taxonomic hits in GREENGENES_gg16S-2012-11-06	1
+6000	Protein Annotations from CAZY_2014_09_04	2
+6001	Protein Annotations from COG_2013-12-27	0
+6002	Protein Annotations from refseq-nr-2014-01-18	2
+6003	Protein Annotations from seed-2014-01-30	3
+6004	Total Protein Annotations	3
+1000	Number of sequences in input file BEFORE QC (nucleotide)	5
+1001	-min length	446
+1002	-avg length	743
+1003	-max length	955
+1004	-total base pairs (bp)	3719
+1005	Number of sequences AFTER QC (nucleotide)	5
+1006	-min length	446
+1007	-avg length	725
+1008	-max length	904
+1009	-total base pairs (bp)	3627
+2000	Number of translated ORFs BEFORE QC (amino)	4
+2001	-min length	47
+2002	-avg length	138
+2003	-max length	230
+2004	-total base pairs (bp)	552
+2005	Number of tranlated ORFs AFTER QC (amino)	3
+2006	-min length	61
+2007	-avg length	168
+2008	-max length	230
+2009	-total base pairs (bp)	505
+5000	Total Protein Annotations metacyc-v4-2011-07-03 (LAST)	0
+5000	Total Protein Annotations CAZY_2014_09_04 (LAST)	10
+5000	Total Protein Annotations COG_2013-12-27 (LAST)	0
+6000	Protein Annotations from CAZY_2014_09_04	2
+6001	Protein Annotations from COG_2013-12-27	0
+6002	Protein Annotations from metacyc-v4-2011-07-03	0
+6003	Protein Annotations from refseq-nr-2014-01-18	2
+6004	Protein Annotations from seed-2014-01-30	3
+6005	Total Protein Annotations	3
+1000	Number of sequences in input file BEFORE QC (nucleotide)	5
+1001	-min length	446
+1002	-avg length	743
+1003	-max length	955
+1004	-total base pairs (bp)	3719
+1005	Number of sequences AFTER QC (nucleotide)	5
+1006	-min length	446
+1007	-avg length	725
+1008	-max length	904
+1009	-total base pairs (bp)	3627
+2000	Number of translated ORFs BEFORE QC (amino)	4
+2001	-min length	47
+2002	-avg length	138
+2003	-max length	230
+2004	-total base pairs (bp)	552
+2005	Number of tranlated ORFs AFTER QC (amino)	3
+2006	-min length	61
+2007	-avg length	168
+2008	-max length	230
+2009	-total base pairs (bp)	505
+6000	Protein Annotations from CAZY_2014_09_04	2
+6001	Protein Annotations from COG_2013-12-27	0
+6002	Protein Annotations from metacyc-v4-2011-07-03	0
+6003	Protein Annotations from refseq-nr-2014-01-18	2
+6004	Protein Annotations from seed-2014-01-30	3
+6005	Total Protein Annotations	3

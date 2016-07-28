@@ -1,0 +1,60 @@
+sequence name	tRNA Type	anticodon	start position	 end position	strand
+gridtest_10	Asp 	 gtc	25069	24995	-
+gridtest_19	Gln	ttg	10765	10836	+
+gridtest_19	Pro	tgg	15551	15623	+
+gridtest_19	Ser	gga	15551	15623	+
+gridtest_19	Arg	tct	15651	15723	+
+gridtest_19	His	gtg	15751	15824	+
+gridtest_19	Glu	ttc	15835	15906	+
+gridtest_19	Lys	ctt	22347	22418	+
+gridtest_23	Leu	cag	12308	12389	+
+gridtest_29	Ser	cga	452	538	+
+gridtest_31	Ser 	 gga	131	44	-
+gridtest_33	Cys 	 gca	26182	26112	-
+gridtest_36	Thr 	 cgt	37174	37102	-
+gridtest_38	Cys 	 gca	1801	1728	-
+gridtest_42	Arg 	 cct	53982	53910	-
+gridtest_42	Thr 	 tgt	35643	35571	-
+gridtest_42	Tyr 	 gta	35560	35479	-
+gridtest_42	Thr 	 ggt	35457	35385	-
+gridtest_42	Trp 	 cca	35360	35288	-
+gridtest_45	Ser 	 tga	373	291	-
+gridtest_45	Ser 	 gct	279	190	-
+gridtest_62	Leu 	 tag	21463	21382	-
+gridtest_62	Leu 	 caa	21367	21284	-
+gridtest_83	Phe 	 gaa	37011	36859	-
+gridtest_105	Ala	cgc	22842	22914	+
+gridtest_112	Met 	 cat	4950	4878	-
+gridtest_124	Gly	gcc	34941	35013	+
+gridtest_127	Leu	taa	108658	108743	+
+gridtest_127	Pro 	 ggg	126559	126486	-
+gridtest_127	Lys 	 ttt	49857	49785	-
+gridtest_127	Leu 	 gag	49751	49670	-
+gridtest_128	Ile 	 gat	20543	20470	-
+gridtest_128	Ala 	 tgc	20431	20359	-
+gridtest_131	Val	tac	36953	37026	+
+gridtest_131	Ile	gat	59985	60058	+
+gridtest_131	Ala	tgc	60097	60169	+
+gridtest_137	Phe 	 gaa	53880	53808	-
+gridtest_141	Val 	 gac	289	216	-
+gridtest_143	Met 	 cat	4689	4616	-
+gridtest_143	Glu 	 ctc	4582	4509	-
+gridtest_143	Arg 	 acg	4486	4413	-
+gridtest_143	Gln 	 ctg	3329	3257	-
+gridtest_144	Ala	ggc	28675	28747	+
+gridtest_147	Val	cac	5663	5736	+
+gridtest_157	Arg 	 ccg	3491	3419	-
+gridtest_157	Pro 	 cgg	3221	3149	-
+gridtest_175	Met 	 cat	2312	2239	-
+gridtest_175	Gly 	 ccc	2228	2156	-
+gridtest_182	Ile	gat	2031	2104	+
+gridtest_182	Ala	tgc	2143	2215	+
+gridtest_182	Gly	tcc	89666	89738	+
+gridtest_182	Ile	gat	112387	112460	+
+gridtest_182	Ala	tgc	112499	112571	+
+gridtest_182	Asn 	 gtt	36870	36799	-
+
+number of sequences = 185
+number of bases tested (one strand) = 2622836
+number of bases tested (both strands) = 5245672
+number of predicted tRNA=54

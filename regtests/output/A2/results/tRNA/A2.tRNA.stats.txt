@@ -1,0 +1,5 @@
+
+number of sequences = 4
+number of bases tested (one strand) = 7222
+number of bases tested (both strands) = 14444
+number of predicted tRNA=0

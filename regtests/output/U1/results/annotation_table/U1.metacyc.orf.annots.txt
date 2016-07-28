@@ -1,0 +1,1535 @@
+R145-RXN	NIL
+4.1.1.32-RXN	NIL	"U1_71_2"
+R218-RXN	NIL
+R234-RXN	NIL
+RXN-8786	"3-hydroxyethylchlorophyllide <i>a</i> reductase"
+RXN-8787	NIL	"U1_39_58"	"U1_35_1"
+RXN-8785	NIL
+RXN-11108	NIL
+RXN-11101	NIL
+RXN-8788	NIL
+RXN-8789	NIL
+RXN-12718	NIL
+PNKIN-RXN	NIL
+RXN-4229	NIL
+RXN-4228	NIL
+RXN-4225	NIL
+RXN-12710	"acetyl-CoA C-acyltransferase"
+RXN-4226	NIL
+RXN-12715	NIL
+RXN-12714	"androst-4-en-3,17-dione 1-dehydrogenase"
+GLU6PDEHYDROG-RXN	NIL	"U1_94_4"
+VINYLACETYL-COA-DELTA-ISOMERASE-RXN	NIL
+RXN-11724	"3-[(1<i>S</i>)-cyclohex-3-en-1-yl)]-2-oxopropanoate aminotransferase"
+RXN-11721	NIL
+RXN-11720	"chloroethylmalonyl-CoA dehydrogenase (decarboxylating)"
+RXN-11723	"3-(cyclohexa-1,3-dien-1-yl)-2-oxopropanoate reductase"
+RXN-11722	"dehydroprephenate dehydratase (decarboxylating)"
+RXN-9526	"<i>trans</i> oct-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+LYSINE--TRNA-LIGASE-RXN	NIL	"U1_117_4"
+FRUCTOKINASE-RXN	"fructokinase"
+RXN0-6575	NIL
+DLACTDEHYDROGFAD-RXN	NIL
+2.5.1.41-RXN	NIL
+RXN-11619	NIL	"U1_94_11"
+RXN-10829	NIL
+RXN-8654	"lipoate adenylyl transferase"	"U1_45_9"
+RXN-8655	NIL	"U1_45_9"
+RXN-10828	"1-carboxyvinyl carboxyphosphonate phosphorylmutase (decarboxylating)"
+ACETOOHBUTSYN-RXN	"2-aceto-2-hydroxy-butyrate synthase"	"U1_44_39"	"U1_44_38"
+RXN-14400	NIL
+ACYLCOADEHYDROG-RXN	"acyl-CoA dehydrogenase"
+ARGSUCCINSYN-RXN	NIL	"U1_49_13"
+RXN-10824	"2-hydroxyethylphosphonate dioxygenase"
+2.8.1.6-RXN	NIL	"U1_46_8"
+DIOHBUTANONEPSYN-RXN	NIL	"U1_21_48"	"U1_96_23"
+RXN1F-20	NIL	"U1_158_4"	"U1_158_3"	"U1_158_2"	"U1_78_10"	"U1_78_8"
+RXN3O-9780	"palmitoyl-[acp]:CoA transacylase"
+METHIONINE--TRNA-LIGASE-RXN	NIL	"U1_145_5"
+PHENYLALANINE-DECARBOXYLASE-RXN	NIL
+GALACTURIDYLYLTRANS-RXN	NIL
+UDPGLCNACEPIM-RXN	NIL	"U1_153_26"	"U1_14_53"	"U1_21_9"
+RXN-7800	NIL
+PSERTRANSAM-RXN	NIL
+GLUTRNAREDUCT-RXN	NIL	"U1_80_0"
+RXN-10639	NIL
+RXN1G-1486	"3-oxo-C78-&alpha;-mycolate-reductase"
+HYDROGEN-DEHYDROGENASE-RXN	NIL	"U1_78_54"	"U1_78_53"
+RXN-11662	NIL
+DTDPGLUCOSEPP-RXN	NIL	"U1_149_4"	"U1_106_13"	"U1_97_43"
+2.5.1.46-RXN	NIL	"U1_179_29"
+RXN1G-1130	"trans-delta2-cis-delta19-C38:2-[acyl-carrier protein] reductase"
+HOMSUCTRAN-RXN	NIL
+3.1.2.21-RXN	NIL	"U1_39_11"
+RXN-9789	NIL
+RXN-9788	NIL
+CITSYN-RXN	NIL	"U1_109_25"
+PEPSYNTH-RXN	NIL
+GLUTAMIDOTRANS-RXN	NIL
+DEOXYGLUCONOKIN-RXN	NIL
+SPONTPRO-RXN	NIL
+RXN3O-5304	"stearoyl-[acp]--CoA stearoyltransferase"
+RXN-9659	"<i>trans</i> oct-2-enoyl-[acp] reductase"	"U1_56_5"	"U1_104_11"
+RXN-9658	"<i>trans</i> hex-2-enoyl-[acp]-reductase"	"U1_56_5"	"U1_104_11"
+RXN-9657	"crotonyl-[acp] reductase"	"U1_56_5"	"U1_104_11"
+RXN-9655	"3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase"	"U1_97_3"
+RXN-9654	"3-oxo-palmitoyl-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN-9653	"3-oxo-meristoyl-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN-9652	"3-oxo-dodecanoyl-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN-9651	"3-oxo-decanoyl-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN-9650	"3-oxo-octanoyl-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN3O-54	NIL
+RXN1G-1003	"cis-delta19-3-oxo-C38:1-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN1G-1004	"3-cis,cis-delta19,31-3-hydroxyC50:2-[acyl-carrier protein] dehydratase"
+NAD-KIN-RXN	NIL	"U1_153_14"
+RXN0-1001	NIL
+RXN-13290	"15-tetracosenoate&mdash;CoA ligase"	"U1_46_2"	"U1_156_20"	"U1_72_10"
+LIPIDADISACCHARIDESYNTH-RXN	NIL	"U1_94_31"
+HOMOGENTISATE-12-DIOXYGENASE-RXN	NIL
+1.2.1.2-RXN	NIL	"U1_78_60"
+RXN1G-808	"6-O-cis-methoxy-mycolyl-trehalose O-mycolyltransferase"
+RXN1G-809	"6-O-trans-methoxy-mycolyl-trehalose O-mycolyltransferase"
+ADPREDUCT-RXN	"ADP reductase"	"U1_54_23"
+RXN1G-807	"6-O-mycolyl-trehalose O-mycolyltransferase"
+6-CARBOXYHEXANOATE--COA-LIGASE-RXN	NIL
+NAG1P-URIDYLTRANS-RXN	NIL	"U1_94_62"
+RXN-9277	NIL
+PROTOCATECHUATE-34-DIOXYGENASE-RXN	NIL
+RXN1G-248	"trans-delta2-cis,cis-delta5,23-C42:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-11725	"salinosporamide A synthase"
+RXN0-4141	NIL	"U1_63_15"	"U1_63_14"	"U1_78_53"
+RXN-7683	NIL	"U1_44_36"	"U1_73_17"	"U1_13_8"
+R344-RXN	NIL	"U1_72_6"
+PSERTRANSAMPYR-RXN	NIL
+RXN1A0-6322	NIL
+RXN-12274	NIL
+RXN-12275	"hydrogenase"	"U1_78_53"
+L-LACTDEHYDROGFMN-RXN	"lactate oxidation"
+LIPIDXSYNTHESIS-RXN	NIL	"U1_13_9"
+3-OXOACYL-ACP-REDUCT-RXN	NIL	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN0-5146	NIL	"U1_52_7"
+2-OXOGLUTARATE-SYNTHASE-RXN	NIL	"U1_21_17"	"U1_21_16"
+TETHYDPICSUCC-RXN	NIL	"U1_161_22"
+RXN-12477	NIL
+6PFRUCTPHOS-RXN	NIL	"U1_118_47"	"U1_96_33"
+RXN-12479	NIL
+R227-RXN	NIL
+RXN-4141	NIL
+RXN-4142	NIL	"U1_94_11"
+CITRULLINASE-RXN	NIL
+3.2.1.33-RXN	NIL
+RIBOPHOSPHAT-RXN	NIL
+ENOYL-ACP-REDUCT-NADH-RXN	"2,3,4-saturated-fatty-acid-[acp] reductase"	"U1_56_5"	"U1_104_11"
+3-DEHYDROQUINATE-DEHYDRATASE-RXN	NIL	"U1_39_66"
+O-SUCCINYLBENZOATE-COA-LIG-RXN	NIL	"U1_109_10"
+2.7.7.39-RXN	NIL	"U1_7_0"
+MALIC-NADP-RXN	NIL	"U1_118_36"
+RXN-8791	NIL
+RXN-8790	NIL
+RXN-8793	NIL
+RXN-8792	NIL
+ALARACECAT-RXN	NIL	"U1_78_34"
+ATPSYN-RXN	NIL	"U1_179_22"	"U1_179_21"	"U1_179_20"	"U1_179_19"	"U1_161_30"	"U1_161_29"	"U1_21_55"	"U1_21_54"	"U1_179_17"
+RXN1G-4355	"cerotoyl-CoA carboxylase"
+RXN-12708	NIL
+RXN-12709	NIL
+RXN-12702	"3-oxocholest-4-en-26-oate:CoA ligase"	"U1_46_2"	"U1_156_20"	"U1_72_10"
+RXN-12703	"cholest-4-en-3,27-dione-26-CoA dehydrogenase"
+RXN-12706	"propanoyl-CoA C-acyltransferase"
+RXN-12707	NIL
+RXN-12704	"cholest-4,24-dien-3,27-dione-26-CoA hydratase"
+RXN-12705	"3-hydroxyacyl-CoA dehydrogenase"
+RXN-11737	NIL	"U1_145_8"	"U1_71_14"	"U1_133_17"
+GLUTAMINE--TRNA-LIGASE-RXN	NIL
+RXN-11738	"sulfolactate dehydrogenase"
+NICOTINAMID-RXN	NIL
+R128-RXN	NIL
+5.1.3.20-RXN	NIL	"U1_136_10"
+ISOLEUCINE--TRNA-LIGASE-RXN	NIL	"U1_51_31"
+RXN-8315	NIL
+DADPKIN-RXN	NIL	"U1_95_4"
+RXN-8641	NIL	"U1_114_4"
+CATECHOL-12-DIOXYGENASE-RXN	NIL
+3.4.13.18-RXN	NIL
+PNPOXI-RXN	NIL
+RXN1G-1637	"trehalose-trans-keto-mono-mycolate O-mycolyltransferase"
+RXN1G-1636	"trehalose-cis-keto-mono-mycolate O-mycolyltransferase"
+UROGENIIISYN-RXN	NIL	"U1_80_2"
+4OHBENZOATE-OCTAPRENYLTRANSFER-RXN	NIL	"U1_117_15"
+RXN1G-1633	"trehalose-mono-mycolate O-mycolyltransferase"
+2.6.1.58-RXN	NIL
+GPPSYN-RXN	NIL	"U1_39_52"
+RXN-14526	NIL
+RXN-14527	NIL
+KYNURENINE-3-MONOOXYGENASE-RXN	NIL
+RXN-10061	"3-hydroxycerotyl-[acp] dehydrase"
+RXN-10060	NIL
+RXN-10062	"trans-hexacos-2-enoyl-[acp] reductase"
+RXN3O-4157	NIL
+RXN1G-94	"cis,cis-delta17,35-3-oxo-C54:2-[acyl-carrier protein] synthase"	"U1_165_31"
+RXN-14014	"4-hydroxy-tetrahydrodipicolinate reductase"
+RXN1G-98	"cis-methoxy-meroacyl-AMP transferase"
+PRIBFAICARPISOM-RXN	NIL	"U1_73_22"
+THIKIN-RXN	NIL
+HEMN-RXN	NIL	"U1_96_9"	"U1_45_19"	"U1_153_38"	"U1_145_22"	"U1_71_25"	"U1_117_17"
+RXN-10462	"acyl-ACP:sn-glycerol-3-phosphate 1-O-acyltransferase"
+CPM-KDOSYNTH-RXN	NIL	"U1_109_29"
+RXN-12717	NIL
+ASPCARBTRANS-RXN	NIL	"U1_60_18"
+SUCCCOASYN-RXN	NIL	"U1_56_8"	"U1_94_40"
+RXN-9662	"<i>trans</i> tetradec-2-enoyl-[acp] reductase"	"U1_56_5"	"U1_104_11"
+RXN-9663	"<i>trans</i> hexadecenoyl-[acp] reductase"	"U1_56_5"	"U1_104_11"
+RXN-9660	"<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]-reductase"	"U1_56_5"	"U1_104_11"
+RXN-9661	"<i>trans</i> dodec-2-enoyl-[acp] reductase"	"U1_56_5"	"U1_104_11"
+RIBOFLAVIN-SYN-RXN	NIL	"U1_61_16"	"U1_21_59"
+RXN-9669	NIL
+RXN1G-1015	"cis,cis-delta13,31-3-oxo-C50:2-[acyl-carrier protein] synthase"	"U1_165_31"
+RXN0-4022	NIL	"U1_96_63"
+ADENYLOSUCCINATE-SYNTHASE-RXN	NIL	"U1_165_126"
+RXN-13288	"15-tetracosanal carbonylase"
+RXN-13289	"(<i>Z</i>)-15-tetracosenoyl-CoA reductase"
+TYROSINE-AMINOTRANSFERASE-RXN	"Tyrosine transaminase"
+RXN-9204	NIL	"U1_69_10"
+RXN-9205	NIL	"U1_73_36"
+2.7.1.148-RXN	NIL	"U1_48_11"
+RXN1G-72	"cis-delta5-3-oxo-C24:1-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+CARBAMATE-KINASE-RXN	NIL
+RXN-7699	NIL
+RXN-7694	"2-methylbutanol dehydrogenase"	"U1_156_24"
+RXN1G-236	"cis-delta13-3-oxo-C32:1-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN-7922	NIL
+RXN-7693	"3-methylbutanol dehydrogenase"	"U1_156_24"
+RXN-7692	NIL
+RXN1G-1152	"trehalose-trans-keto-mono-mycolate O-mycolyltransferase"
+BRANCHED-CHAINAMINOTRANSFERILEU-RXN	"Isoleucine transaminase"	"U1_96_34"
+RXN-9518	"3-hydroxyhexanoyl-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-9514	"acetoacetyl-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-9515	"crotonyl-[acyl-carrier protein] reductase (NADP)"
+RXN-9516	"3-oxo-hexanoyl-[acyl-carrier protein] synthase"	"U1_54_19"
+SUCCDIAMINOPIMDESUCC-RXN	NIL
+RXN1G-582	"cis,cis-delta21,39-3-oxo-C58:2-[acyl-carrier protein] synthase"	"U1_165_31"
+RXN1G-580	"cis,cis-delta11,23-3-oxo-C42:2-[acyl-carrier protein] synthase"	"U1_165_31"
+2.7.7.33-RXN	NIL	"U1_14_19"
+RXN1G-349	"3-oxo-arachidoyl-[acp] reductase"
+THRESYN-RXN	NIL	"U1_21_57"
+ASPARTATE--TRNA-LIGASE-RXN	NIL	"U1_45_0"
+N-CARBAMOYLPUTRESCINE-AMIDASE-RXN	NIL
+RIB5PISOM-RXN	NIL	"U1_118_18"
+TEICHOICSYN3-RXN	NIL
+GUANYL-KIN-RXN	NIL	"U1_94_65"
+RXN-7101	NIL
+UDPNACETYLMURAMATEDEHYDROG-RXN	NIL	"U1_27_11"
+RXN1G-697	"<i>cis</i>-methoxy-meroacyl transferase"
+RXN1G-163	"cis-delta11-3-oxo-C30:1-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+ADENYL-KIN-RXN	NIL	"U1_39_70"
+RXN6666-6	NIL
+AMPSYN-RXN	NIL	"U1_121_5"
+RXN6666-4	NIL
+RXN6666-5	NIL	"U1_94_11"
+RXN6666-9	NIL
+ACONITATEDEHYDR-RXN	"citrate dehydratase"
+GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN	NIL
+RXN-982	NIL	"U1_77_1"
+RXN1G-760	"3-cis,cis-delta17,29-3-hydroxyC48:2-[acyl-carrier protein] dehydratase"
+RXN-12747	"5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA 5-dehydrogenase"	"U1_118_25"
+CTPSYN-RXN	NIL	"U1_71_56"
+2-ISOPROPYLMALATESYN-RXN	NIL	"U1_44_42"	"U1_165_39"
+ISOCIT-CLEAV-RXN	NIL
+RXN-12736	"propanal dehydrogenase (acetylating)"
+RXN-12735	"4-hydroxy-2-oxohexanoate aldolase"
+RXN-12734	NIL
+RXN-12730	NIL
+ALCOHOL-DEHYDROG-RXN	"ethanol dehydrogenase"	"U1_156_24"
+RXN-14399	NIL
+RXN-14391	NIL
+RXN-14390	NIL
+3.1.4.14-RXN	NIL
+PROLINE--TRNA-LIGASE-RXN	NIL	"U1_48_16"
+SHIKIMATE-5-DEHYDROGENASE-RXN	NIL	"U1_60_8"
+COBALAMIN5PSYN-RXN	NIL	"U1_114_3"
+UDP-NACMURALA-GLU-LIG-RXN	NIL	"U1_179_7"
+RXN-8106	NIL
+ASPARTATEKIN-RXN	NIL	"U1_153_4"	"U1_21_53"
+H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN	NIL
+1.1.1.271-RXN	NIL	"U1_14_1"
+1.1.1.64-RXN	NIL
+RXN-10656	NIL	"U1_97_3"
+RXN-10657	NIL	"U1_56_5"	"U1_104_11"
+RXN-10654	NIL	"U1_54_19"
+RXN-10655	NIL	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-10658	NIL	"U1_54_19"
+RXN-10659	NIL	"U1_58_8"	"U1_165_33"	"U1_92_10"
+CYSPH-RXN	NIL
+R82-RXN	NIL
+RXN1G-89	"cis,cis-delta7,19-3-oxo-C38:2-[acyl-carrier protein] synthase"	"U1_165_31"
+GAPOXNPHOSPHN-RXN	NIL	"U1_83_6"
+R63-RXN	NIL
+ARYLFORMAMIDASE-RXN	NIL	"U1_118_58"
+OHMETPYRKIN-RXN	NIL
+RXN490-3616	"Aspartate--tRNA ligase"
+RXN1G-1150	"trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase"
+RXN1G-1151	"trehalose-cis-keto-mono-mycolate O-mycolyltransferase"
+PANTOATE-BETA-ALANINE-LIG-RXN	NIL	"U1_96_71"
+AICARSYN-RXN	NIL	"U1_121_5"
+ACETALD-DEHYDROG-RXN	NIL
+FUMHYDR-RXN	NIL	"U1_39_31"	"U1_39_23"
+SERINE--TRNA-LIGASE-RXN	NIL	"U1_44_51"
+TYROSINE--TRNA-LIGASE-RXN	NIL	"U1_54_9"
+3.4.11.1-RXN	NIL	"U1_156_1"
+ADENPRIBOSYLTRAN-RXN	NIL	"U1_73_54"
+RXN-9670	NIL
+RXN-9673	NIL	"U1_46_2"	"U1_156_20"	"U1_72_10"
+RXN3O-75	NIL
+RXN-778	NIL
+PHENYLALANINE--TRNA-LIGASE-RXN	NIL	"U1_165_14"	"U1_106_15"
+METHIONINE-S-METHYLTRANSFERASE-RXN	NIL
+IPPISOM-RXN	NIL	"U1_94_55"
+HOLO-ACP-SYNTH-RXN	NIL	"U1_78_25"
+CYSTATHIONINE-BETA-LYASE-RXN	NIL	"U1_44_8"
+HOMOCYSMET-RXN	NIL
+RXN1G-820	"trans-delta2-cis,cis-delta17,29-C48:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-3256	"trans-&Delta;18-37-hydroxy-38-methyl-C58:1-[acp] reductase"
+RXN0-2145	NIL	"U1_56_5"	"U1_104_11"
+RXN-9217	NIL	"U1_69_10"
+SUCROSE-PHOSPHATASE-RXN	NIL
+DALADALALIG-RXN	NIL	"U1_45_12"
+RXN0-4301	NIL	"U1_21_60"
+1.17.1.1-RXN	NIL
+RXN0-2142	NIL	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-7913	NIL	"U1_78_64"
+GMP-SYN-GLUT-RXN	NIL	"U1_170_2"	"U1_94_126"	"U1_124_5"	"U1_48_12"
+RXN1G-220	"cis,cis-delta17,35-3-hydroxyC54:2-[acyl-carrier protein] dehydratase"
+RXN0-1461	NIL
+RXN-12255	NIL
+RXN-12257	NIL
+RXN-12250	NIL
+RXN-12251	NIL
+RXN-12253	NIL	"U1_155_5"	"U1_84_3"
+RXN1A0-6305	NIL
+RXN1A0-6307	NIL
+RXN-12259	NIL
+RXN1A0-6303	NIL	"U1_176_16"
+RXN1A0-6302	NIL
+DEOXYHYPUSINE-MONOOXYGENASE-RXN	NIL
+GART-RXN	NIL	"U1_51_23"
+RXN1G-912	"cis-delta17-3-hydroxyC36:1-[acyl-carrier protein] dehydratase"
+RXN1G-915	"trans-delta2-cis,cis-delta11,29-C48:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+2.3.1.179-RXN	NIL	"U1_165_31"
+ALDOSE1EPIM-RXN	"D-galactose 1-epimerase"
+ERYTH4PDEHYDROG-RXN	NIL
+UROGENDECARBOX-RXN	NIL	"U1_21_61"
+DTDPGLUCDEHYDRAT-RXN	NIL	"U1_51_35"	"U1_94_108"
+RXN1G-355	"cis-delta21-3-hydroxyC40:1-[acyl-carrier protein] dehydratase"
+RXN1G-358	"cis-delta15-3-oxo-C34:1-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+5.4.2.10-RXN	NIL
+HOMOCITRATE-SYNTHASE-RXN	NIL	"U1_176_19"
+RXN-12384	NIL
+PYRIMSYN1-RXN	NIL	"U1_152_7"
+RXN1G-686	"trans-delta2-cis,cis-delta9,27-C46:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-172	"cis,cis-delta9,21-3-oxo-C40:2-[acyl-carrier protein] synthase"	"U1_165_31"
+RXN1G-171	"trans-delta2-cis-delta5-C24:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN-8807	NIL
+THREONINE--TRNA-LIGASE-RXN	NIL	"U1_165_18"
+ACETYLGLUTKIN-RXN	NIL	"U1_49_10"
+RXN0-5266	"ubiquinol oxidase"	"U1_104_34"	"U1_104_33"
+UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN	NIL	"U1_133_3"
+7-ALPHA-HYDROXYSTEROID-DEH-RXN	NIL
+3.1.3.56-RXN	NIL
+3.2.1.141-RXN	NIL	"U1_73_46"	"U1_104_5"	"U1_100_8"
+RXN1G-576	"&alpha;-meroacyl transferase"
+RXN-12720	NIL	"U1_66_2"	"U1_66_1"
+RXN-12721	NIL
+RXN-12726	NIL	"U1_44_53"	"U1_156_42"	"U1_60_37"	"U1_60_34"	"U1_71_23"	"U1_78_35"	"U1_104_18"
+RXN-12728	NIL
+RXN-12729	NIL	"U1_44_8"
+SERINE-O-ACETTRAN-RXN	NIL	"U1_152_21"	"U1_60_33"
+RXN-14388	NIL
+RXN-14389	NIL
+RXN-14384	NIL	"U1_60_31"	"U1_60_30"	"U1_13_3"
+RXN-14385	NIL	"U1_60_31"	"U1_60_30"	"U1_13_3"
+VALINE--TRNA-LIGASE-RXN	NIL	"U1_149_15"
+RXN-14387	NIL
+RXN-14380	NIL	"U1_73_46"	"U1_104_5"	"U1_100_8"
+RXN-14381	NIL
+RXN-14382	NIL	"U1_60_31"	"U1_60_30"	"U1_13_3"
+R233-RXN	NIL
+RXN-10711	NIL	"U1_155_5"	"U1_84_3"
+RXN-10717	"indole acetaldehyde reductase"
+RXN-10715	"indole acetaldehyde dehydrogenase"	"U1_94_11"
+RXN-11621	NIL
+RXN-8665	NIL
+MMUM-RXN	NIL
+RXN-1401	"tryptamine oxidase"
+ORNITHINE-GLU-AMINOTRANSFORASE-RXN	"Ornithine--oxo-glutarate aminotransferase"
+RXN-10667	"methoxyneurosporene 3,4-desaturase"
+RXN-10666	"1-hydroxyneurosporene 3,4-desaturase"
+RXN-10665	NIL
+RXN-11718	"5-chloro-4-hydroxy-2-oxopentanoate decarboxylase (acylating)"
+RXN-11719	"4-chloro-3-hydroxybutyryl-CoA dehydratase"
+RXN-10661	NIL	"U1_56_5"	"U1_104_11"
+RXN-10660	NIL	"U1_97_3"
+RXN-11714	NIL
+RXN-11715	"chloro-purine nucleoside phosphorylase"	"U1_60_2"
+RXN-11716	"5-chloro-5-deoxyribose 1 phosphate phosphatase"
+RXN-11717	"5-chloro-5-deoxy-D-ribonate dehydratase"
+RXN-11712	"5-chloro-5-deoxy-D-ribose-1-dehydrogenase"
+RXN-11713	NIL
+AMINEPHEN-RXN	NIL
+RXN-MG-PROTOPORPHYRIN-METHYLESTER-SYN	NIL	"U1_78_7"
+RXN0-901	NIL
+GLUTRACE-RXN	NIL	"U1_78_62"
+RXN-1106	NIL	"U1_91_15"
+RXN1G-1149	"trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase"
+FARNESOL-DEHYDROGENASE-RXN	NIL
+GLYCEROL-KIN-RXN	NIL	"U1_94_111"
+L-RHAMNONO-14-LACTONASE-RXN	NIL
+UGD-RXN	NIL	"U1_156_4"
+PGLYCDEHYDROG-RXN	NIL	"U1_100_3"
+RXN0-4222	NIL
+ACETOLACTREDUCTOISOM-RXN	"ketol-acid reductoisomerase"	"U1_44_40"
+RXN-9190	NIL	"U1_69_10"
+RXN-9191	NIL	"U1_73_36"
+KETOACYLCOATHIOL-RXN	NIL
+DUTP-PYROP-RXN	NIL	"U1_147_3"
+PALMITOYL-COA-HYDROLASE-RXN	NIL
+RXN1G-1212	"cis,cis-delta15,33-3-oxo-C52:2-[acyl-carrier protein] synthase"	"U1_165_31"
+1.1.1.51-RXN	NIL	"U1_118_25"
+L-ASPARTATE-OXID-RXN	NIL	"U1_54_6"
+RXN-9995	NIL
+RXN-9220	NIL	"U1_73_36"
+RXN-9990	NIL	"U1_156_23"	"U1_14_40"	"U1_14_26"
+INOSINE-NUCLEOSIDASE-RXN	NIL
+UDP-NACMURALGLDAPLIG-RXN	NIL	"U1_179_4"
+HISTPRATPHYD-RXN	NIL
+RXN1G-53	"trans-delta2-cis-delta21-C40:2-[acyl-carrier protein] reductase"
+RXN-7904	NIL	"U1_46_2"	"U1_156_20"	"U1_72_10"
+RXN1G-210	"trans-delta2-cis-delta11-C30:2[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-214	"cis,cis-delta5,23-3-hydroxyC42:2-[acyl-carrier protein] dehydratase"
+RXN1G-218	"cis-delta9-3-oxo-C28:1-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN-7909	NIL	"U1_104_8"
+RXN-7908	NIL
+RXN1A0-6312	NIL
+2-OCTAPRENYLPHENOL-HYDROX-RXN	NIL
+RXN1A0-6310	NIL
+RXN1A0-6316	NIL
+RXN1A0-6314	NIL
+PHOSPHAGLYPSYN-RXN	NIL	"U1_104_1"	"U1_97_4"
+RXN1A0-6318	NIL
+RXN1G-962	"trans-delta2-cis-delta17-C36:2-[acyl-carrier protein] reductase"
+5.4.99.15-RXN	NIL
+RXN-9538	"<i>trans</i> tetradec-2-enoyl-[acyl-carrier-protein] reductase (NADPH, B-specific)"
+RXN-9539	"3-oxo-palmitoyl-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN-9536	"3-oxo-meristoyl-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-9537	"3-hydroxymyristoyl-[acyl-carrier protein] dehydratase"	"U1_97_3"
+RXN-9534	"<i>trans</i> dodec-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-9535	"&beta;-ketoacyl-acyl-carrier-protein synthase I"	"U1_54_19"
+RXN-9532	"3-oxo-dodecanoyl-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-9533	"3-hydroxydodecanoyl-[acyl-carrier protein] dehydratase"	"U1_97_3"
+RXN-9530	"<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]reductase (NADPH, B-specific)"
+RXN-9531	"3-oxo-dodecanoyl-[acyl-carrier protein] synthase"	"U1_54_19"
+ASPARAGINE--TRNA-LIGASE-RXN	NIL
+TRANSALDOL-RXN	NIL	"U1_179_30"
+RXN1G-364	"cis-delta7-3-oxo-C26:1-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN1G-363	"3-hydroxybehenoyl-[acyl-carrier protein] dehydratase"
+GLYCINE-FORMIMINOTRANSFERASE-RXN	NIL
+RXN1G-368	"3-oxo-arachidoyl-[acp] synthase"
+RXN-12625	"<i>N,N'</i>-diacetylchitobiose &beta;-<i>N</i>-acetylglucosaminidase"	"U1_153_9"	"U1_165_20"
+RXN-12624	"chitotriose synthase"
+RXN-12626	"chitotriose &beta;-<i>N</i>-acetylglucosaminidase"	"U1_153_9"	"U1_165_20"
+RXN-12623	"<i>N,N'</i>-diacetylchitobiose synthase"
+RXN1G-2544	"cis-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] reductase"
+R211-RXN	NIL
+RXN-13718	"(+)-taxifolin 5'-hydroxylase"
+ADENODEAMIN-RXN	NIL	"U1_79_18"	"U1_56_7"
+RXN-7708	"methionine--phenylpyruvate transaminase"
+RXN-7703	NIL
+RXN-7700	"2-phenylethanol dehydrogenase"	"U1_156_24"
+RXN-7706	"methionol dehydrogenase"	"U1_156_24"
+ACETYL-COA-ACETYLTRANSFER-RXN	NIL
+RXN-7704	NIL
+UDPGLUCEPIM-RXN	NIL	"U1_51_34"	"U1_78_13"	"U1_117_5"	"U1_14_52"	"U1_14_29"	"U1_14_23"
+CARBPSYN-RXN	NIL	"U1_165_54"	"U1_96_24"	"U1_97_16"
+RXN1G-3232	"cis-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] reductase"
+PSEUDOURIDINE-KINASE-RXN	NIL
+ENOYL-COA-HYDRAT-RXN	NIL
+RXN0-5199	"guanosine phosphorylase"	"U1_60_2"
+4.1.1.80-RXN	NIL
+PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	NIL
+1TRANSKETO-RXN	NIL	"U1_145_11"	"U1_14_27"	"U1_94_2"	"U1_37_7"
+RXN-7250	NIL
+CHORISMATEMUT-RXN	NIL	"U1_172_1"
+GLUTAMATESYN-RXN	NIL	"U1_56_2"	"U1_73_25"	"U1_71_55"
+RXN-12755	"arachidonate &Delta;<sup>17</sup> desaturase"
+RXN-12754	NIL
+RXN-12751	"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-oxopropanoyl-CoA hydrolase"
+RXN-12750	"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-hydroxypropanoate dehydrogenase"
+RXN-12753	NIL
+RXN-12752	"NAD(P)H-hydrate epimerase"	"U1_27_19"
+RXN-14371	NIL
+RXN-14373	NIL
+RXN-14372	NIL
+RXN-14374	NIL
+RXN1G-674	"trans-delta2-cis-delta15-C34:2-[acyl-carrier protein] reductase"
+RXN-14378	NIL
+DUDPKIN-RXN	NIL	"U1_95_4"
+3PGAREARR-RXN	NIL
+RXN-11654	NIL
+SUCC-FUM-OXRED-RXN	NIL	"U1_155_0"	"U1_1_1"	"U1_1_0"	"U1_21_64"	"U1_21_63"	"U1_155_1"	"U1_21_62"
+DIHYDRODIPICSYN-RXN	"4-hydroxy-tetrahydrodipicolinate synthase"	"U1_96_49"
+RXN-8617	NIL
+LACTALDREDUCT-RXN	NIL	"U1_114_4"
+RXN-11475	NIL
+RXN-11474	"3-oxo-glutaryl-[acp] methyl ester synthase"	"U1_165_35"
+RXN-11477	NIL	"U1_97_3"
+RXN-11476	"3-oxo-glutaryl-[acp] methyl ester reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-11471	"3,7,12-trioxo-5&beta;-cholanate dehydrogenase"
+RXN-11470	"7-epicholate dehydrogenase"
+RXN-11472	"3&beta;-hydroxysteroid dehydrogenase"	"U1_118_25"
+RXN-11479	NIL	"U1_54_19"
+RXN-11478	NIL	"U1_56_5"	"U1_104_11"
+2.7.7.60-RXN	NIL	"U1_150_2"
+RXN-1143	NIL
+RXN-1142	NIL
+RXN1F-66	NIL	"U1_50_1"	"U1_13_7"	"U1_96_40"
+RXN1A0-6321	NIL
+R343-RXN	NIL
+RXN-10670	"spheroidene monooxygenase"
+PHENYLPYRUVATE-DECARBOXYLASE-RXN	NIL
+DIHYDROXYMETVALDEHYDRAT-RXN	"2,3-Dihydroxy-3-methylvalerate dehydratase"	"U1_44_37"
+RXN-11272	NIL
+RXN-10059	NIL
+RXN-14025	NIL	"U1_149_10"
+RXN-14026	NIL	"U1_149_10"
+2.7.8.11-RXN	NIL
+NITROGENASE-RXN	NIL	"U1_176_11"	"U1_176_10"
+SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	NIL	"U1_109_39"
+RXN3O-1803	NIL	"U1_54_19"
+R216-RXN	NIL
+DETHIOBIOTIN-SYN-RXN	NIL	"U1_46_4"
+RXN1G-240	"cis-delta9-3-oxo-C28:1-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+HOMOACONITATE-HYDRATASE-RXN	NIL
+RXN-8346	"di-homo-&gamma;-linolenate &Delta;<sup>5</sup> desaturase"
+7KAPSYN-RXN	NIL	"U1_46_7"	"U1_78_12"	"U1_64_7"
+SEDOBISALDOL-RXN	NIL
+RXN-14386	NIL	"U1_60_31"	"U1_60_30"	"U1_13_3"
+GLUTAMATE-N-ACETYLTRANSFERASE-RXN	NIL	"U1_49_9"
+RXN66-525	NIL	"U1_69_6"
+RXN66-526	NIL
+RXN66-521	NIL	"U1_95_8"
+BRANCHED-CHAINAMINOTRANSFERLEU-RXN	NIL	"U1_96_34"
+RXN-2622	NIL
+RXN-2621	NIL
+2.4.1.216-RXN	NIL	"U1_150_4"
+RXN-9987	"UDP-N-acetylglucosamine 2-epimerase (hydrolysing)"
+RXN0-4361	NIL
+GCVP-RXN	NIL	"U1_165_23"	"U1_96_50"
+RXN1G-45	"cis,cis-&Delta;19,31-C50:2-[acp] reductase"
+ANTHRANSYN-RXN	NIL	"U1_152_2"	"U1_149_5"
+RXN-10	NIL	"U1_49_13"
+BUTYRYL-COA-DEHYDROGENASE-RXN	"butanoyl-CoA dehydrogenase"
+RXN-7643	NIL
+RXN1G-202	"cis,cis-delta5,17-3-oxo-C36:2-[acyl-carrier protein] synthase"	"U1_165_31"
+RXN1G-203	"cis,cis-delta13,25-3-oxo-C44:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-6261	NIL	"U1_72_5"
+1.7.7.2-RXN	NIL
+RXN-7744	NIL
+VALINE-PYRUVATE-AMINOTRANSFER-RXN	NIL
+2.3.1.133-RXN	NIL
+RXN-7242	NIL
+RXN-7243	NIL
+RXN-7241	NIL
+RXN-7246	NIL
+RXN-7247	NIL
+RXN-7244	NIL
+R345-RXN	NIL	"U1_72_3"
+LCYSDESULF-RXN	NIL	"U1_60_29"
+RXN-7248	NIL
+RXN-7249	NIL
+RXN-9521	"<i>trans</i> hex-2-enoyl-[acp] reductase (NADPH, B-specific)"
+RXN-9520	"3-hydroxyhexanoyl-[acyl-carrier protein] dehydratase"	"U1_97_3"
+RXN-9523	"3-oxo-octanoyl-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN-9524	"3-oxo-octanoyl-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-9527	"3-oxo-decanoyl-[acyl-carrier protein] synthase"	"U1_54_19"
+S-ADENMETSYN-RXN	NIL	"U1_106_12"	"U1_91_7"
+RXN-9528	"3-oxo-decanoyl-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+NADPYROPHOSPHAT-RXN	NIL
+RXN1G-374	"cis,cis-delta19,37-3-oxo-C56:2-[acyl-carrier protein] synthase"	"U1_165_31"
+RXN1G-377	"cis-delta15-3-hydroxyC34:1-[acyl-carrier protein] dehydratase"
+BIOTINLIG-RXN	NIL
+UDP-NACMURALGLDAPAALIG-RXN	"UDP-<I>N</I>-acetylmuramoyl-L-alanyl-D-glutamyl-<I>meso</I>-2,6-diaminopimelate ligase"	"U1_179_5"
+R213-RXN	NIL
+METHYLMALONYL-COA-MUT-RXN	NIL	"U1_37_13"	"U1_37_12"
+INOPHOSPHOR-RXN	"inosine phosphorylase"	"U1_60_2"
+RXN-13720	NIL	"U1_74_1"
+RXN-13909	NIL	"U1_104_8"
+RXN-13908	NIL
+RXN-13907	NIL
+RXN-7737	NIL	"U1_27_18"
+RXN-7733	NIL
+1.5.1.20-RXN	NIL	"U1_133_12"
+RXN1G-4140	"cis-methoxy-C59-meroacyl-[acp] synthetase"
+RXN1G-4141	"trans-methoxy-C60-meroacyl-[acp] synthetase"
+HISTOLDEHYD-RXN	"Histidinol dehydrogenase"	"U1_168_11"
+RXN0-5182	"maltodextrin phosphorylase"	"U1_96_28"	"U1_96_58"
+RXN0-5183	NIL	"U1_61_15"
+DMK-RXN	NIL	"U1_69_10"
+ALDOSE-1-EPIMERASE-RXN	NIL
+RXN-600	NIL	"U1_78_28"
+RXN1G-554	"3-cis,cis-delta15,27-3-hydroxyC46:2-[acyl-carrier protein] dehydratase"
+RXN1G-557	"cis,cis-delta9,27-3-oxo-C46:2-[acyl-carrier protein] synthase"	"U1_165_31"
+ASPAMINOTRANS-RXN	NIL	"U1_145_8"	"U1_71_14"	"U1_133_17"
+RXN-8269	NIL	"U1_78_56"	"U1_78_53"
+RXN-12746	"3-[(3a<i>S</i>,4<i>S</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA ligase"	"U1_46_2"	"U1_156_20"	"U1_72_10"
+DEOXYADENYLATE-KINASE-RXN	NIL
+RXN-12744	"3-oxo-23,24-bisnorchol-4,17(20)-dien-22-oyl-CoA hydratase"
+RXN-12745	"3-oxo-23,24-bisnorchol-4-en-17-ol-22-oyl-CoA lyase"
+RXN-12743	"3-oxo-23,24-bisnorchol-4-en-22-oyl-CoA 17(20)-dehydrogenase"
+BIOTIN-CARBOXYL-RXN	NIL	"U1_21_22"
+RXN-12748	"5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA dehydrogenase"
+RXN-12749	"(2<i>E</i>)-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]prop-2-enoate hydratase"
+RXN-2601	NIL
+RXN-12478	NIL
+2.7.9.3-RXN	NIL
+RXN-776	NIL
+RXN-777	NIL
+RXN-774	NIL
+RXN-775	NIL
+RXN-773	NIL
+HYDROG-RXN	NIL	"U1_78_53"
+F16ALDOLASE-RXN	NIL	"U1_37_19"
+RXN-779	NIL
+DXS-RXN	NIL	"U1_104_3"
+GLUC1PADENYLTRANS-RXN	NIL
+RXN-10841	NIL
+RXN-10840	NIL
+ATP-CITRATE-PRO-S--LYASE-RXN	NIL	"U1_134_4"	"U1_134_3"
+THIOREDOXIN-RXN	NIL
+L-RHAMNONATE-DEHYDRATASE-RXN	NIL
+RXN-14296	"2-hexaprenyl-6-methoxyaminophenol methyltransferase"
+RXN-14297	"2-hexaprenyl-6-aminophenol deaminase"
+RXN-14294	"3-hexaprenyl-4-amino-5-methoxybenzoate decarboxylase"
+RXN-14295	"2-hexaprenyl-6-nethoxyaminobenzene hydroxylase"
+RXN-14292	"3-h3exaprenyl-4-aminobenzoate hydroxylase"
+RXN-14293	"3-hexaprenyl-4-aminobenzoate methyltransferase"
+RXN-14291	"p-aminobenzoate:hexaprenyldiphosphate heaxaprenyltransferase"
+DIHYDROFOLATEREDUCT-RXN	NIL
+RXN1F-72	NIL	"U1_118_49"	"U1_27_22"
+RXN-14298	"2-hexaprenyl-3-methyl-6-methoxyaminophenol deaminase"
+MALEYLACETOACETATE-ISOMERASE-RXN	NIL
+ERYTHRON4PDEHYDROG-RXN	NIL
+RXN0-5408	"Myo-inositol-1(or 4)-monophosphatase"	"U1_97_2"
+THIOREDOXIN-REDUCT-NADPH-RXN	NIL	"U1_78_4"	"U1_39_38"
+AICARTRANSFORM-RXN	NIL	"U1_51_14"
+ACONITATEHYDR-RXN	"cis-aconitate hydratase"
+ACYLCOASYN-RXN	"2,3,4-saturated fatty acyl-CoA synthetase"	"U1_46_2"	"U1_156_20"	"U1_72_10"
+O-SUCCINYLBENZOATE-COA-SYN-RXN	NIL	"U1_109_11"
+UROPORIIIMETHYLTRANSA-RXN	"uroporphyrinogen-III <em>C</em>-methyltransferase"	"U1_66_4"
+ISPH2-RXN	NIL	"U1_78_61"
+DEOXYGUANOSINE-KINASE-RXN	NIL
+1.2.1.13-RXN	NIL
+PANTEPADENYLYLTRAN-RXN	NIL	"U1_145_9"
+1-PHOSPHATIDYLINOSITOL-KINASE-RXN	NIL	"U1_29_4"
+R232-RXN	NIL
+P-PANTOCYSDECARB-RXN	NIL	"U1_94_94"
+RXN-13001	NIL
+RXN1G-1439	"6-O-trans-keto-mycolyl-trehalose-6-phosphatase"
+RXN1G-1438	"6-O-cis-keto-mycolyl-trehalose-6-phosphatase"
+RXN1G-37	"trans-delta2-cis-delta7-C26:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-30	"trans-docos-2-enoyl-[acyl-carrier protein] reductase"
+RXN1G-32	"cis,cis-delta13,25-3-oxo-C44:2-[acyl-carrier protein] synthase"	"U1_165_31"
+RXN-9086	NIL
+RXN-9087	NIL
+RXN1G-1435	"6-O-mycolyl-trehalose-6-phosphatase"
+RXN-9952	NIL	"U1_94_5"
+RXN1G-1437	"6-O-trans-methoxy-mycolyl-trehalose-6-phosphatase"
+RXN1G-1436	"6-O-cis-methoxy-mycolyl-trehalose-6-phosphatase"
+RXN-6701	NIL	"U1_44_12"
+RXN-6702	NIL
+RXN-6703	NIL
+RXN1G-891	"3-oxo-C87-trans-mycolate synthase"
+RXN1G-890	"3-oxo-C86-cis-keto-mycolate synthase"
+ALANINE--TRNA-LIGASE-RXN	NIL	"U1_21_14"
+R17-RXN	NIL	"U1_43_27"
+HISTALDEHYD-RXN	"Histidinal dehydrogenase"	"U1_168_11"
+3-ISOPROPYLMALDEHYDROG-RXN	"3-isopropylmalate dehydrogenase"	"U1_44_41"
+PRTRANS-RXN	NIL	"U1_96_39"
+RXN-7251	NIL
+2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN	NIL
+RXN-7253	NIL
+RXN-6383	NIL
+RXN-9554	"Petrosel-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-9555	NIL
+RXN-9556	"3-oxo-<i>cis</i>-vaccenoyl-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-9557	"3-hydroxy-cis-vaccenoyl-[acyl-carrier protein] dehydratase"	"U1_97_3"
+RXN-9550	NIL
+RXN-9551	NIL
+RXN-9552	"3-oxo-petroslinoyl-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-9553	"3-hydroxypetroselinoyl-[acyl-carrier protein] dehydratase"
+RXN-10668	NIL
+RXN-9558	NIL	"U1_56_5"	"U1_104_11"
+RXN0-5227	NIL	"U1_161_28"
+RXN0-5224	NIL	"U1_52_13"	"U1_91_37"
+RXN1G-309	"cis,cis-delta9,21-3-hydroxyC40:2-[acyl-carrier protein] dehydratase"
+RXN1G-308	"cis,cis-delta7,19-3-hydroxyC38:2-[acyl-carrier protein] dehydratase"
+RXN1G-306	"cis-delta7-3-oxo-C26:1-[acyl-carrier protein] synthase"	"U1_54_19"
+R231-RXN	NIL
+RXN-12193	"4-&alpha;-glucosyltransferase"
+RXN-12190	"&alpha;-amylase"	"U1_73_46"	"U1_104_5"	"U1_100_8"
+PHOSACETYLTRANS-RXN	NIL
+RXN-12196	NIL	"U1_51_3"
+RXN-12195	NIL	"U1_51_3"
+GCVT-RXN	NIL	"U1_51_55"
+RXN-11868	NIL
+RXN1G-2527	"cis,cis-&Delta;19-37-C56:2-[acp] reductase"
+KYNURENINASE-RXN	NIL
+RXN-7657	"isobutanol dehydrogenase"	"U1_156_24"
+RXN-36	NIL
+RXN-37	NIL	"U1_94_11"
+RXN-12998	NIL
+RXN-12997	NIL
+RXN-12994	NIL	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-8853	"sepiapterin reductase [(6<i>R</i>)-tetrahydrobiopterin-forming]"	"U1_44_49"
+RXN-8850	NIL	"U1_149_13"
+ADENYLYLSULFATE-REDUCTASE-RXN	NIL	"U1_66_0"
+GABATRANSAM-RXN	NIL
+OHMETHYLBILANESYN-RXN	NIL	"U1_80_1"
+TEICHOICSYN2-RXN	NIL
+RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	NIL	"U1_51_40"
+RXN-4602	NIL
+PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN	NIL	"U1_97_27"
+LINOLENOYL-RXN	"&alpha;-linolenate&mdash;CoA ligase"	"U1_46_2"	"U1_156_20"	"U1_72_10"
+RXN0-6427	"guanosine 3'-diphosphate 5'-triphosphate 3'-diphosphatase"
+GLYCOPHOSPHORYL-RXN	"glycogen phosphorylase"	"U1_96_28"	"U1_96_58"
+4.2.1.61-RXN	"3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase"	"U1_97_3"
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN	NIL
+1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN	"1-acylglycerol-3-phosphate O-acyltransferase"	"U1_21_58"	"U1_93_6"
+RXN1G-526	"trans-tetracos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+OROTPDECARB-RXN	NIL	"U1_71_37"
+RXN-12777	"3-oxo-dihomo &gamma; linolenoyl-[acp] synthase"
+RXN-12171	"maltodextrin phosphorylase"	"U1_96_28"	"U1_96_58"
+RXN0-3962	NIL
+RXN-14354	NIL
+RXN-14353	NIL	"U1_96_28"	"U1_96_58"
+NICOTINATEPRIBOSYLTRANS-RXN	NIL
+2.7.1.150-RXN	NIL
+RXN-709	NIL
+RXN-1381	NIL
+DEOXYGUANPHOSPHOR-RXN	NIL	"U1_60_2"
+RXN-8631	NIL	"U1_37_19"
+RXN1G-637	"cis,cis-delta11,23-3-oxo-C42:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+ADDALT-RXN	NIL	"U1_79_18"
+RXN1G-464	"cis,cis-delta5,17-3-hydroxyC36:2-[acyl-carrier protein] dehydratase"
+PRAISOM-RXN	NIL	"U1_106_9"
+RXN-5461	NIL
+RXN-11691	NIL
+BENZYL-ALC-DEHYDROGENASE-RXN	"benzyl alcohol dehydrogenase"
+HISTAMINOTRANS-RXN	NIL	"U1_136_12"
+MALSYN-RXN	NIL
+GLUTDEHYD-RXN	NIL	"U1_56_2"	"U1_73_25"	"U1_71_55"	"U1_21_42"
+R13-RXN	NIL
+RXN-721	NIL
+AIRCARBOXY-RXN	NIL	"U1_96_10"
+RXN-10833	NIL
+UDPNACETYLGLUCOSAMACYLTRANS-RXN	NIL	"U1_95_9"
+RXN-11211	NIL
+RXN-11210	NIL	"U1_69_9"
+RXN-11529	NIL
+RXN-10038	NIL
+RXN-10039	NIL
+TEICHOICSYN5-RXN	NIL
+RXN-5061	NIL
+RXN0-5228	NIL
+RXN490-3650	NIL
+RXN0-2381	NIL	"U1_91_29"	"U1_91_19"	"U1_94_105"	"U1_94_104"
+RXN-12197	NIL
+ACSERLY-RXN	NIL	"U1_44_53"	"U1_156_42"	"U1_60_37"	"U1_60_34"	"U1_71_23"	"U1_78_35"	"U1_104_18"
+RXN0-6483	NIL
+SHIKIMATE-KINASE-RXN	NIL	"U1_170_3"
+RXN66-3	"acetaldehyde dehydrogenase (NAD+)"	"U1_94_11"
+RXN-12198	NIL
+RXN1G-1530	"3-oxo-C87-trans-keto-mycolate reductase"
+ALANINE-AMINOTRANSFERASE-RXN	NIL
+ISOCHORSYN-RXN	NIL	"U1_109_21"
+RXN66-362	"androstenedione isomerase"
+RXN1G-1247	"cis,cis-delta15,33-3-oxo-C52:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+FADSYN-RXN	NIL
+RXN-13032	NIL
+RXN-13031	"lipoamidase"
+RXN-13037	"octanoyl:GcvH transferase"
+RXN-13036	"octanoyl-[GcvH]:protein <i>N</i>-octanoyltransferase"
+RXN-13039	"lipoate&mdash;protein ligase"	"U1_45_9"
+6PGLUCONDEHYDROG-RXN	"phosphogluconate dehydrogenase [NAD(P)+-dependent, decarboxylating]"
+RXN0-4342	NIL
+RXN0-4341	NIL	"U1_156_12"	"U1_94_92"
+6.3.5.6-RXN	NIL	"U1_165_75"	"U1_109_26"	"U1_94_41"
+PHEAMINOTRANS-RXN	"phenylalanine transaminase"
+RXN1G-27	"cis-delta5-3-hydroxyC24:1-[acyl-carrier protein] dehydratase"
+RXN1G-26	"cis-delta5-3-oxo-C24:1-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN-9092	NIL
+1.18.1.2-RXN	NIL	"U1_17_1"	"U1_69_11"
+RXN1G-886	"3-oxo-C78-&alpha;-mycolate synthase"
+RXN1G-887	"3-oxo-C85-cis-methoxy-mycolate-synthase"
+RXN1G-884	"cis,cis-delta11,29-3-hydroxyC48:2-[acyl-carrier protein] dehydratase"
+UDPMANNACADEHYDROG-RXN	"UDP-N-acetyl-D-mannosamine dehydrogenase"
+RXN1G-881	"cis-delta17-3-oxo-C36:1-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN1G-888	"3-oxo-C86-trans-methoxy-mycolate-synthase"
+RXN1G-951	"cis,cis-delta19,31-3-oxo-C50:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN0-5507	NIL	"U1_152_20"
+AMYLOMALT-RXN	"4-&alpha;-glucanotransferase"
+RXN-9542	"<i>trans</i> hexadecenoyl-[acp] reductase (NADPH, B-specific)"
+RXN-9540	"3-oxo-palmitoyl-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-9549	NIL
+RXN-9548	NIL
+RXN-13698	NIL
+RXN-13697	NIL	"U1_145_8"	"U1_71_14"	"U1_133_17"
+GTP-CYCLOHYDRO-II-RXN	NIL
+1.10.2.2-RXN	NIL	"U1_73_48"	"U1_73_47"	"U1_69_19"
+ACETOOHBUTREDUCTOISOM-RXN	NIL	"U1_44_40"
+RXN-12611	"thiamin phosphate synthase"	"U1_156_7"	"U1_156_6"
+RXN-11859	NIL
+RXN-11858	NIL
+RXN-11857	NIL
+RXN-11856	NIL
+RXN0-5433	"2-keto-3-deoxy-L-rhamnoate aldolase"
+RXN-25	NIL
+THYMIDYLATESYN-RXN	NIL
+DHLAXANAU-RXN	"1,2-dichloroethane dehalogenase"	"U1_106_8"
+RXN-22	NIL	"U1_43_37"
+RXN-10669	NIL	"U1_38_2"
+PRPPSYN-RXN	NIL	"U1_133_4"
+LACTALDDEHYDROG-RXN	NIL	"U1_14_18"
+2.7.1.153-RXN	NIL
+RXN1G-408	"cis,cis-delta5,17-3-oxo-C36:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN1G-409	"cis,cis-delta19,37-3-oxo-C56:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+2.3.1.180-RXN	NIL	"U1_165_35"
+R217-RXN	NIL
+CDPDIGLYSYN-RXN	NIL	"U1_94_78"
+PYRUVFORMLY-RXN	NIL
+RXN1G-536	"cerotoyl-[acyl-carrier protein] reductase"
+3-OXOACYL-ACP-SYNTH-RXN	"3-oxoacyl-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN-8441	"nicotinamide-&beta;-riboside hydrolase"
+RXN-8443	NIL
+RXN-8442	NIL
+RXN-8444	NIL
+RXN-8447	NIL
+RXN-4122	NIL
+RXN1G-3660	"cis-delta21-39-hydroxy-40-methyl-C59:1-[acp] synthase"
+RXN-4121	NIL
+RXN1G-3667	"trans-&Delta;20-39-hydroxy-40-methyl-C60:1-[acp] reductase"
+DIHYDROPYRIMIDINASE-RXN	NIL
+RXN-12165	"NADP<sup>+</sup> L-lactaldehyde dehydrogenase"
+SEDOHEPTULOSE-BISPHOSPHATASE-RXN	NIL
+DIHYDROXYISOVALDEHYDRAT-RXN	NIL	"U1_44_37"
+DGDPKIN-RXN	NIL	"U1_95_4"
+RXN-710	NIL	"U1_118_25"
+RXN-711	NIL
+RXN-712	NIL
+RXN-713	NIL
+RXN-714	NIL
+RXN-715	NIL
+RXN-716	NIL
+RXN-717	NIL
+RXN-718	NIL
+RXN-719	NIL
+RXN-10827	"carboxyvinyl-carboxyphosphonate phosphorylmutase"
+RXN-10826	NIL
+RXN-10821	NIL
+RXN-11667	"(S)-3-hydroxybutanoyl-CoA dehydrogenase"
+RXN-8629	"dihydrolipoyl dehydrogenase"	"U1_158_5"
+ADENYLYLSULFKIN-RXN	NIL
+MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN	NIL
+PYRROLINECARBREDUCT-RXN	NIL	"U1_165_45"
+OCTAPRENYL-METHYL-METHOXY-BENZOQ-OH-RXN	NIL
+ACETYLORNDEACET-RXN	NIL
+RXN-14348	NIL
+RXN-14349	NIL	"U1_61_15"
+L-RHAMNOSE-1-DEHYDROGENASE-RXN	NIL
+RXN-11209	NIL
+RXN-11530	NIL
+RXN-11531	NIL
+RXN-11532	NIL
+RXN-11533	NIL
+RXN-11534	NIL
+RXN-11535	NIL
+RXN-11536	NIL
+RXN1F-151	"lycopene &beta;-cyclase"	"U1_94_121"	"U1_94_120"
+PROPIONYL-COA-CARBOXY-RXN	NIL
+RXN-2581	NIL
+RXN0-302	NIL	"U1_96_31"
+RXN0-308	"cysteine desulfurase"	"U1_60_31"	"U1_60_30"	"U1_13_3"
+RXN-3443	NIL	"U1_94_11"
+RXN1G-1529	"3-oxo-C86-cis-keto-mycolate-reductase"
+RXN1G-1528	"3-oxo-C86-trans-methoxy-mycolate-reductase"
+RXN1G-1527	"3-oxo-C85-cis-methoxy-mycolate reductase"
+RXN-1623	NIL	"U1_21_58"	"U1_93_6"
+R147-RXN	NIL
+4.2.1.59-RXN	"3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase"	"U1_97_3"
+2-OCTAPRENYL-6-OHPHENOL-METHY-RXN	"2-octaprenyl-6-hydroxyphenyl methylase"
+1.12.1.3-RXN	NIL	"U1_78_53"
+CDPKIN-RXN	NIL	"U1_95_4"
+5.4.99.16-RXN	NIL	"U1_153_46"
+PYRNUTRANSHYDROGEN-RXN	NIL
+GLUTAMATE-SYNTHASE-FERREDOXIN-RXN	NIL	"U1_56_3"
+GLYCOLALD-DEHYDROG-RXN	NIL
+RXN-6724	NIL
+RXN1G-1635	"trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase"
+2-DEHYDROPANTOATE-REDUCT-RXN	NIL
+1.14.19.3-RXN	NIL
+RXN1G-1634	"trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase"
+ARGSUCCINLYA-RXN	NIL	"U1_43_37"
+DTDPDEHYRHAMREDUCT-RXN	NIL	"U1_51_36"	"U1_14_51"
+UDPACYLGLCNACDEACETYL-RXN	NIL
+RXN1G-648	"3-cis-delta21,39-3-hydroxyC58:2-[acyl-carrier protein] dehydratase"
+MUCONOLACTONE-DELTA-ISOMERASE-RXN	NIL
+RXN1G-320	"3-hydroxyarchidoyl-[acp] dehydrase"
+RXN1G-324	"cis-delta15-3-oxo-C34:1-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN1G-132	"cis-delta21-3-oxo-C40:1-[acyl-carrier protein] synthase"	"U1_54_19"
+HOMOCYSTEINE-S-METHYLTRANSFERASE-RXN	"S-adenosyl-L-methionine:L-homocysteine S-methyltransferase"
+KDPGALDOL-RXN	NIL
+RXN-12376	NIL
+RXN-12375	NIL
+RXN-12374	NIL
+ACETYLORNTRANSAM-RXN	NIL	"U1_96_15"
+RXN-12370	NIL
+PYRUFLAVREDUCT-RXN	NIL
+RXN-12971	NIL
+SIROHEME-FERROCHELAT-RXN	NIL
+RXN-7745	"3-methylmalate dehydrogenase"
+RXN1G-184	"cis,cis-delta17,35-3-oxo-C54:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-7743	NIL	"U1_44_45"
+RXN1G-182	"cis,cis-delta5,23-3-oxo-C42:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN1G-181	"&alpha;-meroacyl-AMP transferase"
+RXN-12978	NIL	"U1_46_2"	"U1_156_20"	"U1_72_10"
+RXN1G-488	"trans-docos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-188	"cis-delta11-3-hydroxyC30:1-[acyl-carrier protein] dehydratase"
+RXN0-2161	NIL	"U1_44_51"
+RXN0-5398	NIL	"U1_158_6"	"U1_73_20"	"U1_100_6"	"U1_94_69"
+RXN-6902	"4-aminobutyrate--pyruvate transaminase"
+RXN-821	NIL
+RXN-12579	NIL
+PROTOHEMEFERROCHELAT-RXN	NIL	"U1_61_22"	"U1_73_33"
+RXN-12575	"all-trans retinyl-ester hydrolase"	"U1_155_5"	"U1_84_3"
+RXN-10938	NIL
+4.1.1.72-RXN	NIL
+GLUCOKIN-RXN	NIL	"U1_95_8"
+4.3.1.17-RXN	NIL
+GLUCONATE-DEHYDRATASE-RXN	NIL
+ARGININE--TRNA-LIGASE-RXN	NIL	"U1_179_26"
+TETRAACYLDISACC4KIN-RXN	NIL	"U1_97_20"
+HISTIDPHOS-RXN	NIL	"U1_106_19"	"U1_80_4"	"U1_95_12"
+PHENDEHYD-RXN	NIL
+DIHYDROOROT-RXN	NIL	"U1_118_22"
+RXN1G-509	"trans-delta2-cis,cis-9,21-C40:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-508	"3-oxo-lignoceroyl-[acyl-carrier protein] reductase"
+R601-RXN	NIL
+R62-RXN	NIL
+RXN-12790	"3-oxo-24-ethyl-cholest-5-ene isomerase"
+PREPHENATEDEHYDROG-RXN	NIL	"U1_153_15"
+RXN-12794	NIL
+RXN-12797	NIL
+RXN-10952	NIL	"U1_97_2"
+METHENYLTHFCYCLOHYDRO-RXN	NIL	"U1_39_61"
+RXN-12158	"(NADP<sup>+</sup>) L-rhamnofuranose 1-dehydrogenase"
+SUCCINYLDIAMINOPIMTRANS-RXN	NIL
+1.1.1.176-RXN	NIL
+6PGLUCONOLACT-RXN	NIL	"U1_94_3"
+TREHALOSE6PSYN-RXN	NIL	"U1_150_5"
+RXN-4241	NIL
+RXN-10838	NIL
+RXN-10839	NIL	"U1_165_51"	"U1_38_1"	"U1_69_2"
+RXN-10836	NIL
+RXN-10837	NIL
+RXN-10834	NIL
+RXN-10835	NIL
+RXN-10832	NIL
+RXN-720	NIL
+RXN-10830	NIL
+RXN-10831	NIL
+RXN-8380	NIL
+2.7.1.154-RXN	NIL
+RXN1G-617	"cis,cis-delta21,39-3-oxo-C58:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+SUPEROX-DISMUT-RXN	NIL	"U1_39_47"
+RXN0-2382	NIL	"U1_91_29"	"U1_91_19"	"U1_94_105"	"U1_94_104"
+RXN1G-613	"cis,cis-delta9,27-3-oxo-C46:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-8890	NIL
+RXN-8891	NIL
+CHORISMATE-SYNTHASE-RXN	NIL	"U1_152_22"
+RXN-1102	NIL
+RXN-1101	NIL	"U1_91_15"
+GLUCONOLACT-RXN	NIL
+RXN0-268	NIL
+RXN-7682	NIL
+RXN0-262	NIL	"U1_107_1"
+RXN-5282	"magnesium-protoporphyrin-IX 13-monomethyl ester,NADPH:oxygen monooxygenase"	"U1_78_6"	"U1_14_0"
+RXN-5283	"13<SUP>1</SUP>-hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester 13-dehydrogenase"	"U1_78_6"	"U1_14_0"
+RXN-5284	"13<SUP>1</SUP>-oxo-magnesium-protoporphyrin IX 13-monomethyl ester dehydrogenase"	"U1_78_6"	"U1_14_0"
+RXN1F-150	"lycopene &beta;-cyclase"	"U1_94_121"	"U1_94_120"
+DARAB5PISOM-RXN	NIL	"U1_94_39"
+4-COUMARATE--COA-LIGASE-RXN	NIL
+H2SOXIREDPYRO-RXN	NIL	"U1_78_53"
+AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN	"Tryptophan decarboxylase"
+NAD-SYNTH-GLN-RXN	NIL
+RXN0-310	NIL	"U1_80_6"
+CATAL-RXN	NIL
+QUINOPRIBOTRANS-RXN	NIL	"U1_78_24"
+MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN	"Myo-inositol-1(or 4)-monophosphatase"	"U1_97_2"
+RXN0-882	NIL	"U1_21_33"
+RXN0-884	NIL	"U1_78_61"
+3.11.1.2-RXN	NIL	"U1_9_2"
+RXN1G-1084	"cis-delta19-3-hydroxyC38:1-[acyl-carrier protein] dehydratase"
+RIBOFLAVINSYNREDUC-RXN	NIL
+DTMPKI-RXN	NIL	"U1_150_6"	"U1_61_0"
+H2PTEROATESYNTH-RXN	NIL	"U1_73_8"
+GLYCOLALDREDUCT-RXN	NIL	"U1_114_4"
+MALONYL-COA-ACP-TRANSACYL-RXN	NIL	"U1_165_34"
+RXN66-340	NIL
+RXN66-342	"dehydroepiandrosterone dehydrogenase"	"U1_118_25"
+CYSTEINE--TRNA-LIGASE-RXN	NIL	"U1_165_124"
+GLYCINE--TRNA-LIGASE-RXN	NIL	"U1_161_26"
+GUANINE-DEAMINASE-RXN	NIL
+RXN-9363	NIL	"U1_73_36"
+RXN-9362	NIL	"U1_73_36"
+RXN-9361	NIL	"U1_73_36"
+RXN-9360	NIL	"U1_69_10"
+RXN-9366	NIL	"U1_73_36"
+PORPHOBILSYNTH-RXN	NIL	"U1_152_23"
+RXN1G-334	"cis,cis-delta7,25-3-oxo-C44:2-[acyl-carrier protein] synthase"	"U1_165_31"
+ADENOSYLHOMOCYSTEINASE-RXN	NIL	"U1_106_11"	"U1_146_3"
+RXN1G-337	"trans-delta2-cis,cis-delta13,25-C44:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN0-5098	NIL
+R11-RXN	"butyryl coenzyme A transferase"
+RXN1G-339	"trans-delta2-cis-cis-delta7-19-C38:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+ASPDECARBOX-RXN	NIL	"U1_94_61"
+IMIDPHOSDEHYD-RXN	NIL
+RXN-11832	NIL	"U1_78_64"
+FHLMULTI-RXN	NIL
+RXN3O-5293	NIL
+RXN-7607	NIL	"U1_149_10"
+RXN-7605	NIL
+RXN-7609	NIL	"U1_149_10"
+FGAMSYN-RXN	NIL	"U1_45_6"	"U1_45_5"	"U1_27_20"
+GCVMULTI-RXN	NIL
+RXN1G-420	"cis-delta7-3-hydroxyC26:1-[acyl-carrier protein] dehydratase"
+GLYCOGENSYN-RXN	NIL	"U1_95_13"
+RXN-12968	NIL
+RXN-12969	NIL
+RXN1G-424	"cis,cis-delta15,27-3-oxo-C46:2-[acyl-carrier protein] synthase"	"U1_165_31"
+RXN1G-425	"3-cis,cis-delta7,25-3-hydroxyC44:2-[acyl-carrier protein] dehydratase"
+GSAAMINOTRANS-RXN	NIL	"U1_153_22"
+1.14.13.36-RXN	NIL
+ATPPHOSPHORIBOSYLTRANS-RXN	NIL	"U1_13_10"
+AGMATINE-DEIMINASE-RXN	NIL	"U1_69_7"
+RXN-12093	NIL
+RXN-8141	NIL
+1.13.11.6-RXN	NIL
+RXN0-5258	"sn-glycerol 3-phosphate:ubiquinone oxidoreductase"
+3-OXOADIPATE-ENOL-LACTONASE-RXN	NIL	"U1_42_0"	"U1_136_14"	"U1_38_3"
+COBALADENOSYLTRANS-RXN	"Cob(I)alamin adenosyltransferase"	"U1_72_6"
+D-LACTALDEHYDE-DEHYDROGENASE-RXN	NIL
+RXN0-6479	NIL
+RXN0-6478	NIL
+RXN0-6274	NIL	"U1_145_0"
+PHOSPHOKETOLASE-RXN	NIL
+RXN1G-517	"3-hydroxylignoceroyl-[acyl-carrier protein] dehydratase"
+RXN-12782	"3-oxo-24-ethyl-cholest-4,24-dien-26-oyl-CoA carboxylase"
+RXN-12780	"3,24-dioxo-cholest-4-en-26-oate:CoA ligase"
+RXN-12781	"3-oxo-24-(isopropanoate)-cholest-4,24-dien-26-oyl-CoA hydrolase"
+RXN-12786	"3-oxo-24-ethyl-26-al-cholest-4-ene dehydrogenase"
+RXN-12787	"3-oxo-24-ethyl-26-hydroxy-cholest-4-ene dehydrogenase"
+RXN-12784	"3-oxo-24-ethyl-cholest-4-en-26-oyl-CoA dehydrogenase"
+RXN-12785	"3-oxo-24-ethyl-cholest-4-en-26-oate:CoA ligase"
+RXN-12788	"3-oxo-24-ethyl-cholest-4-ene C-26 monooxygenase"
+RXN-12789	"sitosterol dehydrogenase"	"U1_118_25"
+QUINOLINATE-SYNTHA-RXN	NIL	"U1_54_16"
+RXN1G-3641	"cis-&Delta;21-39-hydroxy-40-methyl-C59:1-[acp] reductase"
+RXN-12149	"L-rhamnose pyranase"
+RXN1G-193	"trans-delta2-cis,cis-5,17-C36:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-196	"trans-delta2-cis,cis-delta11,23-C42:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-7775	NIL
+R214-RXN	NIL
+3-HYDROXY-KYNURENINASE-RXN	NIL
+RXN-8391	NIL
+DAHPSYN-RXN	NIL	"U1_100_2"
+RXN1G-607	"trans-delta2-cis,cis-delta15,27-C46:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN3O-102	"3-demethylubiquinol-6 3-O-methyltransferase"
+R230-RXN	"(2R)-3-sulfolactate dehydrogenase (NAD+)"
+RXN-1823	NIL	"U1_153_45"	"U1_73_46"	"U1_104_5"	"U1_100_8"
+XANPRIBOSYLTRAN-RXN	NIL
+RXN-1825	NIL
+RXN-1826	"starch phosphorylase"	"U1_96_28"	"U1_96_58"
+SULFITE-DEHYDROGENASE-RXN	NIL	"U1_165_48"	"U1_165_47"
+PYRIDOXINE-4-DEHYDROGENASE-RXN	NIL
+RIBAZOLEPHOSPHAT-RXN	NIL
+SAICARSYN-RXN	NIL	"U1_145_13"
+DHBDEHYD-RXN	NIL
+RXN0-6491	"dihydroorotate dehydrogenase"	"U1_96_29"
+ALDHDEHYDROG-RXN	NIL	"U1_94_11"
+MUCONATE-CYCLOISOMERASE-RXN	NIL
+RXN-8771	NIL	"U1_72_2"
+XANTHOSINEPHOSPHORY-RXN	"xanthosine phosphorylase"	"U1_60_2"
+RXN3O-1983	NIL
+COBALAMINSYN-RXN	NIL	"U1_114_3"
+2.7.1.68-RXN	NIL
+5.3.3.14-RXN	NIL
+ACETATEKIN-RXN	NIL	"U1_48_4"	"U1_9_0"
+DTDPKIN-RXN	NIL	"U1_95_4"
+ALDEHYDE-DEHYDROGENASE-NADP+-RXN	NIL
+METHYLMALONYL-COA-EPIM-RXN	NIL	"U1_37_10"
+THIAZOLSYN3-RXN	NIL
+DHLBXANAU-RXN	"chloroacetate dehalogenase"
+6.3.2.7-RXN	NIL
+RXN-11319	NIL
+12-BETA-HYDROXYSTEROID-DEHYDROGENASE-RXN	NIL
+BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN	NIL
+GLYCPDIESTER-RXN	NIL	"U1_165_43"
+3.2.1.14-RXN	NIL
+3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN	NIL	"U1_45_8"
+RXN0-748	NIL	"U1_54_23"
+GTPPYPHOSKIN-RXN	NIL	"U1_149_34"
+L-LACTATE-DEHYDROGENASE-RXN	NIL
+RXN0-745	NIL
+RXN0-746	NIL
+RXN0-747	NIL	"U1_54_23"
+ADCLY-RXN	NIL
+1.3.1.2-RXN	NIL
+PHOSPHOENOLPYRUVATE-MUTASE-RXN	NIL
+GLUTAMIN-RXN	NIL	"U1_56_3"	"U1_56_2"	"U1_170_2"	"U1_165_54"	"U1_73_25"	"U1_71_56"	"U1_71_55"	"U1_94_126"	"U1_96_24"	"U1_97_16"	"U1_124_5"	"U1_48_12"
+RXN-9280	"octaprenyldihydroxybenzoate methyltransferase"
+RXN-9283	NIL
+R83-RXN	NIL
+PYRUVATE-CARBOXYLASE-RXN	NIL	"U1_39_32"
+2.7.7.13-RXN	NIL	"U1_51_33"	"U1_21_73"
+5-FORMYL-THF-CYCLO-LIGASE-RXN	NIL	"U1_118_20"
+2.5.1.42-RXN	NIL	"U1_109_19"
+1.1.1.262-RXN	"4-hydroxythreonine-4-phosphate dehydrogenase"	"U1_44_61"
+HOMOSERKIN-RXN	NIL	"U1_21_56"
+RXN-9358	NIL	"U1_69_10"
+RXN-9359	NIL	"U1_69_10"
+RXN66-485	"3<i>R</i>-hydroxyacyl-CoA dehydrogenase"
+IMPCYCLOHYDROLASE-RXN	NIL
+RXN-9825	NIL
+DEOXYADENPHOSPHOR-RXN	NIL	"U1_60_2"
+ACETATE--COA-LIGASE-RXN	NIL	"U1_96_74"	"U1_37_9"
+RXN1G-79	"cis,cis-delta5,23-3-oxo-C42:2-[acyl-carrier protein] synthase"	"U1_165_31"
+PGPPHOSPHA-RXN	NIL	"U1_104_26"	"U1_104_2"
+RXN-7614	NIL	"U1_109_10"
+RXN1G-853	"cis,cis-delta11,29-3-oxo-C48:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+GTP-CYCLOHYDRO-I-RXN	NIL	"U1_63_11"
+RXN1A0-6297	NIL
+RXN1G-299	"trans-delta2-cis-delta13-C32:2-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN0-2144	NIL	"U1_97_3"
+PHOSMANMUT-RXN	NIL	"U1_94_52"	"U1_94_32"
+RXN0-2141	NIL
+RXN1G-292	"C87-trans-keto-mycolate O-mycolyltransferase"
+RXN1G-291	"C86-cis-keto-mycolate O-mycolyltransferase"
+RXN1G-290	"C87-trans-mycolate O-mycolyltransferase"
+RXN1G-297	"trans-keto-meroacyl-AMP transferase"
+RXN1G-296	"cis-keto-meroacyl-AMP transferase"
+RXN1G-295	"trans-methoxy-meroacyl-AMP transferase"
+RXN1G-294	"3-cis,cis-delta13,25-3-hydroxyC44:2-[acyl-carrier protein] dehydratase"
+RXN-9365	NIL	"U1_69_10"
+NADH-KINASE-RXN	NIL
+1.14.99.36-RXN	NIL
+NADH-DEHYDROG-A-RXN	NIL	"U1_61_32"	"U1_61_31"	"U1_61_30"	"U1_61_29"	"U1_61_28"	"U1_61_27"	"U1_61_26"	"U1_61_25"	"U1_63_18"	"U1_63_17"	"U1_63_16"
+RXN0-5114	NIL	"U1_21_11"
+RXN-8963	NIL
+RXN-8964	NIL
+RIBULP3EPIM-RXN	NIL	"U1_97_14"
+TREHALOSEPHOSPHA-RXN	NIL
+1-PHOSPHATIDYLINOSITOL-3-KINASE-RXN	NIL
+RXN-7763	NIL
+NICONUCADENYLYLTRAN-RXN	NIL	"U1_179_25"
+L-GLN-FRUCT-6-P-AMINOTRANS-RXN	NIL	"U1_71_38"
+RXN-10814	"L-phenylalanine aminotransferase"	"U1_145_8"	"U1_71_14"	"U1_133_17"
+RXN-10815	"2-oxo-3-phenylpropanoate dioxygenase"
+RXN-10816	"phenylpyruvate reductase"
+RXN-10817	"phenylethylamine oxidase"
+RXN-7921	"eriodictyol 5'-hydroxylase"
+PYRIDOXKIN-RXN	NIL
+R15-RXN	NIL
+RXN-10819	NIL	"U1_71_16"
+PEPCARBOX-RXN	NIL	"U1_96_65"
+RXN-12368	NIL
+RXN1G-679	"trans-delta2-cis,cis-delta21,39-C58:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-5841	NIL	"U1_149_10"
+SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	NIL	"U1_155_1"	"U1_21_62"
+RXN-1125	NIL
+2.3.1.135-RXN	NIL
+RXN-4466	NIL
+RXN-4465	NIL
+RXN-4464	NIL
+ARGINASE-RXN	NIL
+RXN0-6482	NIL	"U1_121_6"
+ISOCITRATE-DEHYDROGENASE-NAD+-RXN	NIL
+RXN0-6480	NIL	"U1_161_7"
+RXN0-6481	NIL	"U1_121_6"
+RXN1G-4142	"cis-keto-C60-meroacyl-[acp] synthetase"
+RXN1G-4143	"trans-keto-C61-meroacyl-[acp] synthetase"
+RXN0-6484	NIL
+RXN0-6485	NIL
+DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN	NIL
+UDPKIN-RXN	NIL	"U1_95_4"
+NAPHTHOATE-SYN-RXN	NIL	"U1_109_12"
+CYTOCHROME-C-OXIDASE-RXN	NIL	"U1_60_0"	"U1_104_48"	"U1_104_47"	"U1_104_45"
+KDOTRANS-RXN	NIL	"U1_44_59"
+FORMYLTHFDEFORMYL-RXN	"formyltetrahydrofolate deformylase"
+COBINPGUANYLYLTRANS-RXN	NIL	"U1_55_1"	"U1_57_1"	"U1_114_1"
+R224-RXN	NIL
+AMP-DEPHOSPHORYLATION-RXN	"AMP-5'-nucleotidase"	"U1_149_10"
+FORMATETHFLIG-RXN	NIL
+ORNCARBAMTRANSFER-RXN	NIL	"U1_49_11"
+GLUTAMINE-N-PHENYLACETYLTRANSFERASE-RXN	NIL
+LAUROYLACYLTRAN-RXN	NIL	"U1_94_91"
+GLYC3PDEHYDROGBIOSYN-RXN	NIL	"U1_153_7"
+H2NEOPTERINALDOL-RXN	NIL	"U1_78_23"
+2.3.1.157-RXN	NIL
+RXN-8770	NIL
+GLUCOSE-1-DEHYDROGENASE-NADP+-RXN	NIL
+DTDPDEHYDRHAMEPIM-RXN	NIL	"U1_14_21"	"U1_97_42"
+2.5.1.19-RXN	NIL	"U1_78_37"
+5.3.1.23-RXN	NIL	"U1_60_1"
+CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	NIL
+DIMETHUROPORDEHYDROG-RXN	NIL	"U1_66_3"
+PABASYN-RXN	NIL	"U1_73_15"	"U1_48_12"
+LACTALDEHYDE-OXI-RXN	NIL
+GDPREDUCT-RXN	NIL	"U1_54_23"
+R-2-METHYLMALATE-DEHYDRATASE-RXN	NIL
+DIAMINOPIMEPIM-RXN	NIL	"U1_21_41"
+DEPHOSPHOCOAKIN-RXN	NIL	"U1_39_49"
+DHHB-METHYLTRANSFER-RXN	"3-demethylubiquinone-8 3-O-methyltransferase"
+PEPDEPHOS-RXN	NIL
+DIHYDROFOLATESYNTH-RXN	NIL	"U1_94_49"
+RXN-12303	"NAD(P)H dehydrogenase (plastoquinone)"	"U1_43_24"
+GLUTAMINESYN-RXN	NIL	"U1_151_4"
+R127-RXN	NIL
+RXN1G-840	"cis-delta17-3-oxo-C36:1-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN1G-445	"3-oxo-behenoyl-[acp] synthase"
+RXN1G-440	"3-cis,cis-delta19,37-3-hydroxyC56:2-[acyl-carrier protein] dehydratase"
+RXN-7970	NIL
+RXN1G-288	"C78-&alpha;-mycolate-O-mycolyltransferase"
+RXN1G-289	"C85-cis-mycolate O-mycolyltransferase"
+RXN66-341	NIL
+RXN1G-285	"trans-delta2-cis-delta9-C28:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN66-343	"testosterone reductase"
+RXN1G-287	"cis-delta21-3-oxo-C40:1-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-12548	NIL
+RXN-12549	NIL
+3.1.26.5-RXN	NIL	"U1_161_7"
+MOXXANAU-RXN	NIL
+UDPREDUCT-RXN	NIL	"U1_54_23"
+RXN-8974	NIL
+ENOYL-COA-DELTA-ISOM-RXN	"Dodecenoyl-CoA &delta;-isomerase"
+RXN0-6259	NIL
+RXN-12124	NIL
+KDO-8PSYNTH-RXN	NIL	"U1_153_11"
+PHOSPHASERSYN-RXN	NIL	"U1_45_7"
+RXN-13435	NIL
+ENOYL-ACP-REDUCT-NADPH-RXN	"2,3,4-saturated fatty acyl-[acp] dehydrogenase"
+ADOMET-DMK-METHYLTRANSFER-RXN	NIL	"U1_73_36"
+RXN1G-660	"cis,cis-delta17,29-3-oxo-C48:2-[acyl-carrier protein] synthase"	"U1_165_31"
+RXN-11026	NIL
+GLUTAMATE-DEHYDROGENASE-RXN	NIL
+2TRANSKETO-RXN	"D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase"	"U1_145_11"	"U1_14_27"	"U1_94_2"	"U1_37_7"
+MANNKIN-RXN	NIL
+RXN-8350	"eicosatetraenoate &Delta;<sup>5</sup> desaturase"
+MYRISTOYLACYLTRAN-RXN	NIL
+OHBUTYRYL-COA-EPIM-RXN	"3-hydroxybutyryl-CoA epimerase"
+GLYOHMETRANS-RXN	NIL	"U1_96_22"
+UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN	NIL	"U1_54_3"
+3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN	NIL
+GLUTKIN-RXN	NIL	"U1_83_15"
+RXN-8754	NIL
+RXN-8751	NIL
+RXN1G-717	"cis,cis-delta17,29-3-oxo-C48:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-8753	NIL
+RXN-8752	NIL
+RXN-8999	NIL	"U1_94_42"
+RXN-8992	NIL	"U1_94_56"
+RXN-8991	"3-isopropylmalate dehydratase"	"U1_44_44"	"U1_44_43"
+RXN-8990	"phenylaldehyde synthase"
+SUCROSE-PHOSPHATE-SYNTHASE-RXN	NIL
+ISOCITDEH-RXN	NIL	"U1_104_12"
+DCDPKIN-RXN	NIL	"U1_95_4"
+PHOSPHORIBULOKINASE-RXN	NIL
+RXN-11770	NIL
+RXN-11771	NIL
+RXN-11776	"farnesyl diphosphate phosphatase"
+RXN-11777	"farnesyl monophosphate phosphatase"
+2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN	NIL
+DLACTDEHYDROGNAD-RXN	NIL
+ARGDECARBOX-RXN	NIL	"U1_54_8"	"U1_168_7"
+RXN-11480	"3-oxo-pimeloyl-[acp] methyl ester reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-11481	NIL	"U1_97_3"
+RXN-11482	NIL	"U1_56_5"	"U1_104_11"
+RXN-11483	NIL
+RXN-11484	NIL	"U1_46_7"	"U1_78_12"	"U1_64_7"
+PHENYLALANINE-4-MONOOXYGENASE-RXN	NIL
+4.2.3.12-RXN	NIL	"U1_63_10"
+MALTOSE-PHOSPHORYLASE-RXN	NIL	"U1_39_36"	"U1_39_35"
+R225-RXN	NIL
+3-HYDROXYDECANOYL-ACP-DEHYDR-RXN	NIL	"U1_97_3"
+PPGPPSYN-RXN	NIL
+ADENPHOSPHOR-RXN	"adenosine phosphorylase"	"U1_60_2"
+RXN-1461	NIL
+ISOCHORMAT-RXN	NIL	"U1_97_21"
+2.1.1.79-RXN	NIL	"U1_145_3"	"U1_145_2"
+CHORPYRLY-RXN	NIL
+BRANCHED-CHAINAMINOTRANSFERVAL-RXN	"Valine transaminase"	"U1_96_34"
+RXN1G-1053	"cis-delta19-3-oxo-C38:1-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN1G-1050	"cis,cis-delta13,31-3-oxo-C50:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN1G-1057	"trans-delta2-cis,cis-delta19,31-C50:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+CYSTATHIONINE-BETA-SYNTHASE-RXN	NIL
+IMP-DEHYDROG-RXN	NIL	"U1_158_1"
+RXN3O-4113	"tyrosol dehydrogenase"	"U1_156_24"
+RXN0-961	NIL
+HOMOSERDEHYDROG-RXN	NIL
+RXN1G-883	"cis,cis-delta19,31-3-oxo-C50:2-[acyl-carrier protein] synthase"	"U1_165_31"
+FERREDOXIN--NITRITE-REDUCTASE-RXN	NIL
+4.2.1.58-RXN	"(3<em>R</em>)-3-hydroxybutanoyl-[acyl-carrier-protein] hydratase"	"U1_97_3"
+RXN-9756	NIL
+RXN-9757	NIL
+RXN-9758	NIL	"U1_94_11"
+RXN-9759	NIL
+PDXJ-RXN	NIL	"U1_51_2"
+F16BDEPHOS-RXN	NIL	"U1_104_21"
+UDP-NACMUR-ALA-LIG-RXN	NIL	"U1_179_10"
+RXN6666-7	NIL
+CDP-GLUCOSE-46-DEHYDRATASE-RXN	NIL	"U1_14_20"
+RXN-6161	NIL
+RXN-9624	"Stearoyl-CoA hydrolase"
+TEICHOICSYN4-RXN	NIL
+BETA-UREIDOPROPIONASE-RXN	NIL	"U1_69_9"
+ALDXANAU-RXN	NIL
+4-CARBOXYMUCONOLACTONE-DECARBOXYLASE-RXN	NIL
+GLYRIBONUCSYN-RXN	NIL	"U1_97_18"
+RXN1G-874	NIL
+KDOTRANS2-RXN	NIL
+RXN1G-473	"trehalose-cis-keto-mono-mycolate transport"
+RXN1G-472	"trehalose-trans-methoxy-mono-mycolate transport"
+RXN1G-471	"trans-delta2-cis,cis-delta19,37-C56:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-470	"trehalose-cis-methoxy-mono-mycolate transport"
+RXN1G-474	"trehalose-trans-keto-mono-mycolate transport"
+RXN0-1342	NIL	"U1_150_3"	"U1_168_12"
+RXN1G-276	"trans-delta2-cis,cis-delta17,35-C54:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-279	"cis-delta13-3-hydroxyC32:1-[acyl-carrier protein] dehydratase"
+RXN66-353	"pregnenolone 3-dehydrogenase"	"U1_118_25"
+THIAZOLSYN2-RXN	NIL
+RXN-7968	NIL
+RXN66-354	"progesterone isomerase"
+GLUC1PURIDYLTRANS-RXN	NIL
+RXN-12849	"3-oxocholest-4-en-26-al 26-oxidoreductase"
+RXN-12848	NIL
+PGLUCISOM-RXN	"glucose-6-phosphate isomerase"	"U1_74_1"
+RXN1G-1278	"cis,cis-delta15,33-3-hydroxyC52:2-[acyl-carrier protein] dehydratase"
+RXN1G-384	"cis,cis-delta7,25-3-oxo-C44:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+TYROSINE-DECARBOXYLASE-RXN	NIL
+SULFATE-ADENYLYLTRANS-RXN	NIL	"U1_66_2"	"U1_66_1"
+3.2.1.48-RXN	NIL
+RXN-7784	NIL	"U1_78_28"
+3-ISOPROPYLMALISOM-RXN	"3-isopropylmalate dehydratase"	"U1_44_44"	"U1_44_43"
+OHACYL-COA-DEHYDROG-RXN	NIL
+ACETYLHOMOSER-CYS-RXN	NIL
+PRPPAMIDOTRANS-RXN	NIL	"U1_51_29"
+RXN1G-127	"cis,cis-delta11,23-3-hydroxyC42:2-[acyl-carrier protein] dehydratase"
+RXN1G-499	"3-oxo-lignoceroyl-[acyl-carrier protein] synthase"
+5.5.1.2-RXN	NIL
+IGPSYN-RXN	NIL	"U1_97_15"
+RXN-5821	NIL
+RXN-5822	"NADP phosphatase"
+THIOSULFATE-SULFURTRANSFERASE-RXN	NIL	"U1_43_36"	"U1_118_65"
+RXN-12065	NIL
+NMNNUCLEOSID-RXN	NIL
+RXN3O-3797	NIL
+RXN-4444	NIL
+RXN-4443	NIL
+1.1.1.261-RXN	NIL
+ALANINE-DEHYDROGENASE-RXN	NIL	"U1_44_21"	"U1_44_6"
+GDPKIN-RXN	NIL	"U1_95_4"
+MALATE-DEHYDROGENASE-NADP+-RXN	NIL
+CDPREDUCT-RXN	NIL	"U1_54_23"
+PSII-RXN	NIL
+HYPOXANPRIBOSYLTRAN-RXN	NIL
+RXN-14517	NIL	"U1_156_16"
+RXN-14516	NIL
+RXN-14519	NIL
+RXN-14518	NIL
+BETA-PHOSPHOGLUCOMUTASE-RXN	NIL	"U1_179_27"
+DIHYDROKAEMPFEROL-4-REDUCTASE-RXN	NIL	"U1_78_28"
+2.1.1.19-RXN	NIL
+GMKALT-RXN	NIL
+4.2.1.93-RXN	NIL
+DEOXYINOPHOSPHOR-RXN	NIL	"U1_60_2"
+RXN-8390	NIL
+GLURS-RXN	NIL	"U1_73_50"
+GUANPRIBOSYLTRAN-RXN	NIL
+AIRS-RXN	NIL	"U1_153_5"
+ARGININE-DEIMINASE-RXN	NIL
+METHYLENETHFDEHYDROG-NADP-RXN	NIL
+N-ACETYLTRANSFER-RXN	NIL	"U1_165_78"
+THI-P-SYN-RXN	NIL	"U1_156_7"	"U1_156_6"
+RXN-11587	NIL
+RXN-1824	NIL
+TRYPTOPHAN--TRNA-LIGASE-RXN	NIL	"U1_179_28"
+GLYOXIII-RXN	NIL	"U1_118_61"	"U1_12_7"
+RXN-8889	NIL	"U1_179_14"
+RXN-12610	"thiamine-phosphate diphosphorylase"	"U1_156_7"	"U1_156_6"
+CYSTAGLY-RXN	NIL	"U1_60_29"
+PYRIMSYN3-RXN	NIL	"U1_156_5"
+GLUTSEMIALDEHYDROG-RXN	NIL	"U1_83_14"
+N-ACETYLGLUTPREDUCT-RXN	NIL	"U1_49_8"
+RXN1G-1117	"trans-delta2-cis,cis-delta13,31-C50:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+MANNPISOM-RXN	NIL
+RXN1G-1081	"cis,cis-delta13,31-3-hydroxyC50:2-[acyl-carrier protein] dehydratase"
+PHOSGLYPHOS-RXN	NIL	"U1_172_3"
+ACETYL-COA-CARBOXYLTRANSFER-RXN	NIL	"U1_149_12"	"U1_21_18"	"U1_37_11"	"U1_21_21"
+HISTCYCLOHYD-RXN	NIL	"U1_73_35"
+4.3.1.4-RXN	NIL
+DEOXYADENOSINE-KINASE-RXN	NIL
+1.1.1.209-RXN	"androsterone 3-dehydrogenase"
+RXN-9633	"3-oxo-stearoyl-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-9632	"3-oxo-stearoyl-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN-9635	"<i>trans</i>-octadec-2-enoyl-[acyl-carrier-protein] reductase"	"U1_56_5"	"U1_104_11"
+RXN-9634	"3-hydroxystearoyl-[acyl-carrier protein] dehydratase"	"U1_97_3"
+FMNREDUCT-RXN	NIL	"U1_51_15"
+MALATE-DEH-RXN	NIL	"U1_69_6"
+AMP-DEAMINASE-RXN	NIL
+6.3.2.10-RXN	NIL	"U1_179_5"
+RXN-9023	NIL
+KDO-8PPHOSPHAT-RXN	NIL	"U1_153_12"	"U1_39_25"
+RXN-9025	"maltodextrin phosphorylase"	"U1_96_28"	"U1_96_58"
+1.13.11.25-RXN	NIL
+KETOHEXOKINASE-RXN	NIL
+RXN1G-865	"<i>trans</i>-methoxy-meroacyl transferase"
+RXN1G-866	"cis-keto-meroacyl-transferase"
+RXN1G-867	"<i>trans</i>-keto-meroacyl transferase"
+NAD-SYNTH-NH3-RXN	NIL	"U1_54_5"
+MALYL-COA-LYASE-RXN	NIL
+1.1.1.255-RXN	NIL	"U1_5_10"
+XMPXAN-RXN	"XMP-5'-nucleotidase"	"U1_149_10"
+PHOSPHOGLUCMUT-RXN	NIL
+PPPGPPHYDRO-RXN	NIL
+RXN1G-468	"trans-delta2-cis,cis-delta7,25-C44:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-469	"3-oxobehenoyl-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN1G-262	"cis,cis-delta7,19-3-oxo-C38:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN1G-260	"cis-delta13-3-oxo-C32:1-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN1G-266	"cis-delta9-3-hydroxyC28:1-[acyl-carrier protein] dehydratase"
+FUMARYLACETOACETASE-RXN	NIL	"U1_118_21"
+RXN-12215	NIL	"U1_78_53"
+RXN-11902	NIL	"U1_165_129"	"U1_165_128"
+HOMOCYSMETB12-RXN	NIL	"U1_84_4"
+2PGADEHYDRAT-RXN	NIL	"U1_21_35"
+RXN0-5055	NIL	"U1_149_12"	"U1_21_18"	"U1_37_11"
+3.1.3.57-RXN	NIL
+RXN-12850	"3-oxocholest-4-en-26-ol 26-dehydrogenase"
+P-PANTOCYSLIG-RXN	NIL
+R226-RXN	NIL
+1.1.1.39-RXN	NIL
+RXN1G-396	"trans-delta2-cis-delta15-C34:2-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-395	"trans-eicos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-12104	NIL
+RXN-13455	"<i>N</i>-acetylglutaminylglutamine synthase"
+RXN-13456	"<i>N</i>-acetylglutaminylglutamine amide synthase"	"U1_48_12"
+RXN-12694	"cholest-5-en-3-one isomerase"
+RXN-12691	NIL
+RXN-12693	"cholesterol dehydrogenase"	"U1_118_25"
+GDPPYPHOSKIN-RXN	NIL	"U1_149_34"
+PHOSPHASERDECARB-RXN	NIL	"U1_104_36"	"U1_96_45"
+RXN1G-3993	"C52-&alpha;-meroacyl-[acp] synthetase"
+THI-P-KIN-RXN	NIL	"U1_94_103"
+RXN1G-138	"cis-delta11-3-oxo-C30:1-[acyl-carrier protein] synthase"	"U1_54_19"
+RXN-14857	"thiaminase II"
+2.7.1.149-RXN	NIL
+RIBOFLAVINKIN-RXN	NIL	"U1_94_68"
+RXN1G-645	"3-cis,cis-delta9,27-3-hydroxyC46:2-[acyl-carrier protein] dehydratase"
+RXN-14858	"thiaminase II"
+RXN1G-137	"trehalose-mono-mycolate transport"
+RXN-525	"(+)-dihydrokaempferol 3'-hydroxylase"
+RXN-11002	NIL
+RXN1G-481	"cis,cis-delta15,27-3-oxo-C46:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+LEUCINE--TRNA-LIGASE-RXN	NIL	"U1_96_73"
+DAPASYN-RXN	NIL	"U1_46_3"	"U1_71_21"
+LUMAZINESYN-RXN	NIL
+RXN-4301	NIL
+RXN-0	NIL
+RXN-1	NIL
+RXN-9	NIL
+RXN-8675	"precorrin-1 <em>C</em>-methyltransferase"	"U1_66_4"
+R215-RXN	NIL
+RXN-4230	NIL
+RXN-4231	NIL
+RXN-14500	NIL
+RXN-14506	NIL
+RXN-14507	"2'-hydroxypyridoxol hydratase"
+RXN-4544	NIL
+RXN-4545	NIL
+RXN-4541	NIL
+RXN-4542	NIL
+RXN0-363	NIL
+4.1.1.82-RXN	NIL
+O-SUCCHOMOSERLYASE-RXN	NIL
+RXN-1685	NIL	"U1_95_8"
+PEPCARBOXYKIN-RXN	NIL
+GALACTOKIN-RXN	NIL
+1.8.98.1-RXN	NIL	"U1_27_17"	"U1_27_16"	"U1_27_15"	"U1_78_55"	"U1_27_13"	"U1_27_12"
+RXN0-949	NIL	"U1_27_27"
+RXN0-947	NIL
+H2PTERIDINEPYROPHOSPHOKIN-RXN	NIL	"U1_78_22"
+DXPREDISOM-RXN	NIL	"U1_71_33"
+RXN-9009	NIL
+4.4.1.25-RXN	NIL
+TRIOKINASE-RXN	NIL
+R212-RXN	NIL
+RXN1G-1325	"trans-delta2-cis,cis-delta15,33-C52:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+ACETOLACTSYN-RXN	NIL	"U1_44_39"	"U1_44_38"
+4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN	NIL
+3-DEHYDROQUINATE-SYNTHASE-RXN	NIL	"U1_170_4"
+RXN-9648	"3-oxo-hexanoyl-[acyl-carrier protein] synthase"	"U1_54_19"
+GDPMANDEHYDRA-RXN	NIL	"U1_14_3"
+RXN-9644	NIL	"U1_46_2"	"U1_156_20"	"U1_72_10"
+RXN-9310	NIL	"U1_109_13"
+RXN-9311	NIL
+N-ACETYLNEURAMINATE-SYNTHASE-RXN	NIL	"U1_14_32"	"U1_14_15"	"U1_39_26"
+4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN	NIL
+HOMOSERINE-O-ACETYLTRANSFERASE-RXN	NIL	"U1_44_52"
+TEICHOICSYN8-RXN	NIL
+RXN1G-818	"cis,cis-delta11,29-3-oxo-C48:2-[acyl-carrier protein] synthase"	"U1_165_31"
+RXN-13536	"phenylacetaldehyde reductase"
+RXN-13537	"phenylacetaldoxime hydrolase"
+RXN1G-811	"6-O-trans-keto-mycolyl-trehalose O-mycolyltransferase"
+RXN1G-810	"6-O-cis-keto-mycolyl-trehalose O-mycolyltransferase"
+1.1.1.283-RXN	NIL
+1.5.1.15-RXN	NIL
+RXN0-5330	NIL
+PANTOTHENATE-KIN-RXN	NIL	"U1_170_5"
+HISTIDINE--TRNA-LIGASE-RXN	NIL	"U1_94_76"
+ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	NIL	"U1_78_31"
+RXN1G-252	"cis,cis-delta9,21-3-oxo-C40:2-[acyl-carrier protein] reductase"	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN0-1321	NIL	"U1_66_11"
+D-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN	NIL	"U1_54_11"
+BENZOATE--COA-LIGASE-RXN	NIL
+GLCNACPTRANS-RXN	NIL
+RXN-12867	NIL
+RXN-12865	NIL
+RXN-12864	"Painter reaction"
+3.1.4.11-RXN	NIL
+2.5.1.64-RXN	NIL	"U1_109_20"
+PROTOPORGENOXI-RXN	NIL	"U1_78_49"
+DIAMINOPIMDECARB-RXN	NIL	"U1_133_13"
+RXN-12461	NIL
+RXN-12460	"L-asparaginyl-tRNA<SUP>asn</SUP> hydrolase"	"U1_39_0"
+RXN1G-3613	"cis,cis-&Delta;21,39-C58:2-[acp] reductase"
+RXN-12466	NIL
+OROPRIBTRANS-RXN	NIL	"U1_153_16"
+RXN-13446	NIL
+RXN-12912	NIL
+RXN-13444	NIL
+RXN-13445	NIL
+RXN-13442	NIL
+RXN-13443	NIL	"U1_58_8"	"U1_165_33"	"U1_92_10"
+RXN-13441	NIL
+CHOLOYLGLYCINE-HYDROLASE-RXN	NIL
+RIBOFLAVINSYNDEAM-RXN	NIL	"U1_61_12"	"U1_109_0"
+TRIOSEPISOMERIZATION-RXN	NIL	"U1_152_6"
+RXN-7245	NIL
+DMBPPRIBOSYLTRANS-RXN	NIL	"U1_114_2"
+RXN-12002	NIL	"U1_51_46"	"U1_78_64"

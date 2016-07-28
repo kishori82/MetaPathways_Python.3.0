@@ -1,0 +1,41 @@
+#STEP	ORF_PREDICTION
+ERROR	Missing input /Users/kishori/MetaPathways2.4/MetaPathways_Python.2.5.1/regtests/output/L1/orf_prediction//L1.faa
+#STEP	tRNA_SCAN
+ERROR	Missing input /Users/kishori/MetaPathways2.4/MetaPathways_Python.2.5.1/regtests/output/L1/orf_prediction//L1.unannot.gff
+ERROR	Missing input /Users/kishori/MetaPathways2.4/MetaPathways_Python.2.5.1/regtests/output/L1/genbank//L1.annot.gff
+ERROR	Missing input /Users/kishori/MetaPathways2.4/MetaPathways_Python.2.5.1/regtests/output/L1/orf_prediction//L1.qced.faa
+ERROR	Missing input /Users/kishori/MetaPathways2.4/MetaPathways_Python.2.5.1/regtests/output/L1/genbank//L1.annot.gff
+ERROR	Missing input /Users/kishori/MetaPathways2.4/MetaPathways_Python.2.5.1/regtests/output/L1/orf_prediction//L1.unannot.gff
+ERROR	Missing input placeholder
+#STEP	ORF_PREDICTION
+#STEP	tRNA_SCAN
+#STEP	ANNOTATE_ORFS
+#STEP	CREATE_ANNOT_REPORTS
+#STEP	CALCULATIONS_RPKM
+ERROR	Missing input no sam or fastq files to process [OPTIONAL]
+ERROR	I am just a good time girl
+#STEP	ORF_PREDICTION
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	ORF_PREDICTION
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	COMPUTE_REFSCORE
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	tRNA_SCAN
+#STEP	ANNOTATE_ORFS
+#STEP	CREATE_ANNOT_REPORTS
+#STEP	COMPUTE_RPKM
+ERROR	Missing input no sam or fastq files to process [OPTIONAL]
+#STEP	ORF_PREDICTION
+#STEP	COMPUTE_REFSCORE
+#STEP	tRNA_SCAN
+#STEP	ANNOTATE_ORFS
+#STEP	CREATE_ANNOT_REPORTS
+#STEP	COMPUTE_RPKM
+ERROR	Missing input no sam or fastq files to process [OPTIONAL]

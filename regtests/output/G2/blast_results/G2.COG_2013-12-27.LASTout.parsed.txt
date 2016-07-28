@@ -1,0 +1,4 @@
+#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
+G2_0_1	YIL140w	824	4255	1.0	0.0	823.0	100.0		NULL # Func_class: E Amino acid transport and metabolism # Function: Aminopeptidase N # Organism: Saccharomyces cerevisiae (Sce)
+G2_0_2	YIL139c	246	1287	1.0	3.9e-162	245.0	100.0		NULL # Func_class: E Amino acid transport and metabolism # Function: Aminopeptidase N # Organism: Saccharomyces cerevisiae (Sce)
+G2_0_0	YIL142w	68	324	1.0	4.61e-35	67.0	100.0		COG0459 # Func_class: O Posttranslational modification, protein turnover, chaperones # Function: Chaperonin GroEL (HSP60 family) # Organism: Saccharomyces cerevisiae (Sce)

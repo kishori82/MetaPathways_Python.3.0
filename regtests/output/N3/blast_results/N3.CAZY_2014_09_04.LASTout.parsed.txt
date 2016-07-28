@@ -1,0 +1,6 @@
+#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
+N3_2_1	gi|324323095|gb|ADY30560.1|	336	1100	0.618672665917	3.03e-140	335.0	57.0		glycosyl transferase family 2 [Cellulophaga lytica DSM 7489] [[ADY30560.1]] (GT2)
+N3_2_1	gi|88708024|gb|EAR00262.1|	336	1098	0.617547806524	5.57e-140	335.0	57.0		glycosyl transferase, group 2 family protein [Maribacter sp. HTCC2170] [[EAR00262.1]] (GT2)
+N3_2_1	gi|339734841|emb|CAZ98218.1|	336	1093	0.614735658043	2.55e-139	335.0	58.0		Glycosyltransferase, family GT2 [Zobellia galactanivorans] [[CAZ98218.1]] (GT2)
+N3_2_1	gi|343956262|gb|AEM72061.1|	336	1067	0.600112485939	6.94e-136	335.0	57.0		glycosyl transferase family 2 [Muricauda ruestringensis DSM 13258] [[AEM72061.1]] (GT2)
+N3_2_1	gi|631785942|dbj|BAO77229.1|	336	1063	0.597862767154	2.34e-135	335.0	56.0		dolichol-phosphate mannosyltransferase [Winogradskyella sp. PG-2] [[BAO77229.1]] (GT2)

@@ -1,0 +1,2355 @@
+U1_153_24	U1_153			Type I antifreeze protein 		
+U1_153_25	U1_153			hypothetical protein 		
+U1_153_26	U1_153			UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14) 		
+U1_153_27	U1_153			Modification methylase BsoBI (EC 2.1.1.113) (N(4)- cytosine-specific methyltransferase BsoBI) (M.BsoBI) 		
+U1_153_20	U1_153			CrcB protein 		
+U1_153_21	U1_153			hypothetical protein 		
+U1_153_22	U1_153	COG0001		Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8) 		Glutamate-1-semialdehyde 2,1-aminomutase OS Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) GN hemL PE 3 SV 1 # UNIPROT # Q1AUK6 # GSAAMINOTRANS-RXN # RXYL266117:RXYL_1975-MONOMER # 5.4.3.8
+U1_153_23	U1_153			DNA recombination and repair protein RecO 		
+U1_153_28	U1_153			FIG00990237: hypothetical protein 		
+U1_153_29	U1_153			Type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72) 		
+U1_0_1	U1_0			hypothetical protein 		
+U1_136_2	U1_136	COG1280		hypothetical protein 		
+U1_136_3	U1_136			FIG00496260: hypothetical protein 		
+U1_136_0	U1_136			hypothetical protein 		
+U1_136_1	U1_136			GCN5-related N-acetyltransferase 		
+U1_136_6	U1_136			Stress responsive alpha-beta barrel domain protein Dabb 		
+U1_12_22	U1_12			conserved hypothetical protein 		
+U1_136_4	U1_136	COG2161		Prevent-host-death protein 		
+U1_12_20	U1_12			hypothetical protein 		
+U1_156_16	U1_156	COG0336		tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31) 		
+U1_156_17	U1_156	COG0335		LSU ribosomal protein L19p 		
+U1_136_8	U1_136	COG1145		Ferredoxin 		
+U1_136_9	U1_136	COG1702		Phosphate starvation-inducible protein PhoH, predicted ATPase 		
+U1_156_12	U1_156			ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase 		
+U1_156_13	U1_156	COG0541		Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1) 		
+U1_156_10	U1_156			Collagenase and related proteases 		
+U1_156_11	U1_156			Collagenase and related proteases 		
+U1_138_0	U1_138			Chemotaxis protein methyltransferase CheR (EC 2.1.1.80) 		
+U1_145_11	U1_145			Transketolase, N-terminal section (EC 2.2.1.1) 		
+U1_145_16	U1_145	COG3809		hypothetical protein 		
+U1_63_5	U1_63	COG4226		HicB protein 		
+U1_50_2	U1_50			Glycosyl transferase, family 2 	ACD90223.1	
+U1_50_3	U1_50	COG1611		5.2 Protein of unknown function similar to proteins from other organisms 		
+U1_50_0	U1_50			FIG00498400: hypothetical protein 		
+U1_50_1	U1_50			Chlorophyll a synthase ChlG (EC 2.5.1.62) 		
+U1_50_6	U1_50			hypothetical protein 		
+U1_145_14	U1_145			FIG00495508: hypothetical protein 		
+U1_50_5	U1_50			Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12) / Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11) 		
+U1_43_44	U1_43	COG0474		Cation-transporting ATPase 		
+U1_45_1	U1_45			DNA polymerase III subunits gamma and tau (EC 2.7.7.7) 		
+U1_54_8	U1_54	COG1945		Pyruvoyl-dependent arginine decarboxylase (EC 4.1.1.19) 		Pyruvoyl-dependent arginine decarboxylase 2 OS Methanosarcina mazei (strain ATCC BAA-159 / DSM 3647 / Goe1 / Go1 / JCM 11833 / OCM 88) GN pdaD2 PE 3 SV 1 # UNIPROT # P58890 # ARGDECARBOX-RXN # MMAZ192952:MM2595-MONOMER # 4.1.1.19
+U1_54_9	U1_54	COG0162		Tyrosyl-tRNA synthetase (EC 6.1.1.1) ## cluster 1 [Haemophilus 		Tyrosyl-tRNA synthetase OS Dehalococcoides ethenogenes (strain 195) GN tyrS PE 3 SV 1 # UNIPROT # Q3Z8V6 # TYROSINE--TRNA-LIGASE-RXN # DETH243164:DET_0601-MONOMER # 6.1.1.1
+U1_54_6	U1_54	COG0029		L-aspartate oxidase (EC 1.4.3.16) 		L-aspartate oxidase OS Escherichia coli O157:H7 GN nadB PE 3 SV 1 # UNIPROT # Q8XA23 # L-ASPARTATE-OXID-RXN # ECOL83334:ECS3440-MONOMER # 1.4.3.16
+U1_54_7	U1_54			DedA protein 		
+U1_54_4	U1_54			Periplasmic septal ring factor with murein hydrolase activity EnvC/YibP 		
+U1_54_5	U1_54	COG0171		NAD synthetase (EC 6.3.1.5) 		NH(3)-dependent NAD(+) synthetase OS Geobacter lovleyi (strain ATCC BAA-1151 / DSM 17278 / SZ) GN nadE PE 3 SV 1 # UNIPROT # B3E4K8 # NAD-SYNTH-NH3-RXN # # 6.3.1.5
+U1_54_2	U1_54			Auxin Efflux Carrier 		
+U1_54_3	U1_54	COG0766		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7) 		UDP-N-acetylglucosamine 1-carboxyvinyltransferase OS Uncultured termite group 1 bacterium phylotype Rs-D17 GN murA PE 3 SV 1 # UNIPROT # B1H052 # UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN # # 2.5.1.7
+U1_54_0	U1_54	COG1049		Aconitate hydratase 2 (EC 4.2.1.3) 		Aconitate hydratase 2 OS Pseudomonas aeruginosa GN acnB PE 3 SV 1 # UNIPROT # Q9I2V5 # ACONITATEHYDR-RXN # PAER208964:PA1787-MONOMER # 4.2.1.99 4.2.1.3 4.2.1.3
+U1_54_1	U1_54			hypothetical protein 		
+U1_168_8	U1_168			hypothetical protein 		
+U1_52_8	U1_52			FIG01132818: hypothetical protein 		
+U1_52_9	U1_52			hypothetical protein 		
+U1_52_4	U1_52			COG0028: Thiamine pyrophosphate-requiring enzymes  		
+U1_52_5	U1_52			ThiJ/PfpI domain protein 		
+U1_52_6	U1_52			Lactoylglutathione lyase and related lyases 		
+U1_52_7	U1_52	COG1523		Glycogen debranching enzyme (EC 3.2.1.-) 	ADL50859.1	
+U1_52_1	U1_52			FIG00559246: hypothetical protein 		
+U1_52_3	U1_52			ThiJ/PfpI domain protein 		
+U1_109_38	U1_109			Ribosome small subunit-stimulated GTPase EngC 		
+U1_109_39	U1_109			Succinate-semialdehyde dehydrogenase  (EC 1.2.1.24); Succinate-semialdehyde dehydrogenase  (EC 1.2.1.79) 		
+U1_109_34	U1_109			Chlorophyllide reductase subunit BchY (EC 1.18.-.-) 		
+U1_109_35	U1_109	COG0233		Ribosome recycling factor 		
+U1_109_36	U1_109	COG0254		LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent 		
+U1_109_37	U1_109			ATP-dependent DNA helicase RecG (EC 3.6.1.-) 		
+U1_109_30	U1_109			hypothetical protein 		
+U1_109_31	U1_109			Exodeoxyribonuclease VII large subunit (EC 3.1.11.6) 		
+U1_109_33	U1_109			FIG00495557: hypothetical protein 		
+U1_136_7	U1_136			Ferredoxin 		
+U1_12_21	U1_12			conserved hypothetical protein 		
+U1_21_74	U1_21			alternate gene name: yzbB 		
+U1_136_5	U1_136			D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4) 		
+U1_21_72	U1_21			COG3178: Predicted phosphotransferase related to Ser/Thr protein kinases 		
+U1_21_73	U1_21			Nucleotidyl transferase possibly involved in threonylcarbamoyladenosine formation 		
+U1_21_70	U1_21			FIG00495524: hypothetical protein 		
+U1_21_71	U1_21			Chlorosome protein B; Chlorosome envelope 		
+U1_156_14	U1_156			SSU ribosomal protein S16p 		
+U1_156_15	U1_156			16S rRNA processing protein RimM 		
+U1_165_54	U1_165	COG0505		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5) 		Carbamoyl-phosphate synthase small chain OS Polynucleobacter necessarius (strain STIR1) GN carA PE 3 SV 1 # UNIPROT # B1XUM3 # CARBPSYN-RXN # # 6.3.5.5
+U1_165_55	U1_165			Preprotein translocase subunit YajC (TC 3.A.5.1.1) 		
+U1_165_56	U1_165			YgjD/Kae1/Qri7 family, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA 		
+U1_165_57	U1_165			FIG00497080: hypothetical protein 		
+U1_165_50	U1_165			cytochrome c-555, membrane-bound 		
+U1_165_51	U1_165			BchE/P-methylase family protein 		
+U1_165_52	U1_165			hypothetical protein 		
+U1_165_53	U1_165	COG0075		Serine--glyoxylate aminotransferase (EC 2.6.1.45) 		
+U1_121_10	U1_121			cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases 		
+U1_165_58	U1_165	COG0714		MoxR-like ATPase in aerotolerance operon 		
+U1_165_59	U1_165			hypothetical protein PA3071 		
+U1_94_98	U1_94			Survival protein SurA precursor (Peptidyl-prolyl cis-trans isomerase SurA) (EC 5.2.1.8) 		
+U1_94_99	U1_94			Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77) 		
+U1_94_90	U1_94			Lipid A export ATP-binding/permease protein MsbA 		
+U1_94_91	U1_94			Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.-) 		
+U1_94_92	U1_94	COG2870		ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase 		
+U1_94_93	U1_94			hypothetical protein 		
+U1_94_94	U1_94			Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5) 		
+U1_94_95	U1_94			Uracil-DNA glycosylase, family 4 		
+U1_94_96	U1_94			Replicative DNA helicase (EC 3.6.1.-) 		
+U1_94_97	U1_94			Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9) 		
+U1_94_39	U1_94			Arabinose 5-phosphate isomerase (EC 5.3.1.13) 		Arabinose 5-phosphate isomerase OS Yersinia pestis GN kdsD PE 3 SV 2 # UNIPROT # Q8D1Q8 # DARAB5PISOM-RXN # YPES214092:YPO3577-MONOMER # 5.3.1.13
+U1_58_6	U1_58			Coenzyme F420-reducing hydrogenase related protein 		
+U1_156_18	U1_156			putative metal-dependent hydrolase 		
+U1_58_7	U1_58			Coenzyme F420-reducing hydrogenase related protein 		
+U1_44_1	U1_44			FIG00495573: hypothetical protein 		
+U1_44_0	U1_44	COG0659		Sulfate permease 		
+U1_44_3	U1_44			FIG00495796: hypothetical protein 		
+U1_73_14	U1_73			FIG00496719: hypothetical protein 		
+U1_44_5	U1_44			FIG00495517: hypothetical protein 		
+U1_44_4	U1_44			CrtK protein 		
+U1_44_7	U1_44			hypothetical protein 		
+U1_73_10	U1_73			Chromosome partition protein smc 		
+U1_44_8	U1_44	COG0626		Cystathionine gamma-lyase (EC 4.4.1.1) 		Cystathionine gamma-lyase OS Macaca fascicularis GN CTH PE 2 SV 1 # UNIPROT # Q60HG7 # CYSTAGLY-RXN # # 4.4.1.1
+U1_73_19	U1_73			FIG00495545: hypothetical protein 		
+U1_73_18	U1_73			TsaC protein (YrdC-Sua5 domains) required for threonylcarbamoyladenosine t(6)A37 modification in tRNA 		
+U1_46_7	U1_46	COG0156		8-amino-7-oxononanoate synthase (EC 2.3.1.47) 		Putative 8-amino-7-oxononanoate synthase/2-amino-3-ketobutyrate coenzyme A ligase OS Pasteurella multocida GN PM1901 PE 3 SV 1 # UNIPROT # Q9CJU0 # AKBLIG-RXN # PMUL272843:PM1901-MONOMER # 2.3.1.47 2.3.1.29
+U1_46_6	U1_46			Biotin synthesis protein BioG 		
+U1_46_5	U1_46			Biotin synthesis protein BioC 		
+U1_46_4	U1_46	COG0132		Dethiobiotin synthetase (EC 6.3.3.3) 		ATP-dependent dethiobiotin synthetase BioD 2 OS Pasteurella multocida GN bioD2 PE 3 SV 1 # UNIPROT # Q9CJT7 # DETHIOBIOTIN-SYN-RXN # PMUL272843:PM1904-MONOMER # 6.3.3.3
+U1_46_3	U1_46	COG0161		Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62) 		Adenosylmethionine-8-amino-7-oxononanoate aminotransferase OS Corynebacterium glutamicum GN bioA PE 3 SV 2 # UNIPROT # P46395 # DAPASYN-RXN # CGLU196627:CG2885-MONOMER # 2.6.1.62
+U1_46_2	U1_46			Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3) 		
+U1_46_1	U1_46			Programmed cell death toxin YdcE 		
+U1_46_0	U1_46			Programmed cell death antitoxin YdcD 		
+U1_156_19	U1_156			A/G-specific adenine glycosylase (EC 3.2.2.-) 		
+U1_46_9	U1_46			Biotin operon repressor / Biotin--protein ligase (EC 6.3.4.9, EC 6.3.4.10, EC 6.3.4.11, EC 6.3.4.15) 		
+U1_46_8	U1_46			Biotin synthase (EC 2.8.1.6) 		Biotin synthase OS Chlorobium phaeobacteroides (strain BS1) GN bioB PE 3 SV 1 # UNIPROT # B3EPW2 # 2.8.1.6-RXN # # 2.8.1.6
+U1_78_13	U1_78			FIG010773: NAD-dependent epimerase/dehydratase 		
+U1_58_5	U1_58			FIG00946531: hypothetical protein 		
+U1_2_2	U1_2			Possible restriction endonuclease 		
+U1_106_13	U1_106			Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24) 		
+U1_106_12	U1_106	COG0192		S-adenosylmethionine synthetase (EC 2.5.1.6) 		S-adenosylmethionine synthase OS Treponema pallidum subsp. pallidum (strain SS14) GN metK PE 3 SV 1 # UNIPROT # B2S433 # S-ADENMETSYN-RXN # # 2.5.1.6
+U1_106_11	U1_106	COG0499		Adenosylhomocysteinase (EC 3.3.1.1) 		Adenosylhomocysteinase OS Pseudomonas putida (strain F1 / ATCC 700007) GN ahcY PE 3 SV 1 # UNIPROT # A5WA09 # ADENOSYLHOMOCYSTEINASE-RXN # PPUT351746:PPUT_4849-MONOMER # 3.3.1.1
+U1_106_17	U1_106			FIG00497197: hypothetical protein 		
+U1_106_16	U1_106			FIG00496626: hypothetical protein 		
+U1_106_15	U1_106			Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20) 		Phenylalanyl-tRNA synthetase beta chain OS Chlorobium tepidum GN pheT PE 3 SV 1 # UNIPROT # Q8KEF9 # PHENYLALANINE--TRNA-LIGASE-RXN # CTEP194439:CT_0730-MONOMER # 6.1.1.20
+U1_106_14	U1_106			NUDIX hydrolase 		
+U1_150_10	U1_150			Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1) 		
+U1_150_11	U1_150			Phosphate transport system permease protein PstC (TC 3.A.1.7.1) 		
+U1_106_19	U1_106	COG0131		Histidinol-phosphatase (EC 3.1.3.15) / Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19) 		Histidine biosynthesis bifunctional protein hisB OS Bacteroides thetaiotaomicron GN hisB PE 3 SV 1 # UNIPROT # Q8ABA7 # IMIDPHOSDEHYD-RXN # BTHE226186:BT_0203-MONOMER # 4.2.1.19
+U1_106_18	U1_106			2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16) 		
+U1_178_0	U1_178			hypothetical protein 		
+U1_178_2	U1_178			D12 class N6 adenine-specific DNA methyltransferase 		
+U1_178_3	U1_178			D12 class N6 adenine-specific DNA methyltransferase 		
+U1_94_76	U1_94	COG0124		Histidyl-tRNA synthetase (EC 6.1.1.21) 		Histidyl-tRNA synthetase OS Pelotomaculum thermopropionicum (strain DSM 13744 / JCM 10971 / SI) GN hisS PE 3 SV 1 # UNIPROT # A5D3E2 # HISTIDINE--TRNA-LIGASE-RXN # PTHE370438:PTH_1048-MONOMER # 6.1.1.21
+U1_69_15	U1_69	COG0745		DNA-binding heavy metal response regulator 		
+U1_69_16	U1_69			Sensor protein basS/pmrB (EC 2.7.3.-) 		
+U1_69_17	U1_69			hypothetical protein 		
+U1_48_9	U1_48			sigma54 specific transcriptional regulator, Fis family 		
+U1_48_8	U1_48			Apolipoprotein N-acyltransferase (EC 2.3.1.-) 		
+U1_69_12	U1_69			FIG00496143: hypothetical protein 		
+U1_69_13	U1_69	COG0107		Imidazole glycerol phosphate synthase cyclase subunit (EC 4.1.3.-) 		
+U1_48_5	U1_48			ABC transporter, transmembrane region:ABC transporter 		
+U1_48_4	U1_48	COG0027		Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-) 		Phosphoribosylglycinamide formyltransferase 2 OS Escherichia coli (strain K12) GN purT PE 1 SV 3 # UNIPROT # P33221 # GARTRANSFORMYL2-RXN # MetaCyc:GARTRANSFORMYL2-MONOMER # 2.7.2.1 NIL
+U1_48_7	U1_48			Bacteriochlorophyll a protein 		
+U1_48_6	U1_48			Transcriptional regulator, MerR family 		
+U1_48_1	U1_48			Type III restriction-modification system methylation subunit (EC 2.1.1.72) 		
+U1_48_0	U1_48			type III restriction enzyme, res subunit 		
+U1_48_3	U1_48			Death on curing protein, Doc toxin 		
+U1_94_79	U1_94			Abortive infection protein 		
+U1_92_11	U1_92			FIG00498400: hypothetical protein 		
+U1_43_2	U1_43			COG3178: Predicted phosphotransferase related to Ser/Thr protein kinases 		
+U1_43_0	U1_43			hypothetical protein 		
+U1_43_1	U1_43			Chlorosome protein B; Chlorosome envelope 		
+U1_43_6	U1_43	COG1518		CRISPR-associated protein Cas1 		
+U1_104_18	U1_104	COG0031		Cysteine synthase (EC 2.5.1.47) 		Cysteine synthase OS Streptococcus pyogenes serotype M6 GN cysK PE 1 SV 3 # UNIPROT # Q5XAQ3 # ACSERLY-RXN # SPYO286636:M6_SPY1375-MONOMER # 2.5.1.47
+U1_98_0	U1_98			hypothetical protein 		
+U1_43_5	U1_43	COG1343		CRISPR-associated protein Cas2 		
+U1_104_14	U1_104			NMT1/THI5 like domain protein 		
+U1_104_17	U1_104			Homolog of ABC-type nitrate/sulfonate/taurine/bicarbonate transport systems, ATPase component 		
+U1_104_16	U1_104			PUTATIVE TRANSPORT SYSTEM PERMEASE ABC TRANSPORTER PROTEIN 		
+U1_104_11	U1_104			Enoyl- reductase  (EC 1.3.1.9) 		
+U1_104_10	U1_104			Arsenical pump-driving ATPase (EC 3.6.3.16) 		
+U1_104_13	U1_104			FIG00496243: hypothetical protein 		
+U1_104_12	U1_104	COG2838		Isocitrate dehydrogenase  (EC 1.1.1.42); Monomeric isocitrate dehydrogenase  (EC 1.1.1.42) 		Isocitrate dehydrogenase [NADP] 2 OS Colwellia maris GN icd2 PE 1 SV 3 # UNIPROT # P41561 # ISOCITDEH-RXN # # 1.1.1.42
+U1_165_105	U1_165	COG0198		LSU ribosomal protein L24p (L26e) 		
+U1_165_104	U1_165	COG0093		LSU ribosomal protein L14p (L23e) 		
+U1_13_13	U1_13	COG1278		Cold shock protein CspA 		
+U1_13_12	U1_13			FIG045915: WD-repeat protein 		
+U1_165_101	U1_165	COG0197		LSU ribosomal protein L16p (L10e) 		
+U1_165_100	U1_165	COG0092		SSU ribosomal protein S3p (S3e) 		
+U1_165_103	U1_165	COG0186		SSU ribosomal protein S17p (S11e) 		
+U1_165_102	U1_165			LSU ribosomal protein L29p (L35e) 		
+U1_165_109	U1_165	COG0097		LSU ribosomal protein L6p (L9e) 		
+U1_165_108	U1_165	COG0096		SSU ribosomal protein S8p (S15Ae) 		
+U1_71_24	U1_71			hypothetical protein 		
+U1_71_25	U1_71			Radical SAM 		
+U1_71_26	U1_71			FIG00613894: hypothetical protein 		
+U1_71_27	U1_71			Transcriptional regulator, AraC family 		
+U1_71_20	U1_71			hypothetical protein 		
+U1_71_21	U1_71			Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62) 		
+U1_71_22	U1_71			putative transmembrane protein 		
+U1_71_23	U1_71	COG2873		O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48) 		Protein MET17 OS Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN MET17 PE 1 SV 3 # UNIPROT # P06106 # ACSERLY-RXN # MetaCyc:MONOMER-387 # 2.5.1.47
+U1_71_28	U1_71			hypothetical protein 		
+U1_71_29	U1_71			Nitroreductase family protein 		
+U1_153_33	U1_153			hypothetical protein 		
+U1_153_31	U1_153			hypothetical protein 		
+U1_153_36	U1_153			Type I restriction-modification system, restriction subunit R (EC 3.1.21.3) 		
+U1_153_35	U1_153	COG3668		Death on curing protein, Doc toxin 		
+U1_153_34	U1_153			hypothetical protein 		
+U1_175_0	U1_175			hypothetical protein 		
+U1_153_38	U1_153			Radical SAM 		
+U1_61_14	U1_61	COG2077		Thiol peroxidase, Tpx-type (EC 1.11.1.15) 		
+U1_52_18	U1_52			FIG00559246: hypothetical protein 		
+U1_88_0	U1_88			Type II restriction enzyme PaeR7I (EC 3.1.21.4) (Endonuclease PaeR7I) (R.PaeR7I) 		
+U1_52_16	U1_52			ThiJ/PfpI domain protein 		
+U1_52_14	U1_52			hypothetical protein 		
+U1_52_15	U1_52			COG0028: Thiamine pyrophosphate-requiring enzymes  		
+U1_52_13	U1_52			Carbonic anhydrase (EC 4.2.1.1) 		
+U1_177_0	U1_177			hypothetical protein 		
+U1_171_9	U1_171			PilT protein-like 		
+U1_171_8	U1_171			Type III restriction-modification system StyLTI enzyme mod (EC 2.1.1.72); Type III restriction-modification system methylation subunit (EC 2.1.1.72) 		
+U1_104_35	U1_104			ATPase 		
+U1_171_5	U1_171			protein of unknown function DUF91 		
+U1_171_7	U1_171			Type III restriction-modification enzyme helicase subunit 		
+U1_171_1	U1_171	COG3636		FIG00388510: hypothetical protein 		
+U1_171_0	U1_171			hypothetical protein 		
+U1_171_3	U1_171					
+U1_152_12	U1_152			Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1) 		
+U1_152_13	U1_152			TPR repeat 		
+U1_152_10	U1_152			ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components 		
+U1_173_0	U1_173			Alkyl hydroperoxide reductase subunit C-like protein 		
+U1_152_16	U1_152			PucC protein 		
+U1_152_17	U1_152			Fe-S oxidoreductase 		
+U1_152_14	U1_152			ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components 		
+U1_152_15	U1_152			RecD-like DNA helicase YrrC 		
+U1_152_18	U1_152			hypothetical protein 		
+U1_152_19	U1_152					
+U1_91_7	U1_91	COG1812		Archaeal S-adenosylmethionine synthetase (EC 2.5.1.6) 		Probable S-adenosylmethionine synthase OS Aquifex aeolicus GN mat PE 3 SV 1 # UNIPROT # O67275 # S-ADENMETSYN-RXN # AAEO224324:AQ_1226-MONOMER # 2.5.1.6
+U1_136_14	U1_136	COG0596		Beta-ketoadipate enol-lactone hydrolase, putative 		
+U1_91_5	U1_91			Adenylate cyclase (EC 4.6.1.1) 		
+U1_91_4	U1_91			hypothetical protein 		
+U1_91_3	U1_91			Phosphate transport system regulatory protein PhoU 		
+U1_91_2	U1_91	COG1117		Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1) 		
+U1_91_1	U1_91			Phosphate transport system permease protein PstA (TC 3.A.1.7.1) 		
+U1_91_0	U1_91			Phosphate transport system permease protein PstC (TC 3.A.1.7.1) 		
+U1_91_9	U1_91			MFS family multidrug efflux protein, similarity to bicyclomycin resistance protein Bcr 		
+U1_91_8	U1_91			Cobalt-zinc-cadmium resistance protein 		
+U1_97_5	U1_97			Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4) 		
+U1_97_4	U1_97			CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5) 		
+U1_97_7	U1_97			Prephenate dehydratase (EC 4.2.1.51) # PheAIp/ACT domain 		
+U1_97_6	U1_97	COG0217		FIG000859: hypothetical protein YebC 		
+U1_97_1	U1_97	COG3476		integral membrane protein 		
+U1_97_0	U1_97			hypothetical protein 		
+U1_97_3	U1_97			N-acetylglucosamine deacetylase (EC 3.5.1.-) / 3-hydroxyacyl- dehydratase, FabZ form (EC 4.2.1.59) 	ABL64598.1	
+U1_97_2	U1_97			Inositol-1-monophosphatase (EC 3.1.3.25) 		
+U1_97_9	U1_97			Peptidase, M23/M37 family 		
+U1_97_8	U1_97			DNA polymerase I (EC 2.7.7.7) 		
+U1_95_9	U1_95	COG1043		Acyl---UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129) 		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS Geobacter lovleyi (strain ATCC BAA-1151 / DSM 17278 / SZ) GN lpxA PE 3 SV 1 # UNIPROT # B3E4H5 # UDPNACETYLGLUCOSAMACYLTRANS-RXN # # 2.3.1.129
+U1_95_8	U1_95			Glucokinase (EC 2.7.1.2) 		
+U1_95_3	U1_95			hypothetical protein 		
+U1_95_2	U1_95			FIG01057841: hypothetical protein 		
+U1_95_1	U1_95	COG1720		COG1720: Uncharacterized conserved protein 		
+U1_95_0	U1_95			Mobile element protein 		
+U1_95_7	U1_95			Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy 		
+U1_95_6	U1_95			Ribosomal RNA small subunit methyltransferase E (EC 2.1.1.-) 		
+U1_95_5	U1_95			protein of unknown function UPF0118 		
+U1_95_4	U1_95	COG0105		Nucleoside diphosphate kinase (EC 2.7.4.6) 		
+U1_100_11	U1_100			Septum formation protein Maf 		
+U1_100_10	U1_100			Pantothenate:Na+ symporter (TC 2.A.21.1.1) 		
+U1_64_0	U1_64			hypothetical protein 		
+U1_93_1	U1_93	COG1117		Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1) 		
+U1_54_15	U1_54			Heat shock protein 60 family co-chaperone GroES 		
+U1_54_16	U1_54	COG0379		Quinolinate synthetase (EC 2.5.1.72) 		Quinolinate synthase A OS Prochlorococcus marinus (strain MIT 9313) GN nadA PE 3 SV 1 # UNIPROT # Q7V7S6 # QUINOLINATE-SYNTHA-RXN # PMAR74547:PMT0661-MONOMER # 2.5.1.72
+U1_54_17	U1_54			FIG00495737: hypothetical protein 		
+U1_54_10	U1_54	COG0691		tmRNA-binding protein SmpB 		
+U1_54_11	U1_54			D-lactate dehydrogenase (Cytochrome) (EC 1.1.2.4) 		
+U1_54_12	U1_54			Cell division protein FtsI  (EC 2.4.1.129) 		
+U1_54_13	U1_54			Rod shape-determining protein MreD 		
+U1_93_9	U1_93			Outer membrane receptor for ferric coprogen and ferric-rhodotorulic acid 		
+U1_93_8	U1_93			FIG00497256: hypothetical protein 		
+U1_54_18	U1_54			Pentapeptide repeat 		
+U1_54_19	U1_54			3-oxoacyl-(acyl carrier protein) synthase (EC 2.3.1.41) 		
+U1_109_29	U1_109			3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38) 		3-deoxy-manno-octulosonate cytidylyltransferase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN kdsB PE 3 SV 1 # UNIPROT # B3QTV9 # CPM-KDOSYNTH-RXN # # 2.7.7.38
+U1_109_28	U1_109	COG1490		D-tyrosyl-tRNA(Tyr) deacylase (EC 3.6.1.n1) 		
+U1_78_18	U1_78			Chlorosome protein C 		
+U1_78_19	U1_78			Chlorosome protein A; Bacteriochlorophyll c binding protein 		
+U1_78_16	U1_78			Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1) 		
+U1_109_22	U1_109			TPR domain protein, putative component of TonB system 		
+U1_109_21	U1_109			Menaquinone-specific isochorismate synthase (EC 5.4.4.2) 		
+U1_109_20	U1_109			2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9) 		2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS Chlorobium phaeobacteroides (strain BS1) GN menD PE 3 SV 1 # UNIPROT # B3EMZ5 # 2.5.1.64-RXN # # 2.2.1.9
+U1_109_27	U1_109			COG1872 		
+U1_109_26	U1_109	COG0721		Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7) 		
+U1_109_25	U1_109	COG0372		Citrate synthase (si) (EC 2.3.3.1) 		Citrate synthase OS Corynebacterium glutamicum GN gltA PE 3 SV 1 # UNIPROT # P42457 # CITSYN-RXN # CGLU196627:CG0949-MONOMER # 2.3.3.1
+U1_109_24	U1_109	COG1432		Maebl 		
+U1_21_48	U1_21	COG0108				3,4-dihydroxy-2-butanone 4-phosphate synthase OS Bordetella parapertussis GN ribB PE 3 SV 1 # UNIPROT # Q7W2M1 # DIOHBUTANONEPSYN-RXN # BPAR257311:BPP4385-MONOMER # 4.1.99.12
+U1_21_43	U1_21	COG3636		FIG045511: hypothetical antitoxin (to FIG022160: hypothetical toxin) 		
+U1_21_42	U1_21	COG0334		NAD-specific glutamate dehydrogenase (EC 1.4.1.2) 		NADP-specific glutamate dehydrogenase OS Synechocystis sp. (strain ATCC 27184 / PCC 6803 / N-1) GN gdhA PE 3 SV 1 # UNIPROT # P54386 # GLUTDEHYD-RXN # SSP1148:SLR0710-MONOMER # 1.4.1.4
+U1_21_41	U1_21			Diaminopimelate epimerase (EC 5.1.1.7) 		Diaminopimelate epimerase OS Chlorobium tepidum GN dapF PE 3 SV 1 # UNIPROT # Q8KAX9 # DIAMINOPIMEPIM-RXN # CTEP194439:CT_2021-MONOMER # 5.1.1.7
+U1_80_12	U1_80			conserved hypothetical protein 		
+U1_21_46	U1_21			hypothetical protein 		
+U1_21_45	U1_21			hypothetical protein 		
+U1_21_44	U1_21	COG3657		hypothetical protein 		
+U1_43_11	U1_43			CRISPR-associated helicase Cas3 		
+U1_43_12	U1_43			CRISPR-associated helicase Cas3 		
+U1_69_25	U1_69			HipA protein 		
+U1_69_24	U1_69			hypothetical protein 		
+U1_69_27	U1_69			putative transcriptional regulator, XRE family 		
+U1_165_43	U1_165			Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46) 		
+U1_165_40	U1_165			Universal stress protein family 		
+U1_165_47	U1_165			cytochrome c-555 		
+U1_165_46	U1_165			FIG00941872: hypothetical protein 		
+U1_165_45	U1_165			Pyrroline-5-carboxylate reductase (EC 1.5.1.2) 		
+U1_165_44	U1_165			BatD 		
+U1_69_21	U1_69			TPR repeat 		
+U1_165_48	U1_165			cytochrome c-555 		
+U1_69_23	U1_69			hypothetical protein 		
+U1_121_8	U1_121			drug resistance protein, putative 		
+U1_121_9	U1_121			Vitamin B12 ABC transporter, B12-binding component BtuF 		
+U1_121_6	U1_121			tRNA nucleotidyltransferase (EC 2.7.7.21) (EC 2.7.7.25) 		
+U1_121_7	U1_121			Oxidoreductase, N-terminal:Oxidoreductase, C-terminal 		
+U1_121_5	U1_121	COG0015		Adenylosuccinate lyase (EC 4.3.2.2) 		Adenylosuccinate lyase OS Deinococcus radiodurans GN purB PE 3 SV 1 # UNIPROT # Q9RSE6 # AMPSYN-RXN # DRAD243230:DR_2178-MONOMER # 4.3.2.2 4.3.2.2
+U1_121_3	U1_121			hypothetical protein 		
+U1_121_1	U1_121			hypothetical protein 		
+U1_14_18	U1_14			Aldehyde dehydrogenase B (EC 1.2.1.22) 		
+U1_14_19	U1_14	COG1208		Glucose-1-phosphate cytidylyltransferase (EC 2.7.7.33) 		Probable glucose-1-phosphate cytidylyltransferase OS Bacillus subtilis GN yfnH PE 3 SV 1 # UNIPROT # O06486 # 2.7.7.33-RXN # BSUB:BSU07270-MONOMER # 2.7.7.33
+U1_14_10	U1_14			hypothetical protein 		
+U1_14_11	U1_14			FIG00506624: hypothetical protein 		
+U1_14_12	U1_14			Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-) 		
+U1_14_13	U1_14			Tyrosine-protein kinase Wzc (EC 2.7.10.2) 		
+U1_127_0	U1_127			Dihydrodipicolinate reductase (EC 1.3.1.26) 		
+U1_14_15	U1_14			N-acetylneuraminate synthase (EC 2.5.1.56) 		
+U1_14_16	U1_14					
+U1_14_17	U1_14			2-deoxy-D-gluconate 3-dehydrogenase (EC 1.1.1.125) 		
+U1_165_25	U1_165			hypothetical protein 		
+U1_78_53	U1_78			hydrogenase/sulfur reductase, alpha subunit 		
+U1_165_26	U1_165			conserved hypothetical protein 		
+U1_63_0	U1_63			conserved hypothetical protein 		
+U1_78_51	U1_78			FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8) 		
+U1_155_19	U1_155			Cytotoxic translational repressor of toxin-antitoxin stability system 		
+U1_155_18	U1_155			hypothetical protein 		
+U1_123_0	U1_123	COG3464		Mobile element protein 		
+U1_155_12	U1_155	COG0841		RND efflux system, inner membrane transporter CmeB 		
+U1_155_11	U1_155	COG0845		RND efflux system, membrane fusion protein CmeA 		
+U1_155_10	U1_155			Transcriptional regulator, TetR family 		
+U1_155_17	U1_155			PilT protein domain protein 		
+U1_155_16	U1_155	COG2337		hypothetical protein 		
+U1_155_15	U1_155			hypothetical protein 		
+U1_155_14	U1_155			conserved hypothetical protein 		
+U1_94_43	U1_94			Outer membrane protein assembly factor YaeT precursor 		
+U1_94_42	U1_94	COG0020		Undecaprenyl diphosphate synthase (EC 2.5.1.31) 		Undecaprenyl pyrophosphate synthase OS Geobacter sulfurreducens GN uppS PE 3 SV 1 # UNIPROT # P60482 # RXN-8999 # GSUL243231:GSU_1917-MONOMER # 2.5.1.31
+U1_94_41	U1_94	COG0154		Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7) 		GatA OS Laribacter hongkongensis (strain HLHK9) GN gatA PE 4 SV 1 # UNIPROT # C1D5M9 # 6.3.5.6-RXN # # 6.3.5.6
+U1_94_40	U1_94	COG0074		Succinyl-CoA ligase  alpha chain (EC 6.2.1.5) 		Succinyl-CoA ligase [ADP-forming] subunit alpha, mitochondrial OS Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN LSC1 PE 1 SV 1 # UNIPROT # P53598 # SUCCCOASYN-RXN # # 6.2.1.5
+U1_94_47	U1_94			Electron transfer flavoprotein, beta subunit 		
+U1_94_46	U1_94			Electron transfer flavoprotein, alpha subunit 		
+U1_94_45	U1_94			FIG00654365: hypothetical protein 		
+U1_94_44	U1_94			Tia invasion determinant-related protein precursor 		
+U1_94_49	U1_94			Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17) 		
+U1_94_48	U1_94	COG1158		Transcription termination factor Rho 		
+U1_89_0	U1_89			Retron-type reverse transcriptase [Haemophilus 		
+U1_104_28	U1_104	COG3040		lipoprotein Blc 		
+U1_82_1	U1_82			outer membrane efflux protein 		
+U1_82_0	U1_82			Short-chain dehydrogenase/reductase SDR 		
+U1_104_20	U1_104	COG1692		FIG006542: Phosphoesterase 		
+U1_104_21	U1_104	COG0158		Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11) 		Fructose-1,6-bisphosphatase class 1 OS Sulfurihydrogenibium sp. (strain YO3AOP1) GN fbp PE 3 SV 1 # UNIPROT # B2V6E2 # F16BDEPHOS-RXN # # 3.1.3.11
+U1_104_22	U1_104			Single-stranded-DNA-specific exonuclease RecJ (EC 3.1.-.-) 		
+U1_104_23	U1_104			FIG00495792: hypothetical protein 		
+U1_104_24	U1_104	COG0463		glycosyl transferase 	ACD89722.1	
+U1_104_25	U1_104			4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of PMT family 	ABB27879.1	
+U1_104_26	U1_104			Phosphatidylglycerophosphatase B (EC 3.1.3.27) 		
+U1_104_27	U1_104			Cobalt-zinc-cadmium resistance protein CzcD 		
+U1_165_112	U1_165			LSU ribosomal protein L30p (L7e) 		
+U1_165_113	U1_165			LSU ribosomal protein L15p (L27Ae) 		
+U1_165_110	U1_165	COG0256		LSU ribosomal protein L18p (L5e) 		
+U1_165_111	U1_165	COG0098		SSU ribosomal protein S5p (S2e) 		
+U1_165_117	U1_165	COG0099		SSU ribosomal protein S13p (S18e) 		
+U1_165_114	U1_165	COG0201		Preprotein translocase secY subunit (TC 3.A.5.1.1) 		
+U1_165_115	U1_165	COG0024		Methionine aminopeptidase (EC 3.4.11.18) 		
+U1_165_118	U1_165	COG0100		SSU ribosomal protein S11p (S14e) 		
+U1_165_119	U1_165	COG0522		SSU ribosomal protein S4p (S9e) 		
+U1_71_51	U1_71			FIG00498974: hypothetical protein 		
+U1_71_50	U1_71	COG4737		FIG071147: hypothetical protein 		
+U1_71_53	U1_71			Ribosomal silencing factor RsfA (former Iojap) 		
+U1_71_52	U1_71			DNA-binding protein 		
+U1_71_55	U1_71			Glutamate synthase  large chain (EC 1.4.1.13) 		
+U1_71_54	U1_71	COG0188		DNA gyrase subunit A (EC 5.99.1.3) 		
+U1_71_56	U1_71	COG0504		CTP synthase (EC 6.3.4.2) 		CTP synthase OS Phytoplasma australiense GN pyrG PE 3 SV 1 # UNIPROT # B1VAI9 # CTPSYN-RXN # # 6.3.4.2
+U1_13_15	U1_13			Mobile element protein 		
+U1_124_9	U1_124			Outer membrane autotransporter barrel 		
+U1_124_8	U1_124			Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1) 		
+U1_124_3	U1_124			3'-to-5' exoribonuclease RNase R 		
+U1_124_2	U1_124			hypothetical protein 		
+U1_124_6	U1_124			Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1) 		
+U1_124_5	U1_124			Glutamine amidotransferase class-I (EC 6.3.5.2) 		
+U1_124_4	U1_124	COG0415		Deoxyribodipyrimidine photolyase, type II (EC 4.1.99.3) 		
+U1_13_14	U1_13			Mobile element protein 		
+U1_156_38	U1_156	COG4618				
+U1_156_39	U1_156			secretion protein HlyD family protein 		
+U1_156_31	U1_156			Exonuclease SbcD 		
+U1_156_32	U1_156			Exonuclease SbcC 		
+U1_156_33	U1_156			Probable c-type cytochrome biogenesis protein 		
+U1_156_34	U1_156			Thioredoxin 		
+U1_156_35	U1_156			hypothetical protein 		
+U1_156_36	U1_156			PAS/PAC sensor hybrid histidine kinase 		
+U1_156_37	U1_156	COG4618		ABC exporter for hemopore HasA, ATP-binding component HasD 		
+U1_80_1	U1_80	COG0181		Porphobilinogen deaminase (EC 2.5.1.61) 		Porphobilinogen deaminase OS Pelobacter carbinolicus (strain DSM 2380 / Gra Bd 1) GN hemC PE 3 SV 1 # UNIPROT # Q3A009 # OHMETHYLBILANESYN-RXN # PCAR338963:PCAR_3063-MONOMER # 2.5.1.61
+U1_44_54	U1_44			16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176) 		
+U1_44_57	U1_44	COG1236		Metallo-beta-lactamase family protein, RNA-specific 		
+U1_44_56	U1_44			FIG00495722: hypothetical protein 		
+U1_44_51	U1_44	COG0172		Seryl-tRNA synthetase (EC 6.1.1.11) 		Seryl-tRNA synthetase OS Desulfovibrio magneticus (strain ATCC 700980 / DSM 13731 / RS-1) GN serS PE 3 SV 1 # UNIPROT # C4XHA0 # SERINE--TRNA-LIGASE-RXN # # 6.1.1.11
+U1_44_50	U1_44	COG1610		Transamidase GatB domain protein 		
+U1_44_53	U1_44	COG2873		O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48) 		O-acetylhomoserine sulfhydrylase OS Leptospira meyeri GN metY PE 3 SV 1 # UNIPROT # P94890 # ACETYLHOMOSER-CYS-RXN # MetaCyc:MONOMER-9366 # NIL
+U1_80_6	U1_80	COG4799		Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41) 		Probable propionyl-CoA carboxylase beta chain 5 OS Mycobacterium leprae GN accD5 PE 3 SV 1 # UNIPROT # P53002 # PROPIONYL-COA-CARBOXY-RXN # MLEP272631:ML0731-MONOMER # 6.4.1.3
+U1_80_9	U1_80	COG1883		Oxaloacetate decarboxylase beta chain (EC 4.1.1.3) 		Oxaloacetate decarboxylase beta chain OS Haemophilus ducreyi GN oadB PE 3 SV 1 # UNIPROT # Q9RF98 # OXALODECARB-RXN # HDUC233412:HD_0782-MONOMER # 4.1.1.3
+U1_80_8	U1_80			Biotin carboxyl carrier protein of methylmalonyl-CoA decarboxylase 		
+U1_44_59	U1_44			Lipid IVA 3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)  	ABP37202.1	
+U1_44_58	U1_44	COG0513		DEAD-box ATP-dependent RNA helicase CshA (EC 3.6.4.13) 		
+U1_78_59	U1_78			Collagenase 		
+U1_132_0	U1_132			ATPase 		
+U1_5_17	U1_5			Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-) 		
+U1_5_16	U1_5			Potassium-transporting ATPase C chain (EC 3.6.3.12) (TC 3.A.3.7.1) 		
+U1_5_15	U1_5	COG2216		Potassium-transporting ATPase B chain (EC 3.6.3.12) (TC 3.A.3.7.1) 		
+U1_5_14	U1_5	COG2060		Potassium-transporting ATPase A chain (EC 3.6.3.12) (TC 3.A.3.7.1) 		
+U1_5_12	U1_5			Sensory box histidine kinase 		
+U1_5_11	U1_5	COG2204		Response regulator of zinc sigma-54-dependent two-component system 		
+U1_5_10	U1_5	COG1064		Alcohol dehydrogenase (EC 1.1.1.1) 		Geraniol dehydrogenase 1 OS Ocimum basilicum GN GEDH1 PE 1 SV 1 # UNIPROT # Q2KNL6 # GERANIOL-DEHYDROGENASE-RXN # MetaCyc:MONOMER-13799 # 1.1.1.183
+U1_170_2	U1_170			GMP synthase  (EC 6.3.5.2) 		
+U1_170_3	U1_170			Shikimate kinase I (EC 2.7.1.71) # AroE I 		Shikimate kinase OS Chlorobium phaeobacteroides (strain BS1) GN aroK PE 3 SV 1 # UNIPROT # B3EPX3 # SHIKIMATE-KINASE-RXN # # 2.7.1.71
+U1_134_4	U1_134			ATP-citrate (pro-S-)-lyase, subunit 2 (EC 2.3.3.8) 		
+U1_60_40	U1_60			Protein of unknown function DUF81 		
+U1_60_42	U1_60			Putative cytoplasmic protein 		
+U1_60_43	U1_60			protein of unknown function DUF1568 		
+U1_134_0	U1_134			ATP-dependent DNA helicase 		
+U1_170_9	U1_170			FIG00497117: hypothetical protein 		
+U1_134_2	U1_134			Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-) 		
+U1_134_3	U1_134			ATP-citrate (pro-S-)-lyase, subunit 1 (EC 2.3.3.8) 		
+U1_78_29	U1_78	COG0468		RecA protein 		
+U1_78_28	U1_78			Dihydroflavonol-4-reductase (EC 1.1.1.219) 		
+U1_78_23	U1_78			Dihydroneopterin aldolase (EC 4.1.2.25) 		
+U1_78_22	U1_78			2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3) 		
+U1_78_21	U1_78			Arsenical pump-driving ATPase (EC 3.6.3.16) 		
+U1_78_20	U1_78			FIG00496724: hypothetical protein 		
+U1_78_27	U1_78			Peptidase M16 domain protein 		
+U1_78_26	U1_78			Cell division trigger factor (EC 5.2.1.8) 		
+U1_78_25	U1_78			Holo- synthase (EC 2.7.8.7) 		Holo-[acyl-carrier-protein] synthase OS Chlorobium limicola (strain DSM 245 / NBRC 103803) GN acpS PE 3 SV 1 # UNIPROT # B3EGP9 # HOLO-ACP-SYNTH-RXN # # 2.7.8.7
+U1_179_32	U1_179			hypothetical protein 		
+U1_21_54	U1_21	COG0224		ATP synthase gamma chain (EC 3.6.3.14) 		
+U1_21_55	U1_21	COG0056		ATP synthase alpha chain (EC 3.6.3.14) 		ATP synthase subunit alpha OS Ureaplasma parvum serovar 3 (strain ATCC 27815 / 27 / NCTC 11736) GN atpA PE 3 SV 1 # UNIPROT # B1AIC1 # ATPSYN-RXN # UPAR505682:UPA3_0138-MONOMER # 3.6.3.14
+U1_21_56	U1_21			Homoserine kinase (EC 2.7.1.39) 		Homoserine kinase OS Chlorobium tepidum GN thrB PE 3 SV 1 # UNIPROT # Q8KAW7 # HOMOSERKIN-RXN # CTEP194439:CT_2034-MONOMER # 2.7.1.39
+U1_21_57	U1_21			Threonine synthase (EC 4.2.3.1) 		
+U1_21_50	U1_21			Monofunctional biosynthetic peptidoglycan transglycosylase (EC 2.4.2.-) 	AAM73242.1	
+U1_21_51	U1_21			DNA mismatch repair protein MutL 		
+U1_21_52	U1_21			N-terminal domain of CinA protein, COG1058 / C-terminal domain of CinA type S 		
+U1_21_53	U1_21			Aspartokinase (EC 2.7.2.4) / Homoserine dehydrogenase (EC 1.1.1.3) 		
+U1_21_58	U1_21			1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51) 		
+U1_21_59	U1_21	COG0054		6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78) 		6,7-dimethyl-8-ribityllumazine synthase OS Thermotoga neapolitana (strain ATCC 49049 / DSM 4359 / NS-E) GN ribH PE 3 SV 1 # UNIPROT # B9K7K0 # RIBOFLAVIN-SYN-RXN # # 2.5.1.9
+U1_21_75	U1_21			sodium/iodide co-transporter 		
+U1_72_10	U1_72			Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3) 		
+U1_72_11	U1_72			hypothetical protein 		
+U1_39_59	U1_39	COG1950		FIG028593: membrane protein 		
+U1_39_58	U1_39			2-desacetyl-2-hydroxyethyl bacteriochlorophyllide A dehydrogenase BchC 		
+U1_39_55	U1_39			Histone H1-like protein 		
+U1_39_57	U1_39	COG3845		Putative deoxyribose-specific ABC transporter, ATP-binding protein 		
+U1_39_56	U1_39			ABC transporter, permease protein 		
+U1_39_51	U1_39			Twin-arginine translocation protein TatC 		
+U1_39_50	U1_39			putative esterase 		
+U1_39_53	U1_39			PASTA domain containing protein 		
+U1_39_52	U1_39			Octaprenyl diphosphate synthase (EC 2.5.1.90) / Dimethylallyltransferase (EC 2.5.1.1) / (2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10) / Geranylgeranyl pyrophosphate synthetase (EC 2.5.1.29) 		
+U1_79_20	U1_79			hypothetical protein 		
+U1_31_0	U1_31	COG5659		Transposase 		
+U1_33_2	U1_33			FIG00496393: hypothetical protein 		
+U1_33_1	U1_33			FIG00497069: hypothetical protein 		
+U1_33_0	U1_33			transposase 		
+U1_94_59	U1_94			Outer membrane protein H precursor 		
+U1_94_54	U1_94			Lipoprotein releasing system transmembrane protein lolC 		
+U1_94_55	U1_94			Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2) 		Isopentenyl-diphosphate delta-isomerase OS Chlorobium phaeobacteroides (strain DSM 266) GN fni PE 3 SV 1 # UNIPROT # A1BDG7 # IPPISOM-RXN # # 5.3.3.2
+U1_94_56	U1_94			Octaprenyl diphosphate synthase (EC 2.5.1.90) / Dimethylallyltransferase (EC 2.5.1.1) / (2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10) / Geranylgeranyl diphosphate synthase (EC 2.5.1.29) 		
+U1_94_57	U1_94			Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake 		
+U1_94_50	U1_94			Holliday junction DNA helicase RuvA 		
+U1_94_51	U1_94			SSU ribosomal protein S20p 		
+U1_94_52	U1_94			Phosphomannomutase (EC 5.4.2.8) / Phosphoglucosamine mutase (EC 5.4.2.10) 		
+U1_94_53	U1_94			ABC transporter, transmembrane region:ABC transporter related 		
+U1_165_6	U1_165			LSU ribosomal protein L9p 		
+U1_39_8	U1_39	COG0640		Cadmium efflux system accessory protein 		
+U1_165_4	U1_165			Single-stranded DNA-binding protein 		
+U1_165_5	U1_165			SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent 		
+U1_165_2	U1_165			ADP-heptose--lipooligosaccharide heptosyltransferase II (EC 2.4.1.-) 	ABB23002.1	
+U1_165_3	U1_165			SSU ribosomal protein S6p 		
+U1_165_0	U1_165			4-hydroxybenzoyl-CoA thioesterase family active site 		
+U1_165_1	U1_165			FIG00497095: hypothetical protein 		
+U1_39_1	U1_39			Pyrophosphate-energized proton pump (EC 3.6.1.1) 		
+U1_39_0	U1_39			Peptidyl-tRNA hydrolase (EC 3.1.1.29) 		
+U1_39_3	U1_39			Error-prone repair protein UmuD 		
+U1_39_2	U1_39	COG1077		Rod shape-determining protein MreB 		
+U1_39_5	U1_39			hypothetical protein 		
+U1_39_4	U1_39			Error-prone, lesion bypass DNA polymerase V (UmuC) 		
+U1_165_8	U1_165			COG3245: Cytochrome c5 		
+U1_165_9	U1_165			hypothetical protein 		
+U1_163_0	U1_163			filamentous hemagglutinin family outer membrane protein 		
+U1_71_42	U1_71	COG0004		Ammonium transporter 		
+U1_71_43	U1_71	COG0347		Nitrogen regulatory protein P-II 		
+U1_71_40	U1_71			Bacterioferritin 		
+U1_71_41	U1_71	COG0724		RNA-binding region RNP-1 		
+U1_71_46	U1_71			FIG00496002: hypothetical protein 		
+U1_71_47	U1_71			TsaE protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA 		
+U1_71_44	U1_71			TPR repeat 		
+U1_71_45	U1_71			Segregation and condensation protein A 		
+U1_71_48	U1_71			TsaB protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA 		
+U1_71_49	U1_71	COG2944		Putative DNA-binding protein 		
+U1_161_8	U1_161			Chromosomal replication initiator protein DnaA 		
+U1_161_9	U1_161			DNA polymerase III beta subunit (EC 2.7.7.7) 		
+U1_54_24	U1_54			hypothetical protein 		
+U1_161_2	U1_161			transcriptional regulator, XRE family 		
+U1_161_3	U1_161			ROK family Glucokinase with ambiguous substrate specificity 		
+U1_161_1	U1_161			hypothetical protein 		
+U1_161_6	U1_161			Protein YidD 		
+U1_161_7	U1_161			Ribonuclease P protein component (EC 3.1.26.5) 		
+U1_161_4	U1_161			phosphoesterase, PA-phosphatase related 		
+U1_161_5	U1_161			Inner membrane protein translocase component YidC, long form 		
+U1_36_2	U1_36			hypothetical protein 		
+U1_36_3	U1_36			hypothetical protein 		
+U1_36_0	U1_36			transposase 		
+U1_36_1	U1_36			FIG01197999: hypothetical protein 		
+U1_60_3	U1_60			Hypothetical protein YggS, proline synthase co-transcribed bacterial homolog PROSC 		
+U1_60_2	U1_60	COG0005		Purine nucleoside phosphorylase (EC 2.4.2.1); N-Ribosylnicotinamide phosphorylase (EC 2.4.2.1) ## possible 		
+U1_156_27	U1_156			HigA protein (antitoxin to HigB) 		
+U1_156_26	U1_156			DNA recombination protein RmuC 		
+U1_156_25	U1_156			DegT/DnrJ/EryC1/StrS aminotransferase 		
+U1_156_24	U1_156			Alcohol dehydrogenase (EC 1.1.1.1) 		
+U1_156_23	U1_156			N-Acetylneuraminate cytidylyltransferase (EC 2.7.7.43) 		
+U1_156_22	U1_156			FIG00496378: hypothetical protein 		
+U1_156_21	U1_156			FIG00496014: hypothetical protein 		
+U1_156_20	U1_156			Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3) 		
+U1_156_29	U1_156			hypothetical protein 		
+U1_156_28	U1_156			hypothetical protein 		
+U1_169_3	U1_169			hypothetical protein 		
+U1_169_0	U1_169					
+U1_169_1	U1_169			transcriptional regulator, CopG family 		
+U1_169_4	U1_169			hypothetical protein 		
+U1_44_46	U1_44	COG2003		DNA repair protein RadC 		
+U1_44_47	U1_44			Cold shock protein CspG 		
+U1_44_44	U1_44			3-isopropylmalate dehydratase small subunit (EC 4.2.1.33) 		
+U1_104_34	U1_104	COG1271		Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-) 		
+U1_176_14	U1_176	COG1348		Nitrogenase (molybdenum-iron) reductase and maturation protein NifH 		Nitrogenase iron protein 2 OS Methanococcus thermolithotrophicus GN nifH2 PE 3 SV 2 # UNIPROT # P08625 # NITROGENASE-RXN # # 1.18.6.1
+U1_44_43	U1_44	COG0065		3-isopropylmalate dehydratase large subunit (EC 4.2.1.33) 		3-isopropylmalate dehydratase OS Arabidopsis thaliana GN IIL1 PE 2 SV 1 # UNIPROT # Q94AR8 # RXN-8991 # MetaCyc:AT4G13430-MONOMER # 4.2.1.33 4.2.1.33
+U1_176_16	U1_176			aldo keto reductase 		
+U1_44_41	U1_44	COG0473		3-isopropylmalate dehydrogenase (EC 1.1.1.85) 		3-isopropylmalate dehydrogenase OS Symbiobacterium thermophilum GN leuB PE 3 SV 1 # UNIPROT # Q67JY2 # 3-ISOPROPYLMALDEHYDROG-RXN # STHE292459:STH3035-MONOMER # 1.1.1.85
+U1_176_18	U1_176			Nitrogenase (iron-iron) transcriptional regulator 		
+U1_176_19	U1_176			Homocitrate synthase (EC 2.3.3.14) 		
+U1_104_39	U1_104			membrane-bounded cytochrome biogenesis DsbD/cycZ-like domain 		
+U1_44_49	U1_44			Sepiapterin reductase (EC 1.1.1.153) 		
+U1_179_15	U1_179			COG1496: Uncharacterized conserved protein 		
+U1_179_14	U1_179	COG0427		4-hydroxybutyrate coenzyme A transferase 		Cat3 OS Clostridium kluyveri (strain ATCC 8527 / DSM 555 / NCIMB 10680) GN cat3 PE 4 SV 1 # UNIPROT # A5N390 # R11-RXN # MetaCyc:MONOMER-13474 # NIL
+U1_179_17	U1_179			ATP synthase protein I 		
+U1_179_11	U1_179			Cell division protein FtsQ 		
+U1_179_10	U1_179			UDP-N-acetylmuramate--alanine ligase (EC 6.3.2.8) 		UDP-N-acetylmuramate--L-alanine ligase OS Persephonella marina (strain DSM 14350 / EX-H1) GN murC PE 3 SV 1 # UNIPROT # C0QPY2 # UDP-NACMUR-ALA-LIG-RXN # # 6.3.2.8
+U1_179_13	U1_179			Cell division protein FtsZ (EC 3.4.24.-) 		
+U1_179_12	U1_179			Cell division protein FtsA 		
+U1_179_19	U1_179			ATP synthase F0 sector subunit a (EC 3.6.3.14) 		
+U1_179_18	U1_179			FIG048548: ATP synthase protein I2 		
+U1_51_17	U1_51			Alpha/beta hydrolase fold precursor 		
+U1_51_16	U1_51			regulatory protein, TetR 		
+U1_51_15	U1_51			NADPH-dependent FMN reductase 		
+U1_94_2	U1_94	COG0021		Transketolase (EC 2.2.1.1) 		Transketolase 2 OS Pasteurella multocida GN tktB PE 3 SV 1 # UNIPROT # P57958 # 1TRANSKETO-RXN # PMUL272843:PM1638-MONOMER # 2.2.1.1
+U1_66_6	U1_66	COG4208		Sulfate transport system permease protein CysW 		
+U1_130_9	U1_130			VrlJ 		
+U1_51_13	U1_51			Resolvase/integrase 		
+U1_32_2	U1_32			hypothetical protein 		
+U1_32_3	U1_32			Ribonuclease BN (EC 3.1.-.-) 		
+U1_32_0	U1_32			hypothetical protein 		
+U1_32_1	U1_32			hypothetical protein 		
+U1_51_11	U1_51			Epoxyqueuosine (oQ) reductase QueG 		
+U1_94_6	U1_94			FIG00497079: hypothetical protein 		
+U1_51_10	U1_51			Phytoene desaturase (EC 1.14.99.-) 		
+U1_34_0	U1_34			Retron-type reverse transcriptase 		
+U1_61_30	U1_61			NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3) 		
+U1_61_31	U1_61			NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3) 		
+U1_39_7	U1_39	COG2193		Bacterioferritin 		
+U1_39_6	U1_39			Prevent-host-death protein 		
+U1_130_2	U1_130			VrlQ 		
+U1_130_3	U1_130			conserved hypothetical protein VrlP 		
+U1_134_1	U1_134			possible membrane protein 		
+U1_176_15	U1_176			hypothetical protein 		
+U1_21_21	U1_21	COG0511		Biotin carboxyl carrier protein of acetyl-CoA carboxylase 		
+U1_21_20	U1_21	COG0231		Translation elongation factor P 		
+U1_21_23	U1_21	COG0086		DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6) 		
+U1_21_22	U1_21	COG0439		Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14) 		Biotin carboxylase OS Bacillus halodurans GN accC PE 3 SV 1 # UNIPROT # Q9KDS9 # ACETYL-COA-CARBOXYLTRANSFER-RXN # BHAL272558:BH1132-MONOMER # 6.4.1.2
+U1_21_25	U1_21	COG0222		LSU ribosomal protein L7/L12 (P1/P2) 		
+U1_21_24	U1_21	COG0085		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6) 		
+U1_21_27	U1_21	COG0081		LSU ribosomal protein L1p (L10Ae) 		
+U1_21_26	U1_21			LSU ribosomal protein L10p (P0) 		
+U1_21_29	U1_21			Transcription antitermination protein NusG 		
+U1_21_28	U1_21	COG0080		LSU ribosomal protein L11p (L12e) 		
+U1_104_36	U1_104			hypothetical protein 		
+U1_91_35	U1_91	COG3654		Death on curing protein, Doc toxin 		
+U1_91_34	U1_91			hypothetical protein 		
+U1_91_37	U1_91			Carbonic anhydrase (EC 4.2.1.1) 		
+U1_91_36	U1_91			conserved hypothetical protein 		
+U1_91_31	U1_91			histone-like nucleoid-structuring protein H-NS 		
+U1_91_30	U1_91			carboxyl-terminal protease( EC:3.4.21.102 ) 		
+U1_91_33	U1_91			ankyrin repeat domain protein 		
+U1_91_32	U1_91			FIG00495650: hypothetical protein 		
+U1_83_24	U1_83			hypothetical protein 		
+U1_83_27	U1_83	COG0481		Translation elongation factor LepA 		
+U1_83_26	U1_83			FIG00505459: hypothetical protein 		
+U1_83_21	U1_83			hypothetical protein 		
+U1_83_20	U1_83			Methionyl-tRNA formyltransferase (EC 2.1.2.9) 		
+U1_83_23	U1_83	COG2944		hypothetical protein 		
+U1_83_22	U1_83			transcriptional regulator, XRE family 		
+U1_115_7	U1_115			Thiamin biosynthesis lipoprotein ApbE 		
+U1_115_6	U1_115			Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8) 		
+U1_115_5	U1_115			methyltransferase, putative 		
+U1_115_4	U1_115			Rare lipoprotein A precursor 		
+U1_115_3	U1_115			Rare lipoprotein A 		
+U1_115_2	U1_115	COG3158		Kup system potassium uptake protein 		
+U1_115_1	U1_115			FIG00499144: hypothetical protein 		
+U1_115_0	U1_115			Sensory box histidine kinase 		
+U1_115_8	U1_115			FIG00497775: hypothetical protein 		
+U1_149_33	U1_149	COG0556		Excinuclease ABC subunit B 		
+U1_39_48	U1_39			FIG00496399: hypothetical protein 		
+U1_39_49	U1_39			Dephospho-CoA kinase (EC 2.7.1.24) 		Dephospho-CoA kinase OS Chlorobium chlorochromatii (strain CaD3) GN coaE PE 3 SV 1 # UNIPROT # Q3ARZ7 # DEPHOSPHOCOAKIN-RXN # CCHL340177:CAG_0965-MONOMER # 2.7.1.24
+U1_39_46	U1_39			FIG00495552: hypothetical protein 		
+U1_39_47	U1_39	COG0605		Superoxide dismutase  (EC 1.15.1.1) 		Superoxide dismutase [Mn] 1 OS Bacillus cereus (strain ATCC 14579 / DSM 31) GN sodA1 PE 3 SV 1 # UNIPROT # Q818I1 # SUPEROX-DISMUT-RXN # BCER226900:BC_4272-MONOMER # 1.15.1.1
+U1_39_44	U1_39			conserved hypothetical protein 		
+U1_39_45	U1_39			LSU m5C1962 methyltransferase RlmI 		
+U1_39_42	U1_39			hydrolase, haloacid dehalogenase-like family 		
+U1_39_43	U1_39			COG3118: Thioredoxin domain-containing protein EC-YbbN 		
+U1_39_40	U1_39			conserved hypothetical protein 		
+U1_149_16	U1_149			RNA polymerase sigma factor RpoD 		
+U1_78_35	U1_78			Cystathionine beta-synthase (EC 4.2.1.22) 		
+U1_149_14	U1_149	COG0740		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92) 		
+U1_149_15	U1_149	COG0525		Valyl-tRNA synthetase (EC 6.1.1.9) 		Valyl-tRNA synthetase OS Fusobacterium nucleatum subsp. nucleatum GN valS PE 3 SV 1 # UNIPROT # Q8RHK3 # VALINE--TRNA-LIGASE-RXN # FNUC190304:FN2011-MONOMER # 6.1.1.9
+U1_149_12	U1_149	COG0777		Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2) 		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta OS Methylacidiphilum infernorum (isolate V4) GN accD PE 3 SV 1 # UNIPROT # B3DWQ9 # ACETYL-COA-CARBOXYLTRANSFER-RXN # # 6.4.1.2
+U1_149_13	U1_149	COG1351		Thymidylate synthase thyX (EC 2.1.1.-) 		Probable thymidylate synthase OS Paramecium bursaria Chlorella virus 1 GN A674R PE 1 SV 1 # UNIPROT # O41156 # RXN-8850 # # 2.1.1.148
+U1_149_10	U1_149			5-nucleotidase SurE (EC 3.1.3.5) 		
+U1_149_11	U1_149			putative patatin-like phospholipase 		
+U1_78_38	U1_78			alpha/beta hydrolase fold 		
+U1_78_39	U1_78			FIG00496035: hypothetical protein 		
+U1_149_18	U1_149			FIG01162696: hypothetical protein 		
+U1_149_19	U1_149			hypothetical protein 		
+U1_149_34	U1_149			GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II / Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) 		
+U1_117_1	U1_117			Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly 		
+U1_117_0	U1_117			FIG00497803: hypothetical protein 		
+U1_117_3	U1_117			Phytoene synthase (EC 2.5.1.32) 		
+U1_117_2	U1_117			GTP-binding protein HflX 		
+U1_117_5	U1_117	COG0451		UDP-glucose 4-epimerase (EC 5.1.3.2) 		UDP-glucuronate 4-epimerase 6 OS Arabidopsis thaliana GN GAE6 PE 1 SV 1 # UNIPROT # Q9LIS3 # UDP-GLUCURONATE-4-EPIMERASE-RXN # # 5.1.3.6
+U1_117_4	U1_117	COG1190		Lysyl-tRNA synthetase (class II) (EC 6.1.1.6) 		Lysyl-tRNA synthetase OS Aquifex aeolicus GN lysS PE 3 SV 1 # UNIPROT # O67258 # LYSINE--TRNA-LIGASE-RXN # AAEO224324:AQ_1202-MONOMER # 6.1.1.6
+U1_117_7	U1_117	COG2308		Protein containing domains DUF404, DUF407 		
+U1_117_9	U1_117			Protein containing transglutaminase-like domain, putative cysteine protease 		
+U1_117_8	U1_117			Protein containing domains DUF403 		
+U1_48_21	U1_48			DNA-binding protein, putative 		
+U1_161_22	U1_161			2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117) 		
+U1_26_0	U1_26			hypothetical protein 		
+U1_24_0	U1_24			Mobile element protein 		
+U1_22_1	U1_22			hypothetical protein 		
+U1_22_0	U1_22					
+U1_22_3	U1_22			amino acid transporter-like protein 		
+U1_22_2	U1_22			hypothetical protein 		
+U1_118_8	U1_118			hypothetical protein 		
+U1_118_9	U1_118			conserved hypothetical protein 		
+U1_118_2	U1_118			FIG00877881: hypothetical protein 		
+U1_118_0	U1_118			putative ATP-dependent protease 		
+U1_118_1	U1_118			putative cytoplasmic protein 		
+U1_118_6	U1_118			putative cytoplasmic protein 		
+U1_118_7	U1_118			hypothetical protein 		
+U1_118_4	U1_118			hypothetical protein 		
+U1_118_5	U1_118			hypothetical protein 		
+U1_29_3	U1_29					
+U1_29_0	U1_29			Mobile element protein 		
+U1_29_1	U1_29			hypothetical protein 		
+U1_76_2	U1_76			hypothetical protein 		
+U1_29_4	U1_29	COG3550		hypothetical protein 		
+U1_29_5	U1_29			Metallophosphoesterase 		
+U1_70_0	U1_70	COG1217		GTP-binding protein TypA/BipA 		
+U1_70_1	U1_70			HemX protein, negative effector of steady-state concentration of glutamyl-tRNA reductase 		
+U1_70_2	U1_70			transposase 		
+U1_94_29	U1_94			hypothetical protein 		
+U1_94_28	U1_94			hypothetical protein 		
+U1_110_0	U1_110			FIG00498400: hypothetical protein 		
+U1_155_8	U1_155	COG1396		Helix-turn-helix motif 		
+U1_94_21	U1_94			hypothetical protein 		
+U1_155_2	U1_155			hypothetical protein 		
+U1_94_23	U1_94	COG0655		Iron-sulfur flavoprotein 		
+U1_155_0	U1_155	COG1053		Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1) 		
+U1_155_7	U1_155	COG3550		HIPA PROTEIN 		
+U1_155_6	U1_155			RlpA-like lipoprotein precursor 		
+U1_155_5	U1_155			Carboxylesterase (EC 3.1.1.1) 		
+U1_155_4	U1_155			FIG00498415: hypothetical protein 		
+U1_27_18	U1_27	COG0436		Uncharacterized PLP-dependent aminotransferase YfdZ 		
+U1_27_19	U1_27			NAD(P)HX epimerase / NAD(P)HX dehydratase 		
+U1_27_12	U1_27			Heterodisulfide reductase, cytochrome reductase subunit 		
+U1_27_13	U1_27			heterodisulfide reductase, iron-sulfur binding subunit, putative 		
+U1_27_10	U1_27			hypothetical protein 		
+U1_27_11	U1_27			UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158) 		
+U1_27_16	U1_27	COG1148		CoB--CoM heterodisulfide reductase subunit A (EC 1.8.98.1) 		CoB--CoM heterodisulfide reductase iron-sulfur subunit A 1 OS Methanopyrus kandleri (strain AV19 / DSM 6324 / JCM 9639 / NBRC 100938) GN hdrA1 PE 3 SV 3 # UNIPROT # Q8TYP4 # 1.8.98.1-RXN # # 1.8.98.1
+U1_27_17	U1_27			CoB--CoM heterodisulfide reductase subunit C (EC 1.8.98.1) 		
+U1_27_14	U1_27			Coenzyme F420-reducing hydrogenase, beta subunit 		
+U1_27_15	U1_27	COG1908		CoB--CoM heterodisulfide reductase subunit D (EC 1.8.98.1) 		CoB--CoM heterodisulfide reductase 1 iron-sulfur subunit A OS Methanosarcina mazei (strain ATCC BAA-159 / DSM 3647 / Goe1 / Go1 / JCM 11833 / OCM 88) GN hdrA PE 3 SV 1 # UNIPROT # Q8Q0T0 # 1.8.98.1-RXN # MMAZ192952:MM0056-MONOMER # 1.8.98.1
+U1_43_32	U1_43	COG0841		Acriflavin resistance protein 		
+U1_145_22	U1_145			Radical SAM domain protein 		
+U1_145_21	U1_145			Manganese transport protein MntH 		
+U1_153_1	U1_153			Exopolyphosphatase (EC 3.6.1.11) 		
+U1_153_0	U1_153			SAM-dependent methyltransferases 		
+U1_153_3	U1_153			NLP/P60 family protein 		
+U1_153_2	U1_153			Ribosomal protein L11 methyltransferase (EC 2.1.1.-) 		
+U1_153_5	U1_153	COG0150		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1) 		Phosphoribosylformylglycinamidine cyclo-ligase OS Caldicellulosiruptor saccharolyticus (strain ATCC 43494 / DSM 8903) GN purM PE 3 SV 1 # UNIPROT # A4XKZ4 # AIRS-RXN # # 6.3.3.1
+U1_153_4	U1_153			Aspartokinase (EC 2.7.2.4) 		
+U1_153_7	U1_153	COG0240		Glycerol-3-phosphate dehydrogenase  (EC 1.1.1.94) 		Glycerol-3-phosphate dehydrogenase [NAD(P)+] OS Staphylococcus aureus (strain Newman) GN gpsA PE 3 SV 1 # UNIPROT # A6QH23 # GLYC3PDEHYDROGBIOSYN-RXN # SAUR426430:NWMN_1383-MONOMER # 1.1.1.94
+U1_153_6	U1_153			Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY 		
+U1_153_9	U1_153			Beta-hexosaminidase (EC 3.2.1.52) 	ACF12387.1	
+U1_153_8	U1_153			Phosphohistidine phosphatase SixA 		
+U1_145_26	U1_145			hypothetical protein 		
+U1_151_7	U1_151			Phytoene desaturase, pro-zeta-carotene producing (EC 1.-.-.-) 		
+U1_74_1	U1_74	COG0166		Glucose-6-phosphate isomerase (EC 5.3.1.9) 		Glucose-6-phosphate isomerase, glycosomal OS Trypanosoma brucei brucei GN PGI PE 1 SV 1 # UNIPROT # P13377 # PGLUCISOM-RXN # # 5.3.1.9
+U1_151_5	U1_151			Transcriptional regulator, AsnC family 		
+U1_151_4	U1_151	COG3968		Glutamine synthetase type III, GlnN (EC 6.3.1.2) 		Glutamine synthetase OS Bacteroides fragilis GN glnA PE 3 SV 2 # UNIPROT # P15623 # GLUTAMINESYN-RXN # BFRA295405:BF1040-MONOMER # 6.3.1.2
+U1_151_3	U1_151	COG0432		Uncharacterized protein TM0723 		
+U1_151_2	U1_151			conserved hypothetical protein 		
+U1_151_1	U1_151			Arsenical pump-driving ATPase (EC 3.6.3.16) 		
+U1_74_7	U1_74			conserved hypothetical protein 		
+U1_74_8	U1_74			FIG00497350: hypothetical protein 		
+U1_74_9	U1_74			Retron-type reverse transcriptase [Haemophilus 		
+U1_145_24	U1_145			hypothetical protein 		
+U1_151_9	U1_151			Glycosyltransferase (EC 2.4.1.-) 	ACD89993.1	
+U1_151_8	U1_151			Radical SAM 		
+U1_73_17	U1_73			Phytol kinase (2.7.1.-) 		
+U1_73_16	U1_73			Exopolyphosphatase (EC 3.6.1.11) 		
+U1_73_15	U1_73			Para-aminobenzoate synthase, aminase component (EC 2.6.1.85) / Aminodeoxychorismate lyase (EC 4.1.3.38) 		
+U1_79_5	U1_79			hypothetical protein 		
+U1_79_4	U1_79			FIG00495650: hypothetical protein 		
+U1_44_2	U1_44			Nitrogenase-associated protein NifO 		
+U1_79_1	U1_79			UspA 		
+U1_79_3	U1_79			hypothetical protein 		
+U1_79_2	U1_79	COG1914		Manganese transport protein MntH 		
+U1_73_13	U1_73	COG0177		Endonuclease III (EC 4.2.99.18) 		
+U1_79_8	U1_79			hypothetical protein 		
+U1_73_12	U1_73			Transcription termination protein NusB 		
+U1_73_11	U1_73			Hydrolase, haloacid dehalogenase-like family 		
+U1_44_6	U1_44	COG0686		Alanine dehydrogenase (EC 1.4.1.1) 		Alanine dehydrogenase 1 OS Staphylococcus aureus (strain MSSA476) GN ald1 PE 3 SV 1 # UNIPROT # Q6G9C3 # ALANINE-DEHYDROGENASE-RXN # SAUR282459:SAS1382-MONOMER # 1.4.1.1
+U1_44_73	U1_44	COG4924		FIG005429: hypothetical protein 		
+U1_44_72	U1_44	COG4913		FIG007317: hypothetical protein 		
+U1_104_40	U1_104			Type cbb3 cytochrome oxidase biogenesis protein CcoS, involved in heme b insertion 		
+U1_44_70	U1_44			CBSS-498211.3.peg.1514: hypothetical protein 		
+U1_104_47	U1_104			Cytochrome c oxidase subunit CcoN (EC 1.9.3.1) / Cytochrome c oxidase subunit CcoO (EC 1.9.3.1) 		
+U1_104_44	U1_104			Type cbb3 cytochrome oxidase biogenesis protein CcoG, involved in Cu oxidation 		
+U1_104_45	U1_104			Cytochrome c oxidase subunit CcoP (EC 1.9.3.1) 		
+U1_152_23	U1_152	COG0113		Porphobilinogen synthase (EC 4.2.1.24) 		Delta-aminolevulinic acid dehydratase OS Chlamydia trachomatis GN hemB PE 3 SV 1 # UNIPROT # O84638 # PORPHOBILSYNTH-RXN # # 4.2.1.24
+U1_152_22	U1_152	COG0082		Chorismate synthase (EC 4.2.3.5) # AroG 		Chorismate synthase OS Pelobacter propionicus (strain DSM 2379) GN aroC PE 3 SV 1 # UNIPROT # A1AQL6 # CHORISMATE-SYNTHASE-RXN # # 4.2.3.5
+U1_104_48	U1_104	COG3278		Cytochrome c oxidase subunit CcoN (EC 1.9.3.1) 		Cytochrome c oxidase subunit 1 homolog OS Azorhizobium caulinodans (strain ATCC 43989 / DSM 5975 / ORS 571) GN fixN PE 3 SV 1 # UNIPROT # P98056 # CYTOCHROME-C-OXIDASE-RXN # ACAU438753:AZC_4523-MONOMER # 1.9.3.1
+U1_152_20	U1_152			6-carboxytetrahydropterin synthase (EC 4.1.2.50) @ Queuosine biosynthesis QueD, PTPS-I 		
+U1_179_20	U1_179			ATP synthase F0 sector subunit c 		
+U1_179_21	U1_179			ATP synthase F0 sector subunit b (EC 3.6.3.14) 		
+U1_179_22	U1_179			ATP synthase delta chain (EC 3.6.3.14) 		
+U1_179_24	U1_179			putative lipoprotein 		
+U1_179_25	U1_179			Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18) 		Probable nicotinate-nucleotide adenylyltransferase OS Prosthecochloris aestuarii (strain DSM 271 / SK 413) GN nadD PE 3 SV 1 # UNIPROT # B4S6D9 # NICONUCADENYLYLTRAN-RXN # # 2.7.7.18
+U1_179_26	U1_179			Arginyl-tRNA synthetase (EC 6.1.1.19) 		Arginyl-tRNA synthetase OS Desulfotalea psychrophila GN argS PE 3 SV 1 # UNIPROT # Q6AJJ9 # ARGININE--TRNA-LIGASE-RXN # DPSY177439:DP2752-MONOMER # 6.1.1.19
+U1_179_27	U1_179			Beta-phosphoglucomutase (EC 5.4.2.6) 		
+U1_179_28	U1_179	COG0180		Tryptophanyl-tRNA synthetase (EC 6.1.1.2) 		Tryptophanyl-tRNA synthetase OS Thermotoga maritima GN trpS PE 1 SV 1 # UNIPROT # Q9WYW2 # TRYPTOPHAN--TRNA-LIGASE-RXN # TMAR243274:TM_0492-MONOMER # 6.1.1.2
+U1_179_29	U1_179	COG1899		Deoxyhypusine synthase 		
+U1_43_34	U1_43			Outer membrane protein, RND efflux system precursor 		
+U1_73_3	U1_73			Conserved protein 		
+U1_73_2	U1_73			Ferredoxin 3 fused to uncharacterized domain 		
+U1_73_1	U1_73			TPR repeat 		
+U1_73_0	U1_73	COG1151		Hydroxylamine reductase (EC 1.7.-.-) 		
+U1_73_7	U1_73			peptidase M50 		
+U1_73_6	U1_73			hypothetical protein 		
+U1_73_5	U1_73			FIG00495910: hypothetical protein 		
+U1_73_4	U1_73			SAM (and some other nucleotide) binding motif 		
+U1_73_9	U1_73			FIG00412424: hypothetical protein 		
+U1_73_8	U1_73			Dihydropteroate synthase (EC 2.5.1.15) 		
+U1_118_69	U1_118			FIG00495787: hypothetical protein 		
+U1_118_65	U1_118			Rhodanese domain protein 		
+U1_118_64	U1_118			sterol desaturase 		
+U1_118_67	U1_118			conserved hypothetical protein 		
+U1_118_66	U1_118			DNA polymerase III alpha subunit (EC 2.7.7.7) 		
+U1_118_61	U1_118			conserved hypothetical protein 		
+U1_118_60	U1_118			conserved hypothetical protein 		
+U1_118_63	U1_118			FIG00498761: hypothetical protein 		
+U1_118_62	U1_118			pyridoxamine 5'-phosphate oxidase-related FMN-binding 		
+U1_176_10	U1_176	COG2710		Nitrogenase (molybdenum-iron) beta chain (EC 1.18.6.1) 		Nitrogenase molybdenum-iron protein beta chain OS Methanosarcina barkeri GN nifK2 PE 3 SV 1 # UNIPROT # P51754 # NITROGENASE-RXN # # 1.18.6.1
+U1_176_11	U1_176	COG2710		Nitrogenase (molybdenum-iron) alpha chain (EC 1.18.6.1) 		Nitrogenase molybdenum-iron protein alpha chain OS Methanosarcina barkeri GN nifD2 PE 3 SV 1 # UNIPROT # P55170 # NITROGENASE-RXN # # 1.18.6.1
+U1_176_12	U1_176			Nitrogen regulatory protein P-II 		
+U1_54_26	U1_54			hypothetical protein 		
+U1_176_13	U1_176	COG0347		Nitrogen regulatory protein P-II 		
+U1_44_42	U1_44	COG0119		2-isopropylmalate synthase (EC 2.3.3.13) 		2-isopropylmalate synthase OS Deinococcus radiodurans GN leuA PE 3 SV 1 # UNIPROT # Q9RUA9 # 2-ISOPROPYLMALATESYN-RXN # DRAD243230:DR_1482-MONOMER # 2.3.3.13
+U1_104_32	U1_104			Transport ATP-binding protein CydD 		
+U1_109_19	U1_109			(S)-2,3-di-O-geranylgeranylglyceryl phosphate synthase 		
+U1_44_40	U1_44	COG0059		Ketol-acid reductoisomerase (EC 1.1.1.86) 		Ketol-acid reductoisomerase OS Xylella fastidiosa (strain Temecula1 / ATCC 700964) GN ilvC PE 3 SV 1 # UNIPROT # Q87CM2 # ACETOLACTREDUCTOISOM-RXN # XFAS183190:PD_1043-MONOMER # 1.1.1.86
+U1_176_17	U1_176			histidine kinase 		
+U1_21_32	U1_21			Short-chain dehydrogenase/reductase SDR 		
+U1_21_33	U1_21			1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.1) 		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase OS Chlorobium tepidum GN ispG PE 3 SV 1 # UNIPROT # Q8KG23 # RXN0-882 # CTEP194439:CT_0147-MONOMER # 1.17.7.1
+U1_21_30	U1_21			Preprotein translocase subunit SecE (TC 3.A.5.1.1) 		
+U1_21_36	U1_21			Translation elongation factor G-related protein 		
+U1_21_37	U1_21			Dolichol-phosphate mannosyltransferase 	ABB24816.1	
+U1_21_34	U1_21			FIG00913134: hypothetical protein 		
+U1_21_35	U1_21	COG0148		Enolase (EC 4.2.1.11) 		Enolase OS Desulfotalea psychrophila GN eno PE 3 SV 1 # UNIPROT # Q6AM97 # 2PGADEHYDRAT-RXN # DPSY177439:DP1799-MONOMER # 4.2.1.11
+U1_21_38	U1_21			Photosystem P840 reaction center iron-sulfur subunit PscB 		
+U1_21_39	U1_21			Photosystem P840 reaction center large subunit PscA 		
+U1_39_64	U1_39	COG5405		ATP-dependent protease HslV (EC 3.4.25.-) 		
+U1_39_65	U1_39	COG1220		ATP-dependent hsl protease ATP-binding subunit HslU 		
+U1_39_66	U1_39	COG0757		3-dehydroquinate dehydratase II (EC 4.2.1.10) 		3-dehydroquinate dehydratase OS Carboxydothermus hydrogenoformans (strain Z-2901 / DSM 6008) GN aroQ PE 3 SV 1 # UNIPROT # Q3AAZ0 # 3-DEHYDROQUINATE-DEHYDRATASE-RXN # CHYD246194:CHY_1874-MONOMER # 4.2.1.10
+U1_91_26	U1_91			Rrf2 family transcriptional regulator 		
+U1_91_27	U1_91			Possible alpha/beta hydrolase superfamily, ct0524 homolog 		
+U1_91_24	U1_91			FIG00495614: hypothetical protein 		
+U1_91_25	U1_91	COG0178		Excinuclease ABC subunit A paralog in greater Bacteroides group 		
+U1_91_22	U1_91	COG0459		Heat shock protein 60 family chaperone GroEL 		
+U1_91_23	U1_91	COG0234		Heat shock protein 60 family co-chaperone GroES 		
+U1_91_20	U1_91			Abortive infection protein 		
+U1_91_21	U1_91	COG0603		Queuosine Biosynthesis QueC ATPase 		
+U1_39_60	U1_39	COG1066		DNA repair protein RadA 		
+U1_91_28	U1_91			Organic solvent tolerance protein precursor 		
+U1_39_61	U1_39	COG0190		Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) 		Bifunctional protein FolD OS Rhodopirellula baltica GN folD PE 3 SV 2 # UNIPROT # Q7UNN9 # METHYLENETHFDEHYDROG-NADP-RXN # PSP117:RB7468-MONOMER # 3.5.4.9 1.5.1.5
+U1_39_62	U1_39			hypothetical protein 		
+U1_39_63	U1_39			RNA polymerase sigma-54 factor RpoN 		
+U1_165_98	U1_165	COG0185		SSU ribosomal protein S19p (S15e) 		
+U1_165_99	U1_165			LSU ribosomal protein L22p (L17e) 		
+U1_39_67	U1_39			hypothetical protein 		
+U1_165_90	U1_165	COG0049		SSU ribosomal protein S7p (S5e) 		
+U1_165_91	U1_165	COG0480		Translation elongation factor G 		
+U1_165_92	U1_165	COG0050		Translation elongation factor Tu 		
+U1_165_93	U1_165	COG0051		SSU ribosomal protein S10p (S20e) 		
+U1_165_94	U1_165	COG0087		LSU ribosomal protein L3p (L3e) 		
+U1_165_95	U1_165	COG0088		LSU ribosomal protein L4p (L1e) 		
+U1_165_96	U1_165			LSU ribosomal protein L23p (L23Ae) 		
+U1_165_97	U1_165	COG0090		LSU ribosomal protein L2p (L8e) 		
+U1_78_41	U1_78			Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1) 		
+U1_78_40	U1_78			hypothetical protein 		
+U1_78_43	U1_78			radical SAM domain protein 		
+U1_78_42	U1_78	COG0724		RNA-binding region RNP-1 		
+U1_78_45	U1_78			Chlorosome protein E 		
+U1_78_44	U1_78	COG1137		Lipopolysaccharide ABC transporter, ATP-binding protein LptB 		
+U1_78_47	U1_78			hypothetical protein 		
+U1_78_46	U1_78			TPR repeat:Tetratricopeptide TPR_3 		
+U1_78_49	U1_78			Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4) 		
+U1_78_48	U1_78	COG0663		hypothetical protein 		
+U1_61_6	U1_61			membrane protein, putative 		
+U1_61_7	U1_61			cytosolic long-chain acyl-CoA thioester hydrolase family protein 		
+U1_61_4	U1_61			hypothetical protein 		
+U1_61_5	U1_61			UPF0331 protein MA_1296 		
+U1_61_2	U1_61			hypothetical protein 		
+U1_61_3	U1_61			MFS permease 		
+U1_61_0	U1_61			Thymidylate kinase (EC 2.7.4.9) 		
+U1_61_1	U1_61			PAS 		
+U1_81_30	U1_81			High-affinity leucine-specific transport system, periplasmic binding protein LivK (TC 3.A.1.4.1) 		
+U1_61_8	U1_61			RelB/StbD replicon stabilization protein (antitoxin to RelE/StbE) 		
+U1_61_9	U1_61			addiction module toxin, RelE/StbE family 		
+U1_67_0	U1_67			filamentous hemagglutinin family outer membrane protein 		
+U1_109_8	U1_109			Dihydrodipicolinate reductase (EC 1.3.1.26) 		Dihydrodipicolinate reductase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN dapB PE 3 SV 1 # UNIPROT # B3QYM8 # DIHYDROPICRED-RXN # # 1.3.1.26
+U1_149_31	U1_149			permease YjgP/YjgQ family protein 		
+U1_161_23	U1_161			Carboxyl-terminal protease 		
+U1_149_32	U1_149			ZINC PROTEASE (EC 3.4.99.-) 		
+U1_145_12	U1_145			DedA family protein 		
+U1_145_13	U1_145	COG0152		Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6) 		Phosphoribosylaminoimidazole-succinocarboxamide synthase OS Erythrobacter litoralis (strain HTCC2594) GN purC PE 3 SV 1 # UNIPROT # Q2NCK7 # SAICARSYN-RXN # ELIT314225:ELI_02460-MONOMER # 6.3.2.6
+U1_63_2	U1_63			DNA-binding protein, putative 		
+U1_43_40	U1_43			Phosphoglycolate phosphatase (EC 3.1.3.18) 		
+U1_43_47	U1_43			conserved hypothetical protein 		
+U1_145_17	U1_145			conserved hypothetical protein 		
+U1_43_45	U1_43			FAD linked oxidase domain protein 		
+U1_145_15	U1_145			Endonuclease/exonuclease/phosphatase 		
+U1_63_8	U1_63			prevent-host-death family protein 		
+U1_63_9	U1_63			OsmC/Ohr family protein 		
+U1_145_18	U1_145			Mg2+/Co2+ transporter 		
+U1_145_19	U1_145			Cobalt-zinc-cadmium resistance protein 		
+U1_94_118	U1_94			Domain often clustered or fused with uracil-DNA glycosylase 		
+U1_94_119	U1_94	COG4277		Biotin synthase related domain containing protein 		
+U1_78_54	U1_78			cytochrome-c3 hydrogenase delta chain 		
+U1_68_0	U1_68			putative transcriptional regulator 		
+U1_94_112	U1_94			FIG00913224: hypothetical protein 		
+U1_94_113	U1_94			Predicted ATPase (AAA+ superfamily) 		
+U1_94_110	U1_94			FIG00495551: hypothetical protein 		
+U1_94_111	U1_94	COG0554		Glycerol kinase (EC 2.7.1.30) 		Glycerol kinase OS Leptospira biflexa serovar Patoc (strain Patoc 1 / Ames) GN glpK PE 3 SV 1 # UNIPROT # B0SG67 # GLYCEROL-KIN-RXN # LBIF355278:LBF_1269-MONOMER # 2.7.1.30
+U1_94_116	U1_94			Abortive infection bacteriophage resistance protein 		
+U1_94_117	U1_94			conserved hypothetical protein 		
+U1_94_114	U1_94			Methyltransferase type 11 		
+U1_109_0	U1_109			Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193) 		
+U1_149_39	U1_149			hypothetical protein 		
+U1_78_58	U1_78					
+U1_27_27	U1_27	COG0320		Lipoate synthase 		Lipoyl synthase OS Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) GN lipA PE 3 SV 1 # UNIPROT # Q1AT13 # RXN0-949 # RXYL266117:RXYL_2548-MONOMER # 2.8.1.8
+U1_27_26	U1_27			FIG00496651: hypothetical protein 		
+U1_94_38	U1_94			hypothetical protein 		
+U1_27_24	U1_27			Protein At2g37660, chloroplast precursor 		
+U1_27_23	U1_27			HhH-GPD 		
+U1_27_22	U1_27			Divinyl protochlorophyllide a 8-vinyl-reductase (EC 1.3.1.75) 		
+U1_27_21	U1_27			Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1) 		
+U1_27_20	U1_27	COG0046		Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) 		Phosphoribosylformylglycinamidine synthase 2 OS Bacillus halodurans GN purL PE 3 SV 1 # UNIPROT # Q9KF57 # FGAMSYN-RXN # BHAL272558:BH0629-MONOMER # 6.3.5.3
+U1_94_32	U1_94			Phosphomannomutase (EC 5.4.2.8) 		
+U1_94_33	U1_94			RNA polymerase, sigma-24 subunit, ECF subfamily 		
+U1_94_30	U1_94			hypothetical protein 		
+U1_94_31	U1_94			Lipid-A-disaccharide synthase (EC 2.4.1.182) 	ABB27748.1	
+U1_94_36	U1_94			FIG00496747: hypothetical protein 		
+U1_94_37	U1_94			Polysaccharide biosynthesis protein 		
+U1_94_34	U1_94			FIG00912881: hypothetical protein 		
+U1_94_35	U1_94			hypothetical protein 		
+U1_124_13	U1_124	COG0501		Probable protease htpX homolog (EC 3.4.24.-) 		
+U1_124_12	U1_124			Zn-dependent protease with chaperone function PA4632 		
+U1_124_11	U1_124			hypothetical protein 		
+U1_124_10	U1_124			alpha/beta hydrolase fold 		
+U1_124_15	U1_124			hypothetical protein 		
+U1_150_12	U1_150			Phosphate transport system permease protein PstA (TC 3.A.1.7.1) 		
+U1_64_3	U1_64			Protein of unknown function DUF541 		
+U1_64_2	U1_64			FIG00496223: hypothetical protein 		
+U1_150_13	U1_150	COG1117		Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1) 		
+U1_64_7	U1_64	COG0156		8-amino-7-oxononanoate synthase (EC 2.3.1.47) 		
+U1_64_6	U1_64			hypothetical protein 		
+U1_64_5	U1_64			FIG00496585: hypothetical protein 		
+U1_64_4	U1_64			FIG00497264: hypothetical protein 		
+U1_150_14	U1_150			Phosphate transport system regulatory protein PhoU 		
+U1_64_9	U1_64			FIG00499698: hypothetical protein 		
+U1_64_8	U1_64			Transposase and inactivated derivatives 		
+U1_69_14	U1_69			hypothetical protein 		
+U1_94_77	U1_94			PTS system, fructose-specific IIA component / PTS system, fructose-specific IIB component (EC 2.7.1.69) / PTS system, fructose-specific IIC component 		
+U1_43_23	U1_43			ATPase (AAA+ superfamily)-like 		
+U1_94_74	U1_94			FIG00497798: hypothetical protein 		
+U1_156_41	U1_156			hypothetical protein 		
+U1_156_40	U1_156			Type I secretion outer membrane protein, TolC precursor 		
+U1_156_42	U1_156	COG0031		Cysteine synthase (EC 2.5.1.47) 		Cysteine synthase A OS Escherichia coli (strain K12) GN cysK PE 1 SV 2 # UNIPROT # P0ABK5 # LCYSDESULF-RXN # MetaCyc:ACSERLYA-MONOMER # NIL
+U1_69_10	U1_69			1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74) 		
+U1_69_11	U1_69			Thioredoxin reductase (EC 1.8.1.9) 		Ferredoxin--NADP reductase OS Chlorobium tepidum GN CT1512 PE 1 SV 1 # UNIPROT # Q8KCB2 # 1.18.1.2-RXN # CTEP194439:CT_1512-MONOMER # 1.18.1.2
+U1_94_70	U1_94			Ribosome-binding factor A 		
+U1_94_71	U1_94			Translation initiation factor 2 		
+U1_44_64	U1_44			FIG00914562: hypothetical protein 		
+U1_44_65	U1_44			FIG00969328: hypothetical protein 		
+U1_44_66	U1_44			hypothetical protein 		
+U1_44_60	U1_44			FIG00498510: hypothetical protein 		
+U1_44_61	U1_44			4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262) 		4-hydroxythreonine-4-phosphate dehydrogenase OS Prosthecochloris aestuarii (strain DSM 271 / SK 413) GN pdxA PE 3 SV 1 # UNIPROT # B4S6L0 # 1.1.1.262-RXN # # 1.1.1.262
+U1_44_62	U1_44	COG2884		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1) 		
+U1_44_63	U1_44			FIG00498172: hypothetical protein 		
+U1_97_15	U1_97			Indole-3-glycerol phosphate synthase (EC 4.1.1.48) 		Indole-3-glycerol phosphate synthase OS Legionella pneumophila (strain Corby) GN trpC PE 3 SV 1 # UNIPROT # A5IG82 # IGPSYN-RXN # LPNE400673:LPC_2462-MONOMER # 4.1.1.48
+U1_97_14	U1_97	COG0036		Ribulose-phosphate 3-epimerase (EC 5.1.3.1) 		Ribulose-phosphate 3-epimerase OS Rhodospirillum rubrum GN cbbE PE 3 SV 2 # UNIPROT # P51013 # RIBULP3EPIM-RXN # # 5.1.3.1
+U1_97_17	U1_97			FIG00496122: hypothetical protein 		
+U1_97_16	U1_97	COG0458		Carbamoyl-phosphate synthase large chain (EC 6.3.5.5) 		Carbamoyl-phosphate synthase large chain OS Thermomicrobium roseum (strain ATCC 27502 / DSM 5159 / P-2) GN carB PE 3 SV 1 # UNIPROT # B9KXM5 # CARBPSYN-RXN # # 6.3.5.5
+U1_97_10	U1_97			hypothetical protein 		
+U1_97_13	U1_97			surface antigen (D15) 		
+U1_179_35	U1_179			putative transcriptional regulator 		
+U1_179_34	U1_179			ATP-dependent DNA helicase recG 		
+U1_179_33	U1_179			hypothetical protein 		
+U1_97_18	U1_97	COG0151		Phosphoribosylamine--glycine ligase (EC 6.3.4.13) 		Phosphoribosylamine--glycine ligase OS Chlorobium tepidum GN purD PE 3 SV 1 # UNIPROT # Q8KBV8 # GLYRIBONUCSYN-RXN # CTEP194439:CT_1674-MONOMER # 6.3.4.13
+U1_179_31	U1_179			FIG00858579: hypothetical protein 		
+U1_179_30	U1_179	COG0176		Transaldolase (EC 2.2.1.2) 		Probable transaldolase OS Dehalococcoides ethenogenes (strain 195) GN tal PE 3 SV 1 # UNIPROT # Q3Z6N2 # TRANSALDOL-RXN # DETH243164:DET_1409-MONOMER # 2.2.1.2
+U1_94_78	U1_94			Phosphatidate cytidylyltransferase (EC 2.7.7.41) 		
+U1_48_2	U1_48			Antitoxin of toxin-antitoxin stability system 		
+U1_118_58	U1_118			Metal-dependent hydrolase 		
+U1_118_59	U1_118	COG0652		Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8) 		
+U1_118_50	U1_118			hypothetical protein 		
+U1_118_51	U1_118			hypothetical protein 		
+U1_118_52	U1_118			hypothetical protein 		
+U1_118_53	U1_118			FIG00597205: hypothetical protein 		
+U1_118_54	U1_118			hypothetical protein 		
+U1_118_55	U1_118	COG0778		conserved hypothetical protein 		
+U1_118_56	U1_118			FIG00497474: hypothetical protein 		
+U1_118_57	U1_118	COG1814		hypothetical protein 		
+U1_104_19	U1_104	COG1741		Pirin-like protein YhhW, possibly qercetin 2,3-dioxygenase activity 		
+U1_43_7	U1_43			CRISPR-associated RecB family exonuclease Cas4 		
+U1_78_52	U1_78			DNA topoisomerase type IA zn finger domain protein 		
+U1_91_13	U1_91			Thioesterase superfamily 		
+U1_91_12	U1_91			hypothetical protein 		
+U1_91_11	U1_91			hypothetical protein 		
+U1_91_10	U1_91			haloacid dehalogenase, type II 		
+U1_91_17	U1_91			Glycosyltransferase 	ACD89595.1	
+U1_91_16	U1_91			cyclase/dehydrase 		
+U1_91_15	U1_91			Cinnamoyl-CoA reductase (EC 1.2.1.44) 		
+U1_91_14	U1_91			cyclase/dehydrase 		
+U1_91_19	U1_91			Tryptophan synthase alpha chain (EC 4.2.1.20) 		
+U1_43_8	U1_43			CRISPR-associated protein, Csd2/Csh2 family 		
+U1_43_9	U1_43			CRISPR-associated protein, Csd1 family 		
+U1_165_87	U1_165			hypothetical protein 		
+U1_165_86	U1_165	COG4226		HicB family 		
+U1_165_85	U1_165			FIG00913434: hypothetical protein 		
+U1_165_84	U1_165			Heteropolysaccharide repeat unit export protein 		
+U1_165_83	U1_165			Glycosyl transferase, group 1 precursor 	ABB23061.1	
+U1_165_82	U1_165			FIG00496698: hypothetical protein 		
+U1_165_81	U1_165			Glycosyl transferase, family 2 	ABP36257.1	
+U1_165_80	U1_165			Glycosyl transferase, group 1 	ACD91305.1	
+U1_39_68	U1_39			FIG00495700: hypothetical protein 		
+U1_39_69	U1_39			Helicase PriA essential for oriC/DnaA-independent DNA replication 		
+U1_165_89	U1_165	COG0048		SSU ribosomal protein S12p (S23e) 		
+U1_165_88	U1_165			transcriptional regulator, putative 		
+U1_13_11	U1_13			Glycosyl transferase in Chlorophyll a cluster 	ACE05127.1	
+U1_13_10	U1_13			ATP phosphoribosyltransferase (EC 2.4.2.17) 		ATP phosphoribosyltransferase OS Chlorobium chlorochromatii (strain CaD3) GN hisG PE 3 SV 1 # UNIPROT # Q3AU36 # ATPPHOSPHORIBOSYLTRANS-RXN # CCHL340177:CAG_0211-MONOMER # 2.4.2.17
+U1_165_107	U1_165	COG0199		SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent 		
+U1_149_30	U1_149			FIG00496045: hypothetical protein 		
+U1_109_9	U1_109			FIG00496209: hypothetical protein 		
+U1_78_50	U1_78			MscS Mechanosensitive ion channel 		
+U1_165_106	U1_165	COG0094		LSU ribosomal protein L5p (L11e) 		
+U1_78_56	U1_78			Sulfhydrogenase II subunit b 		
+U1_78_57	U1_78					
+U1_149_36	U1_149	COG1704		LemA family protein 		
+U1_149_37	U1_149			Beta-propeller domains of methanol dehydrogenase type 		
+U1_149_38	U1_149			FIG004694: Hypothetical protein 		
+U1_109_1	U1_109			ATP-binding region, ATPase-like 		
+U1_109_2	U1_109			hypothetical protein 		
+U1_109_3	U1_109			Electron transfer flavoprotein-ubiquinone oxidoreductase (EC 1.5.5.1) 		
+U1_109_4	U1_109	COG2239		Magnesium transporter 		
+U1_109_5	U1_109			DNA-3-methyladenine glycosylase II (EC 3.2.2.21) 		
+U1_109_6	U1_109	COG1192		Chromosome (plasmid) partitioning protein ParA / Sporulation initiation inhibitor protein Soj 		
+U1_109_7	U1_109			Chromosome (plasmid) partitioning protein ParB / Stage 0 sporulation protein J 		
+U1_100_9	U1_100			Ribokinase (EC 2.7.1.15) 		
+U1_100_8	U1_100			alpha-amylase family protein 	ABL65126.1	
+U1_100_1	U1_100			FIG00496642: hypothetical protein 		
+U1_100_0	U1_100			FrrB 		
+U1_100_3	U1_100	COG0111		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95) 		D-3-phosphoglycerate dehydrogenase OS Archaeoglobus fulgidus (strain ATCC 49558 / VC-16 / DSM 4304 / JCM 9628 / NBRC 100126) GN serA PE 3 SV 1 # UNIPROT # O29445 # PGLYCDEHYDROG-RXN # AFUL224325:AF_0813-MONOMER # 1.1.1.95
+U1_100_2	U1_100	COG0722		2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54) 		Phospho-2-dehydro-3-deoxyheptonate aldolase OS Corynebacterium glutamicum GN aroG PE 3 SV 2 # UNIPROT # P35170 # DAHPSYN-RXN # CGLU196627:CG1129-MONOMER # 2.5.1.54
+U1_100_5	U1_100			Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-) 	ABL65128.1	
+U1_100_4	U1_100	COG0003		Arsenical pump-driving ATPase (EC 3.6.3.16) 		
+U1_100_7	U1_100	COG1970		Large-conductance mechanosensitive channel 		
+U1_100_6	U1_100			tRNA pseudouridine synthase A (EC 4.2.1.70) 		
+U1_102_0	U1_102			transposase IS4 family protein 		
+U1_104_9	U1_104	COG2360		Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6) 		
+U1_104_8	U1_104			oxygen-insensitive NAD(P)H nitroreductase / dihydropteridine reductase 		
+U1_104_5	U1_104			alpha amylase, catalytic region 	ABL64728.1	
+U1_104_4	U1_104			Protein of unknown function UPF0047 		
+U1_104_7	U1_104			Glycosyltransferase (EC 2.4.1.-) 	ABB28672.1	
+U1_104_6	U1_104			ATP-dependent DNA helicase UvrD/PcrA 		
+U1_104_1	U1_104			CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5) 		
+U1_104_0	U1_104			Recombination inhibitory protein MutS2 		
+U1_104_3	U1_104	COG1154		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7) 		1-deoxy-D-xylulose-5-phosphate synthase OS Desulfotalea psychrophila GN dxs PE 3 SV 1 # UNIPROT # Q6AJQ1 # DXS-RXN # DPSY177439:DP2700-MONOMER # 2.2.1.7
+U1_104_2	U1_104			Phosphatidylglycerophosphatase A (EC 3.1.3.27) 		
+U1_106_3	U1_106			hypothetical protein 		
+U1_106_2	U1_106	COG1592		Rubrerythrin 		
+U1_106_1	U1_106			sensor histidine kinase/response regulator 		
+U1_106_0	U1_106			yecA family protein 		
+U1_106_7	U1_106	COG0667		Aldo-keto reductase 		
+U1_106_6	U1_106			hypothetical protein 		
+U1_106_5	U1_106			Glutathione-regulated potassium-efflux system protein KefB 		
+U1_106_4	U1_106	COG0724		RNA-binding region RNP-1 		
+U1_106_9	U1_106			Phosphoribosylanthranilate isomerase (EC 5.3.1.24) 		N-(5'-phosphoribosyl)anthranilate isomerase OS Prosthecochloris aestuarii (strain DSM 271 / SK 413) GN trpF PE 3 SV 1 # UNIPROT # B4S715 # PRAISOM-RXN # # 5.3.1.24
+U1_106_8	U1_106			Alpha/beta hydrolase fold (EC 3.8.1.5) 		
+U1_143_0	U1_143			ATP-dependent DNA helicase 		
+U1_19_2	U1_19			HAD-superfamily hydrolase, subfamily IA, variant 3 		
+U1_19_1	U1_19	COG1186		Hypothetical protein YaeJ with similarity to translation release factor 		
+U1_19_0	U1_19			hypothetical protein 		
+U1_13_9	U1_13			UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54) 		
+U1_46_12	U1_46			Ferrous iron transport protein B 		
+U1_46_11	U1_46			DNA topoisomerase I (EC 5.99.1.2) 		
+U1_46_10	U1_46			N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28) 		
+U1_46_17	U1_46			Twin-arginine translocation protein TatA 		
+U1_46_16	U1_46			FIG00499912: hypothetical protein 		
+U1_46_15	U1_46	COG1253		Hemolysins and related proteins containing CBS domains 		
+U1_46_14	U1_46			Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17) 		
+U1_13_1	U1_13			FIG00496226: hypothetical protein 		
+U1_94_100	U1_94			FIG00496604: hypothetical protein 		
+U1_13_3	U1_13	COG1104		Cysteine desulfurase (EC 2.8.1.7) 		Cysteine desulfurase OS Azotobacter vinelandii GN nifS PE 1 SV 4 # UNIPROT # P05341 # RXN0-308 # # 2.8.1.7
+U1_94_102	U1_94	COG0552		Signal recognition particle receptor protein FtsY ( alpha subunit) (TC 3.A.5.1.1) 		
+U1_94_105	U1_94	COG1350		Tryptophan synthase beta chain like (EC 4.2.1.20) 		
+U1_94_104	U1_94	COG1350		Tryptophan synthase beta chain like (EC 4.2.1.20) 		
+U1_13_7	U1_13			Chlorophyll a synthase ChlG (EC 2.5.1.62) 		
+U1_94_106	U1_94	COG0542		ATP-dependent Clp protease ATP-binding subunit ClpA 		
+U1_37_20	U1_37			Amidohydrolase family protein 		
+U1_37_21	U1_37			hypothetical protein 		
+U1_11_3	U1_11			transposase 		
+U1_11_2	U1_11			hypothetical protein 		
+U1_11_1	U1_11			hypothetical protein 		
+U1_11_0	U1_11			Mobile element protein 		
+U1_145_8	U1_145	COG0436		Aspartate aminotransferase (EC 2.6.1.1) 		Aspartate aminotransferase OS Streptomyces virginiae GN aspC PE 3 SV 1 # UNIPROT # Q60013 # ASPAMINOTRANS-RXN # # 2.6.1.1
+U1_145_9	U1_145	COG0669		Phosphopantetheine adenylyltransferase (EC 2.7.7.3) 		Phosphopantetheine adenylyltransferase OS Desulfitobacterium hafniense (strain DCB-2 / DSM 10664) GN coaD PE 3 SV 1 # UNIPROT # B8FTK5 # PANTEPADENYLYLTRAN-RXN # # 2.7.7.3
+U1_17_9	U1_17			alpha/beta hydrolase fold 		
+U1_17_8	U1_17	COG1902		NADH:flavin oxidoreductases, Old Yellow Enzyme family 		
+U1_5_2	U1_5			Sensor protein of zinc sigma-54-dependent two-component system 		
+U1_17_5	U1_17			Probable RND efflux membrane fusion protein 		
+U1_145_1	U1_145			anti-sigma F factor antagonist (spoIIAA-2); anti sigma b factor antagonist RsbV 		
+U1_17_7	U1_17			hypothetical protein 		
+U1_145_3	U1_145	COG2230		Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79) 		Cyclopropane-fatty-acyl-phospholipid synthase OS Escherichia coli (strain K12) GN cfa PE 1 SV 2 # UNIPROT # P0A9H7 # 2.1.1.79-RXN # MetaCyc:CFA-MONOMER # 2.1.1.79
+U1_145_4	U1_145			alternate gene name: yzbB 		
+U1_17_0	U1_17			hypothetical protein 		
+U1_17_3	U1_17			RND efflux system, outer membrane lipoprotein, NodT family 		
+U1_17_2	U1_17			pentapeptide repeat protein 		
+U1_15_2	U1_15			hypothetical protein 		
+U1_15_1	U1_15	COG3549		Plasmid maintenance system killer 		
+U1_15_0	U1_15	COG3093		HigA protein (antitoxin to HigB) 		
+U1_15_6	U1_15			Mobile element protein 		
+U1_147_6	U1_147			Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1) 		
+U1_147_4	U1_147			LMBE-RELATED PROTEIN 	ACD89981.1	
+U1_147_5	U1_147			Outer membrane receptor for ferric coprogen and ferric-rhodotorulic acid 		
+U1_147_2	U1_147			Response regulatory protein 		
+U1_147_3	U1_147	COG0756		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23) 		Deoxyuridine 5'-triphosphate nucleotidohydrolase OS Protochlamydia amoebophila (strain UWE25) GN dut PE 3 SV 1 # UNIPROT # Q6MEK7 # DUTP-PYROP-RXN # CPRO264201:PC0268-MONOMER # 3.6.1.23
+U1_147_0	U1_147			Protein of unknown function DUF472 		
+U1_147_1	U1_147			Chlorosome protein H 		
+U1_5_4	U1_5			hypothetical protein 		
+U1_18_2	U1_18	COG1462		lipoprotein 		
+U1_18_0	U1_18	COG4380		lipoprotein, putative 		
+U1_18_1	U1_18			Probable lipoprotein 		
+U1_44_19	U1_44			Chlorosome protein X 		
+U1_44_18	U1_44			Transcription-repair coupling factor 		
+U1_44_11	U1_44			UPF0301 protein YqgE 		
+U1_44_10	U1_44			hypothetical protein 		
+U1_44_13	U1_44			Nudix hydrolase family protein 		
+U1_44_12	U1_44	COG1225		Thiol peroxidase, Bcp-type (EC 1.11.1.15) 		Bacterioferritin comigratory protein OS Photobacterium profundum 3TCK GN bcp PE 4 SV 1 # UNIPROT # Q1YYP4 # RXN-6701 # # 1.11.1.17
+U1_44_15	U1_44			Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3) 		
+U1_44_14	U1_44			hypothetical protein 		
+U1_44_17	U1_44	COG0444		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1) 		
+U1_44_16	U1_44	COG0745		Phosphate regulon transcriptional regulatory protein PhoB (SphR) 		
+U1_93_10	U1_93			Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1) 		
+U1_60_26	U1_60			Thiazole biosynthesis protein ThiH 		
+U1_78_5	U1_78			Heat shock protein Hsp20 		
+U1_78_6	U1_78			Mg-protoporphyrin IX monomethyl ester oxidative cyclase (anaerobic) (EC 1.14.13.81) 		Anaerobic magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase OS Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 / SB1003) GN bchE PE 3 SV 1 # UNIPROT # P26168 # RXN-8799 # MetaCyc:MONOMER-13265 # NIL NIL NIL
+U1_118_47	U1_118	COG0205		6-phosphofructokinase (EC 2.7.1.11) 		6-phosphofructokinase OS Sulfurihydrogenibium sp. (strain YO3AOP1) GN pfkA PE 3 SV 1 # UNIPROT # B2V7W7 # 6PFRUCTPHOS-RXN # # 2.7.1.11
+U1_118_46	U1_118			hypothetical protein 		
+U1_118_44	U1_118	COG1121		Zinc ABC transporter, ATP-binding protein ZnuC 		
+U1_118_43	U1_118	COG1108		Zinc ABC transporter, inner membrane permease protein ZnuB 		
+U1_118_42	U1_118			Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-) 		
+U1_118_41	U1_118			hypothetical protein 		
+U1_118_40	U1_118	COG3464		Mobile element protein 		
+U1_118_49	U1_118			Divinyl protochlorophyllide a 8-vinyl-reductase (EC 1.3.1.75) 		Putative uncharacterized protein At5g18660/T1A4_40 OS Arabidopsis thaliana GN At5g18660/T1A4_40 PE 2 SV 1 # UNIPROT # Q8GZ86 # RXN1F-72 # MetaCyc:MONOMER-11752 # NIL
+U1_60_23	U1_60	COG0409		 hydrogenase metallocenter assembly protein HypD 		
+U1_78_2	U1_78			hypothetical protein 		
+U1_60_21	U1_60			 hydrogenase metallocenter assembly protein HypF 		
+U1_50_7	U1_50					
+U1_94_101	U1_94			hypothetical protein 		
+U1_115_15	U1_115			hypothetical protein 		
+U1_115_14	U1_115			hypothetical protein 		
+U1_115_13	U1_115			FIG00499952: hypothetical protein 		
+U1_115_12	U1_115			FIG01161442: hypothetical protein 		
+U1_115_11	U1_115			GTPase and tRNA-U34 5-formylation enzyme TrmE 		
+U1_115_10	U1_115			Nucleoside triphosphate pyrophosphohydrolase MazG 		
+U1_58_8	U1_58			3-oxoacyl- reductase (EC 1.1.1.100) 		
+U1_13_2	U1_13			FIG00495477: hypothetical protein 		
+U1_58_2	U1_58			FIG00499611: hypothetical protein 		
+U1_13_5	U1_13			hypothetical protein 		
+U1_58_1	U1_58					
+U1_172_10	U1_172			Putative type IIS restriction /modification enzyme, N-terminal half 		
+U1_172_11	U1_172			putative type IIS restriction/modification enzyme 		
+U1_172_12	U1_172			hypothetical protein 		
+U1_13_4	U1_13			Iron-sulfur cluster assembly scaffold protein IscU/NifU-like 		
+U1_21_18	U1_21	COG0825		Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) 		Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha OS Heliobacterium modesticaldum (strain ATCC 51547 / Ice1) GN accA PE 3 SV 1 # UNIPROT # B0TI32 # ACETYL-COA-CARBOXYLTRANSFER-RXN # HMOD498761:HM1_0080-MONOMER # 6.4.1.2
+U1_21_19	U1_21	COG0776		DNA-binding protein HBsu 		
+U1_94_107	U1_94			FIG00495621: hypothetical protein 		
+U1_21_10	U1_21	COG0582		Integron integrase IntIPac 		
+U1_21_11	U1_21			Phosphoserine phosphatase (EC 3.1.3.3) 		
+U1_56_2	U1_56	COG0493		Glutamate synthase  small chain (EC 1.4.1.13) 		Glutamate synthase [NADH] OS Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN GLT1 PE 1 SV 2 # UNIPROT # Q12680 # GLUTAMATE-SYNTHASE-NADH-RXN # MetaCyc:MONOMER-13146 # 1.4.1.14
+U1_13_6	U1_13			tRNA-i(6)A37 methylthiotransferase 		
+U1_56_4	U1_56	COG0588		Phosphoglycerate mutase (EC 5.4.2.1) 		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase OS Corynebacterium jeikeium (strain K411) GN gpmA PE 3 SV 1 # UNIPROT # Q4JSW4 # 3PGAREARR-RXN # CJEI306537:JK1912-MONOMER # 5.4.2.1
+U1_21_15	U1_21			FIG00496735: hypothetical protein 		
+U1_21_16	U1_21			2-oxoglutarate oxidoreductase, alpha subunit (EC 1.2.7.3) 		
+U1_21_17	U1_21	COG1013		2-oxoglutarate oxidoreductase, beta subunit (EC 1.2.7.3) 		
+U1_83_14	U1_83	COG0014		Gamma-glutamyl phosphate reductase (EC 1.2.1.41) 		Gamma-glutamyl phosphate reductase OS Bacteroides vulgatus (strain ATCC 8482 / DSM 1447 / NCTC 11154) GN proA PE 3 SV 1 # UNIPROT # A6KXU8 # GLUTSEMIALDEHYDROG-RXN # # 1.2.1.41
+U1_83_15	U1_83			Glutamate 5-kinase (EC 2.7.2.11) 		Glutamate 5-kinase OS Bacteroides thetaiotaomicron GN proB PE 3 SV 1 # UNIPROT # Q8A1E7 # GLUTKIN-RXN # BTHE226186:BT_3719-MONOMER # 2.7.2.11
+U1_83_16	U1_83	COG2076		small multidrug resistance protein 		
+U1_83_17	U1_83			Na+/H+ antiporter 		
+U1_83_10	U1_83			hypothetical protein 		
+U1_83_11	U1_83			Transcriptional regulator AbrB 		
+U1_83_12	U1_83	COG1136		Lipoprotein releasing system ATP-binding protein LolD 		
+U1_83_13	U1_83			FIG00911803: hypothetical protein 		
+U1_91_39	U1_91			TonB family protein 		
+U1_83_19	U1_83			Peptide deformylase (EC 3.5.1.88) 		
+U1_91_38	U1_91			conserved hypothetical protein 		
+U1_39_11	U1_39	COG2217		Cu+ P-type ATPase 		
+U1_39_10	U1_39			hypothetical protein 		
+U1_39_13	U1_39			hypothetical protein 		
+U1_39_12	U1_39			hypothetical protein 		
+U1_39_15	U1_39			Sensor protein zraS (EC 2.7.3.-) 		
+U1_39_14	U1_39	COG2204		two component, sigma54 specific, transcriptional regulator, Fis family 		
+U1_39_17	U1_39			putative cytoplasmic protein 		
+U1_81_15	U1_81			DNA-damage-inducible protein D 		
+U1_39_19	U1_39	COG1115		Sodium/glycine symporter GlyP 		
+U1_39_18	U1_39	COG4108		Peptide chain release factor 3 		
+U1_81_18	U1_81			hypothetical protein 		
+U1_81_19	U1_81			conserved hypothetical protein 		
+U1_94_75	U1_94			conserved hypothetical protein 		
+U1_152_11	U1_152			ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components 		
+U1_149_29	U1_149			FIG00859689: hypothetical protein 		
+U1_149_28	U1_149			hypothetical protein 		
+U1_78_67	U1_78			GTP-binding protein Era 		
+U1_149_26	U1_149			FIG00913354: hypothetical protein 		
+U1_78_65	U1_78	COG0539		SSU ribosomal protein S1p 		
+U1_78_64	U1_78			Cytidylate kinase (EC 2.7.4.14) 		
+U1_149_23	U1_149	COG2336		Programmed cell death antitoxin MazE 		
+U1_78_62	U1_78	COG0796		Glutamate racemase (EC 5.1.1.3) 		Glutamate racemase OS Geobacter metallireducens (strain GS-15 / ATCC 53774 / DSM 7210) GN murI PE 3 SV 1 # UNIPROT # Q39Y84 # GLUTRACE-RXN # GMET269799:GMET_0547-MONOMER # 5.1.1.3
+U1_149_21	U1_149			hypothetical protein 		
+U1_78_60	U1_78			Formate dehydrogenase-O, major subunit (EC 1.2.1.2) 		
+U1_51_9	U1_51			Beta-lactamase class C and other penicillin binding proteins 		
+U1_51_8	U1_51			VpsC protein 		
+U1_51_3	U1_51			Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.15) 		
+U1_51_2	U1_51	COG0854		Pyridoxine 5'-phosphate synthase (EC 2.6.99.2) 		Pyridoxine 5'-phosphate synthase OS Synechococcus sp. (strain RCC307) GN pdxJ PE 3 SV 1 # UNIPROT # A5GU97 # PDXJ-RXN # # 2.6.99.2
+U1_51_1	U1_51			ATP-dependent DNA helicase 		
+U1_51_7	U1_51			Methionine ABC transporter ATP-binding protein 		
+U1_94_72	U1_94			Transcription termination protein NusA 		
+U1_51_5	U1_51			COG0613, Predicted metal-dependent phosphoesterases (PHP family) 		
+U1_51_4	U1_51			Undecaprenyl-diphosphatase (EC 3.6.1.27) 		
+U1_148_8	U1_148			transcriptional regulator, CopG family 		
+U1_148_5	U1_148			FIG00498773: hypothetical protein 		
+U1_148_4	U1_148			conserved hypothetical protein 		
+U1_148_7	U1_148					
+U1_148_1	U1_148			hypothetical protein 		
+U1_148_3	U1_148			Plasmid stabilization system 		
+U1_148_2	U1_148			hypothetical protein 		
+U1_94_73	U1_94			COG0779: clustered with transcription termination protein NusA 		
+U1_61_25	U1_61			NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3) 		
+U1_145_0	U1_145			tRNA dimethylallyltransferase (EC 2.5.1.75) 		tRNA dimethylallyltransferase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN miaA PE 3 SV 1 # UNIPROT # B3QUD7 # RXN0-6274 # # 2.5.1.75
+U1_61_27	U1_61			NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3) 		
+U1_61_26	U1_61	COG0377		NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3) 		NADH-ubiquinone oxidoreductase 19.3 kDa subunit, mitochondrial OS Neurospora crassa GN G17A4.170 PE 2 SV 1 # UNIPROT # O47950 # NADH-DEHYDROG-A-RXN # NCRA-XX3-01:NCRA-XX3-01-007701-MONOMER # 1.6.5.3
+U1_61_21	U1_61			FIG00496018: hypothetical protein 		
+U1_61_20	U1_61	COG0537		probable bis(5'-adenosyl)-triphosphatase, HIT family 		
+U1_61_23	U1_61			TPR domain protein 		
+U1_17_4	U1_17			RND efflux system, inner membrane transporter CmeB 		
+U1_43_43	U1_43			NUDIX hydrolase 		
+U1_61_29	U1_61			NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3) 		
+U1_61_28	U1_61	COG0649		NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3) 		
+U1_17_6	U1_17			Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63) 		
+U1_91_6	U1_91			Chromosome partitioning protein ParA 		
+U1_60_1	U1_60			Methylthioribose-1-phosphate isomerase (EC 5.3.1.23) 		Methylthioribose-1-phosphate isomerase OS Chlorobium tepidum GN mtnA PE 3 SV 1 # UNIPROT # Q8KBH1 # 5.3.1.23-RXN # CTEP194439:CT_1816-MONOMER # 5.3.1.23
+U1_17_1	U1_17			Ferredoxin--NADP(+) reductase (EC 1.18.1.2) 		
+U1_145_28	U1_145			ATPase 		
+U1_145_5	U1_145			Methionyl-tRNA synthetase (EC 6.1.1.10) 		Methionyl-tRNA synthetase OS Flavobacterium johnsoniae (strain ATCC 17061 / DSM 2064 / UW101) GN metG PE 3 SV 1 # UNIPROT # A5FLM7 # METHIONINE--TRNA-LIGASE-RXN # FJOH376686:FJOH_0857-MONOMER # 6.1.1.10
+U1_145_6	U1_145			Signal peptidase-like protein 		
+U1_43_42	U1_43	COG0566		tRNA (Guanosine18-2'-O-) -methyltransferase (EC 2.1.1.34) 		
+U1_145_7	U1_145			phospholipid/glycerol acyltransferase 		
+U1_53_4	U1_53			hypothetical protein 		
+U1_53_1	U1_53			FIG00498552: hypothetical protein 		
+U1_53_0	U1_53			Helix-turn-helix motif 		
+U1_53_3	U1_53			hypothetical protein 		
+U1_53_2	U1_53			hypothetical protein 		
+U1_130_8	U1_130			hypothetical protein BVU_3741 		
+U1_43_29	U1_43	COG0446		sulfide-quinone reductase 		
+U1_43_28	U1_43	COG0607		Rhodanese-related sulfurtransferase 		
+U1_43_41	U1_43			no significant homology. 		
+U1_43_21	U1_43			conserved hypothetical protein 		
+U1_43_20	U1_43			Helix-turn-helix motif 		
+U1_39_9	U1_39			Transporter 		
+U1_43_22	U1_43			hypothetical protein 		
+U1_43_25	U1_43			M. jannaschii predicted coding region MJ0455 		
+U1_43_24	U1_43	COG0655		Multimeric flavodoxin WrbA family protein 		
+U1_43_27	U1_43			sulfide-quinone reductase 		
+U1_176_21	U1_176			Modification methylase XamI (EC 2.1.1.72) (Adenine-specific methyltransferase XamI) (M.XamI) 		
+U1_155_25	U1_155			Filamentation induced by cAMP protein Fic 		
+U1_94_10	U1_94			SERINE PROTEASE (EC 3.4.21.-) 		
+U1_94_11	U1_94	COG1012		Aldehyde dehydrogenase (EC 1.2.1.3) 		
+U1_94_12	U1_94	COG0861		Integral membrane protein TerC 		
+U1_94_13	U1_94			ATP-dependent protease La (EC 3.4.21.53) Type II 		
+U1_94_14	U1_94			UspA domain protein 		
+U1_94_15	U1_94			DNA modification methylase 		
+U1_37_19	U1_37	COG0191		Fructose-bisphosphate aldolase class II (EC 4.1.2.13) 		Fructose-bisphosphate aldolase OS Treponema pallidum GN fba PE 3 SV 1 # UNIPROT # O83668 # F16ALDOLASE-RXN # TPAL243276:TP_0662-MONOMER # 4.1.2.13
+U1_37_18	U1_37			carboxyl-terminal protease( EC:3.4.21.102 ) 		
+U1_37_17	U1_37	COG0330		Putative stomatin/prohibitin-family membrane protease subunit aq_911 		
+U1_37_16	U1_37			Universal stress protein family 		
+U1_37_15	U1_37			serine/threonine kinase 		
+U1_37_14	U1_37	COG1703		putative periplasmic protein kinase ArgK and related GTPases of G3E family 		
+U1_37_13	U1_37	COG1884		Methylmalonyl-CoA mutase (EC 5.4.99.2) 		Methylmalonyl-CoA mutase, mitochondrial OS Homo sapiens GN MUT PE 1 SV 4 # UNIPROT # P22033 # METHYLMALONYL-COA-MUT-RXN # # 5.4.99.2
+U1_37_12	U1_37			Methylmalonyl-CoA mutase (EC 5.4.99.2) 		
+U1_37_11	U1_37			acetyl-CoA carboxylase alpha subunit-like protein 		
+U1_37_10	U1_37	COG0346		Methylmalonyl-CoA epimerase (EC 5.1.99.1) 		
+U1_153_47	U1_153			esterase/lipase, putative 		
+U1_149_4	U1_149			Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24) 		
+U1_48_19	U1_48			Pentapeptide repeat family protein 		
+U1_48_18	U1_48					
+U1_96_18	U1_96			Biopolymer transport protein ExbD/TolR 		
+U1_149_5	U1_149	COG0512		Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85) 		Anthranilate synthase component 2 OS Phycomyces blakesleeanus GN trp1 PE 4 SV 1 # UNIPROT # P20409 # PRAISOM-RXN # # 4.1.3.27 4.1.1.48 5.3.1.24
+U1_48_15	U1_48	COG0450		Alkyl hydroperoxide reductase subunit C-like protein 		
+U1_96_17	U1_96			Ferric siderophore transport system, periplasmic binding protein TonB 		
+U1_48_17	U1_48			CopG-like DNA-binding 		
+U1_48_16	U1_48	COG0442		Prolyl-tRNA synthetase (EC 6.1.1.15) 		Prolyl-tRNA synthetase 2 OS Anaeromyxobacter dehalogenans (strain 2CP-C) GN proS2 PE 3 SV 1 # UNIPROT # Q2ILX2 # PROLINE--TRNA-LIGASE-RXN # ADEH290397:ADEH_0024-MONOMER # 6.1.1.15
+U1_96_12	U1_96			hypothetical protein 		
+U1_96_13	U1_96	COG1252		NADH dehydrogenase (EC 1.6.99.3) 		
+U1_48_13	U1_48	COG2252		Xanthine/uracil/thiamine/ascorbate permease family protein 		
+U1_96_11	U1_96	COG3542		FIG018171: hypothetical protein of Cupin superfamily 		
+U1_149_7	U1_149			hypothetical protein 		
+U1_149_0	U1_149			FIG00495650: hypothetical protein 		
+U1_149_1	U1_149			conserved hypothetical protein 		
+U1_78_34	U1_78			Alanine racemase (EC 5.1.1.1) 		Alanine racemase OS Chlorobium tepidum GN alr PE 3 SV 1 # UNIPROT # Q8KB67 # ALARACECAT-RXN # CTEP194439:CT_1922-MONOMER # 5.1.1.1
+U1_149_2	U1_149			protein tyrosine phosphatase 		
+U1_149_3	U1_149			Transcription regulator  		
+U1_78_36	U1_78			FIG00497292: hypothetical protein 		
+U1_78_37	U1_78			5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19) # AroF 		3-phosphoshikimate 1-carboxyvinyltransferase OS Chlorobium chlorochromatii (strain CaD3) GN aroA PE 3 SV 1 # UNIPROT # Q3AQ41 # 2.5.1.19-RXN # CCHL340177:CAG_1631-MONOMER # 2.5.1.19
+U1_161_28	U1_161			Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13) 		
+U1_78_30	U1_78			tRNA dihydrouridine synthase B (EC 1.-.-.-) 		
+U1_78_31	U1_78	COG0136		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11) 		Aspartate-semialdehyde dehydrogenase OS Streptococcus mutans GN asd PE 3 SV 2 # UNIPROT # P10539 # ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN # SMUT210007:SMU_989-MONOMER # 1.2.1.11
+U1_78_32	U1_78			FIG00496227: hypothetical protein 		
+U1_78_33	U1_78			ComEA-related protein 		
+U1_39_74	U1_39			Putative esterase 		
+U1_69_19	U1_69			hypothetical protein 		
+U1_117_11	U1_117			hypothetical protein 		
+U1_117_10	U1_117			hypothetical protein 		
+U1_117_13	U1_117	COG0500		SAM-dependent methyltransferase DSY4148 (UbiE paralog) 		
+U1_117_12	U1_117			GCN5-related N-acetyltransferase 		
+U1_117_15	U1_117			UbiA prenyltransferase 		
+U1_117_14	U1_117			Transcriptional regulator, TetR family 		
+U1_117_17	U1_117			hypothetical protein 		
+U1_117_16	U1_117					
+U1_145_20	U1_145			Cation transport ATPase 		
+U1_97_33	U1_97			hypothetical protein 		
+U1_97_32	U1_97			FIG00778536: hypothetical protein 		
+U1_97_31	U1_97			hypothetical protein 		
+U1_97_30	U1_97			hypothetical protein 		
+U1_97_37	U1_97			Transcriptional activator RfaH 		
+U1_97_36	U1_97			major facilitator superfamily MFS_1 		
+U1_97_35	U1_97			Addiction module toxin, Txe/YoeB 		
+U1_97_39	U1_97			hypothetical protein 		
+U1_97_38	U1_97			putative cytoplasmic protein 		
+U1_78_55	U1_78			cytochrome-c3 hydrogenase gamma chain 		
+U1_118_32	U1_118			Exodeoxyribonuclease V beta chain (EC 3.1.11.5) ## RecB 		
+U1_118_33	U1_118			Exodeoxyribonuclease V gamma chain (EC 3.1.11.5) ## RecC 		
+U1_118_30	U1_118			hypothetical protein 		
+U1_118_31	U1_118			Exodeoxyribonuclease V alpha chain (EC 3.1.11.5) ## RecD 		
+U1_118_36	U1_118	COG0281		NADP-dependent malic enzyme (EC 1.1.1.40) 		Probable NADP-dependent malic enzyme OS Rickettsia prowazekii GN RP373 PE 3 SV 1 # UNIPROT # Q9ZDF6 # MALIC-NADP-RXN # RPRO272947:RP373-MONOMER # 1.1.1.40
+U1_118_37	U1_118	COG0513		ATP-dependent RNA helicase RhlE 		
+U1_118_34	U1_118	COG0776		DNA-binding protein HU-beta 		
+U1_118_35	U1_118			Cold shock protein CspG 		
+U1_118_39	U1_118			Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-) 		
+U1_179_5	U1_179			UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase (EC 6.3.2.10) 		
+U1_179_4	U1_179			UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13) 		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase OS Chlorobium tepidum GN murE PE 3 SV 1 # UNIPROT # Q8KGC9 # UDP-NACMURALGLDAPLIG-RXN # CTEP194439:CT_0039-MONOMER # 6.3.2.13
+U1_179_7	U1_179			UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9) 		UDP-N-acetylmuramoylalanine--D-glutamate ligase OS Chlorobium chlorochromatii (strain CaD3) GN murD PE 3 SV 1 # UNIPROT # Q3ANV5 # UDP-NACMURALA-GLU-LIG-RXN # CCHL340177:CAG_0053-MONOMER # 6.3.2.9
+U1_179_6	U1_179	COG0472		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) 		Phospho-N-acetylmuramoyl-pentapeptide-transferase OS Thermodesulfovibrio yellowstonii (strain ATCC 51303 / DSM 11347 / YP87) GN mraY PE 3 SV 1 # UNIPROT # B5YFT8 # RXN-8975 # # 2.7.8.13
+U1_179_1	U1_179			rRNA small subunit methyltransferase H # 16S rRNA m(4) C1402 methyltransferase 		
+U1_179_0	U1_179			Cell division protein MraZ 		
+U1_179_3	U1_179			Cell division protein FtsI  (EC 2.4.1.129) 		
+U1_179_2	U1_179			FIG00496022: hypothetical protein 		
+U1_145_2	U1_145			Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79) 		
+U1_179_9	U1_179			UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227) 	ABL66705.1	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN murG PE 3 SV 1 # UNIPROT # B3QWT7 # RXN-8976 # # 2.4.1.227
+U1_179_8	U1_179			Cell division protein FtsW 		
+U1_99_0	U1_99			hypothetical protein 		
+U1_176_6	U1_176			Ferredoxin, 2Fe-2S 		
+U1_176_7	U1_176			Nitrogenase FeMo-cofactor synthesis FeS core scaffold and assembly protein NifB 		
+U1_176_4	U1_176			Molybdenum ABC transporter, periplasmic molybdenum-binding protein ModA (TC 3.A.1.8.1) 		
+U1_176_2	U1_176			Molybdenum transport ATP-binding protein ModC (TC 3.A.1.8.1) 		
+U1_176_3	U1_176	COG4149		Molybdenum transport system permease protein ModB (TC 3.A.1.8.1) 		
+U1_176_0	U1_176			hypothetical protein 		
+U1_176_1	U1_176			Molybdenum transport system protein ModD 		
+U1_176_8	U1_176			Nitrogenase FeMo-cofactor scaffold and assembly protein NifN 		
+U1_176_9	U1_176	COG2710		Nitrogenase FeMo-cofactor scaffold and assembly protein NifE 		
+U1_170_4	U1_170			3-dehydroquinate synthase (EC 4.2.3.4) # AroB 		3-dehydroquinate synthase OS Chlorobium tepidum GN aroB PE 3 SV 1 # UNIPROT # Q8KCK9 # 3-DEHYDROQUINATE-SYNTHASE-RXN # CTEP194439:CT_1406-MONOMER # 4.2.3.4
+U1_170_5	U1_170			Pantothenate kinase type III, CoaX-like (EC 2.7.1.33) 		Type III pantothenate kinase OS Chlorobium chlorochromatii (strain CaD3) GN coaX PE 3 SV 1 # UNIPROT # Q3AR95 # PANTOTHENATE-KIN-RXN # CCHL340177:CAG_1218-MONOMER # 2.7.1.33
+U1_170_6	U1_170			FIG00495535: hypothetical protein 		
+U1_170_7	U1_170			HigA protein (antitoxin to HigB) 		
+U1_170_0	U1_170			FIG00495767: hypothetical protein 		
+U1_170_1	U1_170			conserved hypothetical protein 		
+U1_81_29	U1_81			High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1) 		
+U1_81_28	U1_81			Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1) 		
+U1_81_27	U1_81			Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1) 		
+U1_81_26	U1_81	COG0410		Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1) 		
+U1_81_25	U1_81			Predicted membrane fusion protein (MFP) component of efflux pump, membrane anchor protein YbhG 		
+U1_170_8	U1_170			CRISPR repeat RNA endoribonuclease Cas6 		
+U1_81_22	U1_81	COG1131		ABC transporter multidrug efflux pump, fused ATP-binding domains 		
+U1_81_21	U1_81			ABC transport system, permease component YbhR 		
+U1_81_20	U1_81			ABC transporter permease protein 		
+U1_172_8	U1_172			FIG00697677: hypothetical protein 		
+U1_172_9	U1_172			DEAD/DEAH box helicase-like protein 		
+U1_172_2	U1_172			FIG004453: protein YceG like 		
+U1_172_3	U1_172	COG0126		Phosphoglycerate kinase (EC 2.7.2.3) 		Phosphoglycerate kinase OS Campylobacter hominis (strain ATCC BAA-381 / LMG 19568 / NCTC 13146 / CH001A) GN pgk PE 3 SV 1 # UNIPROT # A7I1G1 # PHOSGLYPHOS-RXN # CHOM360107:CHAB381_0778-MONOMER # 2.7.2.3
+U1_172_0	U1_172			FIG00495628: hypothetical protein 		
+U1_172_1	U1_172			Chorismate mutase I (EC 5.4.99.5) 		
+U1_172_7	U1_172			RNA methyltransferase, TrmA family 		
+U1_172_4	U1_172			Rhomboid family protein 		
+U1_172_5	U1_172			DUF1232 domain-containing protein 		
+U1_92_8	U1_92			FIG00496360: hypothetical protein 		
+U1_92_9	U1_92			Glycosyl transferase, family 2 	ABB24098.1	
+U1_92_0	U1_92			Phosphate transport system permease protein PstC (TC 3.A.1.7.1) 		
+U1_92_1	U1_92			Phosphate transport system permease protein PstA (TC 3.A.1.7.1) 		
+U1_92_2	U1_92	COG1117		Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1) 		
+U1_92_3	U1_92			Phosphate transport system regulatory protein PhoU 		
+U1_92_4	U1_92			Phosphate transport system regulatory protein PhoU 		
+U1_92_5	U1_92			Probable Co/Zn/Cd efflux system membrane fusion protein 		
+U1_92_6	U1_92			Acriflavin resistance protein 		
+U1_92_7	U1_92			FIG00496062: hypothetical protein 		
+U1_90_2	U1_90			PAS 		
+U1_90_0	U1_90			Retron-type reverse transcriptase [Haemophilus 		
+U1_90_1	U1_90			hypothetical protein 		
+U1_96_8	U1_96			hypothetical protein 		
+U1_96_9	U1_96			Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22) 		
+U1_96_4	U1_96			hypothetical protein 		
+U1_96_5	U1_96			hypothetical protein 		
+U1_96_0	U1_96			Mobile element protein 		
+U1_96_1	U1_96			putative short chain dehydrogenase 		
+U1_174_0	U1_174			transposase IS4 family protein 		
+U1_174_1	U1_174			transposase IS4 family protein 		
+U1_94_0	U1_94			RTX toxin, putative 		
+U1_94_1	U1_94			FIG00496299: hypothetical protein 		
+U1_61_32	U1_61	COG0713		NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3) 		
+U1_94_7	U1_94			Glycosyl transferase, group 1 	ABB23192.1	
+U1_94_4	U1_94			Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49) 		
+U1_94_5	U1_94	COG1023		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44) 		
+U1_130_0	U1_130			antirestriction protein 		
+U1_130_1	U1_130			hypothetical protein 		
+U1_94_8	U1_94			hypothetical protein 		
+U1_94_9	U1_94			outer surface protein, putative 		
+U1_130_4	U1_130			helicase (Snf2/Rad54 family) 		
+U1_130_5	U1_130			Possible abortive infection phage resistance protein 		
+U1_130_6	U1_130			FIG01164982: hypothetical protein 		
+U1_130_7	U1_130			putative transcriptional regulator 		
+U1_139_1	U1_139			hypothetical protein 		
+U1_139_3	U1_139			hypothetical protein 		
+U1_139_2	U1_139			hypothetical protein 		
+U1_139_4	U1_139			hypothetical protein 		
+U1_43_38	U1_43	COG4870		peptidase C1A papain 		
+U1_43_39	U1_43			methyltransferase, putative 		
+U1_145_23	U1_145			hypothetical protein 		
+U1_43_33	U1_43			hypothetical protein 		
+U1_43_30	U1_43			FIG00495795: hypothetical protein 		
+U1_43_31	U1_43			hypothetical protein 		
+U1_145_27	U1_145			hypothetical protein 		
+U1_43_37	U1_43	COG0165		Argininosuccinate lyase (EC 4.3.2.1) 		Argininosuccinate lyase OS Desulfotalea psychrophila GN argH PE 3 SV 1 # UNIPROT # Q6AR60 # ARGSUCCINLYA-RXN # DPSY177439:DP0435-MONOMER # 4.3.2.1
+U1_145_25	U1_145			hypothetical protein 		
+U1_43_35	U1_43			FIG00495817: hypothetical protein 		
+U1_54_14	U1_54			Rod shape-determining protein MreC 		
+U1_93_0	U1_93			Phosphate transport system regulatory protein PhoU 		
+U1_93_3	U1_93			Phosphate transport system permease protein PstC (TC 3.A.1.7.1) 		
+U1_93_2	U1_93			Phosphate transport system permease protein PstA (TC 3.A.1.7.1) 		
+U1_93_5	U1_93			FIG00495927: hypothetical protein 		
+U1_137_0	U1_137			transposase IS4 family protein 		
+U1_93_4	U1_93			FIG00495900: hypothetical protein 		
+U1_96_29	U1_96	COG0167		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1) 		
+U1_96_28	U1_96	COG0058		Glycogen phosphorylase (EC 2.4.1.1) 	ABB29035.1	Maltodextrin phosphorylase OS Salinibacter ruber (strain DSM 13855 / M31) GN malP PE 3 SV 1 # UNIPROT # Q2S6F4 # MALTOSE-PHOSPHORYLASE-RXN # SRUB309807:SRU_0074-MONOMER # 2.4.1.8
+U1_93_7	U1_93			GCN5-related N-acetyltransferase 		
+U1_96_23	U1_96			3,4-dihydroxy-2-butanone 4-phosphate synthase / GTP cyclohydrolase II (EC 3.5.4.25) 		Riboflavin biosynthesis protein ribBA OS Chlamydia muridarum GN ribBA PE 3 SV 1 # UNIPROT # Q9PLJ5 # GTP-CYCLOHYDRO-II-RXN # CMUR243161:TC_0104-MONOMER # 4.1.99.12 3.5.4.25
+U1_96_22	U1_96	COG0112		Serine hydroxymethyltransferase (EC 2.1.2.1) 	AHO16406.1	Serine hydroxymethyltransferase OS Synechococcus sp. (strain JA-3-3Ab) GN glyA PE 3 SV 1 # UNIPROT # Q2JT50 # GLYOHMETRANS-RXN # SSP321327:CYA_2015-MONOMER # 2.1.2.1
+U1_96_21	U1_96			DNA primase (EC 2.7.7.-) 		
+U1_96_20	U1_96			MotA/TolQ/ExbB proton channel family protein 		
+U1_96_27	U1_96			Metallophosphoesterase 		
+U1_96_26	U1_96			FIG00496663: hypothetical protein 		
+U1_96_25	U1_96			TPR repeat 		
+U1_96_24	U1_96	COG0458		Carbamoyl-phosphate synthase large chain (EC 6.3.5.5) 		Carbamoyl-phosphate synthase large chain OS Natranaerobius thermophilus (strain ATCC BAA-1301 / DSM 18059 / JW/NM-WN-LF) GN carB PE 3 SV 1 # UNIPROT # B2A170 # CARBPSYN-RXN # # 6.3.5.5
+U1_94_123	U1_94	COG0586		DedA protein 		
+U1_94_122	U1_94			transcription activator, effector binding 		
+U1_94_121	U1_94			Neurosporene desaturase (EC 1.-.-.-) 		
+U1_94_120	U1_94			Neurosporene desaturase (EC 1.-.-.-) 		
+U1_94_127	U1_94			outer surface protein, putative 		
+U1_94_126	U1_94	COG0519		GMP synthase  (EC 6.3.5.2) 		GMP synthase [glutamine-hydrolyzing] OS Rhodopirellula baltica GN guaA PE 3 SV 1 # UNIPROT # Q7UFS3 # GMP-SYN-GLUT-RXN # PSP117:RB8374-MONOMER # 6.3.5.2
+U1_94_125	U1_94			Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-) 	ABB27863.1	
+U1_94_124	U1_94			Possible alpha/beta hydrolase superfamily, slr1916 homolog 		
+U1_165_124	U1_165	COG0215		Cysteinyl-tRNA synthetase (EC 6.1.1.16) 		Cysteinyl-tRNA synthetase OS Cytophaga hutchinsonii (strain ATCC 33406 / NCIMB 9469) GN cysS PE 3 SV 1 # UNIPROT # Q11PK9 # CYSTEINE--TRNA-LIGASE-RXN # CHUT269798:CHU_3418-MONOMER # 6.1.1.16
+U1_44_37	U1_44	COG0129		Dihydroxy-acid dehydratase (EC 4.2.1.9) 		Dihydroxy-acid dehydratase OS Pelobacter carbinolicus (strain DSM 2380 / Gra Bd 1) GN ilvD PE 3 SV 1 # UNIPROT # Q3A3A5 # DIHYDROXYISOVALDEHYDRAT-RXN # PCAR338963:PCAR_1911-MONOMER # 4.2.1.9
+U1_44_36	U1_44			COG1836 / Phytol kinase (2.7.1.-) 		
+U1_44_35	U1_44			MotA/TolQ/ExbB proton channel family protein 		
+U1_44_34	U1_44	COG0848		Biopolymer transport protein ExbD/TolR 		
+U1_44_33	U1_44			Putative TolA protein 		
+U1_44_32	U1_44			tolB protein precursor, periplasmic protein involved in the tonb-independent uptake of group A colicins 		
+U1_44_31	U1_44			18K peptidoglycan-associated outer membrane lipoprotein; Peptidoglycan-associated lipoprotein precursor; Outer membrane protein P6; OmpA/MotB precursor 		
+U1_44_30	U1_44			18K peptidoglycan-associated outer membrane lipoprotein; Peptidoglycan-associated lipoprotein precursor; Outer membrane protein P6; OmpA/MotB precursor 		
+U1_94_108	U1_94			Nucleoside-diphosphate-sugar epimerases 		
+U1_44_39	U1_44	COG0440		Acetolactate synthase small subunit (EC 2.2.1.6) 		Acetolactate synthase small subunit OS Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd) GN ilvH PE 3 SV 1 # UNIPROT # P45260 # ACETOLACTSYN-RXN # HINF71421:HI_1584-MONOMER # 2.2.1.6
+U1_44_38	U1_44	COG0028		Acetolactate synthase large subunit (EC 2.2.1.6) 		Acetolactate synthase catalytic subunit, mitochondrial OS Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN ILV2 PE 1 SV 1 # UNIPROT # P07342 # ACETOLACTSYN-RXN # # 2.2.1.6
+U1_5_3	U1_5	COG2204		Response regulator of zinc sigma-54-dependent two-component system 		
+U1_109_23	U1_109			Heavy metal transport/detoxification protein 		
+U1_5_1	U1_5			hypothetical protein 		
+U1_5_0	U1_5			hypothetical protein 		
+U1_5_7	U1_5			cytochrome c class I 		
+U1_5_5	U1_5			hypothetical protein 		
+U1_78_17	U1_78			Arsenical pump-driving ATPase (EC 3.6.3.16) 		
+U1_5_9	U1_5			FIG00497242: hypothetical protein 		
+U1_78_14	U1_78			DNA polymerase III delta subunit (EC 2.7.7.7) 		
+U1_78_15	U1_78			Single-stranded DNA-binding protein 		
+U1_97_29	U1_97	COG0178		Excinuclease ABC subunit A 		
+U1_97_24	U1_97			Protein of unknown function DUF132 		
+U1_97_25	U1_97			putative transcriptional regulator, CopG family 		
+U1_97_26	U1_97			Sugar ABC transporter, permease protein 		
+U1_97_27	U1_97	COG0574		Pyruvate,phosphate dikinase (EC 2.7.9.1) 		Pyruvate, phosphate dikinase OS Entamoeba histolytica GN PPDK PE 3 SV 1 # UNIPROT # P37213 # PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN # # 2.7.9.1
+U1_97_20	U1_97			Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130) 		Tetraacyldisaccharide 4'-kinase OS Chlorobaculum parvum (strain NCIB 8327) GN lpxK PE 3 SV 1 # UNIPROT # B3QLP5 # TETRAACYLDISACC4KIN-RXN # # 2.7.1.130
+U1_97_21	U1_97			Isochorismatase (EC 3.3.2.1) 		
+U1_97_22	U1_97			FIG00495891: hypothetical protein 		
+U1_97_23	U1_97	COG3155		Sigma cross-reacting protein 27A 		
+U1_78_10	U1_78			Protoporphyrin IX Mg-chelatase subunit H (EC 6.6.1.1) 		Magnesium-chelatase subunit H OS Chlorobaculum parvum (strain NCIB 8327) GN bchH PE 3 SV 2 # UNIPROT # O50314 # RXN1F-20 # # 6.6.1.1
+U1_78_11	U1_78			Colicin I receptor precursor 		
+U1_114_10	U1_114			ABC-type antimicrobial peptide transport system, permease component 		
+U1_118_21	U1_118			Fumarylacetoacetate hydrolase family protein 		
+U1_118_20	U1_118			5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2) 		
+U1_118_23	U1_118			FIG00495945: hypothetical protein 		
+U1_118_22	U1_118			Dihydroorotase (EC 3.5.2.3) 		Dihydroorotase OS Chlorobium tepidum GN pyrC PE 3 SV 1 # UNIPROT # Q8KDK5 # DIHYDROOROT-RXN # CTEP194439:CT_1042-MONOMER # 3.5.2.3
+U1_118_25	U1_118			3-beta hydroxysteroid dehydrogenase/isomerase family protein 		
+U1_118_24	U1_118			methyltransferase, putative 		
+U1_118_27	U1_118			Short-chain dehydrogenase/reductase SDR 		
+U1_118_26	U1_118			Basic membrane protein A 		
+U1_118_29	U1_118			hypothetical protein 		
+U1_118_28	U1_118			NLP/P60 family protein 		
+U1_153_46	U1_153			Trehalose synthase (EC 5.4.99.16) 	ABL66524.1	
+U1_39_37	U1_39			DNA polymerase III alpha subunit (EC 2.7.7.7) 		
+U1_153_45	U1_153			Alpha-amylase (EC 3.2.1.1) 	ABB29232.1	
+U1_153_42	U1_153			Metallophosphoesterase 		
+U1_153_43	U1_153	COG1186		Peptide chain release factor 2 		
+U1_153_40	U1_153			SAM-dependent methyltransferase 		
+U1_153_41	U1_153			hypothetical protein 		
+U1_14_44	U1_14			hypothetical protein 		
+U1_45_2	U1_45			DNA polymerase III subunits gamma and tau (EC 2.7.7.7) # frameshift 		
+U1_153_48	U1_153			FIG00912939: hypothetical protein 		
+U1_153_49	U1_153			Cytochrome c biogenesis protein ccsA 		
+U1_45_3	U1_45			Ribonuclease BN (EC 3.1.-.-) 		
+U1_45_4	U1_45			MFS transporter family protein 		
+U1_45_5	U1_45	COG0047		Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3) 		Phosphoribosylformylglycinamidine synthase 1 OS Rhodopseudomonas palustris (strain BisB18) GN purQ PE 3 SV 1 # UNIPROT # Q218N7 # FGAMSYN-RXN # RPAL316056:RPC_1587-MONOMER # 6.3.5.3
+U1_39_31	U1_39			Fumarate hydratase class I, aerobic (EC 4.2.1.2) 		Fumarate hydratase class I, aerobic OS Geobacillus stearothermophilus GN fumA PE 3 SV 1 # UNIPROT # Q04718 # FUMHYDR-RXN # # 4.2.1.2
+U1_45_7	U1_45			CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8) 		
+U1_78_12	U1_78			8-amino-7-oxononanoate synthase 		
+U1_51_53	U1_51	COG0694		NifU-like domain protein 		
+U1_51_52	U1_51	COG0489		Cytosolic Fe-S cluster assembling factor NBP35 / Chromosome (plasmid) partitioning protein ParA 		
+U1_51_51	U1_51	COG1160		GTP-binding protein EngA 		
+U1_51_50	U1_51	COG0102		LSU ribosomal protein L13p (L13Ae) 		
+U1_51_55	U1_51			Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10) 		Aminomethyltransferase OS Thermoanaerobacter tengcongensis GN gcvT PE 3 SV 1 # UNIPROT # Q8RCV9 # GCVT-RXN # TTEN273068:TTE0296-MONOMER # 2.1.2.10
+U1_51_54	U1_51			Cell division protein FtsK 		
+U1_80_11	U1_80			amine oxidase 		
+U1_56_9	U1_56			Coenzyme F420-reducing hydrogenase related protein 		
+U1_80_10	U1_80			FIG00495606: hypothetical protein 		
+U1_80_13	U1_80			conserved hypothetical protein 		
+U1_45_8	U1_45	COG0413		3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11) 		3-methyl-2-oxobutanoate hydroxymethyltransferase OS Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785) GN panB PE 3 SV 1 # UNIPROT # A9B2U4 # 3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN # HAUR316274:HAUR_3371-MONOMER # 2.1.2.11
+U1_45_9	U1_45			Lipoate-protein ligase A 		
+U1_39_39	U1_39			TPR repeat 		
+U1_39_38	U1_39	COG0526		Thioredoxin 		Bifunctional thioredoxin reductase/thioredoxin OS Mycobacterium leprae GN trxB/A PE 3 SV 1 # UNIPROT # P46843 # THIOREDOXIN-REDUCT-NADPH-RXN # MLEP272631:ML2703-MONOMER # 1.8.1.9
+U1_45_0	U1_45	COG0173		Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23) 		Aspartyl-tRNA synthetase OS Opitutus terrae (strain DSM 11246 / PB90-1) GN aspS PE 3 SV 1 # UNIPROT # B1ZSW8 # ASPARTATE--TRNA-LIGASE-RXN # # 6.1.1.12
+U1_39_36	U1_39			Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64) 	ABB24126.1	
+U1_39_35	U1_39			Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64) 	ACD89891.1	
+U1_81_33	U1_81			Chlorosome protein B; Chlorosome envelope 		
+U1_39_33	U1_39			internalin-related protein 		
+U1_39_32	U1_39	COG5016		Pyruvate carboxyl transferase subunit B (EC 6.4.1.1) 		
+U1_45_6	U1_45	COG1828		Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3) 		
+U1_39_30	U1_39			Universal stress protein family 		
+U1_149_41	U1_149			FIG00498974: hypothetical protein 		
+U1_149_40	U1_149			hypothetical protein 		
+U1_149_43	U1_149			FIG01143316: hypothetical protein 		
+U1_149_42	U1_149			Addiction module antidote protein 		
+U1_149_44	U1_149					
+U1_171_11	U1_171			FIG00696225: hypothetical protein 		
+U1_171_10	U1_171			Prevent-host-death protein 		
+U1_49_4	U1_49			Lipoprotein releasing system transmembrane protein LolC 		
+U1_49_5	U1_49			GGDEF domain protein 		
+U1_49_6	U1_49			phosphate-binding protein, putative 		
+U1_49_0	U1_49			FIG00498400: hypothetical protein 		
+U1_49_1	U1_49			GCN5-related N-acetyltransferase 		
+U1_49_2	U1_49			Putative metal chaperone, involved in Zn homeostasis, GTPase of COG0523 family 		
+U1_49_3	U1_49			Lipoprotein releasing system transmembrane protein LolC 		
+U1_49_8	U1_49			N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38) 		N-acetyl-gamma-glutamyl-phosphate reductase OS Chlorobium tepidum GN argC PE 3 SV 1 # UNIPROT # Q8KDE3 # N-ACETYLGLUTPREDUCT-RXN # CTEP194439:CT_1109-MONOMER # 1.2.1.38
+U1_49_9	U1_49			Glutamate N-acetyltransferase (EC 2.3.1.35) / N-acetylglutamate synthase (EC 2.3.1.1) 		Arginine biosynthesis bifunctional protein ArgJ OS Chlorobium tepidum GN argJ PE 3 SV 1 # UNIPROT # P59611 # N-ACETYLTRANSFER-RXN # CTEP194439:CT_1110-MONOMER # 2.3.1.35 2.3.1.1
+U1_94_109	U1_94			FIG00495435: hypothetical protein 		
+U1_95_15	U1_95			Protein BchJ, involved in reduction of C-8 vinyl of divinyl protochlorophyllide 		
+U1_42_0	U1_42	COG0596		Beta-ketoadipate enol-lactone hydrolase, putative 		
+U1_95_13	U1_95			Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21) 	ABP36308.1	Glycogen synthase OS Prosthecochloris aestuarii (strain DSM 271 / SK 413) GN glgA PE 3 SV 1 # UNIPROT # B4S584 # GLYCOGENSYN-RXN # # 2.4.1.21
+U1_95_12	U1_95			D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase (EC 3.1.1.-) 		
+U1_95_11	U1_95			Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent 		
+U1_95_10	U1_95			membrane protein, putative 		
+U1_81_32	U1_81			putative PTS IIA-like nitrogen-regulatory protein PtsN 		
+U1_165_36	U1_165			Phosphate:acyl-ACP acyltransferase PlsX 		
+U1_165_37	U1_165			COG1399 protein in cluster with ribosomal protein L32p, Bacteroidetes/Chlorobi subfamily 		
+U1_165_34	U1_165	COG0331		Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39) 		Malonyl CoA-acyl carrier protein transacylase OS Bacillus subtilis GN fabD PE 3 SV 2 # UNIPROT # P71019 # MALONYL-COA-ACP-TRANSACYL-RXN # BSUB:BSU15900-MONOMER # 2.3.1.39
+U1_165_35	U1_165	COG0332		3-oxoacyl- synthase, KASIII (EC 2.3.1.180) 		3-oxoacyl-[acyl-carrier-protein] synthase 3 OS Thermoanaerobacter tengcongensis GN fabH PE 3 SV 1 # UNIPROT # Q8R9V7 # 2.3.1.180-RXN # TTEN273068:TTE1475-MONOMER # 2.3.1.180
+U1_165_32	U1_165	COG0236		Acyl carrier protein 		
+U1_165_33	U1_165	COG1028		3-oxoacyl- reductase (EC 1.1.1.100) 		3-oxoacyl-[acyl-carrier-protein] reductase 1 OS Synechocystis sp. (strain ATCC 27184 / PCC 6803 / N-1) GN fabG1 PE 3 SV 1 # UNIPROT # P73574 # 3-OXOACYL-ACP-REDUCT-RXN # SSP1148:SLR0886-MONOMER # 1.1.1.100
+U1_165_30	U1_165			Ribonuclease III (EC 3.1.26.3) 		
+U1_165_31	U1_165	COG0304		3-oxoacyl- synthase, KASII (EC 2.3.1.179) 		50 kDa ketoavyl-ACP synthase OS Ricinus communis GN KASI PE 2 SV 1 # UNIPROT # Q41135 # 3-OXOACYL-ACP-SYNTH-RXN # # NIL NIL
+U1_165_38	U1_165			protein of unknown function DUF306, Meta and HslJ 		
+U1_165_39	U1_165	COG0119		2-isopropylmalate synthase (EC 2.3.3.13) 		2-isopropylmalate synthase OS Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN LEU4 PE 1 SV 1 # UNIPROT # P06208 # 2-ISOPROPYLMALATESYN-RXN # # 2.3.3.13
+U1_155_9	U1_155			Pyridoxamine 5'-phosphate oxidase-related, FMN-binding 		
+U1_40_0	U1_40			hypothetical protein 		
+U1_94_20	U1_94			Peptidase C14, caspase catalytic subunit p20 		
+U1_155_1	U1_155			Succinate dehydrogenase cytochrome b subunit 		
+U1_94_25	U1_94					
+U1_94_24	U1_94			hypothetical protein 		
+U1_94_26	U1_94			hypothetical protein 		
+U1_56_3	U1_56			Glutamate synthase  large chain (EC 1.4.1.13) 		Putative glutamate synthase [NADPH] OS Schizosaccharomyces pombe (strain ATCC 38366 / 972) GN SPAPB1E7.07 PE 2 SV 1 # UNIPROT # Q9C102 # GLUTAMATESYN-RXN # SPOM-XXX-01:SPOM-XXX-01-001756-MONOMER # 1.4.1.13
+U1_28_0	U1_28			hypothetical protein 		
+U1_49_14	U1_49			Chromosomal replication initiator protein DnaA 		
+U1_49_12	U1_49			Arginine pathway regulatory protein ArgR, repressor of arg regulon 		
+U1_49_13	U1_49	COG0137		Argininosuccinate synthase (EC 6.3.4.5) 		Argininosuccinate synthase OS Renibacterium salmoninarum (strain ATCC 33209 / DSM 20767 / JCM 11484 / NBRC 15589 / NCIMB 2235) GN argG PE 3 SV 1 # UNIPROT # A9WQ90 # ARGSUCCINSYN-RXN # RSAL288705:RSAL33209_0783-MONOMER # 6.3.4.5
+U1_49_10	U1_49	COG0548		Acetylglutamate kinase (EC 2.7.2.8) 		Acetylglutamate kinase OS Symbiobacterium thermophilum GN argB PE 3 SV 1 # UNIPROT # Q67KD3 # ACETYLGLUTKIN-RXN # STHE292459:STH2882-MONOMER # 2.7.2.8
+U1_49_11	U1_49	COG0078		Ornithine carbamoyltransferase (EC 2.1.3.3) 		Ornithine carbamoyltransferase, chloroplastic OS Pisum sativum GN ARGF PE 2 SV 1 # UNIPROT # Q43814 # ORNCARBAMTRANSFER-RXN # # 2.1.3.3
+U1_118_48	U1_118			FIG00496439: hypothetical protein 		
+U1_44_20	U1_44			Chlorosome protein J, 2Fe-2S ferredoxin 		
+U1_44_21	U1_44			Alanine dehydrogenase (EC 1.4.1.1) 		
+U1_44_22	U1_44	COG1233		Carotenoid cis-trans isomerase (EC 5.2.-.-) 		Carotenoid isomerase, chloroplastic OS Solanum lycopersicum GN CRTISO PE 2 SV 1 # UNIPROT # Q8S4R4 # RXN-8042 # MetaCyc:MONOMER-12167 # NIL NIL NIL
+U1_44_23	U1_44			RNA polymerase sigma-70 factor, ECF subfamily 		
+U1_44_24	U1_44			FIG00496668: hypothetical protein 		
+U1_44_26	U1_44			heat shock protein, Hsp20 family 		
+U1_44_27	U1_44	COG0443		Chaperone protein DnaK 		
+U1_44_28	U1_44			Photosystem P840 reaction center subunit PscD 		
+U1_44_29	U1_44			TPR repeat containing exported protein; Putative periplasmic protein contains a protein prenylyltransferase domain 		
+U1_96_34	U1_96	COG0115		Branched-chain amino acid aminotransferase (EC 2.6.1.42) 		Branched-chain-amino-acid aminotransferase OS Pseudomonas aeruginosa GN ilvE PE 1 SV 2 # UNIPROT # O86428 # BRANCHED-CHAINAMINOTRANSFERLEU-RXN # PAER208964:PA5013-MONOMER # 2.6.1.42
+U1_96_35	U1_96			DNA polymerase III delta prime subunit (EC 2.7.7.7) 		
+U1_96_36	U1_96			serine/threonine protein phosphatase 		
+U1_96_37	U1_96			Periplasmic divalent cation tolerance protein CutA 		
+U1_96_30	U1_96			FIG00495995: hypothetical protein 		
+U1_96_31	U1_96	COG0245		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12) 		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase OS Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) GN ispF PE 3 SV 1 # UNIPROT # Q1AU09 # RXN0-302 # RXYL266117:RXYL_2175-MONOMER # 4.6.1.12
+U1_96_32	U1_96			Lipoprotein releasing system transmembrane protein lolC 		
+U1_96_33	U1_96			6-phosphofructokinase (EC 2.7.1.11) 		
+U1_96_38	U1_96			Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific) 		
+U1_96_39	U1_96			Anthranilate phosphoribosyltransferase (EC 2.4.2.18) 		Anthranilate phosphoribosyltransferase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN trpD PE 3 SV 1 # UNIPROT # B3QUY6 # PRTRANS-RXN # # 2.4.2.18
+U1_2_3	U1_2			hypothetical protein 		
+U1_94_103	U1_94			Thiamine-monophosphate kinase (EC 2.7.4.16) 		
+U1_133_19	U1_133			18K peptidoglycan-associated outer membrane lipoprotein; Peptidoglycan-associated lipoprotein precursor; Outer membrane protein P6; OmpA/MotB precursor 		
+U1_133_18	U1_133			hypothetical protein 		
+U1_133_17	U1_133			Aspartate aminotransferase (EC 2.6.1.1) 		
+U1_133_16	U1_133			hypothetical protein 		
+U1_133_15	U1_133			FIG137478: Hypothetical protein 		
+U1_133_14	U1_133			LSU ribosomal protein L33p 		
+U1_133_13	U1_133	COG0019		Diaminopimelate decarboxylase (EC 4.1.1.20) 		Diaminopimelate decarboxylase OS Aquifex aeolicus GN lysA PE 1 SV 1 # UNIPROT # O67262 # DIAMINOPIMDECARB-RXN # AAEO224324:AQ_1208-MONOMER # 4.1.1.20
+U1_133_12	U1_133	COG0685		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20) 		5,10-methylenetetrahydrofolate reductase OS Aquifex aeolicus GN metF PE 3 SV 1 # UNIPROT # O67422 # 1.5.1.20-RXN # AAEO224324:AQ_1429-MONOMER # 1.5.1.20
+U1_133_11	U1_133			ComEC/Rec2-related protein 		
+U1_133_10	U1_133			hypothetical protein 		
+U1_118_18	U1_118	COG0698		Ribose 5-phosphate isomerase B (EC 5.3.1.6) 		Ribose-5-phosphate isomerase B OS Escherichia coli (strain K12) GN rpiB PE 1 SV 2 # UNIPROT # P37351 # RIB5PISOM-RXN # MetaCyc:RIB5PISOMB-MONOMER # 5.3.1.6
+U1_118_19	U1_118	COG0855		Polyphosphate kinase (EC 2.7.4.1) 		
+U1_118_15	U1_118			hypothetical protein 		
+U1_118_16	U1_118			SOS-response repressor and protease LexA (EC 3.4.21.88) 		
+U1_118_17	U1_118			CBS 		
+U1_153_51	U1_153			hypothetical protein 		
+U1_153_50	U1_153					
+U1_30_0	U1_30			Mobile element protein 		
+U1_30_1	U1_30			FIG00497910: hypothetical protein 		
+U1_165_70	U1_165			hypothetical protein 		
+U1_38_0	U1_38	COG0003		Arsenical pump-driving ATPase (EC 3.6.3.16) 		
+U1_38_1	U1_38			BchE/P-methylase family protein 		
+U1_38_2	U1_38			Hydroxyneurosporene methyltransferase (EC 2.1.1.210) 		
+U1_38_3	U1_38	COG0596		Beta-ketoadipate enol-lactone hydrolase, putative 		
+U1_120_3	U1_120			PMID: 12093901 		
+U1_120_2	U1_120			FIG00496842: hypothetical protein 		
+U1_120_1	U1_120			Pentapeptide repeat precursor 		
+U1_166_1	U1_166					
+U1_166_0	U1_166			transcriptional regulator, CopG family 		
+U1_166_3	U1_166			hypothetical protein 		
+U1_166_2	U1_166			hypothetical protein 		
+U1_51_44	U1_51			2-vinyl bacteriochlorophyllide hydratase BchF (EC 4.2.1.-) 		
+U1_51_45	U1_51			Regulatory protein RecX 		
+U1_51_46	U1_51	COG0528		Uridylate kinase (EC 2.7.4.-) 		Uridylate kinase OS Silicibacter pomeroyi GN pyrH PE 3 SV 1 # UNIPROT # Q5LSV4 # 2.7.4.22-RXN # RPOM246200:SPO_1662-MONOMER # 2.7.4.22
+U1_51_47	U1_51			Translation elongation factor Ts 		
+U1_51_40	U1_51			similar to ribulose-1,5-bisphosphate carboxylase, Type III 		
+U1_51_41	U1_51	COG1830		Autoinducer 2 (AI-2) aldolase LsrF (EC 4.2.1.-) 		
+U1_51_42	U1_51			Putative oxidoreductase 		
+U1_51_43	U1_51			FIG00496334: hypothetical protein 		
+U1_51_48	U1_51	COG0052		SSU ribosomal protein S2p (SAe) 		
+U1_51_49	U1_51	COG0103		SSU ribosomal protein S9p (S16e) 		
+U1_164_1	U1_164			Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits 		
+U1_162_0	U1_162			Mobile element protein 		
+U1_160_0	U1_160			transposase IS4 family protein 		
+U1_37_9	U1_37	COG0365		Acetyl-coenzyme A synthetase (EC 6.2.1.1) 		Acyl-CoA synthetase short-chain family member B, mitochondrial OS Dictyostelium discoideum GN aslB PE 3 SV 1 # UNIPROT # Q554Z5 # ACETATE--COA-LIGASE-RXN # # 6.2.1.1
+U1_95_14	U1_95			FIG00497987: hypothetical protein 		
+U1_37_3	U1_37			superfamily I DNA and RNA helicase and helicase subunit 		
+U1_37_2	U1_37			superfamily I DNA and RNA helicase and helicase subunit 		
+U1_37_0	U1_37			Mobile element protein 		
+U1_37_7	U1_37	COG3958		Transketolase, C-terminal section (EC 2.2.1.1) 		
+U1_37_6	U1_37			FIG000557: hypothetical protein co-occurring with RecR 		
+U1_37_5	U1_37	COG0353		Recombination protein RecR 		
+U1_37_4	U1_37			Phytoene desaturase, pro-zeta-carotene producing (EC 1.-.-.-) 		
+U1_39_28	U1_39	COG1814		nodulin 21-related protein 		
+U1_39_29	U1_39			FIG00496272: hypothetical protein 		
+U1_39_20	U1_39	COG0221		Inorganic pyrophosphatase (EC 3.6.1.1) 		
+U1_39_22	U1_39			TPR repeat:tetratricopeptide TPR_4 		
+U1_39_23	U1_39	COG0114		Fumarate hydratase class II (EC 4.2.1.2) [Haemophilus 		Fumarate hydratase class II OS Mycobacterium tuberculosis GN fumC PE 1 SV 1 # UNIPROT # O53446 # FUMHYDR-RXN # MetaCyc:MONOMER-11948 # 4.2.1.2
+U1_39_25	U1_39			3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45) 		
+U1_39_26	U1_39			N-acetylneuraminate synthase (EC 2.5.1.56) 		
+U1_39_27	U1_39			Chaperone protein HtpG 		
+U1_60_39	U1_60			DNA-binding domain of ModE / Molybdate-binding domain of ModE 		
+U1_60_38	U1_60			hypothetical protein 		
+U1_60_35	U1_60			two-component response regulator 		
+U1_60_34	U1_60	COG0031		Cysteine synthase (EC 2.5.1.47) 		Cysteine synthase A OS Escherichia coli (strain K12) GN cysK PE 1 SV 2 # UNIPROT # P0ABK5 # LCYSDESULF-RXN # MetaCyc:ACSERLYA-MONOMER # NIL
+U1_60_37	U1_60	COG2873		O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48) 		Protein MET17 OS Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN MET17 PE 1 SV 3 # UNIPROT # P06106 # ACSERLY-RXN # MetaCyc:MONOMER-387 # 2.5.1.47
+U1_60_36	U1_60					
+U1_60_31	U1_60			Cysteine desulfurase (EC 2.8.1.7), SufS subfamily 		
+U1_60_30	U1_60	COG0520		Cysteine desulfurase (EC 2.8.1.7) 		Cysteine desulfurase OS Photorhabdus luminescens subsp. laumondii GN sufS PE 3 SV 1 # UNIPROT # Q7N3U5 # RXN0-308 # PLUM243265:PLU2618-MONOMER # 2.8.1.7
+U1_60_33	U1_60			Serine acetyltransferase (EC 2.3.1.30) 		
+U1_60_32	U1_60			cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases 		
+U1_122_1	U1_122					
+U1_122_0	U1_122			hypothetical protein 		
+U1_168_9	U1_168	COG0438		Glycosyl transferase, group 1 family protein 	ABB23436.1	Uncharacterized glycosyltransferase ypjH OS Bacillus subtilis GN ypjH PE 3 SV 2 # UNIPROT # P42982 # RXN8J2-1 # BSUB:BSU22460-MONOMER # NIL
+U1_122_2	U1_122			hypothetical protein 		
+U1_168_3	U1_168	COG0745		Phosphate regulon transcriptional regulatory protein PhoB (SphR) 		
+U1_168_2	U1_168			Nudix hydrolase family protein 		
+U1_168_1	U1_168			Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1) 		
+U1_168_0	U1_168			Outer membrane receptor for ferric coprogen and ferric-rhodotorulic acid 		
+U1_168_7	U1_168	COG1945		Pyruvoyl-dependent arginine decarboxylase (EC 4.1.1.19) 		Pyruvoyl-dependent arginine decarboxylase 2 OS Methanosarcina mazei (strain ATCC BAA-159 / DSM 3647 / Goe1 / Go1 / JCM 11833 / OCM 88) GN pdaD2 PE 3 SV 1 # UNIPROT # P58890 # ARGDECARBOX-RXN # MMAZ192952:MM2595-MONOMER # 4.1.1.19
+U1_168_6	U1_168			Alkaline phosphatase (EC 3.1.3.1) 		
+U1_168_5	U1_168	COG0855		Polyphosphate kinase (EC 2.7.4.1) 		
+U1_168_4	U1_168			Cold-shock protein, DNA-binding 		
+U1_129_0	U1_129			Mobile element protein 		
+U1_58_9	U1_58			hypothetical protein 		
+U1_35_5	U1_35			Outer membrane receptor for ferric coprogen and ferric-rhodotorulic acid 		
+U1_35_4	U1_35			Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1) 		
+U1_35_1	U1_35			2-desacetyl-2-hydroxyethyl bacteriochlorophyllide A dehydrogenase BchC 		
+U1_35_0	U1_35			Chlorophyllide reductase subunit BchX (EC 1.18.-.-) 		
+U1_35_3	U1_35			Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1) 		
+U1_151_6	U1_151			FIG00498620: hypothetical protein 		
+U1_14_14	U1_14			Phospholipid-lipopolysaccharide ABC transporter 		
+U1_74_2	U1_74			Nitrogen regulatory protein P-II 		
+U1_74_3	U1_74			Ammonium transporter 		
+U1_61_18	U1_61			Cobalt-zinc-cadmium resistance protein CzcA; Cation efflux system protein CusA 		
+U1_61_19	U1_61			Methyltransferase type 12 		
+U1_58_3	U1_58			hypothetical protein 		
+U1_88_1	U1_88			type II restriction modification system, methylation subunit 		
+U1_61_15	U1_61			Maltodextrin glucosidase (EC 3.2.1.20) 	AAM71992.1	
+U1_88_3	U1_88			hypothetical protein 		
+U1_61_17	U1_61	COG2256		ATPase, AAA family 		
+U1_61_10	U1_61			Fibronectin/fibrinogen-binding protein 		
+U1_61_11	U1_61			CMP/dCMP deaminase zinc-binding 		
+U1_61_12	U1_61			Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193) 		
+U1_61_13	U1_61			putative membrane protein 		
+U1_81_8	U1_81			Type I restriction-modification system, restriction subunit R (EC 3.1.21.3) 		
+U1_81_9	U1_81			hypothetical protein 		
+U1_136_10	U1_136	COG0451		ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20) 		ADP-L-glycero-D-manno-heptose-6-epimerase OS Fusobacterium nucleatum subsp. nucleatum GN hldD PE 3 SV 1 # UNIPROT # Q8RIA5 # 5.1.3.20-RXN # FNUC190304:FN1703-MONOMER # 5.1.3.20
+U1_136_11	U1_136			FIG00496423: hypothetical protein 		
+U1_136_12	U1_136			Histidinol-phosphate aminotransferase (EC 2.6.1.9) 		Histidinol-phosphate aminotransferase OS Chlorobium chlorochromatii (strain CaD3) GN hisC PE 3 SV 1 # UNIPROT # Q3ARM7 # HISTAMINOTRANS-RXN # CCHL340177:CAG_1086-MONOMER # 2.6.1.9
+U1_136_13	U1_136			TRNA/rRNA methyltransferase 		
+U1_81_1	U1_81			FIG00497350: hypothetical protein 		
+U1_81_2	U1_81			hypothetical protein 		
+U1_81_3	U1_81			hypothetical protein 		
+U1_81_4	U1_81			conserved hypothetical protein 		
+U1_81_5	U1_81			FIG00913126: hypothetical protein 		
+U1_81_7	U1_81			Putative predicted metal-dependent hydrolase 		
+U1_58_20	U1_58			FIG00495524: hypothetical protein 		
+U1_58_4	U1_58			Isoprenylcysteine carboxyl methyltransferase 		
+U1_83_8	U1_83	COG0399		DegT/DnrJ/EryC1/StrS family protein 		
+U1_83_9	U1_83			transporter, putative 		
+U1_83_6	U1_83	COG0057		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12) 		Glyceraldehyde-3-phosphate dehydrogenase 2 OS Staphylococcus aureus (strain MRSA252) GN gapA2 PE 3 SV 1 # UNIPROT # Q6GG19 # GAPOXNPHOSPHN-RXN # SAUR282458:SAR1766-MONOMER # 1.2.1.12
+U1_83_7	U1_83			UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-) 		
+U1_83_4	U1_83			Chaperone protein DnaJ 		
+U1_83_5	U1_83			FIG00495524: hypothetical protein 		
+U1_83_2	U1_83			Heat-inducible transcription repressor HrcA 		
+U1_83_3	U1_83			Heat shock protein GrpE 		
+U1_83_0	U1_83			FIG00496680: hypothetical protein 		
+U1_83_1	U1_83			Protein-N(5)-glutamine methyltransferase PrmC, methylates polypeptide chain release factors RF1 and RF2 		
+U1_43_10	U1_43			CRISPR-associated protein, Cas5d family 		
+U1_56_8	U1_56	COG0045		Succinyl-CoA ligase  beta chain (EC 6.2.1.5) 		Succinyl-CoA ligase [ADP-forming] subunit beta OS Wolinella succinogenes GN sucC PE 3 SV 1 # UNIPROT # Q7M9A6 # SUCCCOASYN-RXN # WSUC273121:WS1065-MONOMER # 6.2.1.5
+U1_125_0	U1_125			hypothetical protein 		
+U1_43_14	U1_43			hypothetical protein 		
+U1_43_15	U1_43			ATP-dependent DNA helicase 		
+U1_43_16	U1_43	COG1487		VapC toxin protein 		
+U1_43_17	U1_43	COG4456		VapB protein (antitoxin to VapC) 		
+U1_43_19	U1_43	COG1902		NADH:flavin oxidoreductase 		
+U1_85_0	U1_85			PAS/PAC sensor hybrid histidine kinase 		
+U1_85_1	U1_85			Chemotaxis protein methyltransferase CheR (EC 2.1.1.80) 		
+U1_87_2	U1_87			ATP-dependent DNA helicase( EC:3.6.1.- ) 		
+U1_87_3	U1_87			Mobile element protein 		
+U1_87_0	U1_87			hypothetical protein 		
+U1_87_1	U1_87			Protein of unknown function DUF132 		
+U1_165_21	U1_165			Cytidine and deoxycytidylate deaminase family protein 		
+U1_165_20	U1_165			Beta-hexosaminidase (EC 3.2.1.52) 	ACF45228.1	
+U1_165_23	U1_165	COG1003		Glycine dehydrogenase  (glycine cleavage system P2 protein) (EC 1.4.4.2) 		Probable glycine dehydrogenase [decarboxylating] subunit 2 OS Nitrosospira multiformis (strain ATCC 25196 / NCIMB 11849) GN gcvPB PE 3 SV 1 # UNIPROT # Q2YCK3 # GCVP-RXN # NMUL323848:NMUL_A0210-MONOMER # 1.4.4.2
+U1_165_22	U1_165	COG1403		HNH endonuclease family protein 		
+U1_165_29	U1_165			YcfA-like 		
+U1_165_28	U1_165			Protein of unknown function UPF0150 		
+U1_56_0	U1_56	COG1219		ATP-dependent Clp protease ATP-binding subunit ClpX 		
+U1_56_1	U1_56			FIG00496204: hypothetical protein 		
+U1_21_12	U1_21			Ferredoxin 		
+U1_21_13	U1_21			Ferredoxin 		
+U1_21_14	U1_21			Alanyl-tRNA synthetase (EC 6.1.1.7) 		Alanyl-tRNA synthetase OS Flavobacterium psychrophilum (strain JIP02/86 / ATCC 49511) GN alaS PE 3 SV 1 # UNIPROT # A6H0Y3 # ALANINE--TRNA-LIGASE-RXN # # 6.1.1.7
+U1_56_5	U1_56			Enoyl- reductase  (EC 1.3.1.9) 		
+U1_56_6	U1_56			FIG00496133: hypothetical protein 		
+U1_145_10	U1_145			16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171) ## SSU rRNA m(2)G966 		
+U1_4_0	U1_4			hypothetical protein 		
+U1_56_7	U1_56	COG0590		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-) 		
+U1_81_23	U1_81			ABC transporter, ATP-binding/permease protein 		
+U1_79_6	U1_79			FIG00497069: hypothetical protein 		
+U1_96_41	U1_96	COG0227		LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent 		
+U1_96_40	U1_96			Chlorophyll a synthase ChlG (EC 2.5.1.62) 		
+U1_96_43	U1_96			Srm 		
+U1_96_42	U1_96	COG0328		Ribonuclease HI (EC 3.1.26.4) 		
+U1_96_45	U1_96			Phosphatidylserine decarboxylase (EC 4.1.1.65) 		Phosphatidylserine decarboxylase proenzyme OS Prosthecochloris vibrioformis (strain DSM 265) GN psd PE 3 SV 1 # UNIPROT # A4SG02 # PHOSPHASERDECARB-RXN # # 4.1.1.65
+U1_96_44	U1_96			tRNA(Ile)-lysidine synthetase (EC 6.3.4.19) 		
+U1_96_47	U1_96			DNA repair protein RecN 		
+U1_96_46	U1_96	COG1826		Twin-arginine translocation protein TatA 		
+U1_96_49	U1_96	COG0329		Dihydrodipicolinate synthase (EC 4.2.1.52) 		Dihydrodipicolinate synthase OS Pelobacter carbinolicus (strain DSM 2380 / Gra Bd 1) GN dapA PE 3 SV 1 # UNIPROT # Q3A1U7 # DIHYDRODIPICSYN-RXN # PCAR338963:PCAR_2421-MONOMER # 4.2.1.52
+U1_96_48	U1_96			NAD(P)-dependent cholesterol dehydrogenase, putative 		
+U1_64_11	U1_64					
+U1_64_10	U1_64			Response regulator receiver:ATP-binding region, ATPase-like:Histidine kinase A-like:Hpt 		
+U1_97_42	U1_97	COG1898		dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13) 		dTDP-4-dehydrorhamnose 3,5-epimerase OS Escherichia coli (strain K12) GN rfbC PE 1 SV 1 # UNIPROT # P37745 # DTDPDEHYDRHAMEPIM-RXN # MetaCyc:DTDPDEHYDRHAMEPIM-MONOMER # 5.1.3.13
+U1_97_43	U1_97	COG1209		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24) 		Glucose-1-phosphate thymidylyltransferase OS Actinoplanes sp. (strain 50/110) GN acbA PE 3 SV 2 # UNIPROT # Q9ZAE7 # DTDPGLUCOSEPP-RXN # # 2.7.7.24
+U1_97_40	U1_97			Putative membrane protein 		
+U1_97_41	U1_97	COG0836		Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22) / Mannose-6-phosphate isomerase (EC 5.3.1.8) 		Mannose-1-phosphate guanylyltransferase OS Escherichia coli GN manC PE 3 SV 1 # UNIPROT # P37741 # 2.7.7.13-RXN # # 2.7.7.13
+U1_97_46	U1_97			ATP-dependent DNA helicase 		
+U1_78_7	U1_78			Mg-protoporphyrin O-methyltransferase (EC 2.1.1.11) 		
+U1_97_44	U1_97			HipA-like protein 		
+U1_97_45	U1_97			putative DNA binding protein 		
+U1_77_8	U1_77			hypothetical protein 		
+U1_77_7	U1_77			Retron-type RNA-directed DNA polymerase (EC 2.7.7.49) / CRISPR-associated protein Cas1 		
+U1_77_6	U1_77			CRISPR-associated protein Cas2 		
+U1_77_4	U1_77			Transcriptional regulator, ArsR family 		
+U1_77_3	U1_77			Redox-active disulfide protein 2 		
+U1_77_2	U1_77	COG0701		Transporter 		
+U1_77_1	U1_77			Arsenate reductase (EC 1.20.4.1) 		
+U1_77_0	U1_77	COG0798		Arsenical-resistance protein ACR3 		Arsenite efflux pump ACR3 or related permease OS Corynebacterium glutamicum GN arsC2 PE 4 SV 1 # UNIPROT # Q6M576 # RXN-11187 # MetaCyc:MONOMER-15361 # 2.8.4.2
+U1_71_9	U1_71			Inner membrane component of tripartite multidrug resistance system 		
+U1_71_8	U1_71			transporter, putative 		
+U1_71_5	U1_71	COG0553		Helicase, SNF2/RAD54 family 		
+U1_71_4	U1_71			Conserved protein 		
+U1_71_6	U1_71			hypothetical protein 		
+U1_71_1	U1_71			thiol:disulfide interchange protein, thioredoxin family protein 		
+U1_71_3	U1_71	COG3360		FIG00956804: hypothetical protein 		
+U1_71_2	U1_71	COG1274		Phosphoenolpyruvate carboxykinase  (EC 4.1.1.32) 		
+U1_3_1	U1_3			Response regulator receiver 		
+U1_3_0	U1_3			Protein At2g37660, chloroplast precursor 		
+U1_3_2	U1_3			Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-) 		
+U1_104_43	U1_104			Putative FixH 		
+U1_44_71	U1_44			FIG039767: hypothetical protein 		
+U1_104_41	U1_104			Cu+ P-type ATPase #(EC 3.6.3.4);(TC# 3.A.3.5.1) 		
+U1_35_2	U1_35			2-vinyl bacteriochlorophyllide hydratase BchF (EC 4.2.1.-) 		
+U1_51_31	U1_51	COG0060		Isoleucyl-tRNA synthetase (EC 6.1.1.5) 		Isoleucyl-tRNA synthetase OS Chlorobium tepidum GN ileS PE 3 SV 1 # UNIPROT # Q8KFL5 # ISOLEUCINE--TRNA-LIGASE-RXN # CTEP194439:CT_0311-MONOMER # 6.1.1.5
+U1_51_30	U1_51			DnaK suppressor protein, putative 		
+U1_51_33	U1_51	COG0836		Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22) 		Mannose-1-phosphate guanylyltransferase OS Escherichia coli GN manC PE 3 SV 1 # UNIPROT # P37741 # 2.7.7.13-RXN # # 2.7.7.13
+U1_51_32	U1_51			FIG00496120: hypothetical protein 		
+U1_51_35	U1_51	COG1088		dTDP-glucose 4,6-dehydratase (EC 4.2.1.46) 		Probable dTDP-glucose 4,6-dehydratase OS Rhizobium sp. (strain NGR234) GN NGR_a03580 PE 3 SV 1 # UNIPROT # P55462 # DTDPGLUCDEHYDRAT-RXN # # 4.2.1.46
+U1_51_34	U1_51	COG1087		UDP-glucose 4-epimerase (EC 5.1.3.2) 		UDP-glucose 4-epimerase OS Bacillus halodurans GN galE PE 3 SV 1 # UNIPROT # Q9KDV3 # UDPGLUCEPIM-RXN # BHAL272558:BH1108-MONOMER # 5.1.3.2
+U1_51_37	U1_51			FIG00495911: hypothetical protein 		
+U1_51_36	U1_51			dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133) 		
+U1_51_39	U1_51			oxidoreductase, short-chain dehydrogenase/reductase family 		
+U1_51_38	U1_51			FIG00496777: hypothetical protein 		
+U1_152_21	U1_152	COG1045		Serine acetyltransferase (EC 2.3.1.30) 		Serine acetyltransferase 4 OS Arabidopsis thaliana GN SAT4 PE 1 SV 1 # UNIPROT # Q8W2B8 # SERINE-O-ACETTRAN-RXN # # 2.3.1.30
+U1_91_40	U1_91			VapC toxin protein 		
+U1_81_12	U1_81			possible multi-domain protein 		
+U1_63_18	U1_63			NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3) 		
+U1_63_12	U1_63			Hydrogenase maturation protease (EC 3.4.24.-) 		
+U1_63_13	U1_63			Ni,Fe-hydrogenase I cytochrome b subunit 		
+U1_63_10	U1_63			6-pyruvoyl tetrahydrobiopterin synthase (EC 4.2.3.12) 		
+U1_63_11	U1_63	COG0302		GTP cyclohydrolase I (EC 3.5.4.16) type 1 		GTP cyclohydrolase 1 OS Deinococcus radiodurans GN folE PE 3 SV 1 # UNIPROT # Q9RYB4 # GTP-CYCLOHYDRO-I-RXN # DRAD243230:DR_0036-MONOMER # 3.5.4.16
+U1_63_16	U1_63			NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3) 		
+U1_63_17	U1_63			NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3) 		
+U1_63_14	U1_63	COG0374		Uptake hydrogenase large subunit (EC 1.12.99.6) 		Hydrogenase-2 large chain OS Escherichia coli (strain K12) GN hybC PE 1 SV 2 # UNIPROT # P0ACE0 # RXN0-4141 # MetaCyc:HYBC-MONOMER # 1.12.99.6
+U1_63_15	U1_63	COG1740		Uptake hydrogenase small subunit precursor (EC 1.12.99.6) 		Hydrogenase-1 small chain OS Citrobacter freundii GN hyaA PE 3 SV 1 # UNIPROT # Q46045 # RXN0-4141 # # 1.12.99.6
+U1_75_1	U1_75			Amino acid transporters 		
+U1_75_0	U1_75	COG2204		Response regulator of zinc sigma-54-dependent two-component system 		
+U1_75_2	U1_75			Mobile element protein 		
+U1_61_16	U1_61			Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) 		
+U1_81_14	U1_81			Type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72) 		
+U1_81_10	U1_81			DNA polymerase, beta-like region 		
+U1_78_8	U1_78			Protoporphyrin IX Mg-chelatase subunit H (EC 6.6.1.1) 		
+U1_78_9	U1_78			FIG00496892: hypothetical protein 		
+U1_60_28	U1_60			Sulfur carrier protein ThiS 		
+U1_60_29	U1_60	COG0626		Cystathionine gamma-lyase (EC 4.4.1.1) 		Cystathionine gamma-lyase OS Macaca fascicularis GN CTH PE 2 SV 1 # UNIPROT # Q60HG7 # CYSTAGLY-RXN # # 4.4.1.1
+U1_78_4	U1_78	COG0492		Thioredoxin reductase (EC 1.8.1.9) 		Thioredoxin reductase (Fragment) OS Spironucleus barkhanus GN TRXB PE 2 SV 1 # UNIPROT # Q8T6Z1 # THIOREDOXIN-REDUCT-NADPH-RXN # # 1.8.1.9
+U1_60_27	U1_60	COG2022		Thiazole biosynthesis protein ThiG 		Thiazole synthase OS Escherichia coli (strain K12) GN thiG PE 1 SV 3 # UNIPROT # P30139 # THIAZOLSYN2-RXN # MetaCyc:THIG-MONOMER # NIL
+U1_60_24	U1_60	COG0309		 hydrogenase metallocenter assembly protein HypE 		
+U1_60_25	U1_60	COG0476		Sulfur carrier protein adenylyltransferase ThiF 		
+U1_60_22	U1_60			 hydrogenase metallocenter assembly protein HypC 		
+U1_78_1	U1_78			hypothetical protein 		
+U1_60_20	U1_60	COG0378		 hydrogenase nickel incorporation-associated protein HypB 		
+U1_78_3	U1_78	COG0526		Thioredoxin [Haemophilus 		Bifunctional thioredoxin reductase/thioredoxin OS Mycobacterium leprae GN trxB/A PE 3 SV 1 # UNIPROT # P46843 # THIOREDOXIN-REDUCT-NADPH-RXN # MLEP272631:ML2703-MONOMER # 1.8.1.9
+U1_51_12	U1_51	COG0715		COG0715: ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components 		
+U1_155_13	U1_155	COG1538		RND efflux system, outer membrane lipoprotein CmeC 		
+U1_81_16	U1_81			hypothetical protein 		
+U1_81_17	U1_81			hypothetical protein 		
+U1_72_8	U1_72			Vitamin B12 ABC transporter, ATPase component BtuD 		
+U1_72_9	U1_72			hypothetical protein 		
+U1_72_2	U1_72	COG0778		domain of unknown function / Cobalamin biosynthesis protein BluB @ 5,6-dimethylbenzimidazole synthase, flavin destructase family / Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21) 		BluB OS Rhizobium meliloti GN bluB PE 1 SV 1 # UNIPROT # Q92PC8 # RXN-8771 # SMEL266834:SMC00166-MONOMER # 1.14.99.40
+U1_72_3	U1_72			Cobyric acid synthase (EC 6.3.5.10) 		
+U1_72_0	U1_72			Cell division inhibitor 		
+U1_72_1	U1_72			Outer membrane vitamin B12 receptor BtuB 		
+U1_72_6	U1_72			Cob(I)alamin adenosyltransferase (EC 2.5.1.17) 		
+U1_72_7	U1_72			Vitamin B12 ABC transporter, permease component BtuC 		
+U1_72_4	U1_72			L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81) 		
+U1_72_5	U1_72			Adenosylcobinamide-phosphate synthase (EC 6.3.1.10) 		
+U1_21_62	U1_21			Putative succinate dehydrogenase cytochrome b subunit 		
+U1_165_10	U1_165			Thioredoxin family protein 		
+U1_165_11	U1_165			lipoprotein, putative 		
+U1_165_12	U1_165			FIG00497775: hypothetical protein 		
+U1_165_14	U1_165	COG0016		Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20) 		Phenylalanyl-tRNA synthetase alpha chain OS Salinibacter ruber (strain DSM 13855 / M31) GN pheS PE 3 SV 1 # UNIPROT # Q2RYT4 # PHENYLALANINE--TRNA-LIGASE-RXN # SRUB309807:SRU_2806-MONOMER # 6.1.1.20
+U1_165_15	U1_165	COG0292		LSU ribosomal protein L20p 		
+U1_165_16	U1_165			LSU ribosomal protein L35p 		
+U1_165_17	U1_165			Translation initiation factor 3 		
+U1_165_18	U1_165	COG0441		Threonyl-tRNA synthetase (EC 6.1.1.3) 		Threonyl-tRNA synthetase OS Magnetococcus sp. (strain MC-1) GN thrS PE 3 SV 1 # UNIPROT # A0L4J6 # THREONINE--TRNA-LIGASE-RXN # # 6.1.1.3
+U1_165_19	U1_165			Chlorophyllide reductase subunit BchZ (EC 1.18.-.-) 		
+U1_78_68	U1_78			Rod shape-determining protein RodA 		
+U1_167_0	U1_167			Mobile element protein 		
+U1_14_49	U1_14			Mobile element protein 		
+U1_14_48	U1_14			glycosyl transferase, group 1 	AGX86619.1	
+U1_14_43	U1_14					
+U1_78_63	U1_78	COG0012		GTP-binding and nucleic acid-binding protein YchF 		
+U1_14_40	U1_14			N-Acetylneuraminate cytidylyltransferase (EC 2.7.7.43) 		
+U1_14_47	U1_14	COG0399		Bacillosamine/Legionaminic acid biosynthesis aminotransferase PglE; 4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase 		
+U1_14_45	U1_14			alpha-1,2-fucosyltransferase( EC:2.4.1.- ) 	ACU90629.1	
+U1_149_22	U1_149			hypothetical protein 		
+U1_78_61	U1_78			4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2) 		4-hydroxy-3-methylbut-2-enyl diphosphate reductase OS Chlorobaculum parvum (strain NCIB 8327) GN ispH PE 3 SV 1 # UNIPROT # B3QQE0 # RXN0-884 # # 1.17.1.2 1.17.1.2
+U1_73_53	U1_73			Integration host factor alpha/beta 		
+U1_73_52	U1_73	COG0730		FIG00495758: hypothetical protein 		
+U1_73_51	U1_73	COG0465		Cell division protein FtsH (EC 3.4.24.-) 		
+U1_73_50	U1_73			Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24) 		Glutamyl-tRNA synthetase OS Alkaliphilus oremlandii (strain OhILAs) GN gltX PE 3 SV 1 # UNIPROT # A8MLB5 # GLURS-RXN # AORE350688:CLOS_0467-MONOMER # 6.1.1.17
+U1_73_56	U1_73			FIG00498400: hypothetical protein 		
+U1_73_55	U1_73			tRNA-t(6)A37 methylthiotransferase 		
+U1_73_54	U1_73	COG0503		Adenine phosphoribosyltransferase (EC 2.4.2.7) 		Adenine phosphoribosyltransferase OS Microcystis aeruginosa (strain NIES-843) GN apt PE 3 SV 1 # UNIPROT # B0JR14 # ADENPRIBOSYLTRAN-RXN # MAER449447:MAE_40610-MONOMER # 2.4.2.7
+U1_9_3	U1_9			conserved hypothetical protein 		
+U1_9_2	U1_9	COG2824		Alkylphosphonate utilization operon protein PhnA 		Protein phnA homolog OS Curvibacter putative symbiont of Hydra magnipapillata GN phnA PE 4 SV 1 # UNIPROT # C9Y8F1 # 3.11.1.2-RXN # # 3.11.1.2
+U1_9_0	U1_9	COG0027		Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-) 		Phosphoribosylglycinamide formyltransferase 2 OS Escherichia coli (strain K12) GN purT PE 1 SV 3 # UNIPROT # P33221 # GARTRANSFORMYL2-RXN # MetaCyc:GARTRANSFORMYL2-MONOMER # 2.7.2.1 NIL
+U1_69_26	U1_69			hypothetical protein 		
+U1_51_6	U1_51			ABC-type transport system involved in resistance to organic solvents, permease component 		
+U1_96_52	U1_96			23S rRNA (guanosine-2'-O-) -methyltransferase rlmB (EC 2.1.1.-) 		
+U1_96_53	U1_96			Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-) 		
+U1_96_50	U1_96	COG0403		Glycine dehydrogenase  (glycine cleavage system P1 protein) (EC 1.4.4.2) 		Probable glycine dehydrogenase [decarboxylating] subunit 1 OS Thermomicrobium roseum (strain ATCC 27502 / DSM 5159 / P-2) GN gcvPA PE 3 SV 1 # UNIPROT # B9KZ42 # GCVP-RXN # # 1.4.4.2
+U1_96_51	U1_96	COG0509		Glycine cleavage system H protein 		
+U1_96_56	U1_96	COG0601		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1) 		
+U1_96_57	U1_96			Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1) 		
+U1_96_54	U1_96			TPR domain protein 		
+U1_96_55	U1_96	COG2255		Holliday junction DNA helicase RuvB 		
+U1_96_58	U1_96			HPr kinase/phosphorylase (EC 2.7.1.-) (EC 2.7.4.-) 		
+U1_96_59	U1_96			Ribosome hibernation protein YhbH 		
+U1_114_8	U1_114			hypothetical protein 		
+U1_114_9	U1_114	COG1136		ABC transporter ATP-binding protein YvcR 		
+U1_114_6	U1_114			conserved hypothetical protein 		
+U1_114_7	U1_114			FIG00497386: hypothetical protein 		
+U1_114_4	U1_114			Lactaldehyde reductase (EC 1.1.1.77) 		
+U1_114_5	U1_114			Transcriptional regulator AbrB 		
+U1_114_2	U1_114	COG2038		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21) 		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase OS Syntrophobacter fumaroxidans (strain DSM 10017 / MPOB) GN cobT PE 3 SV 1 # UNIPROT # A0LF21 # DMBPPRIBOSYLTRANS-RXN # SFUM335543:SFUM_0323-MONOMER # 2.4.2.21
+U1_114_3	U1_114			Cobalamin synthase (EC 2.7.8.26) 		
+U1_114_0	U1_114			hypothetical protein 		
+U1_114_1	U1_114			Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62) 		
+U1_112_0	U1_112	COG2801		putative transposase 		
+U1_172_13	U1_172			hypothetical protein 		
+U1_21_8	U1_21			putative transformylase 		
+U1_21_9	U1_21			UDP-Bac2Ac4Ac hydrolyzing 2-epimerase NeuC homolog 		
+U1_21_0	U1_21			hypothetical protein 		
+U1_21_1	U1_21			hypothetical protein 		
+U1_21_6	U1_21			hypothetical protein 		
+U1_21_7	U1_21			FIG00675648: hypothetical protein 	CDH90466.1	
+U1_21_5	U1_21	COG0500		hypothetical protein 		
+U1_51_22	U1_51			PilT protein domain protein 		
+U1_51_23	U1_51			Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2) 		Phosphoribosylglycinamide formyltransferase, chloroplastic OS Vigna unguiculata GN PUR3 PE 2 SV 2 # UNIPROT # P52423 # GART-RXN # # 2.1.2.2
+U1_51_20	U1_51			hypothetical protein 		
+U1_51_21	U1_51			conserved hypothetical protein 		
+U1_51_26	U1_51	COG0648		Endonuclease IV (EC 3.1.21.2) 		
+U1_51_27	U1_51			Cell division protein FtsX 		
+U1_51_24	U1_51			Queuosine Biosynthesis QueE Radical SAM 		
+U1_51_25	U1_51			Glycosyl transferase 	ABP36502.1	
+U1_51_28	U1_51			FIG00497252: hypothetical protein 		
+U1_51_29	U1_51			Amidophosphoribosyltransferase (EC 2.4.2.14) 		
+U1_61_24	U1_61			hypothetical protein 		
+U1_116_0	U1_116			transposase IS4 family protein 		
+U1_66_14	U1_66			Beta-lactamase (EC 3.5.2.6) 		
+U1_66_11	U1_66	COG0343		tRNA-guanine transglycosylase (EC 2.4.2.29) 		
+U1_66_10	U1_66			Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase 		
+U1_66_13	U1_66			Probable GTPase related to EngC 		
+U1_66_12	U1_66			Curli production assembly/transport component CsgG 		
+U1_27_0	U1_27			Probable RND efflux membrane fusion protein 		
+U1_27_1	U1_27			NAD(FAD)-utilizing dehydrogenases 		
+U1_27_2	U1_27			hypothetical protein 		
+U1_27_3	U1_27			hypothetical protein 		
+U1_27_4	U1_27			Putative uncharacterized protein ydbH 		
+U1_27_5	U1_27			Putative uncharacterized protein ydbL, may be related to amine metabolism 		
+U1_27_6	U1_27			Uncharacterized protein ynbE; probable lipoprotein STY1424 		
+U1_27_7	U1_27			hypothetical protein 		
+U1_27_8	U1_27			hypothetical protein 		
+U1_27_9	U1_27			Nitroreductase 		
+U1_61_22	U1_61			Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1) 		
+U1_48_20	U1_48			FIG01211140: hypothetical protein 		
+U1_25_0	U1_25			Retron-type RNA-directed DNA polymerase (EC 2.7.7.49) 		
+U1_84_5	U1_84			Metal-dependent phosphohydrolase, HD subdomain 		
+U1_60_19	U1_60			 hydrogenase nickel incorporation protein HypA 		
+U1_60_18	U1_60	COG0540		Aspartate carbamoyltransferase (EC 2.1.3.2) 		Aspartate carbamoyltransferase OS Maricaulis maris (strain MCS10) GN pyrB PE 3 SV 1 # UNIPROT # Q0ANY2 # ASPCARBTRANS-RXN # MMAR394221:MMAR10_1713-MONOMER # 2.1.3.2
+U1_23_0	U1_23			hypothetical protein 		
+U1_84_4	U1_84	COG1410		5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13) 		Methionine synthase OS Bos taurus GN MTR PE 2 SV 1 # UNIPROT # Q4JIJ3 # HOMOCYSMETB12-RXN # CATTLE:280869-MONOMER # 2.1.1.13
+U1_60_13	U1_60			Universal stress protein family 		
+U1_60_12	U1_60	COG0477		Permeases of the major facilitator superfamily 		
+U1_60_11	U1_60			FIG00499436: hypothetical protein 		
+U1_60_10	U1_60			Excinuclease ABC subunit C 		
+U1_60_17	U1_60			FIG00495815: hypothetical protein 		
+U1_60_16	U1_60			Nudix hydrolase family protein 		
+U1_60_15	U1_60			Nudix hydrolase family protein 		
+U1_60_14	U1_60			FIG00495767: hypothetical protein 		
+U1_119_0	U1_119			hypothetical protein 		
+U1_156_8	U1_156	COG0251		Endoribonuclease L-PSP 		
+U1_84_3	U1_84			carboxylesterase family protein 		
+U1_156_4	U1_156	COG1004		UDP-glucose dehydrogenase (EC 1.1.1.22) 		UDP-glucose 6-dehydrogenase ywqF OS Bacillus subtilis GN ywqF PE 1 SV 1 # UNIPROT # P96718 # UGD-RXN # BSUB:BSU36230-MONOMER # 1.1.1.22
+U1_156_5	U1_156	COG0351		Phosphomethylpyrimidine kinase (EC 2.7.4.7) 		
+U1_28_1	U1_28			Peptide transport system permease protein sapC (TC 3.A.1.5.5) 		
+U1_84_2	U1_84			tRNA-specific 2-thiouridylase MnmA 		
+U1_156_0	U1_156			FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type 		
+U1_156_1	U1_156			Cytosol aminopeptidase PepA (EC 3.4.11.1) 		Probable cytosol aminopeptidase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN pepA PE 3 SV 1 # UNIPROT # B3QVE8 # 3.4.11.1-RXN # # 3.4.11.1
+U1_156_2	U1_156			FIG00496945: hypothetical protein 		
+U1_156_3	U1_156			lipoprotein, putative 		
+U1_154_0	U1_154			Mobile element protein 		
+U1_43_36	U1_43			Rhodanese-like 		
+U1_79_13	U1_79			hypothetical protein 		
+U1_79_12	U1_79	COG0229		Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12) 		
+U1_158_6	U1_158			Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70) 		
+U1_158_7	U1_158			Prolyl oligopeptidase precursor (EC 3.4.21.26) 		
+U1_158_4	U1_158	COG1239		Protoporphyrin IX Mg-chelatase subunit I (EC 6.6.1.1) 		Magnesium-chelatase 38 kDa subunit OS Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 / SB1003) GN bchI PE 1 SV 1 # UNIPROT # P26239 # RXN1F-20 # # 6.6.1.1
+U1_158_5	U1_158	COG1249		Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4) / Dihydrolipoamide dehydrogenase (EC 1.8.1.4) 		
+U1_158_2	U1_158			Protoporphyrin IX Mg-chelatase subunit H (EC 6.6.1.1) 		Magnesium-chelatase subunit H OS Chlorobaculum parvum (strain NCIB 8327) GN bchH PE 3 SV 2 # UNIPROT # O50314 # RXN1F-20 # # 6.6.1.1
+U1_158_3	U1_158			Protoporphyrin IX Mg-chelatase subunit D (EC 6.6.1.1) 		Magnesium-chelatase 67 kDa subunit OS Chlorobium tepidum GN bchD PE 3 SV 1 # UNIPROT # Q93SW0 # RXN1F-20 # CTEP194439:CT_1296-MONOMER # 6.6.1.1
+U1_158_1	U1_158			Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) 		Inosine-5'-monophosphate dehydrogenase OS Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) GN guaB PE 3 SV 1 # UNIPROT # Q59011 # IMP-DEHYDROG-RXN # MJAN243232:MJ_1616-MONOMER # 1.1.1.205
+U1_111_0	U1_111			hypothetical protein 		
+U1_158_8	U1_158			probable DNA alkylation repair enzyme 		
+U1_158_9	U1_158	COG0488		COG0488: ATPase components of ABC transporters with duplicated ATPase domains 		
+U1_79_19	U1_79			FIG00977026: hypothetical protein 		
+U1_79_18	U1_79			Adenosine deaminase (EC 3.5.4.4) 		
+U1_66_15	U1_66			Helix-turn-helix motif 		
+U1_152_8	U1_152			TPR repeat 		
+U1_152_9	U1_152			TPR repeat 		
+U1_152_0	U1_152			Signal peptidase I (EC 3.4.21.89) 		
+U1_152_1	U1_152			FIG00495717: hypothetical protein 		
+U1_152_2	U1_152			Anthranilate synthase, aminase component (EC 4.1.3.27) # TrpAa 		
+U1_152_3	U1_152			Serine protease precursor MucD/AlgY associated with sigma factor RpoE 		
+U1_152_4	U1_152	COG0782		Transcription elongation factor GreA 		
+U1_152_5	U1_152			FIG00495843: hypothetical protein 		
+U1_152_6	U1_152	COG0149		Triosephosphate isomerase (EC 5.3.1.1) 		Triosephosphate isomerase OS Thermodesulfovibrio yellowstonii (strain ATCC 51303 / DSM 11347 / YP87) GN tpiA PE 3 SV 1 # UNIPROT # B5YL53 # TRIOSEPISOMERIZATION-RXN # # 5.3.1.1
+U1_152_7	U1_152	COG0422		Thiamin biosynthesis protein ThiC 		Bifunctional protein thiEC OS Bifidobacterium longum GN thiE/thiC PE 3 SV 1 # UNIPROT # Q8G7X1 # THI-P-SYN-RXN # BLON206672:BL0114-MONOMER # 2.5.1.3
+U1_150_8	U1_150	COG0531		Amino acid permease 		
+U1_150_9	U1_150	COG2738		probable metal-dependent peptidase 		
+U1_150_6	U1_150			Thymidylate kinase (EC 2.7.4.9) 		Thymidylate kinase OS Thermoanaerobacter tengcongensis GN tmk PE 3 SV 1 # UNIPROT # Q8RDE6 # DTMPKI-RXN # TTEN273068:TTE0094-MONOMER # 2.7.4.9
+U1_150_7	U1_150			Short-chain dehydrogenase/reductase SDR 		
+U1_150_4	U1_150			Trehalose 6-phosphate phosphorylase (EC 2.4.1.216) 	ABB24172.1	
+U1_150_5	U1_150			Trehalose-6-phosphate synthase 		
+U1_150_2	U1_150			2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) 		2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase OS Chlorobium chlorochromatii (strain CaD3) GN ispD PE 3 SV 1 # UNIPROT # Q3AS33 # 2.7.7.60-RXN # CCHL340177:CAG_0929-MONOMER # 2.7.7.60
+U1_150_3	U1_150	COG0809		S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-) 		
+U1_150_0	U1_150			Bacteriochlorophyllide c C12 methyltransefase BchR 		
+U1_150_1	U1_150	COG2050		FIG002571: 4-hydroxybenzoyl-CoA thioesterase domain protein 		
+U1_130_12	U1_130			Conjugative transfer protein TrbI 		
+U1_130_10	U1_130			putative phage protein 		
+U1_130_11	U1_130			hypothetical protein 		
+U1_156_7	U1_156			Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3) 		
+U1_14_54	U1_14			colanic acid biosynthesis glycosyl-transferase 	ACM20491.1	
+U1_14_56	U1_14			O-antigen acetylase 		
+U1_14_51	U1_14	COG1091		Probable dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133) 		
+U1_14_52	U1_14	COG1086		UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.-) 		UDP-glucose 4-epimerase OS Rickettsia bellii (strain RML369-C) GN capD PE 3 SV 1 # UNIPROT # Q1RIM4 # UDPGLUCEPIM-RXN # RBEL336407:RBE_0709-MONOMER # 5.1.3.2
+U1_14_53	U1_14	COG0381		UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14) 		
+U1_14_58	U1_14			Acyltransferase 3 		
+U1_45_12	U1_45			D-alanine--D-alanine ligase (EC 6.3.2.4) 		D-alanine--D-alanine ligase OS Clostridium thermocellum (strain ATCC 27405 / DSM 1237) GN ddl PE 3 SV 1 # UNIPROT # A3DGS7 # DALADALALIG-RXN # # 6.3.2.4
+U1_45_13	U1_45			FIG00495469: hypothetical protein 		
+U1_45_11	U1_45	COG1832		Succinyl-CoA synthetase, alpha subunit-related enzymes 		
+U1_45_16	U1_45	COG1136		Macrolide export ATP-binding/permease protein MacB (EC 3.6.3.-) 		
+U1_45_17	U1_45			ABC transporter efflux protein 		
+U1_45_14	U1_45			outer membrane efflux protein 		
+U1_45_15	U1_45			Macrolide-specific efflux protein MacA 		
+U1_45_18	U1_45			ABC transporter efflux protein 		
+U1_45_19	U1_45			Radical SAM 		
+U1_73_48	U1_73			Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2) 		
+U1_73_49	U1_73			Hydroxyneurosporene synthase 		
+U1_73_44	U1_73			FIG00496877: hypothetical protein 		
+U1_73_45	U1_73			FIG00496681: hypothetical protein 		
+U1_73_46	U1_73			Alpha-amylase family protein 	ABB27539.1	
+U1_73_47	U1_73			Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2) 		
+U1_73_40	U1_73			Lycopene cyclase, CruA type 		
+U1_73_41	U1_73	COG1136		Lipoprotein releasing system ATP-binding protein LolD 		
+U1_73_42	U1_73			FolM Alternative dihydrofolate reductase 1 		
+U1_73_43	U1_73			FIG00495885: hypothetical protein 		
+U1_104_42	U1_104			Putative FixH 		
+U1_161_30	U1_161	COG0055		ATP synthase beta chain (EC 3.6.3.14) 		ATP synthase subunit beta OS Mycobacterium sp. (strain JLS) GN atpD PE 3 SV 1 # UNIPROT # A3Q3B1 # ATPSYN-RXN # MSP164757:MJLS_3862-MONOMER # 3.6.3.14
+U1_2_0	U1_2			hypothetical protein 		
+U1_2_1	U1_2			DNA methylase N-4/N-6 		
+U1_106_20	U1_106			FIG00496801: hypothetical protein 		
+U1_106_21	U1_106			preprotein translocase, SecG subunit 		
+U1_2_4	U1_2			hypothetical protein 		
+U1_2_6	U1_2			hypothetical protein 		
+U1_96_69	U1_96	COG4608		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1) 		
+U1_96_68	U1_96			Protease IV (EC 3.4.-.-) 		
+U1_96_67	U1_96			FIG00913991: hypothetical protein 		
+U1_96_66	U1_96	COG0606		MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein 		
+U1_96_65	U1_96			Phosphoenolpyruvate carboxylase (EC 4.1.1.31) 		
+U1_96_64	U1_96			Photosystem P840 reaction center subunit PscC, cytochrome c-551 		
+U1_96_63	U1_96	COG0780		NADPH dependent preQ0 reductase (EC 1.7.1.13) 		
+U1_96_62	U1_96			Conserved domain protein 		
+U1_96_61	U1_96			FIG00497647: hypothetical protein 		
+U1_96_60	U1_96			site-specific recombinase, phage/XerD family 		
+U1_14_9	U1_14			hypothetical protein 		
+U1_14_3	U1_14	COG1089		GDP-mannose 4,6-dehydratase (EC 4.2.1.47) 		GDP-mannose 4,6 dehydratase 1 OS Caenorhabditis elegans GN bre-1 PE 1 SV 3 # UNIPROT # Q18801 # GDPMANDEHYDRA-RXN # # 4.2.1.47
+U1_14_0	U1_14			Mg-protoporphyrin IX monomethyl ester oxidative cyclase (anaerobic) (EC 1.14.13.81) 		
+U1_14_1	U1_14	COG0451		GDP-L-fucose synthetase ; Colanic acid biosynthesis protein wcaG 		GDP-L-fucose synthase OS Escherichia coli (strain K12) GN fcl PE 1 SV 2 # UNIPROT # P32055 # 1.1.1.271-RXN # MetaCyc:FCL-MONOMER # 1.1.1.271
+U1_14_6	U1_14			FIG00498552: hypothetical protein 		
+U1_14_7	U1_14			hypothetical protein 		
+U1_14_4	U1_14	COG0514		ATP-dependent DNA helicase RecQ 		
+U1_14_5	U1_14			transcriptional regulator, XRE family 		
+U1_149_24	U1_149	COG2337		Programmed cell death toxin MazF 		
+U1_74_0	U1_74			putative anti-sigma regulatory factor (serine/threonine protein kinase) 		
+U1_71_18	U1_71			Indolepyruvate oxidoreductase subunit IorA (EC 1.2.7.8) 		
+U1_71_15	U1_71			Amino acid-binding ACT 		
+U1_71_14	U1_71			Transcriptional regulator, GntR family domain / Aspartate aminotransferase (EC 2.6.1.1) 		
+U1_71_17	U1_71			Indolepyruvate oxidoreductase subunit IorB (EC 1.2.7.8) 		
+U1_71_16	U1_71	COG1541		Phenylacetate-coenzyme A ligase (EC 6.2.1.30) 		Phenylacetate-coenzyme A ligase OS Escherichia coli (strain K12) GN paaK PE 1 SV 1 # UNIPROT # P76085 # PHENYLACETATE--COA-LIGASE-RXN # MetaCyc:G6719-MONOMER # 6.2.1.30
+U1_71_11	U1_71			Universal stress protein family 		
+U1_71_10	U1_71			Membrane fusion component of tripartite multidrug resistance system 		
+U1_71_13	U1_71			Formate hydrogenlyase transcriptional activator 		
+U1_71_12	U1_71			Outer membrane component of tripartite multidrug resistance system 		
+U1_12_0	U1_12			Rhodanese-like 		
+U1_12_1	U1_12			methylamine utilization protein MauE, putative 		
+U1_12_2	U1_12			Helix-turn-helix motif 		
+U1_12_5	U1_12			hypothetical protein 		
+U1_12_7	U1_12	COG1487		hypothetical protein 		
+U1_12_8	U1_12	COG2002		Transcriptional regulator AbrB 		
+U1_12_9	U1_12	COG4628		hypothetical protein 		
+U1_10_4	U1_10			FIG032766: hypothetical protein 		
+U1_10_2	U1_10			putative DNA polymerase III alpha subunit 		
+U1_10_3	U1_10	COG0454		FIG001353: Acetyltransferase 		
+U1_10_0	U1_10			hypothetical protein 		
+U1_10_1	U1_10			addiction module toxin, Txe/YoeB family 		
+U1_16_0	U1_16			Mobile element protein 		
+U1_44_45	U1_44	COG0119		(R)-citramalate synthase (EC 2.3.1.182) 		
+U1_60_9	U1_60			TPR domain protein, putative component of TonB system 		
+U1_60_8	U1_60			Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25) # AroDI alpha 		Shikimate dehydrogenase OS Prosthecochloris aestuarii (strain DSM 271 / SK 413) GN aroE PE 3 SV 1 # UNIPROT # B4S9K2 # SHIKIMATE-5-DEHYDROGENASE-RXN # # 1.1.1.25
+U1_60_7	U1_60			Lipoprotein signal peptidase (EC 3.4.23.36) 		
+U1_60_6	U1_60	COG0084		Putative deoxyribonuclease YcfH 		
+U1_60_5	U1_60			FIG00495975: hypothetical protein 		
+U1_60_4	U1_60			Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8) 		
+U1_54_21	U1_54	COG4675		Microcystin dependent protein 		
+U1_54_20	U1_54	COG2195		Aminoacyl-histidine dipeptidase (Peptidase D) (EC 3.4.13.3) 		
+U1_54_23	U1_54	COG0209		Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1) 		
+U1_60_0	U1_60	COG3278		Cytochrome c oxidase subunit CcoN (EC 1.9.3.1) 		
+U1_66_9	U1_66			conserved hypothetical protein 		
+U1_66_8	U1_66	COG1613		Sulfate and thiosulfate binding protein CysP 		
+U1_51_18	U1_51			hypothetical protein 		
+U1_66_5	U1_66	COG1118		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25) 		
+U1_66_4	U1_66			Uroporphyrin-III C-methyltransferase( EC:2.1.1.107 ) 		
+U1_66_7	U1_66	COG0555		Sulfate transport system permease protein CysT 		
+U1_51_14	U1_51	COG0138		IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3) 		Bifunctional purine biosynthesis protein purH OS Caulobacter crescentus GN purH PE 3 SV 1 # UNIPROT # Q9ABY4 # IMPCYCLOHYDROLASE-RXN # # 2.1.2.3 3.5.4.10
+U1_66_1	U1_66	COG0175		Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4) 		
+U1_66_0	U1_66	COG0175		Phosphoadenylyl-sulfate reductase  (EC 1.8.4.8) / Adenylyl-sulfate reductase  (EC 1.8.4.10) 		Phosphoadenosine phosphosulfate reductase OS Pseudomonas aeruginosa (strain LESB58) GN cysH PE 3 SV 1 # UNIPROT # B7VBC3 # 1.8.4.8-RXN # # 1.8.4.8
+U1_66_3	U1_66			Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) 		
+U1_66_2	U1_66			Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4) / Adenylylsulfate kinase (EC 2.7.1.25) 		
+U1_74_4	U1_74			Ammonium transporter 		
+U1_91_29	U1_91	COG0133		Tryptophan synthase beta chain (EC 4.2.1.20) 		
+U1_74_5	U1_74			Nitrogen regulatory protein P-II 		
+U1_94_16	U1_94			conserved hypothetical cytosolic protein 		
+U1_94_17	U1_94			tRNA/rRNA methyltransferase (SpoU) 		
+U1_94_18	U1_94			FIG00496372: hypothetical protein 		
+U1_1_4	U1_1			FIG00498554: hypothetical protein 		
+U1_1_3	U1_1			RNA polymerase sigma-70 factor, ECF subfamily 		
+U1_1_1	U1_1	COG0479		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1) 		
+U1_1_0	U1_1	COG1053		Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1) 		
+U1_63_1	U1_63			hypothetical protein 		
+U1_156_9	U1_156			carboxyl-terminal protease( EC:3.4.21.102 ) 		
+U1_44_55	U1_44	COG4974		Tyrosine recombinase XerD 		
+U1_92_10	U1_92			3-oxoacyl- reductase (EC 1.1.1.100) 		
+U1_80_0	U1_80			Glutamyl-tRNA reductase (EC 1.2.1.70) 		Glutamyl-tRNA reductase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN hemA PE 3 SV 1 # UNIPROT # B3QWI0 # GLUTRNAREDUCT-RXN # # 1.2.1.70
+U1_80_3	U1_80			FIG00495880: hypothetical protein 		
+U1_80_2	U1_80			Uroporphyrinogen-III synthase (EC 4.2.1.75) 		Uroporphyrinogen-III synthase OS Chlorobium tepidum GN hemD PE 3 SV 1 # UNIPROT # Q8KCJ3 # UROGENIIISYN-RXN # CTEP194439:CT_1428-MONOMER # 4.2.1.75
+U1_28_2	U1_28			Hemolysin activation/secretion protein 		
+U1_62_0	U1_62			RTX toxin, putative 		
+U1_156_6	U1_156			Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3) 		Thiamine-phosphate pyrophosphorylase OS Chlorobium phaeobacteroides (strain DSM 266) GN thiE PE 3 SV 1 # UNIPROT # A1BGM7 # THI-P-SYN-RXN # # 2.5.1.3
+U1_176_20	U1_176			hypothetical protein 		
+U1_109_12	U1_109	COG0447		Naphthoate synthase (EC 4.1.3.36) 		1,4-Dihydroxy-2-naphthoyl-CoA synthase OS Mycobacterium tuberculosis GN menB PE 1 SV 1 # UNIPROT # O06414 # NAPHTHOATE-SYN-RXN # MetaCyc:MONOMER-13810 # 4.1.3.36
+U1_109_13	U1_109			2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20) 		
+U1_109_10	U1_109			O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26) 		
+U1_109_11	U1_109			O-succinylbenzoate synthase (EC 4.2.1.113) 		
+U1_109_16	U1_109			hypothetical protein 		
+U1_109_17	U1_109			Addiction module toxin, RelE/StbE 		
+U1_109_14	U1_109			Type II restriction enzyme BsuBI (EC 3.1.21.4) 		
+U1_109_15	U1_109			Modification methylase PstI (EC 2.1.1.72) 		
+U1_109_18	U1_109			hypothetical protein 		
+U1_44_52	U1_44			Homoserine O-acetyltransferase (EC 2.3.1.31) 		Homoserine O-acetyltransferase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN metX PE 3 SV 1 # UNIPROT # B3QZ51 # HOMOSERINE-O-ACETYLTRANSFERASE-RXN # # 2.3.1.31
+U1_63_3	U1_63			Type II site-specific deoxyribonuclease( EC:3.1.21.4 ) 		
+U1_69_8	U1_69			CAAX prenyl protease 1, putative 		
+U1_69_9	U1_69	COG0388		N-carbamoylputrescine amidase (3.5.1.53) 		
+U1_69_6	U1_69	COG0039		Malate dehydrogenase (EC 1.1.1.37) 		Malate dehydrogenase OS Dehalococcoides ethenogenes (strain 195) GN mdh PE 3 SV 1 # UNIPROT # Q3Z9A4 # MALATE-DEH-RXN # DETH243164:DET_0451-MONOMER # 1.1.1.37
+U1_69_7	U1_69			Agmatine deiminase (EC 3.5.3.12) 		
+U1_69_4	U1_69			LSU ribosomal protein L21p 		
+U1_69_5	U1_69	COG0211		LSU ribosomal protein L27p 		
+U1_69_2	U1_69			BchE/P-methylase family protein 		
+U1_69_3	U1_69			DNA mismatch repair protein MutS 		
+U1_56_12	U1_56			outer membrane efflux protein 		
+U1_56_10	U1_56			Macrolide export ATP-binding/permease protein MacB (EC 3.6.3.-) 		
+U1_56_11	U1_56			efflux transporter, RND family, MFP subunit 		
+U1_63_4	U1_63			DNA modification methyltransferase (EC 2.1.1.-) 		
+U1_13_8	U1_13			Phytol kinase (2.7.1.-) 		
+U1_58_18	U1_58			BchE/P-methylase family protein 		
+U1_8_3	U1_8			hypothetical protein 		
+U1_58_10	U1_58			hypothetical protein 		
+U1_58_11	U1_58			Lycopene cyclase, CruA type 		
+U1_58_12	U1_58			FIG00497171: hypothetical protein 		
+U1_58_13	U1_58	COG1830		Autoinducer 2 (AI-2) aldolase LsrF (EC 4.2.1.-) 		
+U1_58_14	U1_58			Putative oxidoreductase 		
+U1_58_15	U1_58			FIG00495998: hypothetical protein 		
+U1_58_16	U1_58			FIG00497285: hypothetical protein 		
+U1_58_17	U1_58			2-vinyl bacteriochlorophyllide hydratase BchF (EC 4.2.1.-) 		
+U1_63_6	U1_63			HicA-like protein 		
+U1_165_78	U1_165			Acetyltransferase, GNAT family (EC 2.3.1.1) 		
+U1_165_79	U1_165			Phosphocarrier protein, nitrogen regulation associated 		
+U1_165_72	U1_165			Adenine-specific methyltransferase (EC 2.1.1.72) 		
+U1_65_0	U1_65			transposase, IS4 		
+U1_165_71	U1_165			hypothetical protein 		
+U1_165_76	U1_165			Exodeoxyribonuclease VII small subunit (EC 3.1.11.6) 		
+U1_165_77	U1_165	COG0536		GTP-binding protein Obg 		
+U1_165_74	U1_165			Uncharacterized conserved protein 		
+U1_165_75	U1_165	COG0064		Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7) 		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B OS Helicobacter pylori (strain 908) GN gatB PE 3 SV 1 # UNIPROT # E1S8G8 # 6.3.5.7-RXN # # 6.3.5.6 6.3.5.7
+U1_63_7	U1_63			ATP-dependent DNA helicase RecG 		
+U1_14_21	U1_14	COG1898		dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13) 		
+U1_14_20	U1_14	COG0451		Similar to CDP-glucose 4,6-dehydratase (EC 4.2.1.45) 		CDP-glucose 4,6-dehydratase OS Salmonella typhimurium GN rfbG PE 1 SV 1 # UNIPROT # P26397 # CDP-GLUCOSE-46-DEHYDRATASE-RXN # STYP99287:STM2091-MONOMER # 4.2.1.45
+U1_14_23	U1_14			UDP-glucose 4-epimerase (EC 5.1.3.2) 		
+U1_14_22	U1_14	COG0500		methyltransferase, putative 		
+U1_14_24	U1_14	COG3510		Cephalosporin hydroxylase 		
+U1_14_27	U1_14			Transketolase (EC 2.2.1.1) 		
+U1_14_26	U1_14			N-Acetylneuraminate cytidylyltransferase (EC 2.7.7.43) 		
+U1_14_29	U1_14	COG0451		UDP-glucose 4-epimerase (EC 5.1.3.2) 		
+U1_39_73	U1_39			FIG00598106: hypothetical protein 		
+U1_39_72	U1_39			Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-) 		
+U1_39_71	U1_39			FIG00495591: hypothetical protein 		
+U1_44_48	U1_44			RTX toxin, putative 		
+U1_39_70	U1_39	COG0563		Adenylate kinase (EC 2.7.4.3) 		Adenylate kinase OS Pelobacter propionicus (strain DSM 2379) GN adk PE 3 SV 1 # UNIPROT # A1ALW2 # ADENYL-KIN-RXN # # 2.7.4.3
+U1_73_39	U1_73			DNA ligase (EC 6.5.1.2) 		
+U1_73_38	U1_73			FIG00497566: hypothetical protein 		
+U1_73_31	U1_73			Protein of unknown function DUF1499 		
+U1_73_30	U1_73			ATPase component NikO of energizing module of nickel ECF transporter 		
+U1_73_33	U1_73			Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1) 		
+U1_73_32	U1_73			FIG00496890: hypothetical protein 		
+U1_73_35	U1_73	COG0139		Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) 		Phosphoribosyl-AMP cyclohydrolase OS Chromohalobacter salexigens (strain DSM 3043 / ATCC BAA-138 / NCIMB 13768) GN hisI PE 3 SV 1 # UNIPROT # Q1QWC3 # HISTCYCLOHYD-RXN # CSAL290398:CSAL_1883-MONOMER # 3.5.4.19
+U1_73_34	U1_73			Probable Co/Zn/Cd efflux system membrane fusion protein 		
+U1_73_37	U1_73			hypothetical protein 		
+U1_73_36	U1_73			2-heptaprenyl-1,4-naphthoquinone methyltransferase MenG (EC 2.1.1.163) 		
+U1_96_19	U1_96			Biopolymer transport protein ExbD/TolR 		
+U1_155_22	U1_155			helicase, SNF2 family 		
+U1_96_16	U1_96			FIG00496383: hypothetical protein 		
+U1_155_20	U1_155			putative DNA-binding protein 		
+U1_155_21	U1_155			5.2 Protein of unknown function similar to proteins from other organisms 		
+U1_155_27	U1_155			hypothetical protein 		
+U1_48_14	U1_48			hypothetical protein 		
+U1_52_11	U1_52			extracellular solute-binding protein, family 3 		
+U1_96_14	U1_96			FIG00496520: hypothetical protein 		
+U1_161_21	U1_161			Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-) 		
+U1_161_20	U1_161	COG0164		Ribonuclease HII (EC 3.1.26.4) 		
+U1_149_6	U1_149	COG1611		FIG00650312: hypothetical protein 		
+U1_96_15	U1_96	COG4992		Acetylornithine aminotransferase (EC 2.6.1.11) 		Acetylornithine aminotransferase OS Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) GN argD PE 3 SV 1 # UNIPROT # Q58131 # ACETYLORNTRANSAM-RXN # MJAN243232:MJ_0721-MONOMER # 2.6.1.11
+U1_161_25	U1_161			Geranylgeranyl hydrogenase BchP; Geranylgeranyl diphosphate reductase (EC 1.3.1.83) 		
+U1_161_24	U1_161			FIG00496609: hypothetical protein 		
+U1_161_27	U1_161			hypothetical protein 		
+U1_161_26	U1_161	COG0423		Glycyl-tRNA synthetase (EC 6.1.1.14) 		Glycyl-tRNA synthetase OS Bifidobacterium longum GN glyQS PE 3 SV 1 # UNIPROT # Q8G7W9 # GLYCINE--TRNA-LIGASE-RXN # BLON206672:BL0116-MONOMER # 6.1.1.14
+U1_161_29	U1_161			ATP synthase epsilon chain (EC 3.6.3.14) 		
+U1_48_11	U1_48			4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148) 		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN ispE PE 3 SV 1 # UNIPROT # B3QW77 # 2.7.1.148-RXN # # 2.7.1.148
+U1_149_8	U1_149			FIG00495928: hypothetical protein 		
+U1_149_9	U1_149			BH2577 unknown conserved protein in B. subtilis 		
+U1_48_10	U1_48			FIG00497056: hypothetical protein 		
+U1_96_10	U1_96	COG0041		Phosphoribosylaminoimidazole carboxylase catalytic subunit (EC 4.1.1.21) 		Bifunctional purine synthesis protein purC/E OS Dictyostelium discoideum GN purC/E PE 1 SV 1 # UNIPROT # Q54QE4 # SAICARSYN-RXN # # 4.1.1.21 6.3.2.6
+U1_48_12	U1_48			Glutamine amidotransferase chain of NAD synthetase ## not clustered with NADS 		
+U1_96_70	U1_96			rRNA small subunit methyltransferase I 		
+U1_96_71	U1_96	COG0414		Pantoate--beta-alanine ligase (EC 6.3.2.1) 		Pantothenate synthetase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN panC PE 3 SV 1 # UNIPROT # B3QSB4 # PANTOATE-BETA-ALANINE-LIG-RXN # # 6.3.2.1
+U1_96_72	U1_96	COG1185		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) 		
+U1_96_73	U1_96	COG0495		Leucyl-tRNA synthetase (EC 6.1.1.4) 		Leucyl-tRNA synthetase OS Sorangium cellulosum (strain So ce56) GN leuS PE 3 SV 1 # UNIPROT # A9EYY7 # LEUCINE--TRNA-LIGASE-RXN # # 6.1.1.4
+U1_96_74	U1_96	COG0365		Acetyl-coenzyme A synthetase (EC 6.2.1.1) 		Acetyl-coenzyme A synthetase OS Pyrobaculum arsenaticum (strain DSM 13514 / JCM 11321) GN acsA PE 3 SV 1 # UNIPROT # A4WJG1 # ACETATE--COA-LIGASE-RXN # PARS340102:PARS_0948-MONOMER # 6.2.1.1
+U1_69_30	U1_69			Helix-turn-helix motif 		
+U1_69_31	U1_69			FIG00498552: hypothetical protein 		
+U1_7_4	U1_7			ABC transporter 		
+U1_7_1	U1_7	COG2076		Quaternary ammonium compound-resistance protein SugE 		
+U1_7_0	U1_7			Glycerol-3-phosphate cytidylyltransferase (EC 2.7.7.39) 		
+U1_7_3	U1_7			signal transduction histidine-protein kinase BarA( EC:2.7.13.3 ) 		
+U1_7_2	U1_7	COG1803		Methylglyoxal synthase (EC 4.2.3.3) 		
+U1_165_129	U1_165			Light-independent protochlorophyllide reductase subunit B (EC 1.18.-.-) 		
+U1_165_128	U1_165			Light-independent protochlorophyllide reductase subunit N (EC 1.18.-.-) 		
+U1_165_123	U1_165			Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22) 		
+U1_165_122	U1_165			rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB 		
+U1_165_121	U1_165			LSU ribosomal protein L17p 		
+U1_165_120	U1_165	COG0202		DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6) 		
+U1_165_127	U1_165			ExtraCellular Mutant; Ecm15p 		
+U1_165_126	U1_165	COG0104		Adenylosuccinate synthetase (EC 6.3.4.4) 	CAN80640.1	Adenylosuccinate synthetase OS Natranaerobius thermophilus (strain ATCC BAA-1301 / DSM 18059 / JW/NM-WN-LF) GN purA PE 3 SV 1 # UNIPROT # B2A449 # ADENYLOSUCCINATE-SYNTHASE-RXN # # 6.3.4.4
+U1_165_125	U1_165			GTP-binding protein EngB 		
+U1_151_10	U1_151			glycosyl transferase 	AAM72644.1	
+U1_97_19	U1_97			protein of unknown function DUF374 		
+U1_153_19	U1_153			FIG00496197: hypothetical protein 		
+U1_153_18	U1_153			hypothetical protein 		
+U1_104_33	U1_104	COG1294		Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-) 		
+U1_153_11	U1_153	COG2877		2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55) ## KdsA 		2-dehydro-3-deoxyphosphooctonate aldolase OS Synechococcus sp. (strain ATCC 27144 / PCC 6301 / SAUG 1402/1) GN kdsA PE 3 SV 1 # UNIPROT # Q5N119 # KDO-8PSYNTH-RXN # SELO269084:SYC1811_D-MONOMER # 2.5.1.55
+U1_153_10	U1_153	COG0542		ClpB protein 		
+U1_153_13	U1_153			Non-ribosomal peptide synthetase modules and related proteins 		
+U1_153_12	U1_153			3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45) 		
+U1_153_15	U1_153			Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43) # TyrAx, NAD-specific 		
+U1_153_14	U1_153			NAD kinase (EC 2.7.1.23) 		Probable inorganic polyphosphate/ATP-NAD kinase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN ppnK PE 3 SV 1 # UNIPROT # B3QYG7 # NAD-KIN-RXN # # 2.7.1.23
+U1_153_17	U1_153			Putative Holliday junction resolvase YggF 		
+U1_153_16	U1_153	COG0461		Orotate phosphoribosyltransferase (EC 2.4.2.10) 		Orotate phosphoribosyltransferase OS Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039) GN pyrE PE 1 SV 1 # UNIPROT # P61498 # OROPRIBTRANS-RXN # TTHE262724:TT_C1380-MONOMER # 2.4.2.10
+U1_108_0	U1_108			conserved hypothetical protein 		
+U1_12_18	U1_12	COG3041		YafQ toxin protein 		
+U1_12_19	U1_12			DNA helicase 		
+U1_12_12	U1_12	COG1373		Mlr9349 protein 		
+U1_12_13	U1_12			hypothetical protein 		
+U1_12_10	U1_12			methlytransferase, putative 		
+U1_12_11	U1_12	COG3011		Protein of unknown function DUF393 		
+U1_12_16	U1_12			hypothetical protein 		
+U1_12_17	U1_12	COG3077		DNA-damage-inducible protein J 		
+U1_12_14	U1_12			conserved hypothetical protein 		
+U1_168_12	U1_168	COG0809		S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-) 		
+U1_168_11	U1_168	COG0141		Histidinol dehydrogenase (EC 1.1.1.23) 		
+U1_168_10	U1_168	COG1077		Rod shape-determining protein MreB 		
+U1_93_6	U1_93			Phospholipid/glycerol acyltransferase 		
+U1_104_31	U1_104			Transport ATP-binding protein CydC 		
+U1_105_0	U1_105			Iron-sulfur flavoprotein 		
+U1_105_1	U1_105			Transposase (class V) 		
+U1_105_2	U1_105	COG2801		transposase 		
+U1_104_30	U1_104			hypothetical protein 		
+U1_107_0	U1_107			putative ORF-2 		
+U1_107_1	U1_107			hypothetical protein 		
+U1_140_3	U1_140			hypothetical protein 		
+U1_140_2	U1_140			hypothetical protein 		
+U1_80_4	U1_80			Histidinol-phosphatase  (EC 3.1.3.15) 		
+U1_142_0	U1_142			Mobile element protein 		
+U1_101_0	U1_101			hypothetical protein 		
+U1_101_1	U1_101			FIG00857167: hypothetical protein 		
+U1_80_7	U1_80			Membrane protein associated with methylmalonyl-CoA decarboxylase 		
+U1_74_6	U1_74			Chloride channel protein 		
+U1_21_68	U1_21			hypothetical protein 		
+U1_21_65	U1_21			CBS domain protein 		
+U1_21_64	U1_21	COG1053		Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1) 		Succinate dehydrogenase flavoprotein subunit OS Salmonella typhimurium GN sdhA PE 3 SV 1 # UNIPROT # Q8ZQU3 # SUCC-FUM-OXRED-RXN # STYP99287:STM0734-MONOMER # 1.3.99.1
+U1_21_67	U1_21			FIG00946531: hypothetical protein 		
+U1_21_66	U1_21			Metallo-beta-lactamase family protein 		
+U1_21_61	U1_21	COG0407		Uroporphyrinogen III decarboxylase (EC 4.1.1.37) 		Uroporphyrinogen decarboxylase OS Flavobacterium psychrophilum (strain JIP02/86 / ATCC 49511) GN hemE PE 3 SV 1 # UNIPROT # A6GVN8 # UROGENDECARBOX-RXN # # 4.1.1.37
+U1_21_60	U1_21	COG0279		Phosphoheptose isomerase 1 (EC 5.3.1.-) 		
+U1_21_63	U1_21			Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1) 		
+U1_164_2	U1_164			FIG00495767: hypothetical protein 		
+U1_146_7	U1_146			Helix-turn-helix motif 		
+U1_146_6	U1_146			FIG00498552: hypothetical protein 		
+U1_146_5	U1_146			putative helicase 		
+U1_146_4	U1_146			hypothetical protein 		
+U1_146_3	U1_146			conserved hypothetical protein 		
+U1_146_2	U1_146			hypothetical protein 		
+U1_146_1	U1_146			hypothetical protein 		
+U1_94_19	U1_94			TPR repeat 		
+U1_165_69	U1_165	COG0542		ClpB protein 		
+U1_165_68	U1_165			FIG00496077: hypothetical protein 		
+U1_165_61	U1_165			hypothetical protein 		
+U1_165_60	U1_165			FIG00496113: hypothetical protein 		
+U1_165_64	U1_165			ATP-dependent DNA helicase 		
+U1_165_67	U1_165			BatB 		
+U1_165_66	U1_165			BatA (Bacteroides aerotolerance operon) 		
+U1_79_15	U1_79			transposase IS4 family protein 		
+U1_79_14	U1_79			Probable transmembrane protein 		
+U1_79_17	U1_79			FIG00538335: hypothetical protein 		
+U1_79_16	U1_79			hypothetical protein 		
+U1_79_11	U1_79			PAS 		
+U1_79_10	U1_79			hypothetical protein 		
+U1_94_89	U1_94			glycosyl transferase, family 2 		
+U1_94_88	U1_94			Lipopolysaccharide heptosyltransferase III (EC 2.4.1.-) 	ACE03356.1	
+U1_94_87	U1_94			Putative two-domain glycosyltransferase 	AIE19416.1	
+U1_94_86	U1_94			Putative two-domain glycosyltransferase 	ACA31407.1	
+U1_94_85	U1_94			hypothetical protein 		
+U1_94_84	U1_94			ADP-heptose--lipooligosaccharide heptosyltransferase II (EC 2.4.1.-) 	ACE03324.1	
+U1_94_83	U1_94			hypothetical protein 		
+U1_94_82	U1_94			Putative sugar transferase 	ACF45411.1	
+U1_94_81	U1_94			Glycosyl transferase, group 1 		
+U1_14_32	U1_14	COG2089		N-acetylneuraminate synthase (EC 2.5.1.56) 		
+U1_14_33	U1_14			conserved hypothetical protein 		
+U1_14_30	U1_14	COG0399		Bacillosamine/Legionaminic acid biosynthesis aminotransferase PglE; 4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase 		
+U1_14_31	U1_14			4-amino-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) acetyltrasferase 		
+U1_14_36	U1_14			D-glycero-D-manno-heptose 1-phosphate guanosyltransferase 		
+U1_14_37	U1_14			Legionaminic acid biosynthesis protein PtmG 		
+U1_14_34	U1_14			hypothetical protein 		
+U1_14_35	U1_14	COG0381		UDP-Bac2Ac4Ac hydrolyzing 2-epimerase NeuC homolog 		
+U1_14_38	U1_14	COG0107		Imidazole glycerol phosphate synthase cyclase subunit (EC 4.1.3.-) 		
+U1_14_39	U1_14			Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-) 		
+U1_158_10	U1_158			FIG00496504: hypothetical protein 		
+U1_158_11	U1_158			COG3245: Cytochrome c5 		
+U1_133_7	U1_133			Dipeptide transport system permease protein DppC (TC 3.A.1.5.2) 		
+U1_133_5	U1_133			LSU ribosomal protein L25p 		
+U1_133_4	U1_133	COG0462		Ribose-phosphate pyrophosphokinase (EC 2.7.6.1) 		Ribose-phosphate pyrophosphokinase OS Rhodopirellula baltica GN prs PE 3 SV 1 # UNIPROT # Q7UPM4 # PRPPSYN-RXN # PSP117:RB6844-MONOMER # 2.7.6.1
+U1_133_3	U1_133			UDP-3-O- glucosamine N-acyltransferase (EC 2.3.1.191) 		
+U1_133_2	U1_133			FIG00496742: hypothetical protein 		
+U1_133_0	U1_133			Outer membrane protein 		
+U1_133_9	U1_133			hypothetical protein 		
+U1_133_8	U1_133			ADP-ribose pyrophosphatase (EC 3.6.1.13) 		
+U1_73_28	U1_73			Substrate-specific component NikM of nickel ECF transporter / Additional substrate-specific component NikN of nickel ECF transporter 		
+U1_73_29	U1_73			Transmembrane component NikQ of energizing module of nickel ECF transporter 		
+U1_73_22	U1_73			Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16) 		1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN hisA PE 3 SV 1 # UNIPROT # B3QRR1 # PRIBFAICARPISOM-RXN # # 5.3.1.16
+U1_73_23	U1_73	COG0118		Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-) 		
+U1_73_20	U1_73			Pseudouridine synthase, Rsu 		
+U1_73_21	U1_73			Segregation and condensation protein B 		
+U1_73_26	U1_73			Nickel responsive regulator NikR 		
+U1_73_27	U1_73			FIG00495706: hypothetical protein 		
+U1_73_24	U1_73	COG0543		putative NADPH-dependent glutamate synthase 		
+U1_73_25	U1_73	COG0493		Glutamate synthase  large chain (EC 1.4.1.13) 		
+U1_94_3	U1_94			6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type 		
+U1_46_13	U1_46			Ferrous iron transport protein A 		
+U1_161_18	U1_161	COG0187		DNA gyrase subunit B (EC 5.99.1.3) 		
+U1_161_19	U1_161			Endonuclease (EC 3.1.-.-) 		
+U1_161_14	U1_161	COG0445		tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA 		
+U1_161_15	U1_161			Protein-export membrane protein SecD (TC 3.A.5.1.1) / Protein-export membrane protein SecF (TC 3.A.5.1.1) 		
+U1_161_16	U1_161			Protein-export membrane protein SecF (TC 3.A.5.1.1) 		
+U1_161_17	U1_161			Survival protein SurA precursor (Peptidyl-prolyl cis-trans isomerase SurA) (EC 5.2.1.8) 		
+U1_161_10	U1_161			DNA recombination and repair protein RecF 		
+U1_161_11	U1_161			Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives 		
+U1_161_12	U1_161			Probable flavoprotein 		
+U1_161_13	U1_161			DNA polymerase II (EC 2.7.7.7) 		
+U1_37_8	U1_37			SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182) 		
+U1_94_65	U1_94	COG0194		Guanylate kinase (EC 2.7.4.8) 		Guanylate kinase OS Bacteroides thetaiotaomicron GN gmk PE 3 SV 1 # UNIPROT # Q8A677 # GUANYL-KIN-RXN # BTHE226186:BT_2009-MONOMER # 2.7.4.8
+U1_94_64	U1_94			hypothetical protein 		
+U1_94_67	U1_94	COG0184		SSU ribosomal protein S15p (S13e) 		
+U1_94_66	U1_94			Protein YicC 		
+U1_94_61	U1_94	COG0853		Aspartate 1-decarboxylase (EC 4.1.1.11) 		Aspartate 1-decarboxylase OS Coprothermobacter proteolyticus (strain ATCC 35245 / DSM 5265 / BT) GN panD PE 3 SV 1 # UNIPROT # B5Y862 # ASPDECARBOX-RXN # # 4.1.1.11
+U1_94_60	U1_94			hypothetical protein 		
+U1_94_63	U1_94			glutathione S-transferase, fosfomycin resistance protein, putative 		
+U1_94_62	U1_94	COG1207		N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157) 		Bifunctional protein glmU OS Streptomyces griseus subsp. griseus (strain JCM 4626 / NBRC 13350) GN glmU PE 3 SV 1 # UNIPROT # B1VUI7 # NAG1P-URIDYLTRANS-RXN # # 2.3.1.157 2.7.7.23
+U1_94_69	U1_94			tRNA pseudouridine synthase B (EC 4.2.1.70) ## Psi55 synthase 		
+U1_94_68	U1_94			Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2) 		
+U1_57_1	U1_57			Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62) 		
+U1_57_0	U1_57			hypothetical protein 		
+U1_57_2	U1_57			hypothetical protein 		
+U1_55_1	U1_55			Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62) 		
+U1_55_0	U1_55			hypothetical protein 		
+U1_78_24	U1_78			Quinolinate phosphoribosyltransferase  (EC 2.4.2.19) 	AFM03407	
+U1_165_130	U1_165	COG1348		Light-independent protochlorophyllide reductase iron-sulfur ATP-binding protein ChlL (EC 1.18.-.-) 		
+U1_165_131	U1_165			hypothetical protein 		
+U1_71_39	U1_71	COG1090		Cell division inhibitor 		
+U1_71_38	U1_71	COG0449		Glucosamine--fructose-6-phosphate aminotransferase  (EC 2.6.1.16) 		Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] OS Clostridium perfringens GN glmS PE 3 SV 3 # UNIPROT # Q8XHZ7 # L-GLN-FRUCT-6-P-AMINOTRANS-RXN # CPER195102:CPE2327-MONOMER # 2.6.1.16
+U1_71_33	U1_71	COG0743		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267) 		1-deoxy-D-xylulose 5-phosphate reductoisomerase OS Symbiobacterium thermophilum GN dxr PE 3 SV 1 # UNIPROT # Q67PA9 # DXPREDISOM-RXN # STHE292459:STH1499-MONOMER # 1.1.1.267
+U1_71_32	U1_71			Membrane-associated zinc metalloprotease 		
+U1_71_31	U1_71	COG0216		Peptide chain release factor 1 		
+U1_71_30	U1_71			FIG00496152: hypothetical protein 		
+U1_71_37	U1_71			Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23) 		
+U1_71_36	U1_71	COG0465		Cell division protein FtsH (EC 3.4.24.-) 		
+U1_71_35	U1_71			Acylphosphate phosphohydrolase (EC 3.6.1.7), putative 		

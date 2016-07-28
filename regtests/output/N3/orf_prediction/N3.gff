@@ -1,0 +1,27 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=2500;seqhdr="N3_0"
+# Model Data: version=Prodigal.v2.00;run_type=Metagenomic;model="24|Wolbachia endosymbiont of Drosophila melanogaster|B|Alphaproteobacteria|35.2|11|1";gc_cont=35.20;transl_table=11;uses_sd=1
+N3_0	Prodigal_v2.00	CDS	2	139	7.4	-	0	ID=1_1;partial=10;type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;score=6.70;cscore=-6.10;sscore=12.80;rscore=11.66;uscore=-1.52;tscore=3.81
+N3_0	Prodigal_v2.00	CDS	219	518	27.7	+	0	ID=1_2;partial=00;type=ATG;rbs_motif=None;rbs_spacer=None;score=27.69;cscore=26.44;sscore=1.25;rscore=-1.50;uscore=-1.07;tscore=3.81
+N3_0	Prodigal_v2.00	CDS	583	726	6.0	+	0	ID=1_3;partial=00;type=ATG;rbs_motif=None;rbs_spacer=None;score=6.00;cscore=4.73;sscore=1.27;rscore=-2.66;uscore=1.78;tscore=2.15
+N3_0	Prodigal_v2.00	CDS	800	1438	71.1	-	0	ID=1_4;partial=00;type=ATG;rbs_motif=None;rbs_spacer=None;score=70.44;cscore=64.97;sscore=5.47;rscore=-1.50;uscore=3.81;tscore=3.81
+N3_0	Prodigal_v2.00	CDS	1476	1928	46.6	+	0	ID=1_5;partial=00;type=ATG;rbs_motif=None;rbs_spacer=None;score=46.63;cscore=41.30;sscore=5.33;rscore=-1.50;uscore=3.02;tscore=3.81
+N3_0	Prodigal_v2.00	CDS	1961	2500	54.6	-	0	ID=1_6;partial=01;type=Edge;rbs_motif=None;rbs_spacer=None;score=54.56;cscore=52.26;sscore=2.31;rscore=0.00;uscore=2.31;tscore=0.00
+# Sequence Data: seqnum=2;seqlen=2100;seqhdr="N3_1"
+# Model Data: version=Prodigal.v2.00;run_type=Metagenomic;model="24|Wolbachia endosymbiont of Drosophila melanogaster|B|Alphaproteobacteria|35.2|11|1";gc_cont=35.20;transl_table=11;uses_sd=1
+N3_1	Prodigal_v2.00	CDS	1	351	28.9	+	0	ID=2_1;partial=10;type=Edge;rbs_motif=None;rbs_spacer=None;score=28.93;cscore=26.62;sscore=2.31;rscore=0.00;uscore=2.31;tscore=0.00
+N3_1	Prodigal_v2.00	CDS	353	535	8.1	+	0	ID=2_2;partial=00;type=ATG;rbs_motif=None;rbs_spacer=None;score=9.40;cscore=7.86;sscore=1.55;rscore=-2.08;uscore=-0.38;tscore=2.75
+N3_1	Prodigal_v2.00	CDS	580	1233	62.4	-	0	ID=2_3;partial=00;type=ATG;rbs_motif=None;rbs_spacer=None;score=63.68;cscore=56.24;sscore=7.44;rscore=-1.50;uscore=3.85;tscore=3.81
+N3_1	Prodigal_v2.00	CDS	1234	1566	20.0	-	0	ID=2_4;partial=00;type=ATG;rbs_motif=None;rbs_spacer=None;score=23.86;cscore=18.76;sscore=5.10;rscore=-1.50;uscore=-1.13;tscore=3.81
+N3_1	Prodigal_v2.00	CDS	1566	2099	49.1	-	0	ID=2_5;partial=01;type=Edge;rbs_motif=None;rbs_spacer=None;score=49.05;cscore=46.75;sscore=2.31;rscore=0.00;uscore=2.31;tscore=0.00
+# Sequence Data: seqnum=3;seqlen=3200;seqhdr="N3_2"
+# Model Data: version=Prodigal.v2.00;run_type=Metagenomic;model="24|Wolbachia endosymbiont of Drosophila melanogaster|B|Alphaproteobacteria|35.2|11|1";gc_cont=35.20;transl_table=11;uses_sd=1
+N3_2	Prodigal_v2.00	CDS	2	1444	137.3	-	0	ID=3_1;partial=10;type=ATG;rbs_motif=None;rbs_spacer=None;score=138.11;cscore=132.05;sscore=6.06;rscore=-1.50;uscore=2.95;tscore=3.81
+N3_2	Prodigal_v2.00	CDS	1489	2496	88.9	-	0	ID=3_2;partial=00;type=ATG;rbs_motif=None;rbs_spacer=None;score=92.19;cscore=87.09;sscore=5.10;rscore=-1.50;uscore=-0.47;tscore=3.81
+N3_2	Prodigal_v2.00	CDS	2496	3200	65.9	-	0	ID=3_3;partial=01;type=Edge;rbs_motif=None;rbs_spacer=None;score=65.90;cscore=63.59;sscore=2.31;rscore=0.00;uscore=2.31;tscore=0.00
+# Sequence Data: seqnum=4;seqlen=2600;seqhdr="N3_3"
+# Model Data: version=Prodigal.v2.00;run_type=Metagenomic;model="27|Rickettsia felis URRWXCal2|B|Alphaproteobacteria|32.5|11|1";gc_cont=32.50;transl_table=11;uses_sd=1
+N3_3	Prodigal_v2.00	CDS	1	750	101.9	-	0	ID=4_1;partial=10;type=ATG;rbs_motif=None;rbs_spacer=None;score=101.89;cscore=100.69;sscore=1.20;rscore=-1.17;uscore=-0.50;tscore=2.87
+N3_3	Prodigal_v2.00	CDS	833	1531	62.8	-	0	ID=4_2;partial=00;type=ATG;rbs_motif=None;rbs_spacer=None;score=62.12;cscore=59.31;sscore=2.80;rscore=-1.17;uscore=1.76;tscore=2.87
+N3_3	Prodigal_v2.00	CDS	1558	2211	71.3	+	0	ID=4_3;partial=00;type=ATG;rbs_motif=None;rbs_spacer=None;score=71.26;cscore=67.44;sscore=3.82;rscore=-1.17;uscore=2.12;tscore=2.87
+N3_3	Prodigal_v2.00	CDS	2242	2598	30.5	+	0	ID=4_4;partial=01;type=ATG;rbs_motif=None;rbs_spacer=None;score=31.48;cscore=28.64;sscore=2.83;rscore=-1.17;uscore=0.18;tscore=2.87

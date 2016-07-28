@@ -1,0 +1,263 @@
+gridtest_137_22	gridtest_137					1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase OS Carboxydothermus hydrogenoformans (strain Z-2901 / DSM 6008) GN hisA PE 3 SV 1 # UNIPROT # Q3AD49 # PRIBFAICARPISOM-RXN # CHYD246194:CHY_1089-MONOMER # 5.3.1.16
+gridtest_137_23	gridtest_137	COG0118				
+gridtest_137_20	gridtest_137	COG1187				
+gridtest_88_12	gridtest_88	COG2838				Isocitrate dehydrogenase [NADP] 2 OS Colwellia maris GN icd2 PE 1 SV 3 # UNIPROT # P41561 # ISOCITDEH-RXN # # 1.1.1.42
+gridtest_137_26	gridtest_137	COG0864				
+gridtest_103_0	gridtest_103	COG1225				
+gridtest_137_25	gridtest_137	COG0493				
+gridtest_88_19	gridtest_88	COG1741				
+gridtest_28_2	gridtest_28	COG0682				
+gridtest_156_0	gridtest_156	COG0003				
+gridtest_156_3	gridtest_156	COG0596				
+gridtest_144_55	gridtest_144	COG0404				Aminomethyltransferase OS Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785) GN gcvT PE 3 SV 1 # UNIPROT # A9B2Q5 # GCVT-RXN # HAUR316274:HAUR_2868-MONOMER # 2.1.2.10
+gridtest_154_0	gridtest_154	COG3335				
+gridtest_138_37	gridtest_138					3-phosphoshikimate 1-carboxyvinyltransferase OS Salinibacter ruber (strain DSM 13855 / M31) GN aroA PE 3 SV 1 # UNIPROT # Q2S4R9 # 2.5.1.19-RXN # SRUB309807:SRU_0674-MONOMER # 2.5.1.19
+gridtest_144_51	gridtest_144	COG1160				
+gridtest_138_31	gridtest_138	COG0136				Aspartate-semialdehyde dehydrogenase OS Rickettsia bellii (strain RML369-C) GN asd PE 3 SV 1 # UNIPROT # Q1RIB3 # ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN # RBEL336407:RBE_0820-MONOMER # 1.2.1.11
+gridtest_144_53	gridtest_144	COG0694				
+gridtest_144_52	gridtest_144	COG0489				
+gridtest_131_5	gridtest_131	COG0553				
+gridtest_0_0	gridtest_0	COG1053				
+gridtest_0_1	gridtest_0	COG0479				
+gridtest_136_2	gridtest_136	COG0347				
+gridtest_129_55	gridtest_129	COG2255				
+gridtest_129_56	gridtest_129	COG0601				
+gridtest_136_1	gridtest_136	COG0166				Glucose-6-phosphate isomerase, glycosomal OS Trypanosoma brucei brucei GN PGI PE 1 SV 1 # UNIPROT # P13377 # PGLUCISOM-RXN # # 5.3.1.9
+gridtest_129_50	gridtest_129	COG0403				Probable glycine dehydrogenase [decarboxylating] subunit 1 OS Thermomicrobium roseum (strain ATCC 27502 / DSM 5159 / P-2) GN gcvPA PE 3 SV 1 # UNIPROT # B9KZ42 # GCVP-RXN # # 1.4.4.2
+gridtest_137_24	gridtest_137	COG0543				
+gridtest_136_4	gridtest_136	COG0004				
+gridtest_136_5	gridtest_136	COG0347				
+gridtest_51_6	gridtest_51	COG1518				
+gridtest_138_2	gridtest_138					
+gridtest_138_3	gridtest_138	COG0526				Bifunctional thioredoxin reductase/thioredoxin OS Mycobacterium leprae GN trxB/A PE 3 SV 1 # UNIPROT # P46843 # THIOREDOXIN-REDUCT-NADPH-RXN # MLEP272631:ML2703-MONOMER # 1.8.1.9
+gridtest_138_4	gridtest_138	COG0492				Thioredoxin reductase (Fragment) OS Spironucleus barkhanus GN TRXB PE 2 SV 1 # UNIPROT # Q8T6Z1 # THIOREDOXIN-REDUCT-NADPH-RXN # # 1.8.1.9
+gridtest_129_70	gridtest_129	COG0313				
+gridtest_88_18	gridtest_88	COG0031				Cysteine synthase OS Streptococcus pyogenes serotype M6 GN cysK PE 1 SV 3 # UNIPROT # Q5XAQ3 # ACSERLY-RXN # SPYO286636:M6_SPY1375-MONOMER # 2.5.1.47
+gridtest_4_3	gridtest_4	COG2204				
+gridtest_23_13	gridtest_23	COG0019				Diaminopimelate decarboxylase OS Vibrio cholerae GN lysA PE 1 SV 1 # UNIPROT # Q9KVL7 # DIAMINOPIMDECARB-RXN # # 4.1.1.20
+gridtest_137_31	gridtest_137	COG4446				
+gridtest_137_30	gridtest_137	COG1122				
+gridtest_31_3	gridtest_31					Magnesium-chelatase 67 kDa subunit OS Chlorobium tepidum GN bchD PE 3 SV 1 # UNIPROT # Q93SW0 # RXN1F-20 # CTEP194439:CT_1296-MONOMER # 6.6.1.1
+gridtest_159_4	gridtest_159	COG3550				
+gridtest_137_35	gridtest_137	COG0139				Phosphoribosyl-AMP cyclohydrolase OS Chromohalobacter salexigens (strain DSM 3043 / ATCC BAA-138 / NCIMB 13768) GN hisI PE 3 SV 1 # UNIPROT # Q1QWC3 # HISTCYCLOHYD-RXN # CSAL290398:CSAL_1883-MONOMER # 3.5.4.19
+gridtest_31_4	gridtest_31	COG1239				Magnesium-chelatase 38 kDa subunit OS Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 / SB1003) GN bchI PE 1 SV 1 # UNIPROT # P26239 # RXN1F-20 # # 6.6.1.1
+gridtest_144_49	gridtest_144	COG0103				
+gridtest_137_39	gridtest_137	COG0272				
+gridtest_55_70	gridtest_55	COG0563				Adenylate kinase OS Pelobacter propionicus (strain DSM 2379) GN adk PE 3 SV 1 # UNIPROT # A1ALW2 # ADENYL-KIN-RXN # # 2.7.4.3
+gridtest_55_49	gridtest_55					Dephospho-CoA kinase OS Chlorobium chlorochromatii (strain CaD3) GN coaE PE 3 SV 1 # UNIPROT # Q3ARZ7 # DEPHOSPHOCOAKIN-RXN # CCHL340177:CAG_0965-MONOMER # 2.7.1.24
+gridtest_33_6	gridtest_33					Thiamine-phosphate pyrophosphorylase OS Moorella thermoacetica (strain ATCC 39073) GN thiE PE 3 SV 1 # UNIPROT # Q2RGI8 # THI-P-SYN-RXN # MTHE264732:MOTH_2162-MONOMER # 2.5.1.3
+gridtest_33_5	gridtest_33	COG0351				Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase OS Streptomyces coelicolor GN thiD PE 3 SV 1 # UNIPROT # Q9ZBR6 # PYRIMSYN3-RXN # # 2.7.1.49 2.7.4.7
+gridtest_33_4	gridtest_33	COG1004				UDP-glucose 6-dehydrogenase OS Rickettsia felis GN udg PE 3 SV 1 # UNIPROT # Q4UK39 # UGD-RXN # RFEL315456:RF_1245-MONOMER # 1.1.1.22
+gridtest_33_1	gridtest_33					Probable cytosol aminopeptidase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN pepA PE 3 SV 1 # UNIPROT # B3QVE8 # 3.4.11.1-RXN # # 3.4.11.1
+gridtest_56_0	gridtest_56	COG0596				
+gridtest_52_14	gridtest_52	COG0537				
+gridtest_52_15	gridtest_52	COG1253				
+gridtest_52_12	gridtest_52	COG0370				
+gridtest_88_3	gridtest_88	COG1154				1-deoxy-D-xylulose-5-phosphate synthase OS Desulfotalea psychrophila GN dxs PE 3 SV 1 # UNIPROT # Q6AJQ1 # DXS-RXN # DPSY177439:DP2700-MONOMER # 2.2.1.7
+gridtest_33_8	gridtest_33	COG0251				
+gridtest_83_14	gridtest_83	COG0036				Ribulose-phosphate 3-epimerase OS Rhodospirillum rubrum GN cbbE PE 3 SV 2 # UNIPROT # P51013 # RIBULP3EPIM-RXN # # 5.1.3.1
+gridtest_83_15	gridtest_83	COG0134				Indole-3-glycerol phosphate synthase OS Legionella pneumophila (strain Corby) GN trpC PE 3 SV 1 # UNIPROT # A5IG82 # IGPSYN-RXN # LPNE400673:LPC_2462-MONOMER # 4.1.1.48
+gridtest_83_16	gridtest_83	COG0458				Carbamoyl-phosphate synthase large chain OS Thermomicrobium roseum (strain ATCC 27502 / DSM 5159 / P-2) GN carB PE 3 SV 1 # UNIPROT # B9KXM5 # CARBPSYN-RXN # # 6.3.5.5
+gridtest_129_71	gridtest_129	COG0414				Pantothenate synthetase OS Pelobacter propionicus (strain DSM 2379) GN panC PE 3 SV 1 # UNIPROT # A1AUV7 # PANTOATE-BETA-ALANINE-LIG-RXN # # 6.3.2.1
+gridtest_83_18	gridtest_83	COG0151				Phosphoribosylamine--glycine ligase OS Nostoc sp. (strain PCC 7120 / UTEX 2576) GN purD PE 3 SV 1 # UNIPROT # Q8YRD8 # GLYRIBONUCSYN-RXN # NSP103690:ALR3510-MONOMER # 6.3.4.13
+gridtest_83_20	gridtest_83					Tetraacyldisaccharide 4'-kinase OS Chlorobaculum parvum (strain NCIB 8327) GN lpxK PE 3 SV 1 # UNIPROT # B3QLP5 # TETRAACYLDISACC4KIN-RXN # # 2.7.1.130
+gridtest_132_2	gridtest_132	COG3335				
+gridtest_137_5	gridtest_137					
+gridtest_86_3	gridtest_86	COG0111				D-3-phosphoglycerate dehydrogenase OS Archaeoglobus fulgidus (strain ATCC 49558 / VC-16 / DSM 4304 / JCM 9628 / NBRC 100126) GN serA PE 3 SV 1 # UNIPROT # O29445 # PGLYCDEHYDROG-RXN # AFUL224325:AF_0813-MONOMER # 1.1.1.95
+gridtest_138_30	gridtest_138	COG0042				
+gridtest_129_39	gridtest_129	COG0547				Anthranilate phosphoribosyltransferase OS Geobacillus kaustophilus GN trpD PE 3 SV 1 # UNIPROT # Q5KXU8 # PRTRANS-RXN # GKAU235909:GK2203-MONOMER # 2.4.2.18
+gridtest_86_7	gridtest_86	COG1970				
+gridtest_144_50	gridtest_144	COG0102				
+gridtest_157_5	gridtest_157	COG0353				
+gridtest_157_7	gridtest_157	COG3958				Putative transketolase C-terminal section OS Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) GN MJ0679 PE 5 SV 1 # UNIPROT # Q58092 # 1TRANSKETO-RXN # MJAN243232:MJ_0679-MONOMER # 2.2.1.1
+gridtest_144_46	gridtest_144	COG0528				Uridylate kinase OS Silicibacter pomeroyi GN pyrH PE 3 SV 1 # UNIPROT # Q5LSV4 # 2.7.4.22-RXN # RPOM246200:SPO_1662-MONOMER # 2.7.4.22
+gridtest_128_9	gridtest_128	COG1043				Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS Xanthomonas campestris pv. campestris (strain B100) GN lpxA PE 3 SV 1 # UNIPROT # B0RW78 # UDPNACETYLGLUCOSAMACYLTRANS-RXN # XCAM487884:XCC-B100_2935-MONOMER # 2.3.1.129
+gridtest_83_23	gridtest_83	COG3155				
+gridtest_55_60	gridtest_55	COG1066				
+gridtest_55_61	gridtest_55	COG0190				Bifunctional protein FolD OS Rhodopirellula baltica GN folD PE 3 SV 2 # UNIPROT # Q7UNN9 # METHYLENETHFDEHYDROG-NADP-RXN # PSP117:RB7468-MONOMER # 3.5.4.9 1.5.1.5
+gridtest_55_66	gridtest_55	COG0757				3-dehydroquinate dehydratase OS Carboxydothermus hydrogenoformans (strain Z-2901 / DSM 6008) GN aroQ PE 3 SV 1 # UNIPROT # Q3AAZ0 # 3-DEHYDROQUINATE-DEHYDRATASE-RXN # CHYD246194:CHY_1874-MONOMER # 4.2.1.10
+gridtest_55_64	gridtest_55	COG5405				
+gridtest_55_65	gridtest_55	COG1220				
+gridtest_131_26	gridtest_131					
+gridtest_131_21	gridtest_131	COG0161				
+gridtest_131_23	gridtest_131	COG2873				Protein MET17 OS Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN MET17 PE 1 SV 3 # UNIPROT # P06106 # ACSERLY-RXN # MetaCyc:MONOMER-387 # 2.5.1.47
+gridtest_4_14	gridtest_4	COG2060				
+gridtest_4_15	gridtest_4	COG2216				
+gridtest_4_10	gridtest_4	COG1064				Probable mannitol dehydrogenase 3 OS Stylosanthes humilis GN CAD3 PE 2 SV 1 # UNIPROT # Q43138 # 1.1.1.255-RXN # # 1.1.1.255
+gridtest_4_11	gridtest_4	COG2204				
+gridtest_9_2	gridtest_9	COG1803				
+gridtest_9_1	gridtest_9	COG2076				
+gridtest_129_37	gridtest_129	COG1324				
+gridtest_129_34	gridtest_129	COG0115				Branched-chain-amino-acid aminotransferase OS Pseudomonas aeruginosa GN ilvE PE 1 SV 2 # UNIPROT # O86428 # BRANCHED-CHAINAMINOTRANSFERLEU-RXN # PAER208964:PA5013-MONOMER # 2.6.1.42
+gridtest_52_8	gridtest_52					Biotin synthase OS Chlorobium phaeobacteroides (strain BS1) GN bioB PE 3 SV 1 # UNIPROT # B3EPW2 # 2.8.1.6-RXN # # 2.8.1.6
+gridtest_138_34	gridtest_138					Alanine racemase OS Chlorobium tepidum GN alr PE 3 SV 1 # UNIPROT # Q8KB67 # ALARACECAT-RXN # CTEP194439:CT_1922-MONOMER # 5.1.1.1
+gridtest_129_31	gridtest_129	COG0245				2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase OS Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) GN ispF PE 3 SV 1 # UNIPROT # Q1AU09 # RXN0-302 # RXYL266117:RXYL_2175-MONOMER # 4.6.1.12
+gridtest_52_4	gridtest_52	COG0132				ATP-dependent dethiobiotin synthetase BioD 2 OS Pasteurella multocida GN bioD2 PE 3 SV 1 # UNIPROT # Q9CJT7 # DETHIOBIOTIN-SYN-RXN # PMUL272843:PM1904-MONOMER # 6.3.3.3
+gridtest_52_7	gridtest_52	COG0156				Putative 8-amino-7-oxononanoate synthase/2-amino-3-ketobutyrate coenzyme A ligase OS Bacillus cereus (strain G9842) GN BCG9842_B1009 PE 3 SV 1 # UNIPROT # B7IWN1 # AKBLIG-RXN # # 2.3.1.47 2.3.1.29
+gridtest_52_2	gridtest_52	COG0318				
+gridtest_52_3	gridtest_52	COG0161				Adenosylmethionine-8-amino-7-oxononanoate aminotransferase OS Corynebacterium glutamicum GN bioA PE 3 SV 2 # UNIPROT # P46395 # DAPASYN-RXN # CGLU196627:CG2885-MONOMER # 2.6.1.62
+gridtest_88_28	gridtest_88	COG3040				
+gridtest_145_8	gridtest_145					
+gridtest_33_37	gridtest_33	COG4618				
+gridtest_141_8	gridtest_141	COG0045				Succinyl-CoA ligase [ADP-forming] subunit beta OS Wolinella succinogenes GN sucC PE 3 SV 1 # UNIPROT # Q7M9A6 # SUCCCOASYN-RXN # WSUC273121:WS1065-MONOMER # 6.2.1.5
+gridtest_88_20	gridtest_88	COG1692				
+gridtest_88_21	gridtest_88	COG0158				Fructose-1,6-bisphosphatase class 1 OS Sulfurihydrogenibium sp. (strain YO3AOP1) GN fbp PE 3 SV 1 # UNIPROT # B2V6E2 # F16BDEPHOS-RXN # # 3.1.3.11
+gridtest_88_24	gridtest_88	COG0463				
+gridtest_33_38	gridtest_33	COG4618				
+gridtest_51_5	gridtest_51	COG1343				
+gridtest_88_27	gridtest_88	COG1230				
+gridtest_131_33	gridtest_131	COG0743				1-deoxy-D-xylulose 5-phosphate reductoisomerase OS Symbiobacterium thermophilum GN dxr PE 3 SV 1 # UNIPROT # Q67PA9 # DXPREDISOM-RXN # STHE292459:STH1499-MONOMER # 1.1.1.267
+gridtest_143_3	gridtest_143	COG0766				UDP-N-acetylglucosamine 1-carboxyvinyltransferase OS Uncultured termite group 1 bacterium phylotype Rs-D17 GN murA PE 3 SV 1 # UNIPROT # B1H052 # UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN # # 2.5.1.7
+gridtest_131_31	gridtest_131	COG0216				
+gridtest_143_6	gridtest_143	COG0029				L-aspartate oxidase OS Escherichia coli O157:H7 GN nadB PE 3 SV 1 # UNIPROT # Q8XA23 # L-ASPARTATE-OXID-RXN # ECOL83334:ECS3440-MONOMER # 1.4.3.16
+gridtest_132_0	gridtest_132	COG1217				
+gridtest_86_2	gridtest_86	COG0722				Phospho-2-dehydro-3-deoxyheptonate aldolase OS Corynebacterium glutamicum GN aroG PE 3 SV 2 # UNIPROT # P35170 # DAHPSYN-RXN # CGLU196627:CG1129-MONOMER # 2.5.1.54
+gridtest_149_13	gridtest_149	COG1830				
+gridtest_131_39	gridtest_131	COG1090				
+gridtest_131_38	gridtest_131	COG0449				Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] OS Clostridium perfringens GN glmS PE 3 SV 3 # UNIPROT # Q8XHZ7 # L-GLN-FRUCT-6-P-AMINOTRANS-RXN # CPER195102:CPE2327-MONOMER # 2.6.1.16
+gridtest_129_51	gridtest_129	COG0509				
+gridtest_138_44	gridtest_138	COG1137				
+gridtest_144_23	gridtest_144					Phosphoribosylglycinamide formyltransferase, chloroplastic OS Vigna unguiculata GN PUR3 PE 2 SV 2 # UNIPROT # P52423 # GART-RXN # # 2.1.2.2
+gridtest_143_16	gridtest_143	COG0379				Quinolinate synthase A 2 OS Methanosarcina acetivorans (strain ATCC 35395 / DSM 2834 / JCM 12185 / C2A) GN nadA2 PE 3 SV 1 # UNIPROT # Q8TME2 # QUINOLINATE-SYNTHA-RXN # MACE188937:MA2716-MONOMER # 2.5.1.72
+gridtest_138_42	gridtest_138	COG0724				
+gridtest_138_48	gridtest_138	COG0663				
+gridtest_129_24	gridtest_129	COG0458				Carbamoyl-phosphate synthase large chain OS Natranaerobius thermophilus (strain ATCC BAA-1301 / DSM 18059 / JW/NM-WN-LF) GN carB PE 3 SV 1 # UNIPROT # B2A170 # CARBPSYN-RXN # # 6.3.5.5
+gridtest_33_42	gridtest_33	COG0031				Cysteine synthase A OS Escherichia coli (strain K12) GN cysK PE 1 SV 2 # UNIPROT # P0ABK5 # LCYSDESULF-RXN # MetaCyc:ACSERLYA-MONOMER # NIL
+gridtest_129_23	gridtest_129					Riboflavin biosynthesis protein ribBA OS Chlamydia muridarum GN ribBA PE 3 SV 1 # UNIPROT # Q9PLJ5 # GTP-CYCLOHYDRO-II-RXN # CMUR243161:TC_0104-MONOMER # 4.1.99.12 3.5.4.25
+gridtest_129_22	gridtest_129	COG0112				Serine hydroxymethyltransferase OS Synechococcus sp. (strain JA-3-3Ab) GN glyA PE 3 SV 1 # UNIPROT # Q2JT50 # GLYOHMETRANS-RXN # SSP321327:CYA_2015-MONOMER # 2.1.2.1
+gridtest_23_12	gridtest_23	COG0685				5,10-methylenetetrahydrofolate reductase OS Aquifex aeolicus GN metF PE 3 SV 1 # UNIPROT # O67422 # 1.5.1.20-RXN # AAEO224324:AQ_1429-MONOMER # 1.5.1.20
+gridtest_86_4	gridtest_86	COG0003				
+gridtest_129_29	gridtest_129	COG0167				
+gridtest_129_28	gridtest_129	COG0058				Maltodextrin phosphorylase OS Prevotella marshii DSM 16973 GN malP PE 3 SV 1 # UNIPROT # E0NV65 # MALTOSE-PHOSPHORYLASE-RXN # # 2.4.1.8
+gridtest_131_36	gridtest_131	COG0465				
+gridtest_33_27	gridtest_33	COG3093				
+gridtest_55_31	gridtest_55	COG1951				Fumarate hydratase class I, aerobic OS Geobacillus stearothermophilus GN fumA PE 3 SV 1 # UNIPROT # Q04718 # FUMHYDR-RXN # # 4.2.1.2
+gridtest_144_41	gridtest_144	COG1830				
+gridtest_143_0	gridtest_143	COG1049				Aconitate hydratase 2 OS Pseudomonas aeruginosa GN acnB PE 3 SV 1 # UNIPROT # Q9I2V5 # ACONITATEHYDR-RXN # PAER208964:PA1787-MONOMER # 4.2.1.99 4.2.1.3 4.2.1.3
+gridtest_143_5	gridtest_143	COG0171				NH(3)-dependent NAD(+) synthetase OS Wolinella succinogenes GN nadE PE 3 SV 1 # UNIPROT # Q7MAJ5 # NAD-SYNTH-NH3-RXN # WSUC273121:WS0206-MONOMER # 6.3.1.5
+gridtest_129_4	gridtest_129	COG5304				
+gridtest_83_42	gridtest_83	COG1898				dTDP-4-dehydrorhamnose 3,5-epimerase OS Rhizobium sp. (strain NGR234) GN NGR_a03520 PE 3 SV 1 # UNIPROT # P55468 # DTDPDEHYDRHAMEPIM-RXN # # 5.1.3.13
+gridtest_51_17	gridtest_51	COG4456				
+gridtest_144_13	gridtest_144	COG1961				
+gridtest_144_12	gridtest_144	COG0715				
+gridtest_143_8	gridtest_143	COG1945				Pyruvoyl-dependent arginine decarboxylase 2 OS Methanosarcina mazei (strain ATCC BAA-159 / DSM 3647 / Goe1 / Go1 / JCM 11833 / OCM 88) GN pdaD2 PE 3 SV 1 # UNIPROT # P58890 # ARGDECARBOX-RXN # MMAZ192952:MM2595-MONOMER # 4.1.1.19
+gridtest_144_36	gridtest_144	COG1091				
+gridtest_53_5	gridtest_53	COG0047				Phosphoribosylformylglycinamidine synthase 1 OS Rhodopseudomonas palustris (strain BisB18) GN purQ PE 3 SV 1 # UNIPROT # Q218N7 # FGAMSYN-RXN # RPAL316056:RPC_1587-MONOMER # 6.3.5.3
+gridtest_129_10	gridtest_129	COG0041				Bifunctional purine synthesis protein purC/E OS Dictyostelium discoideum GN purC/E PE 1 SV 1 # UNIPROT # Q54QE4 # SAICARSYN-RXN # # 4.1.1.21 6.3.2.6
+gridtest_53_6	gridtest_53	COG1828				
+gridtest_131_42	gridtest_131	COG0004				
+gridtest_131_43	gridtest_131	COG0347				
+gridtest_131_41	gridtest_131	COG0724				
+gridtest_144_25	gridtest_144	COG0463				
+gridtest_83_43	gridtest_83	COG1209				Glucose-1-phosphate thymidylyltransferase OS Actinoplanes sp. (strain 50/110) GN acbA PE 3 SV 2 # UNIPROT # Q9ZAE7 # DTDPGLUCOSEPP-RXN # # 2.7.7.24
+gridtest_53_8	gridtest_53	COG0413				3-methyl-2-oxobutanoate hydroxymethyltransferase OS Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785) GN panB PE 3 SV 1 # UNIPROT # A9B2U4 # 3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN # HAUR316274:HAUR_3371-MONOMER # 2.1.2.11
+gridtest_83_41	gridtest_83	COG0836				Mannose-1-phosphate guanylyltransferase OS Escherichia coli GN manC PE 3 SV 1 # UNIPROT # P37741 # 2.7.7.13-RXN # # 2.7.7.13
+gridtest_131_49	gridtest_131	COG2944				
+gridtest_55_57	gridtest_55	COG3845				
+gridtest_129_11	gridtest_129	COG3542				
+gridtest_143_9	gridtest_143	COG0162				Tyrosyl-tRNA synthetase OS Dehalococcoides ethenogenes (strain 195) GN tyrS PE 3 SV 1 # UNIPROT # Q3Z8V6 # TYROSINE--TRNA-LIGASE-RXN # DETH243164:DET_0601-MONOMER # 6.1.1.1
+gridtest_129_13	gridtest_129	COG1252				
+gridtest_131_37	gridtest_131					Orotidine 5'-phosphate decarboxylase OS Parabacteroides distasonis (strain ATCC 8503 / DSM 20701 / NCTC 11152) GN pyrF PE 3 SV 1 # UNIPROT # A6LDS0 # OROTPDECARB-RXN # PDIS435591:BDI_2103-MONOMER # 4.1.1.23
+gridtest_129_15	gridtest_129	COG4992				Acetylornithine aminotransferase OS Methanopyrus kandleri (strain AV19 / DSM 6324 / JCM 9639 / NBRC 100938) GN argD PE 3 SV 1 # UNIPROT # Q8TUZ5 # ACETYLORNTRANSAM-RXN # MKAN190192:MK1606-MONOMER # 2.6.1.11
+gridtest_143_10	gridtest_143	COG0691				
+gridtest_130_2	gridtest_130	COG0778				BluB OS Rhizobium meliloti GN bluB PE 1 SV 1 # UNIPROT # Q92PC8 # RXN-8771 # SMEL266834:SMC00166-MONOMER # 1.14.99.40
+gridtest_130_3	gridtest_130	COG1492				Adenosylcobyric acid synthase (Glutamine-hydrolysing) OS Geobacter uraniireducens (strain Rf4) GN Gura_0041 PE 3 SV 1 # UNIPROT # A5GDT2 # R345-RXN # GURA351605:GURA_0041-MONOMER # 6.3.5.10
+gridtest_147_3	gridtest_147	COG1611				Cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG OS Oryza sativa subsp. japonica GN LOG PE 1 SV 1 # UNIPROT # Q5ZC82 # RXN-4314 # MetaCyc:MONOMER-15646 # NIL NIL
+gridtest_130_6	gridtest_130	COG2109				Cob(I)yrinic acid a,c-diamide adenosyltransferase OS Pseudomonas aeruginosa GN cobO PE 3 SV 1 # UNIPROT # Q9I472 # R344-RXN # PAER208964:PA1272-MONOMER # 2.5.1.17 2.5.1.17
+gridtest_133_6	gridtest_133	COG0039				Malate dehydrogenase OS Dehalococcoides ethenogenes (strain 195) GN mdh PE 3 SV 1 # UNIPROT # Q3Z9A4 # MALATE-DEH-RXN # DETH243164:DET_0451-MONOMER # 1.1.1.37
+gridtest_133_5	gridtest_133	COG0211				
+gridtest_88_34	gridtest_88	COG1271				
+gridtest_133_3	gridtest_133	COG0249				
+gridtest_138_6	gridtest_138					Anaerobic magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase OS Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 / SB1003) GN bchE PE 3 SV 1 # UNIPROT # P26168 # RXN-8799 # MetaCyc:MONOMER-13265 # NIL NIL NIL
+gridtest_153_0	gridtest_153	COG3335				
+gridtest_139_1	gridtest_139	COG0394				
+gridtest_157_9	gridtest_157	COG0365				Propionate--CoA ligase OS Escherichia coli (strain K12) GN prpE PE 3 SV 1 # UNIPROT # P77495 # PROPIONATE--COA-LIGASE-RXN # EcoCyc:G6200-MONOMER # 6.2.1.17
+gridtest_139_2	gridtest_139	COG0701				
+gridtest_144_29	gridtest_144	COG0034				
+gridtest_133_9	gridtest_133	COG0388				B-alanine synthase OS Brevibacillus agri GN pydC PE 4 SV 1 # UNIPROT # Q846U4 # RXN-11210 # MetaCyc:MONOMER-15400 # 3.5.1.6 NIL
+gridtest_51_32	gridtest_51	COG0841				
+gridtest_141_0	gridtest_141	COG1219				
+gridtest_129_8	gridtest_129					
+gridtest_88_48	gridtest_88	COG3278				Cytochrome c oxidase subunit 1 homolog OS Azorhizobium caulinodans (strain ATCC 43989 / DSM 5975 / ORS 571) GN fixN PE 3 SV 1 # UNIPROT # P98056 # CYTOCHROME-C-OXIDASE-RXN # ACAU438753:AZC_4523-MONOMER # 1.9.3.1
+gridtest_53_12	gridtest_53	COG1181				D-alanine--D-alanine ligase OS Anabaena variabilis (strain ATCC 29413 / PCC 7937) GN ddl PE 3 SV 1 # UNIPROT # Q3MGA0 # DALADALALIG-RXN # AVAR240292:AVA_0360-MONOMER # 6.3.2.4
+gridtest_131_54	gridtest_131	COG0188				
+gridtest_143_7	gridtest_143	COG0586				
+gridtest_131_56	gridtest_131	COG0504				CTP synthase OS Phytoplasma australiense GN pyrG PE 3 SV 1 # UNIPROT # B1VAI9 # CTPSYN-RXN # # 6.3.4.2
+gridtest_131_50	gridtest_131	COG4737				
+gridtest_23_19	gridtest_23	COG2885				
+gridtest_128_13	gridtest_128					Glycogen synthase OS Prosthecochloris aestuarii (strain DSM 271 / SK 413) GN glgA PE 3 SV 1 # UNIPROT # B4S584 # GLYCOGENSYN-RXN # # 2.4.1.21
+gridtest_86_11	gridtest_86	COG0424				
+gridtest_55_59	gridtest_55	COG1950				
+gridtest_55_47	gridtest_55	COG0605				Superoxide dismutase [Mn] 1 OS Bacillus cereus (strain ATCC 14579 / DSM 31) GN sodA1 PE 3 SV 1 # UNIPROT # Q818I1 # SUPEROX-DISMUT-RXN # BCER226900:BC_4272-MONOMER # 1.15.1.1
+gridtest_36_20	gridtest_36	COG0164				
+gridtest_36_26	gridtest_36	COG0423				Glycyl-tRNA synthetase OS Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579) GN glyQS PE 1 SV 3 # UNIPROT # P56206 # GLYCINE--TRNA-LIGASE-RXN # TTHE300852:TTHA0543-MONOMER # 6.1.1.14
+gridtest_144_33	gridtest_144	COG0836				Mannose-1-phosphate guanylyltransferase OS Escherichia coli GN manC PE 3 SV 1 # UNIPROT # P37741 # 2.7.7.13-RXN # # 2.7.7.13
+gridtest_31_1	gridtest_31	COG0516				Inosine-5'-monophosphate dehydrogenase OS Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) GN guaB PE 3 SV 1 # UNIPROT # Q59011 # IMP-DEHYDROG-RXN # MJAN243232:MJ_1616-MONOMER # 1.1.1.205
+gridtest_144_31	gridtest_144	COG0060				Isoleucyl-tRNA synthetase OS Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039) GN ileS PE 3 SV 2 # UNIPROT # Q72JR6 # ISOLEUCINE--TRNA-LIGASE-RXN # TTHE262724:TT_C0702-MONOMER # 6.1.1.5
+gridtest_55_23	gridtest_55	COG0114				Fumarate hydratase class II OS Mycobacterium tuberculosis GN fumC PE 1 SV 1 # UNIPROT # O53446 # FUMHYDR-RXN # MetaCyc:MONOMER-11948 # 4.2.1.2
+gridtest_144_35	gridtest_144	COG1088				dTDP-glucose 4,6-dehydratase OS Streptomyces griseus GN strE PE 1 SV 1 # UNIPROT # P29782 # DTDPGLUCDEHYDRAT-RXN # # 4.2.1.46
+gridtest_144_34	gridtest_144	COG1087				UDP-glucose 4-epimerase OS Corynebacterium glutamicum GN galE PE 3 SV 2 # UNIPROT # Q45291 # UDPGLUCEPIM-RXN # CGLU196627:CG2104-MONOMER # 5.1.3.2
+gridtest_143_21	gridtest_143	COG4675				
+gridtest_143_20	gridtest_143	COG2195				
+gridtest_143_23	gridtest_143	COG0209				
+gridtest_144_26	gridtest_144	COG0648				
+gridtest_55_28	gridtest_55	COG1814				
+gridtest_143_26	gridtest_143					
+gridtest_31_2	gridtest_31					Magnesium-chelatase subunit H OS Chlorobaculum parvum (strain NCIB 8327) GN bchH PE 3 SV 2 # UNIPROT # O50314 # RXN1F-20 # # 6.6.1.1
+gridtest_51_24	gridtest_51	COG0655				
+gridtest_137_41	gridtest_137	COG1136				
+gridtest_83_27	gridtest_83	COG0574				Pyruvate, phosphate dikinase OS Entamoeba histolytica GN PPDK PE 3 SV 1 # UNIPROT # P37213 # PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN # # 2.7.9.1
+gridtest_31_5	gridtest_31	COG1249				
+gridtest_51_28	gridtest_51	COG0607				
+gridtest_51_29	gridtest_51	COG0446				
+gridtest_138_10	gridtest_138					Magnesium-chelatase subunit H OS Chlorobaculum parvum (strain NCIB 8327) GN bchH PE 3 SV 2 # UNIPROT # O50314 # RXN1F-20 # # 6.6.1.1
+gridtest_55_32	gridtest_55	COG5016				
+gridtest_138_17	gridtest_138	COG0003				
+gridtest_88_9	gridtest_88	COG2360				
+gridtest_31_9	gridtest_31	COG0488				
+gridtest_131_3	gridtest_131	COG3360				
+gridtest_131_2	gridtest_131	COG1274				
+gridtest_83_29	gridtest_83	COG0178				
+gridtest_131_4	gridtest_131	COG4279				
+gridtest_139_0	gridtest_139	COG0798				Arsenite efflux pump ACR3 or related permease OS Corynebacterium glutamicum GN arsC2 PE 4 SV 1 # UNIPROT # Q6M576 # RXN-11187 # MetaCyc:MONOMER-15361 # 2.8.4.2
+gridtest_129_72	gridtest_129	COG1185				
+gridtest_129_73	gridtest_129	COG0495				Leucyl-tRNA synthetase OS Sorangium cellulosum (strain So ce56) GN leuS PE 3 SV 1 # UNIPROT # A9EYY7 # LEUCINE--TRNA-LIGASE-RXN # # 6.1.1.4
+gridtest_36_30	gridtest_36	COG0055				ATP synthase subunit beta OS Mycobacterium sp. (strain JLS) GN atpD PE 3 SV 1 # UNIPROT # A3Q3B1 # ATPSYN-RXN # MSP164757:MJLS_3862-MONOMER # 3.6.3.14
+gridtest_137_0	gridtest_137	COG1151				
+gridtest_88_4	gridtest_88	COG0432				
+gridtest_88_7	gridtest_88	COG1819				
+gridtest_88_6	gridtest_88	COG0210				
+gridtest_55_11	gridtest_55	COG2217				Heavy metal translocating P-type ATPase OS Brucella melitensis biotype 2 (strain ATCC 23457) GN BMEA_A0228 PE 3 SV 1 # UNIPROT # C0RGR8 # 3.1.2.21-RXN # # 3.1.2.21
+gridtest_137_54	gridtest_137	COG0503				Adenine phosphoribosyltransferase OS Microcystis aeruginosa (strain NIES-843) GN apt PE 3 SV 1 # UNIPROT # B0JR14 # ADENPRIBOSYLTRAN-RXN # MAER449447:MAE_40610-MONOMER # 2.4.2.7
+gridtest_137_52	gridtest_137	COG0730				
+gridtest_137_51	gridtest_137	COG0465				
+gridtest_137_50	gridtest_137					Glutamyl-tRNA synthetase OS Porphyromonas gingivalis (strain ATCC 33277 / DSM 20709 / JCM 12257) GN gltX PE 3 SV 1 # UNIPROT # B2RI67 # GLURS-RXN # # 6.1.1.17
+gridtest_55_19	gridtest_55	COG1115				
+gridtest_55_18	gridtest_55	COG4108				
+gridtest_55_38	gridtest_55	COG0526				Bifunctional thioredoxin reductase/thioredoxin OS Mycobacterium leprae GN trxB/A PE 3 SV 1 # UNIPROT # P46843 # THIOREDOXIN-REDUCT-NADPH-RXN # MLEP272631:ML2703-MONOMER # 1.8.1.9
+gridtest_55_7	gridtest_55	COG2193				
+gridtest_144_47	gridtest_144	COG0264				
+gridtest_55_5	gridtest_55					
+gridtest_55_4	gridtest_55	COG0389				
+gridtest_55_3	gridtest_55	COG1974				
+gridtest_55_2	gridtest_55	COG1077				
+gridtest_51_19	gridtest_51	COG1902				
+gridtest_129_74	gridtest_129	COG0365				Acetyl-coenzyme A synthetase OS Pyrobaculum arsenaticum (strain DSM 13514 / JCM 11321) GN acsA PE 3 SV 1 # UNIPROT # A4WJG1 # ACETATE--COA-LIGASE-RXN # PARS340102:PARS_0948-MONOMER # 6.2.1.1
+gridtest_83_6	gridtest_83	COG0217				
+gridtest_51_16	gridtest_51	COG1487				
+gridtest_55_20	gridtest_55	COG0221				
+gridtest_144_48	gridtest_144	COG0052				
+gridtest_55_8	gridtest_55	COG0640				
+gridtest_23_4	gridtest_23	COG0462				Ribose-phosphate pyrophosphokinase OS Rhodopirellula baltica GN prs PE 3 SV 1 # UNIPROT # Q7UPM4 # PRPPSYN-RXN # PSP117:RB6844-MONOMER # 2.7.6.1
+gridtest_145_7	gridtest_145	COG1523				
+gridtest_53_0	gridtest_53	COG0173				Aspartyl-tRNA synthetase OS Opitutus terrae (strain DSM 11246 / PB90-1) GN aspS PE 3 SV 1 # UNIPROT # B1ZSW8 # ASPARTATE--TRNA-LIGASE-RXN # # 6.1.1.12
+gridtest_129_69	gridtest_129	COG4608				
+gridtest_157_14	gridtest_157	COG1703				
+gridtest_157_17	gridtest_157	COG0330				
+gridtest_53_16	gridtest_53	COG1136				
+gridtest_157_10	gridtest_157	COG0346				
+gridtest_157_13	gridtest_157	COG1884				Methylmalonyl-CoA mutase, mitochondrial OS Homo sapiens GN MUT PE 1 SV 4 # UNIPROT # P22033 # METHYLMALONYL-COA-MUT-RXN # # 5.4.99.2
+gridtest_83_39	gridtest_83					
+gridtest_53_11	gridtest_53	COG1832				
+gridtest_129_63	gridtest_129	COG0780				
+gridtest_129_66	gridtest_129	COG0606				

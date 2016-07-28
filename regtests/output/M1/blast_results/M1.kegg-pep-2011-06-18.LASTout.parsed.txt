@@ -1,0 +1,10 @@
+#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
+M1_1_0	cja:CJA_2760	200	670	0.572160546541	0.0	200.0	100.0	3.2.1.4	cel5G; cellulase (EC:3.2.1.4)
+M1_0_0	swp:swp_1637	208	581	0.473512632437	0.0	208.0	100.0	3.2.1.21	family 3 glycoside hydrolase; K01188 beta-glucosidase [EC:3.2.1.21]
+M1_0_0	cja:CJA_1140	200	580	0.472697636512	0.0	200.0	100.0	3.2.1.74	cel3D; putative 1,4-beta-D-glucan glucohydrolase cel3D (EC:3.2.1.74)
+M1_0_0	hch:HCH_06825	194	578	0.471067644662	0.0	194.0	100.0	3.2.1.21	beta-glucosidase-like protein; K01188 beta-glucosidase [EC:3.2.1.21]
+M1_0_0	psm:PSM_A0662	202	575	0.468622656887	0.0	202.0	100.0	3.2.1.21	glycoside hydrolase, family 3 (EC:3.2.1.21); K01188 beta-glucosidase [EC:3.2.1.21]
+M1_0_0	sde:Sde_0245	199	571	0.465362673187	0.0	199.0	100.0	3.2.1.74	exo-1,4-beta-glucosidase (EC:3.2.1.74); K01188 beta-glucosidase [EC:3.2.1.21]
+M1_1_0	ara:Arad_4741	200	572	0.488471391973	0.0	200.0	100.0		glucanase
+M1_1_0	psn:Pedsa_3079	204	731	0.624252775406	0.0	204.0	100.0		glycoside hydrolase family 5
+M1_1_0	cpi:Cpin_4149	200	682	0.582408198121	0.0	200.0	100.0		glycoside hydrolase family 5

@@ -1,0 +1,60 @@
+sequence name	tRNA Type	anticodon	start position	 end position	strand
+L2_10	Asp 	 gtc	25069	24995	-
+L2_19	Gln	ttg	10765	10836	+
+L2_19	Pro	tgg	15551	15623	+
+L2_19	Ser	gga	15551	15623	+
+L2_19	Arg	tct	15651	15723	+
+L2_19	His	gtg	15751	15824	+
+L2_19	Glu	ttc	15835	15906	+
+L2_19	Lys	ctt	22347	22418	+
+L2_23	Leu	cag	12308	12389	+
+L2_29	Ser	cga	452	538	+
+L2_31	Ser 	 gga	131	44	-
+L2_33	Cys 	 gca	26182	26112	-
+L2_36	Thr 	 cgt	37174	37102	-
+L2_38	Cys 	 gca	1801	1728	-
+L2_42	Arg 	 cct	53982	53910	-
+L2_42	Thr 	 tgt	35643	35571	-
+L2_42	Tyr 	 gta	35560	35479	-
+L2_42	Thr 	 ggt	35457	35385	-
+L2_42	Trp 	 cca	35360	35288	-
+L2_45	Ser 	 tga	373	291	-
+L2_45	Ser 	 gct	279	190	-
+L2_62	Leu 	 tag	21463	21382	-
+L2_62	Leu 	 caa	21367	21284	-
+L2_83	Phe 	 gaa	37011	36859	-
+L2_105	Ala	cgc	22842	22914	+
+L2_112	Met 	 cat	4950	4878	-
+L2_124	Gly	gcc	34941	35013	+
+L2_127	Leu	taa	108658	108743	+
+L2_127	Pro 	 ggg	126559	126486	-
+L2_127	Lys 	 ttt	49857	49785	-
+L2_127	Leu 	 gag	49751	49670	-
+L2_128	Ile 	 gat	20543	20470	-
+L2_128	Ala 	 tgc	20431	20359	-
+L2_131	Val	tac	36953	37026	+
+L2_131	Ile	gat	59985	60058	+
+L2_131	Ala	tgc	60097	60169	+
+L2_137	Phe 	 gaa	53880	53808	-
+L2_141	Val 	 gac	289	216	-
+L2_143	Met 	 cat	4689	4616	-
+L2_143	Glu 	 ctc	4582	4509	-
+L2_143	Arg 	 acg	4486	4413	-
+L2_143	Gln 	 ctg	3329	3257	-
+L2_144	Ala	ggc	28675	28747	+
+L2_147	Val	cac	5663	5736	+
+L2_157	Arg 	 ccg	3491	3419	-
+L2_157	Pro 	 cgg	3221	3149	-
+L2_175	Met 	 cat	2312	2239	-
+L2_175	Gly 	 ccc	2228	2156	-
+L2_182	Ile	gat	2031	2104	+
+L2_182	Ala	tgc	2143	2215	+
+L2_182	Gly	tcc	89666	89738	+
+L2_182	Ile	gat	112387	112460	+
+L2_182	Ala	tgc	112499	112571	+
+L2_182	Asn 	 gtt	36870	36799	-
+
+number of sequences = 185
+number of bases tested (one strand) = 2622836
+number of bases tested (both strands) = 5245672
+number of predicted tRNA=54

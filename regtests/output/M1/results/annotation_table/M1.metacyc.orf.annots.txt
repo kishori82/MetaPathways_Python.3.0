@@ -1,0 +1,16 @@
+RXN-9674	NIL	"M1_0_0"
+RXN-13646	"linustatin &beta;-diglucosidase"
+RXN-11733	NIL
+RXN-13600	"taxiphyllin &beta;-glucosidase"	"M1_0_0"
+2.4.1.114-RXN	NIL
+RXN-13602	"linustatin &beta;-diglucosidase"	"M1_0_0"
+RXN-13603	"neolinustatin &beta;-diglucosidase"	"M1_0_0"
+RXN-5341	NIL	"M1_0_0"
+RXN-8035	NIL
+RXN-8036	NIL	"M1_0_0"
+RXN-8037	NIL
+RXN-10773	"cellobiose &beta;-glucosidase"	"M1_0_0"
+ACETONE-CYANHYDRIN-LYASE-RXN	"hydroxynitrilase"
+RXN-2043	NIL
+TRANS-CINNAMATE-2-MONOOXYGENASE-RXN	NIL
+3.2.1.91-RXN	NIL

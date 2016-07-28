@@ -1,0 +1,14 @@
+N3_3_1	N3_3			Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8) 		
+N3_3_0	N3_3			Hydrogen peroxide-inducible genes activator 		
+N3_3_3	N3_3			FIG00654436: hypothetical protein 		
+N3_3_2	N3_3			Hypothetical nudix hydrolase YeaB 		
+N3_2_1	N3_2			glycosyl transferase, group 2 family protein 	BAO77229.1	
+N3_2_2	N3_2			Carboxypeptidase-related protein 		
+N3_1_4	N3_1			Dihydroorotase (EC 3.5.2.3) 		
+N3_1_3	N3_1			hypothetical protein 		
+N3_1_2	N3_1			putative esterase 		
+N3_1_0	N3_1			Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein 		
+N3_0_4	N3_0	COG1225		Thiol peroxidase, Bcp-type (EC 1.11.1.15) 		Bacterioferritin comigratory protein OS Photobacterium profundum 3TCK GN bcp PE 4 SV 1 # UNIPROT # Q1YYP4 # RXN-6701 # # 1.11.1.17
+N3_0_5	N3_0			hypothetical protein 		
+N3_0_3	N3_0			Endonuclease III (EC 4.2.99.18) 		
+N3_0_1	N3_0			RNA polymerase sigma-70 factor, ECF subfamily 		

@@ -1,0 +1,6 @@
+#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
+D1_2_2	sp|P09826|GLNA1_RHILV	468	1317	0.52365805169	5.49e-166	467.0	53.0	6.3.1.2	Glutamine synthetase 1 OS=Rhizobium leguminosarum bv. viciae GN=glnA PE=3 SV=1 # UNIPROT # P09826 # GLUTAMINESYN-RXN # # 6.3.1.2
+D1_2_2	sp|P0A590|GLNA1_MYCTU	466	1290	0.512922465209	1.65e-162	472.0	51.0	6.3.1.2	Glutamine synthetase 1 OS=Mycobacterium tuberculosis GN=glnA1 PE=1 SV=1 # UNIPROT # P0A590 # GLUTAMINESYN-RXN # # 6.3.1.2
+D1_2_2	sp|P25821|GLNA_NEIGO	464	1276	0.507355864811	1.05e-160	467.0	54.0	6.3.1.2	Glutamine synthetase OS=Neisseria gonorrhoeae GN=glnA PE=3 SV=1 # UNIPROT # P25821 # GLUTAMINESYN-RXN # # 6.3.1.2
+D1_2_2	sp|P94845|GLNA_HELPY	464	1086	0.431809145129	3.17e-136	467.0	45.0	6.3.1.2	Glutamine synthetase OS=Helicobacter pylori GN=glnA PE=3 SV=2 # UNIPROT # P94845 # GLUTAMINESYN-RXN # # 6.3.1.2
+D1_2_2	sp|Q9HH09|GLNA_SULAC	462	933	0.37097415507	1.63e-116	461.0	45.0	6.3.1.2	Glutamine synthetase OS=Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770) GN=glnA PE=1 SV=2 # UNIPROT # Q9HH09 # GLUTAMINESYN-RXN # SACI330779:SACI_1483-MONOMER # 6.3.1.2

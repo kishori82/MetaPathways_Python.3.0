@@ -1,0 +1,11 @@
+#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
+M1_1_0	gi|379653125|gb|AFD06181.1|	200	737	0.629376601196	0.0	200.0	100.0		endoglucanase [Solitalea canadensis DSM 3403] [[AFD06181.1]] (CBM6)
+M1_1_0	gi|324974634|gb|ADY53618.1|	204	731	0.624252775406	0.0	204.0	100.0		glycoside hydrolase family 5 [Pedobacter saltans DSM 12145] [[ADY53618.1]] (CBM6)
+M1_1_0	gi|324974634|gb|ADY53618.1|	204	731	0.624252775406	0.0	204.0	100.0		glycoside hydrolase family 5 [Pedobacter saltans DSM 12145] [[ADY53618.1]] (CBM6)
+M1_1_0	gi|361063406|gb|AEW02398.1|	200	710	0.606319385141	0.0	200.0	100.0		glycoside hydrolase family 5 [Niastella koreensis GR20-10] [[AEW02398.1]] (CBM6)
+M1_1_0	gi|361063406|gb|AEW02398.1|	200	710	0.606319385141	0.0	200.0	100.0		glycoside hydrolase family 5 [Niastella koreensis GR20-10] [[AEW02398.1]] (CBM6)
+M1_0_0	gi|409028729|gb|AFV01014.1|	205	603	0.491442542787	0.0	205.0	100.0		Glycoside hydrolase, family 3 [Simiduia agarivorans SA1 = DSM 21679] [[AFV01014.1]] (GH3)
+M1_0_0	gi|50727110|gb|AAT81216.1|	200	586	0.477587612062	0.0	200.0	100.0		1,4-beta-D-glucan glucohydrolase [Microbulbifer hydrolyticus] [[AAT81216.1]] (GH3)
+M1_0_0	gi|212555961|gb|ACJ28415.1|	208	581	0.473512632437	0.0	208.0	100.0		Glycoside hydrolase, family 3 [Shewanella piezotolerans WP3] [[ACJ28415.1]] (GH3)
+M1_0_0	gi|190685219|gb|ACE82897.1|	200	580	0.472697636512	0.0	200.0	100.0		putative 1,4-beta-D-glucan glucohydrolase cel3D [Cellvibrio japonicus Ueda107] [[ACE82897.1]] (GH3)
+M1_0_0	gi|315014274|gb|ADT67612.1|	202	575	0.468622656887	0.0	202.0	100.0		Glycoside hydrolase, family 3 [Pseudoalteromonas sp. SM9913] [[ADT67612.1]] (GH3)

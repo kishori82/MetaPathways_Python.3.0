@@ -1,0 +1,11 @@
+#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
+N4_0_0	gi|495766052|ref|WP_008490631.1|	229	748	0.609616951915	7.48e-92	234.0	61.0		glycosyl hydrolase family 3, N-terminal domain protein [SAR86 cluster bacterium SAR86E]
+N4_1_0	gi|498349536|ref|WP_010663692.1|	207	692	0.590947907771	1.61e-84	206.0	58.0		glycoside hydrolase family 5 [Marinilabilia salmonicolor]
+N4_0_0	gi|504862062|ref|WP_015049164.1|	201	603	0.491442542787	7.26e-73	205.0	55.0		beta-glucosidase [Simiduia agarivorans]
+N4_0_0	gi|493562086|ref|WP_006515492.1|	211	597	0.486552567237	4.44e-72	217.0	53.0		beta-glucosidase-like glycosyl hydrolase [Leptolyngbya sp. PCC 7375]
+N4_0_0	gi|494167147|ref|WP_007106876.1|	211	582	0.474327628362	4.08e-70	216.0	52.0		beta-glucosidase [Glaciecola polaris]
+N4_0_0	gi|494048864|ref|WP_006990979.1|	199	577	0.470252648737	1.84e-69	201.0	53.0		beta-glucosidase [Glaciecola mesophila]
+N4_1_0	gi|495519255|ref|WP_008243900.1|	162	519	0.443210930828	7.26e-62	160.0	58.0		glycoside hydrolase, family 5, partial [Pedobacter sp. BAL39]
+N4_1_0	gi|496486534|ref|WP_009195104.1|	202	731	0.624252775406	1.26e-89	201.0	62.0		Endoglucanase precursor [Cesiribacter andamanensis]
+N4_1_0	gi|496383902|ref|WP_009092892.1|	204	695	0.593509820666	6.52e-85	203.0	59.0		glycoside hydrolase family protein [Elizabethkingia anophelis]
+N4_1_0	gi|516067413|ref|WP_017497996.1|	206	683	0.583262169086	2.43e-83	204.0	60.0		glycosyl hydrolase family 5 [Flavobacterium sp. WG21]

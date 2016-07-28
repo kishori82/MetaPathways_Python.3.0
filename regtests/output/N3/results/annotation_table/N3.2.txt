@@ -1,0 +1,15 @@
+orf_id	COG_2013-12-27(EC) 	COG_2013-12-27(product)	COG_2013-12-27(value)	CAZY_2014_09_04(EC) 	CAZY_2014_09_04(product)	CAZY_2014_09_04(value)	refseq-nr-2014-01-18(EC) 	refseq-nr-2014-01-18(product)	refseq-nr-2014-01-18(value)	seed-2014-01-30(EC) 	seed-2014-01-30(product)	seed-2014-01-30(value)	metacyc-v4-2011-07-03(EC) 	metacyc-v4-2011-07-03(product)	metacyc-v4-2011-07-03(value)
+N3_0_1								RNA polymerase sigma-70 factor, ECF subfamily	6.0		RNA polymerase sigma-70 factor, ECF subfamily	6.0			
+N3_0_3								endonuclease III	2.0	4.2.99.18	Endonuclease III (EC 4.2.99.18)	14.0			
+N3_0_4		COG1225 # O Posttranslational modification, protein turnover, chaperones Function: Peroxiredoxin Organism: Escherichia coli O157:H7 EDL933 (EcZ)	15.0					Thiol peroxidase, Bcp-type	3.0	1.11.1.15	Thiol peroxidase, Bcp-type (EC 1.11.1.15)	15.0	1.11.1.17	Bacterioferritin comigratory protein OS Photobacterium profundum 3TCK GN bcp PE 4 SV 1 # UNIPROT Q1YYP4 RXN-6701 1.11.1.17	27.0
+N3_0_5								nicotinamide mononucleotide adenylyltransferase	3.0		nicotinamide mononucleotide adenylyltransferase	3.0			
+N3_1_0								Metal-dependent hydrolase beta-lactamase superfamily I	5.0		Metal-dependent hydrolases beta-lactamase superfamily I PhnP protein	6.0			
+N3_1_2								Serine esterase	2.0	3.1.1.1	Serine esterase (EC 3.1.1.1)	14.0			
+N3_1_3								membrane protein	1.0		FIG00653137: 	1.0			
+N3_1_4								dihydroorotase	1.0	3.5.2.3	Dihydroorotase (EC 3.5.2.3)	13.0			
+N3_2_1					glycosyl transferase, group 2 family protein [ (GT2)	7.0		Dolichol-phosphate mannosyltransferase lipid-linked oligosaccharide synthesis cluster	6.0	2.4.1.83	Dolichol-phosphate mannosyltransferase (EC 2.4.1.83) lipid-linked oligosaccharide synthesis cluster	18.0			
+N3_2_2								carboxypeptidase	1.0		Carboxypeptidase-related protein	1.0			
+N3_3_0								transcriptional regulator	2.0		Hydrogen peroxide-inducible genes activator	4.0			
+N3_3_1								peptidyl-prolyl cis-trans isomerase, cyclophilin-type	4.0	5.2.1.8	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	15.0			
+N3_3_2								Putative nudix hydrolase YeaB	4.0		Hypothetical nudix hydrolase YeaB	4.0			
+N3_3_3								glycerol acyltransferase	2.0		acyltransferase family protein	2.0			

@@ -1,0 +1,1 @@
+orf_id	COG_2013-12-27(EC) 	COG_2013-12-27(product)	COG_2013-12-27(value)	CAZY_2014_09_04(EC) 	CAZY_2014_09_04(product)	CAZY_2014_09_04(value)	metacyc-v4-2011-07-03(EC) 	metacyc-v4-2011-07-03(product)	metacyc-v4-2011-07-03(value)

@@ -1,0 +1,56 @@
+2000	Sequences BEFORE Filtering (amino)	150
+2001	min length	19
+2002	avg length	69
+2003	max length	414
+2004	tot length	10445
+2005	Sequences AFTER Filtering (amino)	150
+2006	min length	19
+2007	avg length	69
+2008	max length	414
+2009	tot length	10445
+2000	Number of translated ORFs BEFORE QC (amino)	150
+2001	-min length	19
+2002	-avg length	69
+2003	-max length	414
+2004	-total base pairs (bp)	10445
+2005	Number of tranlated ORFs AFTER QC (amino)	66
+2006	-min length	61
+2007	-avg length	105
+2008	-max length	414
+2009	-total base pairs (bp)	6982
+5000	Total Protein Annotations metacyc-v4-2011-07-03 (LAST)	7
+5000	Total Protein Annotations CAZY_2014_09_04 (LAST)	4
+5000	Total Protein Annotations COG_2013-12-27 (LAST)	32
+5050	Number of ORFs with hits in COG_2013-12-27 (LAST)	89
+6000	Protein Annotations from CAZY_2014_09_04	2
+6001	Protein Annotations from COG_2013-12-27	8
+6002	Protein Annotations from metacyc-v4-2011-07-03	2
+5000	Total Protein Annotations metacyc-v4-2011-07-03 (LAST)	7
+5500	Number of ORFs with hits in metacyc-v4-2011-07-03 (LAST)	2
+5000	Total Protein Annotations COG_2013-12-27 (LAST)	32
+5000	Total Protein Annotations metacyc-v4-2011-07-03 (LAST)	7
+5500	Number of ORFs with hits in metacyc-v4-2011-07-03 (LAST)	2
+5000	Total Protein Annotations COG_2013-12-27 (LAST)	32
+5500	Number of ORFs with hits in COG_2013-12-27 (LAST)	8
+5000	Total Protein Annotations metacyc-v4-2011-07-03 (LAST)	7
+5500	Number of ORFs with hits in metacyc-v4-2011-07-03 (LAST)	2
+5000	Total Protein Annotations metacyc-v4-2011-07-03 (LAST)	7
+5500	Number of ORFs with hits in metacyc-v4-2011-07-03 (LAST)	2
+5000	Total Protein Annotations COG_2013-12-27 (LAST)	32
+5500	Number of ORFs with hits in COG_2013-12-27 (LAST)	8
+5000	Total Protein Annotations metacyc-v4-2011-07-03 (LAST)	7
+5500	Number of ORFs with hits in metacyc-v4-2011-07-03 (LAST)	2
+5000	Total Protein Annotations CAZY_2014_09_04 (LAST)	4
+5500	Number of ORFs with hits in CAZY_2014_09_04 (LAST)	2
+5000	Total Protein Annotations COG_2013-12-27 (LAST)	32
+5500	Number of ORFs with hits in COG_2013-12-27 (LAST)	8
+5000	Total Protein Annotations metacyc-v4-2011-07-03 (LAST)	7
+5500	Number of ORFs with hits in metacyc-v4-2011-07-03 (LAST)	2
+5000	Total Protein Annotations CAZY_2014_09_04 (LAST)	4
+5500	Number of ORFs with hits in CAZY_2014_09_04 (LAST)	2
+5000	Total Protein Annotations COG_2013-12-27 (LAST)	32
+5500	Number of ORFs with hits in COG_2013-12-27 (LAST)	8
+6000	Protein Annotations from CAZY_2014_09_04	2
+6001	Protein Annotations from COG_2013-12-27	8
+6002	Protein Annotations from metacyc-v4-2011-07-03	2
+6003	Total Protein Annotations	9

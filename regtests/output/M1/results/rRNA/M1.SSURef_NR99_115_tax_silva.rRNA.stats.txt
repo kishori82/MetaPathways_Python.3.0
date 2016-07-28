@@ -1,0 +1,11 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	3
+
+	SSURef_NR99_115_tax_silva			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+M1_3	24	799	98.2	0.0	1358.0	Eukaryota;SAR;Stramenopiles;Chrysophyceae;E222;uncultured marine picoeukaryote
+M1_2	1	740	99.86	0.0	1362.0	Eukaryota;SAR;Stramenopiles;Pelagophyceae;Pelagomonadales;Aureococcus;Aureococcus anophagefferens
+M1_4	1	446	99.78	0.0	819.0	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;SAR92 clade;uncultured bacterium

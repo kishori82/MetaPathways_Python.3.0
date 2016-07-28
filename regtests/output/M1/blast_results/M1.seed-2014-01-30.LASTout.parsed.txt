@@ -1,0 +1,13 @@
+#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
+M1_0_0	fig|1004787.3.peg.3859	200	572	0.466177669112	0.0	200.0	100.0	3.2.1.21	Periplasmic beta-glucosidase (EC 3.2.1.21) [Alteromonas macleodii str. 'Balearic Sea AD45']
+M1_0_0	fig|1004785.3.peg.3658	200	571	0.465362673187	0.0	200.0	100.0	3.2.1.21	Periplasmic beta-glucosidase (EC 3.2.1.21) [Alteromonas macleodii str. 'Black Sea 11']
+M1_0_0	fig|1004788.3.peg.3771	200	567	0.462102689487	0.0	200.0	100.0	3.2.1.21	Periplasmic beta-glucosidase (EC 3.2.1.21) [Alteromonas macleodii str. 'English Channel 673']
+M1_0_0	fig|1004786.3.peg.3998	201	559	0.455582722086	0.0	201.0	100.0	3.2.1.21	Periplasmic beta-glucosidase (EC 3.2.1.21) [Alteromonas macleodii AltDE1]
+M1_0_0	fig|1004785.3.peg.3856	201	538	0.438467807661	0.0	201.0	100.0	3.2.1.21	Periplasmic beta-glucosidase (EC 3.2.1.21) [Alteromonas macleodii str. 'Black Sea 11']
+M1_1_0	fig|1144316.3.peg.3348	203	698	0.596071733561	0.0	203.0	100.0		FIG00487463: hypothetical protein [Chryseobacterium sp. CF314]
+M1_1_0	fig|1117646.3.peg.1952	203	695	0.593509820666	0.0	203.0	100.0		FIG00487463: hypothetical protein [Elizabethkingia anophelis Ag1]
+M1_1_0	fig|1144304.3.peg.1222	203	596	0.508966695132	0.0	203.0	100.0		FIG00487463: hypothetical protein [Caulobacter sp. AP07]
+M1_1_0	fig|1144306.3.peg.1953	200	588	0.502134927412	0.0	200.0	100.0		hypothetical protein [Rhizobium sp. AP16]
+M1_1_0	fig|1166018.3.peg.281	197	703	0.600341588386	0.0	197.0	100.0		FIG00487463: hypothetical protein [Fibrella aestuarina]
+M1_2_0	fig|242507.1.peg.1682	60	168	0.523364485981	0.0	60.0	100.0		hypothetical protein [Magnaporthe grisea 70-15]
+M1_2_0	fig|44056.3.peg.5508	61	321	1.0	0.0	61.0	100.0		hypothetical protein [Aureococcus anophagefferens CCMP 1984]

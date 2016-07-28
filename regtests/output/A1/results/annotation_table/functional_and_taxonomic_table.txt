@@ -1,0 +1,1 @@
+ORF_ID	ORF_length	start	end	Contig_Name	Contig_length	strand	ec	taxonomy	product

@@ -1,0 +1,11 @@
+orf_id	ref dbname	EC	product	value
+N4_1_0				
+	CAZY_2014_09_04		glycoside hydrolase family 5 [ (CBM6)	6.0
+	refseq-nr-2014-01-18		glycoside hydrolase, family 5, partial	5.0
+	seed-2014-01-30		FIG00487463: 	1.0
+
+N4_0_0				
+	CAZY_2014_09_04		Glycoside hydrolase, family 3 [ (GH3)	6.0
+	refseq-nr-2014-01-18		glycosyl hydrolase family 3, N-terminal domain protein	6.0
+	seed-2014-01-30	3.2.1.21	Periplasmic beta-glucosidase (EC 3.2.1.21)	14.0
+

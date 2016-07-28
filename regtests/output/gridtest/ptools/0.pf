@@ -1,0 +1,2126 @@
+ID	gridtest_137_0
+NAME	gridtest_137_0
+STARTBASE	751
+ENDBASE	2394
+PRODUCT	COG1151 # C Energy production conversion Function: 6Fe-6S prismane cluster-containing protein Organism: Escherichia coli O157:H7 (Ecs)
+PRODUCT-TYPE	P
+//
+ID	gridtest_137_5
+NAME	gridtest_137_5
+STARTBASE	5664
+ENDBASE	6098
+PRODUCT	NULL # G Carbohydrate transport metabolism Function: ABC-type sugar system, periplasmic component Organism: Deinococcus radiodurans (Dra)
+PRODUCT-TYPE	P
+//
+ID	gridtest_137_20
+NAME	gridtest_137_20
+STARTBASE	24925
+ENDBASE	25668
+PRODUCT	COG1187 # J Translation, ribosomal structure biogenesis Function: 16S rRNA uridine-516 pseudouridylate synthase related synthases Organism: Bacillus halodurans (Bha)
+PRODUCT-TYPE	P
+//
+ID	gridtest_137_22
+NAME	gridtest_137_22
+STARTBASE	26346
+ENDBASE	27206
+PRODUCT	1-(5-phosphoribosyl)-5- imidazole-4-carboxamide isomerase OS Pelotomaculum thermopropionicum (strain DSM 13744 / JCM 10971 SI) GN hisA PE 3 SV 1 # UNIPROT A5CZ74 PRIBFAICARPISOM-RXN 5.3.1.16
+PRODUCT-TYPE	P
+EC	5.3.1.16
+//
+ID	gridtest_137_23
+NAME	gridtest_137_23
+STARTBASE	27243
+ENDBASE	27848
+PRODUCT	COG0118 # E Amino acid transport metabolism Function: Glutamine amidotransferase Organism: Aquifex aeolicus (Aae)
+PRODUCT-TYPE	P
+//
+ID	gridtest_137_24
+NAME	gridtest_137_24
+STARTBASE	28008
+ENDBASE	28853
+PRODUCT	COG0543 # HC Function: 2-polyprenylphenol hydroxylase related flavodoxin oxidoreductases Organism: Methanosarcina acetivorans str.C2A (Mac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_137_25
+NAME	gridtest_137_25
+STARTBASE	28959
+ENDBASE	30383
+PRODUCT	COG0493 # ER Function: NADPH-dependent glutamate synthase beta chain related oxidoreductases Organism: Methanosarcina acetivorans str.C2A (Mac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_137_26
+NAME	gridtest_137_26
+STARTBASE	30445
+ENDBASE	30852
+PRODUCT	COG0864 # K Transcription Function: Predicted transcriptional regulators containing CopG/Arc/MetJ DNA-binding domain metal-binding Organism: Methanosarcina acetivorans str.C2A (Mac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_137_30
+NAME	gridtest_137_30
+STARTBASE	33644
+ENDBASE	34366
+PRODUCT	COG1122 # P Inorganic ion transport metabolism Function: ABC-type cobalt system, ATPase component Organism: Methanothermobacter thermautotrophicus (Mth)
+PRODUCT-TYPE	P
+//
+ID	gridtest_137_31
+NAME	gridtest_137_31
+STARTBASE	34519
+ENDBASE	34950
+PRODUCT	COG4446 # S Function unknown Function: Uncharacterized protein conserved bacteria Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_137_35
+NAME	gridtest_137_35
+STARTBASE	38447
+ENDBASE	38860
+PRODUCT	Phosphoribosyl-AMP cyclohydrolase OS Chromohalobacter salexigens (strain DSM 3043 / ATCC BAA-138 NCIMB 13768) GN hisI PE 3 SV 1 # UNIPROT Q1QWC3 HISTCYCLOHYD-RXN 3.5.4.19
+PRODUCT-TYPE	P
+EC	3.5.4.19
+//
+ID	gridtest_137_39
+NAME	gridtest_137_39
+STARTBASE	40636
+ENDBASE	42660
+PRODUCT	COG0272 # L Replication, recombination repair Function: NAD-dependent DNA ligase (contains BRCT domain type II) Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_137_41
+NAME	gridtest_137_41
+STARTBASE	44242
+ENDBASE	44967
+PRODUCT	COG1136 # V Defense mechanisms Function: ABC-type antimicrobial peptide transport system, ATPase component Organism: Escherichia coli O157:H7 (Ecs)
+PRODUCT-TYPE	P
+//
+ID	gridtest_137_50
+NAME	gridtest_137_50
+STARTBASE	54474
+ENDBASE	55994
+PRODUCT	Glutamyl-tRNA synthetase OS Porphyromonas gingivalis (strain ATCC 33277 / DSM 20709 JCM 12257) GN gltX PE 3 SV 1 # UNIPROT B2RI67 GLURS-RXN 6.1.1.17
+PRODUCT-TYPE	P
+EC	6.1.1.17
+//
+ID	gridtest_137_51
+NAME	gridtest_137_51
+STARTBASE	56245
+ENDBASE	58230
+PRODUCT	COG0465 # O Posttranslational modification, protein turnover, chaperones Function: ATP-dependent Zn proteases Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_137_52
+NAME	gridtest_137_52
+STARTBASE	58266
+ENDBASE	58631
+PRODUCT	COG0730 # R General function prediction only Function: Predicted permeases Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_137_54
+NAME	gridtest_137_54
+STARTBASE	59319
+ENDBASE	59852
+PRODUCT	Adenine phosphoribosyltransferase OS Paracoccus denitrificans (strain Pd 1222) GN apt PE 3 SV 1 # UNIPROT A1B843 ADENPRIBOSYLTRAN-RXN 2.4.2.7
+PRODUCT-TYPE	P
+EC	2.4.2.7
+//
+ID	gridtest_137_tRNA
+NAME	gridtest_137_tRNA
+STARTBASE	54387
+ENDBASE	54315
+PRODUCT	tRNA-Phe
+PRODUCT-TYPE	P
+//
+ID	gridtest_83_6
+NAME	gridtest_83_6
+STARTBASE	67712
+ENDBASE	68464
+PRODUCT	COG0217 # S Function unknown Function: Uncharacterized conserved protein Organism: Neisseria meningitidis MC58 (Nme)
+PRODUCT-TYPE	P
+//
+ID	gridtest_83_14
+NAME	gridtest_83_14
+STARTBASE	75764
+ENDBASE	76429
+PRODUCT	Ribulose-phosphate 3-epimerase OS Rhodospirillum rubrum GN cbbE PE 3 SV 2 # UNIPROT P51013 RIBULP3EPIM-RXN 5.1.3.1
+PRODUCT-TYPE	P
+EC	5.1.3.1
+//
+ID	gridtest_83_15
+NAME	gridtest_83_15
+STARTBASE	76410
+ENDBASE	77186
+PRODUCT	Indole-3-glycerol phosphate synthase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN trpC PE 3 SV 1 # UNIPROT B3QZD6 IGPSYN-RXN 4.1.1.48
+PRODUCT-TYPE	P
+EC	4.1.1.48
+//
+ID	gridtest_83_16
+NAME	gridtest_83_16
+STARTBASE	77192
+ENDBASE	78670
+PRODUCT	Carbamoyl-phosphate synthase large chain OS Thermomicrobium roseum (strain ATCC 27502 / DSM 5159 P-2) GN carB PE 3 SV 1 # UNIPROT B9KXM5 CARBPSYN-RXN 6.3.5.5
+PRODUCT-TYPE	P
+EC	6.3.5.5
+//
+ID	gridtest_83_18
+NAME	gridtest_83_18
+STARTBASE	79422
+ENDBASE	80786
+PRODUCT	Phosphoribosylamine--glycine ligase OS Nostoc sp. (strain PCC 7120 / UTEX 2576) GN purD PE 3 SV 1 # UNIPROT Q8YRD8 GLYRIBONUCSYN-RXN NSP103690:ALR3510-MONOMER 6.3.4.13
+PRODUCT-TYPE	P
+EC	6.3.4.13
+//
+ID	gridtest_83_20
+NAME	gridtest_83_20
+STARTBASE	81465
+ENDBASE	82532
+PRODUCT	Tetraacyldisaccharide 4'-kinase OS Chlorobaculum parvum (strain NCIB 8327) GN lpxK PE 3 SV 1 # UNIPROT B3QLP5 TETRAACYLDISACC4KIN-RXN 2.7.1.130
+PRODUCT-TYPE	P
+EC	2.7.1.130
+//
+ID	gridtest_83_23
+NAME	gridtest_83_23
+STARTBASE	84094
+ENDBASE	84750
+PRODUCT	COG3155 # Q Secondary metabolites biosynthesis, transport catabolism Function: Uncharacterized protein involved early stage isoprenoid biosynthesis Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_83_27
+NAME	gridtest_83_27
+STARTBASE	86708
+ENDBASE	89443
+PRODUCT	Pyruvate, phosphate dikinase 1, chloroplastic OS Arabidopsis thaliana GN PPDK PE 1 SV 2 # UNIPROT O23404 PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN 2.7.9.1
+PRODUCT-TYPE	P
+EC	2.7.9.1
+//
+ID	gridtest_83_29
+NAME	gridtest_83_29
+STARTBASE	90041
+ENDBASE	92884
+PRODUCT	COG0178 # L Replication, recombination repair Function: Excinuclease ATPase subunit Organism: Ralstonia solanacearum (Rso)
+PRODUCT-TYPE	P
+//
+ID	gridtest_83_39
+NAME	gridtest_83_39
+STARTBASE	98553
+ENDBASE	98819
+PRODUCT	NULL # R General function prediction only Function: Predicted nucleic acid-binding protein, contains PIN domain Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_83_41
+NAME	gridtest_83_41
+STARTBASE	100228
+ENDBASE	101643
+PRODUCT	Alginate biosynthesis protein AlgA OS Pseudomonas putida (strain KT2440) GN algA PE 3 SV 1 # UNIPROT Q88ND5 MANNPISOM-RXN 2.7.7.13 5.3.1.8
+PRODUCT-TYPE	P
+EC	2.7.7.13
+//
+ID	gridtest_83_42
+NAME	gridtest_83_42
+STARTBASE	101754
+ENDBASE	102347
+PRODUCT	dTDP-4-dehydrorhamnose 3,5-epimerase OS Escherichia coli (strain K12) GN rfbC PE 1 SV # UNIPROT P37745 DTDPDEHYDRHAMEPIM-RXN MetaCyc:DTDPDEHYDRHAMEPIM-MONOMER 5.1.3.13
+PRODUCT-TYPE	P
+EC	5.1.3.13
+//
+ID	gridtest_83_43
+NAME	gridtest_83_43
+STARTBASE	102492
+ENDBASE	103373
+PRODUCT	Glucose-1-phosphate thymidylyltransferase OS Xanthomonas campestris pv. (strain B100) GN rmlA PE 3 SV 1 # UNIPROT B0RVK9 DTDPGLUCOSEPP-RXN 2.7.7.24
+PRODUCT-TYPE	P
+EC	2.7.7.24
+//
+ID	gridtest_83_tRNA
+NAME	gridtest_83_tRNA
+STARTBASE	99285
+ENDBASE	99133
+PRODUCT	tRNA-Phe
+PRODUCT-TYPE	P
+//
+ID	gridtest_86_2
+NAME	gridtest_86_2
+STARTBASE	110226
+ENDBASE	111284
+PRODUCT	Phospho-2-dehydro-3-deoxyheptonate aldolase OS Haemophilus influenzae (strain ATCC 51907 / DSM 11121 KW20 Rd) GN aroG PE 3 SV 1 # UNIPROT P44303 DAHPSYN-RXN 2.5.1.54
+PRODUCT-TYPE	P
+EC	2.5.1.54
+//
+ID	gridtest_86_3
+NAME	gridtest_86_3
+STARTBASE	111565
+ENDBASE	113145
+PRODUCT	D-3-phosphoglycerate dehydrogenase OS Archaeoglobus fulgidus (strain ATCC 49558 / VC-16 DSM 4304 JCM 9628 NBRC 100126) GN serA PE 3 SV 1 # UNIPROT O29445 PGLYCDEHYDROG-RXN 1.1.1.95
+PRODUCT-TYPE	P
+EC	1.1.1.95
+//
+ID	gridtest_86_4
+NAME	gridtest_86_4
+STARTBASE	113243
+ENDBASE	114427
+PRODUCT	COG0003 # P Inorganic ion transport metabolism Function: Oxyanion-translocating ATPase Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_86_7
+NAME	gridtest_86_7
+STARTBASE	117374
+ENDBASE	117832
+PRODUCT	COG1970 # M Cell wall/membrane/envelope biogenesis Function: Large-conductance mechanosensitive channel Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_86_11
+NAME	gridtest_86_11
+STARTBASE	122865
+ENDBASE	123443
+PRODUCT	COG0424 # D Cell cycle control, cell division, chromosome partitioning Function: Nucleotide-binding protein implicated inhibition septum formation Organism: Bacillus halodurans (Bha)
+PRODUCT-TYPE	P
+//
+ID	gridtest_88_3
+NAME	gridtest_88_3
+STARTBASE	128851
+ENDBASE	130782
+PRODUCT	1-deoxy-D-xylulose-5-phosphate synthase OS Bacteroides fragilis (strain ATCC 25285 / NCTC 9343) GN dxs PE 3 SV 1 # UNIPROT Q5LH44 DXS-RXN BFRA272559:BF0796-MONOMER 2.2.1.7
+PRODUCT-TYPE	P
+EC	2.2.1.7
+//
+ID	gridtest_88_4
+NAME	gridtest_88_4
+STARTBASE	130876
+ENDBASE	131334
+PRODUCT	COG0432 # S Function unknown Function: Uncharacterized conserved protein Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_88_6
+NAME	gridtest_88_6
+STARTBASE	133192
+ENDBASE	135345
+PRODUCT	COG0210 # L Replication, recombination repair Function: Superfamily I DNA RNA helicases Organism: Staphylococcus aureus N315 (Sau)
+PRODUCT-TYPE	P
+//
+ID	gridtest_88_7
+NAME	gridtest_88_7
+STARTBASE	135394
+ENDBASE	136431
+PRODUCT	COG1819 # GC Function: Glycosyl transferases, related to UDP-glucuronosyltransferase Organism: Vibrio cholerae (Vch)
+PRODUCT-TYPE	P
+//
+ID	gridtest_88_9
+NAME	gridtest_88_9
+STARTBASE	137179
+ENDBASE	137763
+PRODUCT	COG2360 # O Posttranslational modification, protein turnover, chaperones Function: Leu/Phe-tRNA-protein transferase Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_88_12
+NAME	gridtest_88_12
+STARTBASE	140614
+ENDBASE	142839
+PRODUCT	Isocitrate dehydrogenase 2 OS Colwellia maris GN icd2 PE 1 SV 3 # UNIPROT P41561 ISOCITDEH-RXN 1.1.1.42
+PRODUCT-TYPE	P
+EC	1.1.1.42
+//
+ID	gridtest_88_18
+NAME	gridtest_88_18
+STARTBASE	147490
+ENDBASE	148446
+PRODUCT	Cysteine synthase, plasmid OS Synechococcus elongatus (strain PCC 7942) GN srpG PE 3 SV 1 # UNIPROT Q59966 ACSERLY-RXN 2.5.1.47
+PRODUCT-TYPE	P
+EC	2.5.1.47
+//
+ID	gridtest_88_19
+NAME	gridtest_88_19
+STARTBASE	148462
+ENDBASE	149346
+PRODUCT	COG1741 # R General function prediction only Function: Pirin-related protein Organism: Methanosarcina acetivorans str.C2A (Mac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_88_20
+NAME	gridtest_88_20
+STARTBASE	149511
+ENDBASE	150338
+PRODUCT	COG1692 # S Function unknown Function: Uncharacterized protein conserved bacteria Organism: Listeria innocua (Lin)
+PRODUCT-TYPE	P
+//
+ID	gridtest_88_21
+NAME	gridtest_88_21
+STARTBASE	150495
+ENDBASE	151496
+PRODUCT	Fructose-1,6-bisphosphatase class 1 OS Desulfovibrio salexigens (strain ATCC 14822 / DSM 2638 NCIB 8403 VKM B-1763) GN fbp PE 3 SV # UNIPROT C6BTU7 F16BDEPHOS-RXN 3.1.3.11
+PRODUCT-TYPE	P
+EC	3.1.3.11
+//
+ID	gridtest_88_24
+NAME	gridtest_88_24
+STARTBASE	154476
+ENDBASE	155408
+PRODUCT	COG0463 # M Cell wall/membrane/envelope biogenesis Function: Glycosyltransferases involved cell wall Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_88_27
+NAME	gridtest_88_27
+STARTBASE	157729
+ENDBASE	158661
+PRODUCT	COG1230 # P Inorganic ion transport metabolism Function: Co/Zn/Cd efflux system component Organism: Methanosarcina acetivorans str.C2A (Mac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_88_28
+NAME	gridtest_88_28
+STARTBASE	159016
+ENDBASE	159537
+PRODUCT	COG3040 # M Cell wall/membrane/envelope biogenesis Function: Bacterial lipocalin Organism: Salmonella typhimurium LT2 (Sty)
+PRODUCT-TYPE	P
+//
+ID	gridtest_88_34
+NAME	gridtest_88_34
+STARTBASE	164939
+ENDBASE	166294
+PRODUCT	COG1271 # C Energy production conversion Function: Cytochrome bd-type quinol oxidase, subunit 1 Organism: Mycobacterium tuberculosis H37Rv (Mtu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_88_48
+NAME	gridtest_88_48
+STARTBASE	176866
+ENDBASE	177627
+PRODUCT	Cytochrome c oxidase subunit 1 homolog OS Azorhizobium caulinodans (strain ATCC 43989 / DSM 5975 ORS 571) GN fixN PE 3 SV # UNIPROT P98056 CYTOCHROME-C-OXIDASE-RXN 1.9.3.1
+PRODUCT-TYPE	P
+EC	1.9.3.1
+//
+ID	gridtest_139_0
+NAME	gridtest_139_0
+STARTBASE	181049
+ENDBASE	182098
+PRODUCT	Arsenite efflux pump ACR3 or related permease OS Corynebacterium glutamicum GN arsC2 PE 4 SV 1 # UNIPROT Q6M576 RXN-11187 MetaCyc:MONOMER-15361 2.8.4.2
+PRODUCT-TYPE	P
+EC	2.8.4.2
+//
+ID	gridtest_139_1
+NAME	gridtest_139_1
+STARTBASE	182101
+ENDBASE	182529
+PRODUCT	COG0394 # T Signal transduction mechanisms Function: Protein-tyrosine-phosphatase Organism: Aquifex aeolicus (Aae)
+PRODUCT-TYPE	P
+//
+ID	gridtest_139_2
+NAME	gridtest_139_2
+STARTBASE	182932
+ENDBASE	183993
+PRODUCT	COG0701 # R General function prediction only Function: Predicted permeases Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_138_2
+NAME	gridtest_138_2
+STARTBASE	188730
+ENDBASE	189626
+PRODUCT	NULL # L Replication, recombination repair Function: Type IIA topoisomerase (DNA gyrase/topo II, IV), A subunit Organism: Thermotoga maritima (Tma)
+PRODUCT-TYPE	P
+//
+ID	gridtest_138_3
+NAME	gridtest_138_3
+STARTBASE	189966
+ENDBASE	190295
+PRODUCT	Bifunctional thioredoxin reductase/thioredoxin OS Mycobacterium leprae GN trxB/A PE 3 SV 1 # UNIPROT P46843 THIOREDOXIN-REDUCT-NADPH-RXN MLEP272631:ML2703-MONOMER 1.8.1.9
+PRODUCT-TYPE	P
+EC	1.8.1.9
+//
+ID	gridtest_138_4
+NAME	gridtest_138_4
+STARTBASE	190345
+ENDBASE	191289
+PRODUCT	Bifunctional thioredoxin reductase/thioredoxin OS Mycobacterium leprae GN trxB/A PE 3 SV 1 # UNIPROT P46843 THIOREDOXIN-REDUCT-NADPH-RXN MLEP272631:ML2703-MONOMER 1.8.1.9
+PRODUCT-TYPE	P
+EC	1.8.1.9
+//
+ID	gridtest_138_6
+NAME	gridtest_138_6
+STARTBASE	192063
+ENDBASE	193703
+PRODUCT	Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase OS Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 SB1003) GN bchE PE 3 SV 1 # UNIPROT P26168 RXN-8799 MetaCyc:MONOMER-13265 NIL
+PRODUCT-TYPE	P
+//
+ID	gridtest_138_10
+NAME	gridtest_138_10
+STARTBASE	199366
+ENDBASE	203169
+PRODUCT	Magnesium-chelatase subunit H OS Chlorobaculum parvum (strain NCIB 8327) GN bchH PE 3 SV 2 # UNIPROT O50314 RXN1F-20 6.6.1.1
+PRODUCT-TYPE	P
+EC	6.6.1.1
+//
+ID	gridtest_138_17
+NAME	gridtest_138_17
+STARTBASE	211669
+ENDBASE	212901
+PRODUCT	COG0003 # P Inorganic ion transport metabolism Function: Oxyanion-translocating ATPase Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_138_30
+NAME	gridtest_138_30
+STARTBASE	224421
+ENDBASE	225464
+PRODUCT	COG0042 # J Translation, ribosomal structure biogenesis Function: tRNA-dihydrouridine synthase Organism: Bacillus halodurans (Bha)
+PRODUCT-TYPE	P
+//
+ID	gridtest_138_31
+NAME	gridtest_138_31
+STARTBASE	225486
+ENDBASE	226508
+PRODUCT	Aspartate-semialdehyde dehydrogenase OS Rickettsia bellii (strain RML369-C) GN asd PE 3 SV 1 # UNIPROT Q1RIB3 ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN 1.2.1.11
+PRODUCT-TYPE	P
+EC	1.2.1.11
+//
+ID	gridtest_138_34
+NAME	gridtest_138_34
+STARTBASE	228074
+ENDBASE	229225
+PRODUCT	Alanine racemase OS Chlorobium tepidum GN alr PE 3 SV 1 # UNIPROT Q8KB67 ALARACECAT-RXN 5.1.1.1
+PRODUCT-TYPE	P
+EC	5.1.1.1
+//
+ID	gridtest_138_37
+NAME	gridtest_138_37
+STARTBASE	231921
+ENDBASE	233222
+PRODUCT	3-phosphoshikimate 1-carboxyvinyltransferase OS Salinibacter ruber (strain DSM 13855 / M31) GN aroA PE 3 SV 1 # UNIPROT Q2S4R9 2.5.1.19-RXN 2.5.1.19
+PRODUCT-TYPE	P
+EC	2.5.1.19
+//
+ID	gridtest_138_42
+NAME	gridtest_138_42
+STARTBASE	236638
+ENDBASE	236910
+PRODUCT	COG0724 # R General function prediction only Function: RNA-binding proteins (RRM domain) Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_138_44
+NAME	gridtest_138_44
+STARTBASE	238918
+ENDBASE	239652
+PRODUCT	COG1137 # R General function prediction only Function: ABC-type (unclassified) transport system, ATPase component Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_138_48
+NAME	gridtest_138_48
+STARTBASE	242324
+ENDBASE	242851
+PRODUCT	COG0663 # R General function prediction only Function: Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily Organism: Methanosarcina acetivorans str.C2A (Mac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_136_1
+NAME	gridtest_136_1
+STARTBASE	264436
+ENDBASE	266079
+PRODUCT	Glucose-6-phosphate isomerase OS Deinococcus geothermalis (strain DSM 11300) GN pgi PE 3 SV 2 # UNIPROT Q1IYT4 PGLUCISOM-RXN 5.3.1.9
+PRODUCT-TYPE	P
+EC	5.3.1.9
+//
+ID	gridtest_136_2
+NAME	gridtest_136_2
+STARTBASE	266169
+ENDBASE	266516
+PRODUCT	COG0347 # E Amino acid transport metabolism Function: Nitrogen regulatory protein PII Organism: Brucella melitensis (Bme)
+PRODUCT-TYPE	P
+//
+ID	gridtest_136_4
+NAME	gridtest_136_4
+STARTBASE	268397
+ENDBASE	269947
+PRODUCT	COG0004 # P Inorganic ion transport metabolism Function: Ammonia permease Organism: Thermotoga maritima (Tma)
+PRODUCT-TYPE	P
+//
+ID	gridtest_136_5
+NAME	gridtest_136_5
+STARTBASE	270003
+ENDBASE	270356
+PRODUCT	COG0347 # E Amino acid transport metabolism Function: Nitrogen regulatory protein PII Organism: Caulobacter vibrioides (Ccr)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_2
+NAME	gridtest_131_2
+STARTBASE	277467
+ENDBASE	279320
+PRODUCT	COG1274 # C Energy production conversion Function: Phosphoenolpyruvate carboxykinase (GTP) Organism: Mycobacterium tuberculosis H37Rv (Mtu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_3
+NAME	gridtest_131_3
+STARTBASE	279402
+ENDBASE	279614
+PRODUCT	COG3360 # S Function unknown Function: Uncharacterized conserved protein Organism: Sinorhizobium meliloti (Sme)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_4
+NAME	gridtest_131_4
+STARTBASE	279725
+ENDBASE	280609
+PRODUCT	COG4279 # S Function unknown Function: Uncharacterized conserved protein Organism: Methanosarcina acetivorans str.C2A (Mac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_5
+NAME	gridtest_131_5
+STARTBASE	280616
+ENDBASE	283645
+PRODUCT	COG0553 # KL Function: Superfamily II DNA/RNA helicases, SNF2 family Organism: Methanosarcina acetivorans str.C2A (Mac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_21
+NAME	gridtest_131_21
+STARTBASE	301152
+ENDBASE	302540
+PRODUCT	COG0161 # H Coenzyme transport metabolism Function: Adenosylmethionine-8-amino-7-oxononanoate aminotransferase Organism: Mesorhizobium loti (Mlo)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_23
+NAME	gridtest_131_23
+STARTBASE	303171
+ENDBASE	304478
+PRODUCT	Protein MET17 OS Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN PE 1 SV 3 # UNIPROT P06106 ACSERLY-RXN MetaCyc:MONOMER-387 2.5.1.47
+PRODUCT-TYPE	P
+EC	2.5.1.47
+//
+ID	gridtest_131_26
+NAME	gridtest_131_26
+STARTBASE	306459
+ENDBASE	306905
+PRODUCT	NULL # S Function unknown Function: Uncharacterized protein containing LysM domain Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_31
+NAME	gridtest_131_31
+STARTBASE	309635
+ENDBASE	310708
+PRODUCT	COG0216 # J Translation, ribosomal structure biogenesis Function: Protein chain release factor A Organism: Staphylococcus aureus N315 (Sau)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_33
+NAME	gridtest_131_33
+STARTBASE	312168
+ENDBASE	313316
+PRODUCT	1-deoxy-D-xylulose 5-phosphate reductoisomerase OS Geobacter lovleyi (strain ATCC BAA-1151 / DSM 17278 SZ) GN dxr PE 3 SV 1 # UNIPROT B3E7B0 DXPREDISOM-RXN 1.1.1.267
+PRODUCT-TYPE	P
+EC	1.1.1.267
+//
+ID	gridtest_131_36
+NAME	gridtest_131_36
+STARTBASE	314000
+ENDBASE	316105
+PRODUCT	COG0465 # O Posttranslational modification, protein turnover, chaperones Function: ATP-dependent Zn proteases Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_37
+NAME	gridtest_131_37
+STARTBASE	316361
+ENDBASE	317197
+PRODUCT	Orotidine 5'-phosphate decarboxylase OS Parabacteroides distasonis (strain ATCC 8503 / DSM 20701 NCTC 11152) GN pyrF PE 3 SV 1 # UNIPROT A6LDS0 OROTPDECARB-RXN 4.1.1.23
+PRODUCT-TYPE	P
+EC	4.1.1.23
+//
+ID	gridtest_131_38
+NAME	gridtest_131_38
+STARTBASE	317315
+ENDBASE	319159
+PRODUCT	Glucosamine--fructose-6-phosphate aminotransferase OS Methanosarcina acetivorans (strain ATCC 35395 / DSM 2834 JCM 12185 C2A) GN glmS PE 3 SV # UNIPROT Q8TLL3 L-GLN-FRUCT-6-P-AMINOTRANS-RXN MACE188937:MA3023-MONOMER 2.6.1.16
+PRODUCT-TYPE	P
+EC	2.6.1.16
+//
+ID	gridtest_131_39
+NAME	gridtest_131_39
+STARTBASE	319336
+ENDBASE	320277
+PRODUCT	COG1090 # R General function prediction only Function: Predicted nucleoside-diphosphate sugar epimerase Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_41
+NAME	gridtest_131_41
+STARTBASE	320883
+ENDBASE	321155
+PRODUCT	COG0724 # R General function prediction only Function: RNA-binding proteins (RRM domain) Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_42
+NAME	gridtest_131_42
+STARTBASE	321592
+ENDBASE	322923
+PRODUCT	COG0004 # P Inorganic ion transport metabolism Function: Ammonia permease Organism: Neisseria meningitidis Z2491 (NmA)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_43
+NAME	gridtest_131_43
+STARTBASE	322933
+ENDBASE	323274
+PRODUCT	COG0347 # E Amino acid transport metabolism Function: Nitrogen regulatory protein PII Organism: Mycobacterium tuberculosis H37Rv (Mtu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_49
+NAME	gridtest_131_49
+STARTBASE	327582
+ENDBASE	327905
+PRODUCT	COG2944 # K Transcription Function: Predicted transcriptional regulator Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_50
+NAME	gridtest_131_50
+STARTBASE	327898
+ENDBASE	328272
+PRODUCT	COG4737 # S Function unknown Function: Uncharacterized protein conserved bacteria Organism: Neisseria meningitidis Z2491 (NmA)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_54
+NAME	gridtest_131_54
+STARTBASE	330049
+ENDBASE	332535
+PRODUCT	COG0188 # L Replication, recombination repair Function: Type IIA topoisomerase (DNA gyrase/topo II, IV), A subunit Organism: Methanosarcina acetivorans str.C2A (Mac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_131_56
+NAME	gridtest_131_56
+STARTBASE	332852
+ENDBASE	334549
+PRODUCT	CTP synthase OS Coprothermobacter proteolyticus (strain ATCC 35245 / DSM 5265 BT) GN pyrG PE 3 SV 1 # UNIPROT B5Y8A3 CTPSYN-RXN 6.3.4.2
+PRODUCT-TYPE	P
+EC	6.3.4.2
+//
+ID	gridtest_131_tRNA
+NAME	gridtest_131_tRNA
+STARTBASE	336713
+ENDBASE	336785
+PRODUCT	tRNA-Ala
+PRODUCT-TYPE	P
+//
+ID	gridtest_130_2
+NAME	gridtest_130_2
+STARTBASE	343471
+ENDBASE	344109
+PRODUCT	BluB OS Rhizobium meliloti GN bluB PE 1 SV # UNIPROT Q92PC8 RXN-8771 SMEL266834:SMC00166-MONOMER 1.14.99.40
+PRODUCT-TYPE	P
+EC	1.14.99.40
+//
+ID	gridtest_130_3
+NAME	gridtest_130_3
+STARTBASE	344103
+ENDBASE	345617
+PRODUCT	Adenosylcobyric acid synthase (Glutamine-hydrolysing) OS Geobacter uraniireducens (strain Rf4) GN PE 3 SV 1 # UNIPROT A5GDT2 R345-RXN 6.3.5.10
+PRODUCT-TYPE	P
+EC	6.3.5.10
+//
+ID	gridtest_130_6
+NAME	gridtest_130_6
+STARTBASE	347758
+ENDBASE	348285
+PRODUCT	Cob(I)yrinic acid a,c-diamide adenosyltransferase OS Pseudomonas aeruginosa GN cobO PE 3 SV 1 # UNIPROT Q9I472 R344-RXN PAER208964:PA1272-MONOMER 2.5.1.17
+PRODUCT-TYPE	P
+EC	2.5.1.17
+//
+ID	gridtest_133_3
+NAME	gridtest_133_3
+STARTBASE	361404
+ENDBASE	364031
+PRODUCT	COG0249 # L Replication, recombination repair Function: Mismatch ATPase (MutS family) Organism: Methanosarcina acetivorans str.C2A (Mac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_133_5
+NAME	gridtest_133_5
+STARTBASE	364681
+ENDBASE	364935
+PRODUCT	COG0211 # J Translation, ribosomal structure biogenesis Function: Ribosomal protein L27 Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_133_6
+NAME	gridtest_133_6
+STARTBASE	365083
+ENDBASE	366015
+PRODUCT	Malate dehydrogenase OS Thermoplasma acidophilum (strain ATCC 25905 / DSM 1728 JCM 9062 NBRC 15155 AMRC-C165) GN mdh PE 3 SV 1 # UNIPROT Q9HJL5 MALATE-DEH-RXN TACI273075:TA0952-MONOMER 1.1.1.37
+PRODUCT-TYPE	P
+EC	1.1.1.37
+//
+ID	gridtest_133_9
+NAME	gridtest_133_9
+STARTBASE	368467
+ENDBASE	369342
+PRODUCT	B-alanine synthase OS Brevibacillus agri GN pydC PE 4 SV 1 # UNIPROT Q846U4 RXN-11210 MetaCyc:MONOMER-15400 3.5.1.6 NIL
+PRODUCT-TYPE	P
+EC	3.5.1.6
+//
+ID	gridtest_132_0
+NAME	gridtest_132_0
+STARTBASE	385922
+ENDBASE	387748
+PRODUCT	COG1217 # T Signal transduction mechanisms Function: Predicted membrane GTPase involved stress response Organism: Neisseria meningitidis MC58 (Nme)
+PRODUCT-TYPE	P
+//
+ID	gridtest_132_2
+NAME	gridtest_132_2
+STARTBASE	388781
+ENDBASE	389869
+PRODUCT	COG3335 # L Replication, recombination repair Function: Transposase inactivated derivatives Organism: Ralstonia solanacearum (Rso)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_4
+NAME	gridtest_129_4
+STARTBASE	392709
+ENDBASE	392993
+PRODUCT	COG5304 # S Function unknown Function: Uncharacterized protein conserved bacteria Organism: Rickettsia conorii (Rco)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_8
+NAME	gridtest_129_8
+STARTBASE	394242
+ENDBASE	395525
+PRODUCT	NULL # R General function prediction only Function: Bacteriophage tail assembly protein Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_10
+NAME	gridtest_129_10
+STARTBASE	397490
+ENDBASE	397969
+PRODUCT	Phosphoribosylaminoimidazole carboxylase OS Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN ADE2 PE 1 SV # UNIPROT P21264 AIRCARBOXY-RXN MetaCyc:MONOMER-487 4.1.1.21
+PRODUCT-TYPE	P
+EC	4.1.1.21
+//
+ID	gridtest_129_11
+NAME	gridtest_129_11
+STARTBASE	397956
+ENDBASE	398456
+PRODUCT	COG3542 # S Function unknown Function: Uncharacterized conserved protein Organism: Ralstonia solanacearum (Rso)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_13
+NAME	gridtest_129_13
+STARTBASE	403232
+ENDBASE	404527
+PRODUCT	COG1252 # C Energy production conversion Function: NADH dehydrogenase, FAD-containing subunit Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_15
+NAME	gridtest_129_15
+STARTBASE	404810
+ENDBASE	406012
+PRODUCT	Acetylornithine aminotransferase OS Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 JAL-1 JCM 10045 NBRC 100440) GN argD PE 3 SV 1 # UNIPROT Q58131 ACETYLORNTRANSAM-RXN 2.6.1.11
+PRODUCT-TYPE	P
+EC	2.6.1.11
+//
+ID	gridtest_129_22
+NAME	gridtest_129_22
+STARTBASE	411232
+ENDBASE	412545
+PRODUCT	Serine hydroxymethyltransferase 2 OS Sulfurimonas denitrificans (strain ATCC 33889 / DSM 1251) GN glyA2 PE 3 SV 1 # UNIPROT Q30P60 GLYOHMETRANS-RXN 2.1.2.1
+PRODUCT-TYPE	P
+EC	2.1.2.1
+//
+ID	gridtest_129_23
+NAME	gridtest_129_23
+STARTBASE	412607
+ENDBASE	413848
+PRODUCT	Riboflavin biosynthesis protein ribBA OS Synechocystis sp. (strain ATCC 27184 / PCC 6803 N-1) GN PE 3 SV 1 # UNIPROT P74104 GTP-CYCLOHYDRO-II-RXN SSP1148:SLL1894-MONOMER 4.1.99.12 3.5.4.25
+PRODUCT-TYPE	P
+EC	4.1.99.12
+//
+ID	gridtest_129_24
+NAME	gridtest_129_24
+STARTBASE	414077
+ENDBASE	415933
+PRODUCT	Carbamoyl-phosphate synthase large chain, C-terminal section OS Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 JAL-1 JCM 10045 NBRC 100440) GN carB2 PE 3 SV 1 # UNIPROT Q58776 CARBPSYN-RXN 6.3.5.5
+PRODUCT-TYPE	P
+EC	6.3.5.5
+//
+ID	gridtest_129_28
+NAME	gridtest_129_28
+STARTBASE	419709
+ENDBASE	421820
+PRODUCT	Maltodextrin phosphorylase OS Salinibacter ruber (strain DSM 13855 / M31) GN malP PE 3 SV 1 # UNIPROT Q2S6F4 MALTOSE-PHOSPHORYLASE-RXN 2.4.1.8
+PRODUCT-TYPE	P
+EC	2.4.1.8
+//
+ID	gridtest_129_29
+NAME	gridtest_129_29
+STARTBASE	421921
+ENDBASE	422865
+PRODUCT	COG0167 # F Nucleotide transport metabolism Function: Dihydroorotate dehydrogenase Organism: Lactococcus lactis (Lla)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_31
+NAME	gridtest_129_31
+STARTBASE	424197
+ENDBASE	424676
+PRODUCT	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase OS Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) GN ispF PE 3 SV 1 # UNIPROT Q1AU09 RXN0-302 4.6.1.12
+PRODUCT-TYPE	P
+EC	4.6.1.12
+//
+ID	gridtest_129_34
+NAME	gridtest_129_34
+STARTBASE	427601
+ENDBASE	428512
+PRODUCT	Branched-chain-amino-acid aminotransferase OS Pseudomonas aeruginosa GN ilvE PE 1 SV 2 # UNIPROT O86428 BRANCHED-CHAINAMINOTRANSFERLEU-RXN PAER208964:PA5013-MONOMER 2.6.1.42
+PRODUCT-TYPE	P
+EC	2.6.1.42
+//
+ID	gridtest_129_37
+NAME	gridtest_129_37
+STARTBASE	430698
+ENDBASE	431036
+PRODUCT	COG1324 # P Inorganic ion transport metabolism Function: Uncharacterized protein involved tolerance to divalent cations Organism: Rickettsia prowazekii (Rpr)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_39
+NAME	gridtest_129_39
+STARTBASE	432231
+ENDBASE	433286
+PRODUCT	Anthranilate phosphoribosyltransferase OS Pelotomaculum thermopropionicum (strain DSM 13744 / JCM 10971 SI) GN trpD PE 3 SV 1 # UNIPROT A5D1S5 PRTRANS-RXN 2.4.2.18
+PRODUCT-TYPE	P
+EC	2.4.2.18
+//
+ID	gridtest_129_50
+NAME	gridtest_129_50
+STARTBASE	441970
+ENDBASE	443307
+PRODUCT	Probable glycine dehydrogenase subunit 1 OS Thermomicrobium roseum (strain ATCC 27502 / DSM 5159 P-2) GN gcvPA PE 3 SV # UNIPROT B9KZ42 GCVP-RXN 1.4.4.2
+PRODUCT-TYPE	P
+EC	1.4.4.2
+//
+ID	gridtest_129_51
+NAME	gridtest_129_51
+STARTBASE	443311
+ENDBASE	443694
+PRODUCT	COG0509 # E Amino acid transport metabolism Function: Glycine cleavage system H protein (lipoate-binding) Organism: Staphylococcus aureus N315 (Sau)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_55
+NAME	gridtest_129_55
+STARTBASE	450329
+ENDBASE	451351
+PRODUCT	COG2255 # L Replication, recombination repair Function: Holliday junction resolvasome, helicase subunit Organism: Neisseria meningitidis MC58 (Nme)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_56
+NAME	gridtest_129_56
+STARTBASE	451383
+ENDBASE	452348
+PRODUCT	COG0601 # EP Function: ABC-type dipeptide/oligopeptide/nickel transport systems, permease components Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_63
+NAME	gridtest_129_63
+STARTBASE	458379
+ENDBASE	458729
+PRODUCT	COG0780 # R General function prediction only Function: Enzyme related to GTP cyclohydrolase I Organism: Thermotoga maritima (Tma)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_66
+NAME	gridtest_129_66
+STARTBASE	462595
+ENDBASE	464145
+PRODUCT	COG0606 # O Posttranslational modification, protein turnover, chaperones Function: Predicted ATPase chaperone activity Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_69
+NAME	gridtest_129_69
+STARTBASE	467452
+ENDBASE	468435
+PRODUCT	COG4608 # E Amino acid transport metabolism Function: ABC-type oligopeptide system, ATPase component Organism: Thermotoga maritima (Tma)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_70
+NAME	gridtest_129_70
+STARTBASE	468570
+ENDBASE	469304
+PRODUCT	COG0313 # R General function prediction only Function: Predicted methyltransferases Organism: Mesorhizobium loti (Mlo)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_71
+NAME	gridtest_129_71
+STARTBASE	469288
+ENDBASE	470139
+PRODUCT	Pantothenate synthetase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN panC PE 3 SV 1 # UNIPROT B3QSB4 PANTOATE-BETA-ALANINE-LIG-RXN 6.3.2.1
+PRODUCT-TYPE	P
+EC	6.3.2.1
+//
+ID	gridtest_129_72
+NAME	gridtest_129_72
+STARTBASE	470455
+ENDBASE	472650
+PRODUCT	COG1185 # J Translation, ribosomal structure biogenesis Function: Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase) Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_129_73
+NAME	gridtest_129_73
+STARTBASE	472756
+ENDBASE	475215
+PRODUCT	Leucyl-tRNA synthetase 1 OS Rhizobium leguminosarum bv. viciae (strain 3841) GN leuS1 PE 3 SV # UNIPROT Q1MFI6 LEUCINE--TRNA-LIGASE-RXN RLEG216596:RL2798-MONOMER 6.1.1.4
+PRODUCT-TYPE	P
+EC	6.1.1.4
+//
+ID	gridtest_129_74
+NAME	gridtest_129_74
+STARTBASE	475403
+ENDBASE	477406
+PRODUCT	Acetyl-coenzyme A synthetase OS Pyrobaculum arsenaticum (strain DSM 13514 / JCM 11321) GN acsA PE 3 SV 1 # UNIPROT A4WJG1 ACETATE--COA-LIGASE-RXN 6.2.1.1
+PRODUCT-TYPE	P
+EC	6.2.1.1
+//
+ID	gridtest_141_0
+NAME	gridtest_141_0
+STARTBASE	482622
+ENDBASE	483938
+PRODUCT	COG1219 # O Posttranslational modification, protein turnover, chaperones Function: ATP-dependent protease Clp, ATPase subunit Organism: Staphylococcus aureus N315 (Sau)
+PRODUCT-TYPE	P
+//
+ID	gridtest_141_8
+NAME	gridtest_141_8
+STARTBASE	494579
+ENDBASE	495757
+PRODUCT	Succinyl-CoA ligase subunit beta OS Flavobacterium psychrophilum (strain JIP02/86 / ATCC 49511) GN sucC PE 3 SV 1 # UNIPROT A6GY30 SUCCCOASYN-RXN 6.2.1.5
+PRODUCT-TYPE	P
+EC	6.2.1.5
+//
+ID	gridtest_141_tRNA
+NAME	gridtest_141_tRNA
+STARTBASE	482552
+ENDBASE	482479
+PRODUCT	tRNA-Val
+PRODUCT-TYPE	P
+//
+ID	gridtest_143_0
+NAME	gridtest_143_0
+STARTBASE	504391
+ENDBASE	506961
+PRODUCT	Aconitate hydratase 2 OS Pseudomonas aeruginosa GN acnB PE 3 SV 1 # UNIPROT Q9I2V5 ACONITATEHYDR-RXN PAER208964:PA1787-MONOMER 4.2.1.99 4.2.1.3
+PRODUCT-TYPE	P
+EC	4.2.1.99
+//
+ID	gridtest_143_3
+NAME	gridtest_143_3
+STARTBASE	509010
+ENDBASE	510281
+PRODUCT	UDP-N-acetylglucosamine 1-carboxyvinyltransferase OS Rhodospirillum centenum (strain ATCC 51521 / SW) GN murA PE 3 SV 1 # UNIPROT B6INF7 UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN 2.5.1.7
+PRODUCT-TYPE	P
+EC	2.5.1.7
+//
+ID	gridtest_143_5
+NAME	gridtest_143_5
+STARTBASE	511997
+ENDBASE	512881
+PRODUCT	NH(3)-dependent NAD(+) synthetase OS Geobacter lovleyi (strain ATCC BAA-1151 / DSM 17278 SZ) GN nadE PE 3 SV 1 # UNIPROT B3E4K8 NAD-SYNTH-NH3-RXN 6.3.1.5
+PRODUCT-TYPE	P
+EC	6.3.1.5
+//
+ID	gridtest_143_6
+NAME	gridtest_143_6
+STARTBASE	513038
+ENDBASE	514633
+PRODUCT	L-aspartate oxidase OS Escherichia coli O157:H7 GN nadB PE 3 SV 1 # UNIPROT Q8XA23 L-ASPARTATE-OXID-RXN ECOL83334:ECS3440-MONOMER 1.4.3.16
+PRODUCT-TYPE	P
+EC	1.4.3.16
+//
+ID	gridtest_143_7
+NAME	gridtest_143_7
+STARTBASE	514734
+ENDBASE	515351
+PRODUCT	COG0586 # S Function unknown Function: Uncharacterized membrane-associated protein Organism: Neisseria meningitidis MC58 (Nme)
+PRODUCT-TYPE	P
+//
+ID	gridtest_143_8
+NAME	gridtest_143_8
+STARTBASE	515519
+ENDBASE	516025
+PRODUCT	Pyruvoyl-dependent arginine decarboxylase 2 OS Methanosarcina mazei (strain ATCC BAA-159 / DSM 3647 Goe1 Go1 JCM 11833 OCM 88) GN pdaD2 PE 3 SV 1 # UNIPROT P58890 ARGDECARBOX-RXN MMAZ192952:MM2595-MONOMER 4.1.1.19
+PRODUCT-TYPE	P
+EC	4.1.1.19
+//
+ID	gridtest_143_9
+NAME	gridtest_143_9
+STARTBASE	516145
+ENDBASE	517365
+PRODUCT	Tyrosyl-tRNA synthetase 2 OS Bacillus licheniformis (strain DSM 13 / ATCC 14580) GN tyrS2 PE 3 SV 1 # UNIPROT Q65MW0 TYROSINE--TRNA-LIGASE-RXN BLIC279010:BL00484-MONOMER 6.1.1.1
+PRODUCT-TYPE	P
+EC	6.1.1.1
+//
+ID	gridtest_143_10
+NAME	gridtest_143_10
+STARTBASE	517384
+ENDBASE	517857
+PRODUCT	COG0691 # O Posttranslational modification, protein turnover, chaperones Function: tmRNA-binding Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_143_16
+NAME	gridtest_143_16
+STARTBASE	523405
+ENDBASE	524376
+PRODUCT	Quinolinate synthase A 2 OS Methanosarcina acetivorans (strain ATCC 35395 / DSM 2834 JCM 12185 C2A) GN nadA2 PE 3 SV 1 # UNIPROT Q8TME2 QUINOLINATE-SYNTHA-RXN MACE188937:MA2716-MONOMER 2.5.1.72
+PRODUCT-TYPE	P
+EC	2.5.1.72
+//
+ID	gridtest_143_20
+NAME	gridtest_143_20
+STARTBASE	527399
+ENDBASE	528865
+PRODUCT	COG2195 # E Amino acid transport metabolism Function: Di- tripeptidases Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_143_21
+NAME	gridtest_143_21
+STARTBASE	529091
+ENDBASE	529357
+PRODUCT	COG4675 # S Function unknown Function: Microcystin-dependent protein Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_143_23
+NAME	gridtest_143_23
+STARTBASE	530021
+ENDBASE	533461
+PRODUCT	COG0209 # F Nucleotide transport metabolism Function: Ribonucleotide reductase, alpha subunit Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_143_26
+NAME	gridtest_143_26
+STARTBASE	534725
+ENDBASE	535093
+PRODUCT	NULL # J Translation, ribosomal structure biogenesis Function: tRNA rRNA cytosine-C5-methylases Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_143_tRNA
+NAME	gridtest_143_tRNA
+STARTBASE	507561
+ENDBASE	507489
+PRODUCT	tRNA-Gln
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_12
+NAME	gridtest_144_12
+STARTBASE	548433
+ENDBASE	549395
+PRODUCT	COG0715 # P Inorganic ion transport metabolism Function: ABC-type nitrate/sulfonate/bicarbonate systems, periplasmic components Organism: Pseudomonas aeruginosa (Pae)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_13
+NAME	gridtest_144_13
+STARTBASE	549497
+ENDBASE	550072
+PRODUCT	COG1961 # L Replication, recombination repair Function: Site-specific recombinases, DNA invertase Pin homologs Organism: Pseudomonas aeruginosa (Pae)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_23
+NAME	gridtest_144_23
+STARTBASE	558940
+ENDBASE	559542
+PRODUCT	Phosphoribosylglycinamide formyltransferase, chloroplastic OS Vigna unguiculata GN PUR3 PE 2 SV # UNIPROT P52423 GART-RXN 2.1.2.2
+PRODUCT-TYPE	P
+EC	2.1.2.2
+//
+ID	gridtest_144_25
+NAME	gridtest_144_25
+STARTBASE	560490
+ENDBASE	561482
+PRODUCT	COG0463 # M Cell wall/membrane/envelope biogenesis Function: Glycosyltransferases involved cell wall Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_26
+NAME	gridtest_144_26
+STARTBASE	561609
+ENDBASE	562529
+PRODUCT	COG0648 # L Replication, recombination repair Function: Endonuclease IV Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_29
+NAME	gridtest_144_29
+STARTBASE	564787
+ENDBASE	566280
+PRODUCT	COG0034 # F Nucleotide transport metabolism Function: Glutamine phosphoribosylpyrophosphate amidotransferase Organism: Caulobacter vibrioides (Ccr)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_31
+NAME	gridtest_144_31
+STARTBASE	566886
+ENDBASE	570143
+PRODUCT	Isoleucyl-tRNA synthetase OS Thermus thermophilus (strain HB27 / ATCC BAA-163 DSM 7039) GN ileS PE 3 SV 2 # UNIPROT Q72JR6 ISOLEUCINE--TRNA-LIGASE-RXN 6.1.1.5
+PRODUCT-TYPE	P
+EC	6.1.1.5
+//
+ID	gridtest_144_33
+NAME	gridtest_144_33
+STARTBASE	570797
+ENDBASE	572212
+PRODUCT	Alginate biosynthesis protein AlgA OS Pseudomonas putida (strain KT2440) GN algA PE 3 SV 1 # UNIPROT Q88ND5 MANNPISOM-RXN 2.7.7.13 5.3.1.8
+PRODUCT-TYPE	P
+EC	2.7.7.13
+//
+ID	gridtest_144_34
+NAME	gridtest_144_34
+STARTBASE	572231
+ENDBASE	573211
+PRODUCT	UDP-glucose 4-epimerase OS Corynebacterium glutamicum GN galE PE 3 SV 2 # UNIPROT Q45291 UDPGLUCEPIM-RXN CGLU196627:CG2104-MONOMER 5.1.3.2
+PRODUCT-TYPE	P
+EC	5.1.3.2
+//
+ID	gridtest_144_35
+NAME	gridtest_144_35
+STARTBASE	573245
+ENDBASE	574294
+PRODUCT	dTDP-glucose 4,6-dehydratase 1 OS Escherichia coli (strain K12) GN rfbB PE 3 SV 2 # UNIPROT P37759 DTDPGLUCDEHYDRAT-RXN MetaCyc:DTDPGLUCDEHYDRAT-MONOMER 4.2.1.46
+PRODUCT-TYPE	P
+EC	4.2.1.46
+//
+ID	gridtest_144_36
+NAME	gridtest_144_36
+STARTBASE	574321
+ENDBASE	575193
+PRODUCT	COG1091 # M Cell wall/membrane/envelope biogenesis Function: dTDP-4-dehydrorhamnose reductase Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_41
+NAME	gridtest_144_41
+STARTBASE	578537
+ENDBASE	579418
+PRODUCT	COG1830 # G Carbohydrate transport metabolism Function: DhnA-type fructose-1,6-bisphosphate aldolase related enzymes Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_46
+NAME	gridtest_144_46
+STARTBASE	583248
+ENDBASE	583967
+PRODUCT	Uridylate kinase OS Synechocystis sp. (strain ATCC 27184 / PCC 6803 N-1) GN pyrH PE 3 SV 1 # UNIPROT P74457 2.7.4.22-RXN SSP1148:SLL0144-MONOMER 2.7.4.22
+PRODUCT-TYPE	P
+EC	2.7.4.22
+//
+ID	gridtest_144_47
+NAME	gridtest_144_47
+STARTBASE	584056
+ENDBASE	584922
+PRODUCT	COG0264 # J Translation, ribosomal structure biogenesis Function: Translation elongation factor Ts Organism: Aquifex aeolicus (Aae)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_48
+NAME	gridtest_144_48
+STARTBASE	584958
+ENDBASE	585713
+PRODUCT	COG0052 # J Translation, ribosomal structure biogenesis Function: Ribosomal protein S2 Organism: Staphylococcus aureus N315 (Sau)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_49
+NAME	gridtest_144_49
+STARTBASE	585881
+ENDBASE	586270
+PRODUCT	COG0103 # J Translation, ribosomal structure biogenesis Function: Ribosomal protein S9 Organism: Neisseria meningitidis MC58 (Nme)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_50
+NAME	gridtest_144_50
+STARTBASE	586288
+ENDBASE	586737
+PRODUCT	COG0102 # J Translation, ribosomal structure biogenesis Function: Ribosomal protein L13 Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_51
+NAME	gridtest_144_51
+STARTBASE	586889
+ENDBASE	588202
+PRODUCT	COG1160 # R General function prediction only Function: Predicted GTPases Organism: Staphylococcus aureus N315 (Sau)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_52
+NAME	gridtest_144_52
+STARTBASE	588277
+ENDBASE	589383
+PRODUCT	COG0489 # D Cell cycle control, cell division, chromosome partitioning Function: ATPases involved Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_53
+NAME	gridtest_144_53
+STARTBASE	589500
+ENDBASE	589760
+PRODUCT	COG0694 # O Posttranslational modification, protein turnover, chaperones Function: Thioredoxin-like proteins domains Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_144_55
+NAME	gridtest_144_55
+STARTBASE	592385
+ENDBASE	593482
+PRODUCT	Aminomethyltransferase OS Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785) GN gcvT PE 3 SV 1 # UNIPROT A9B2Q5 GCVT-RXN 2.1.2.10
+PRODUCT-TYPE	P
+EC	2.1.2.10
+//
+ID	gridtest_144_tRNA
+NAME	gridtest_144_tRNA
+STARTBASE	563853
+ENDBASE	563925
+PRODUCT	tRNA-Ala
+PRODUCT-TYPE	P
+//
+ID	gridtest_145_7
+NAME	gridtest_145_7
+STARTBASE	598815
+ENDBASE	600914
+PRODUCT	COG1523 # G Carbohydrate transport metabolism Function: Type II secretory pathway, pullulanase PulA related glycosidases Organism: Methanosarcina acetivorans str.C2A (Mac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_145_8
+NAME	gridtest_145_8
+STARTBASE	600918
+ENDBASE	603086
+PRODUCT	NULL # R General function prediction only Function: Putative intracellular protease/amidase Organism: Synechocystis (Syn)
+PRODUCT-TYPE	P
+//
+ID	gridtest_147_3
+NAME	gridtest_147_3
+STARTBASE	630423
+ENDBASE	630962
+PRODUCT	Cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG OS Oryza sativa subsp. japonica GN PE 1 SV # UNIPROT Q5ZC82 RXN-4314 MetaCyc:MONOMER-15646 NIL
+PRODUCT-TYPE	P
+//
+ID	gridtest_147_tRNA
+NAME	gridtest_147_tRNA
+STARTBASE	633362
+ENDBASE	633435
+PRODUCT	tRNA-Val
+PRODUCT-TYPE	P
+//
+ID	gridtest_149_13
+NAME	gridtest_149_13
+STARTBASE	649936
+ENDBASE	650817
+PRODUCT	COG1830 # G Carbohydrate transport metabolism Function: DhnA-type fructose-1,6-bisphosphate aldolase related enzymes Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_38_tRNA
+NAME	gridtest_38_tRNA
+STARTBASE	659686
+ENDBASE	659613
+PRODUCT	tRNA-Cys
+PRODUCT-TYPE	P
+//
+ID	gridtest_36_20
+NAME	gridtest_36_20
+STARTBASE	687288
+ENDBASE	687905
+PRODUCT	COG0164 # L Replication, recombination repair Function: Ribonuclease HII Organism: Neisseria meningitidis Z2491 (NmA)
+PRODUCT-TYPE	P
+//
+ID	gridtest_36_26
+NAME	gridtest_36_26
+STARTBASE	694511
+ENDBASE	695980
+PRODUCT	Glycyl-tRNA synthetase OS Thermus thermophilus (strain HB8 / ATCC 27634 DSM 579) GN glyQS PE 1 SV 3 # UNIPROT P56206 GLYCINE--TRNA-LIGASE-RXN TTHE300852:TTHA0543-MONOMER 6.1.1.14
+PRODUCT-TYPE	P
+EC	6.1.1.14
+//
+ID	gridtest_36_30
+NAME	gridtest_36_30
+STARTBASE	697863
+ENDBASE	699251
+PRODUCT	ATP synthase subunit beta OS Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) GN atpD PE 3 SV 2 # UNIPROT Q1AVH9 ATPSYN-RXN 3.6.3.14
+PRODUCT-TYPE	P
+EC	3.6.3.14
+//
+ID	gridtest_36_tRNA
+NAME	gridtest_36_tRNA
+STARTBASE	699447
+ENDBASE	699375
+PRODUCT	tRNA-Thr
+PRODUCT-TYPE	P
+//
+ID	gridtest_31_1
+NAME	gridtest_31_1
+STARTBASE	699933
+ENDBASE	701426
+PRODUCT	Inosine-5'-monophosphate dehydrogenase OS Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 JAL-1 JCM 10045 NBRC 100440) GN guaB PE 3 SV 1 # UNIPROT Q59011 IMP-DEHYDROG-RXN 1.1.1.205
+PRODUCT-TYPE	P
+EC	1.1.1.205
+//
+ID	gridtest_31_2
+NAME	gridtest_31_2
+STARTBASE	701499
+ENDBASE	705329
+PRODUCT	Magnesium-chelatase subunit H OS Chlorobaculum parvum (strain NCIB 8327) GN bchH PE 3 SV 2 # UNIPROT O50314 RXN1F-20 6.6.1.1
+PRODUCT-TYPE	P
+EC	6.6.1.1
+//
+ID	gridtest_31_3
+NAME	gridtest_31_3
+STARTBASE	705467
+ENDBASE	707320
+PRODUCT	Magnesium-chelatase 67 kDa subunit OS Chlorobium tepidum GN bchD PE 3 SV 1 # UNIPROT Q93SW0 RXN1F-20 6.6.1.1
+PRODUCT-TYPE	P
+EC	6.6.1.1
+//
+ID	gridtest_31_4
+NAME	gridtest_31_4
+STARTBASE	707320
+ENDBASE	708510
+PRODUCT	Magnesium-chelatase 38 kDa subunit OS Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 SB1003) GN bchI PE 1 SV # UNIPROT P26239 RXN1F-20 6.6.1.1
+PRODUCT-TYPE	P
+EC	6.6.1.1
+//
+ID	gridtest_31_5
+NAME	gridtest_31_5
+STARTBASE	708723
+ENDBASE	710138
+PRODUCT	COG1249 # C Energy production conversion Function: Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide (E3) component, related enzymes Organism: Brucella melitensis (Bme)
+PRODUCT-TYPE	P
+//
+ID	gridtest_31_9
+NAME	gridtest_31_9
+STARTBASE	714602
+ENDBASE	716500
+PRODUCT	COG0488 # R General function prediction only Function: ATPase components ABC transporters duplicated domains Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_31_tRNA
+NAME	gridtest_31_tRNA
+STARTBASE	699722
+ENDBASE	699635
+PRODUCT	tRNA-Ser
+PRODUCT-TYPE	P
+//
+ID	gridtest_33_1
+NAME	gridtest_33_1
+STARTBASE	719378
+ENDBASE	720889
+PRODUCT	Probable cytosol aminopeptidase OS Chloroherpeton thalassium (strain ATCC 35110 / GB-78) GN pepA PE 3 SV 1 # UNIPROT B3QVE8 3.4.11.1-RXN 3.4.11.1
+PRODUCT-TYPE	P
+EC	3.4.11.1
+//
+ID	gridtest_33_4
+NAME	gridtest_33_4
+STARTBASE	722544
+ENDBASE	723878
+PRODUCT	UDP-glucose 6-dehydrogenase OS Rhizobium meliloti GN rkpK PE 3 SV 2 # UNIPROT O54068 UGD-RXN SMEL266834:SMC02641-MONOMER 1.1.1.22
+PRODUCT-TYPE	P
+EC	1.1.1.22
+//
+ID	gridtest_33_5
+NAME	gridtest_33_5
+STARTBASE	723886
+ENDBASE	724698
+PRODUCT	Bifunctional protein thiED OS Geobacter sulfurreducens GN thiDE PE 3 SV 1 # UNIPROT P61422 THI-P-SYN-RXN 2.7.1.49 2.7.4.7 2.5.1.3
+PRODUCT-TYPE	P
+EC	2.7.1.49
+//
+ID	gridtest_33_6
+NAME	gridtest_33_6
+STARTBASE	724691
+ENDBASE	725320
+PRODUCT	Thiamine-phosphate pyrophosphorylase OS Chlorobium limicola (strain DSM 245 / NBRC 103803) GN thiE PE 3 SV 1 # UNIPROT B3ED41 THI-P-SYN-RXN 2.5.1.3
+PRODUCT-TYPE	P
+EC	2.5.1.3
+//
+ID	gridtest_33_8
+NAME	gridtest_33_8
+STARTBASE	726153
+ENDBASE	726626
+PRODUCT	COG0251 # J Translation, ribosomal structure biogenesis Function: Putative translation initiation inhibitor, yjgF family Organism: Mycobacterium tuberculosis H37Rv (Mtu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_33_27
+NAME	gridtest_33_27
+STARTBASE	745877
+ENDBASE	746215
+PRODUCT	COG3093 # R General function prediction only Function: Plasmid maintenance system antidote protein Organism: Corynebacterium glutamicum (Cgl)
+PRODUCT-TYPE	P
+//
+ID	gridtest_33_37
+NAME	gridtest_33_37
+STARTBASE	757914
+ENDBASE	759641
+PRODUCT	COG4618 # R General function prediction only Function: ABC-type protease/lipase transport system, ATPase permease components Organism: Caulobacter vibrioides (Ccr)
+PRODUCT-TYPE	P
+//
+ID	gridtest_33_38
+NAME	gridtest_33_38
+STARTBASE	759683
+ENDBASE	761395
+PRODUCT	COG4618 # R General function prediction only Function: ABC-type protease/lipase transport system, ATPase permease components Organism: Caulobacter vibrioides (Ccr)
+PRODUCT-TYPE	P
+//
+ID	gridtest_33_42
+NAME	gridtest_33_42
+STARTBASE	764405
+ENDBASE	765358
+PRODUCT	Cysteine synthase OS Streptococcus pyogenes serotype M6 GN cysK PE 1 SV 3 # UNIPROT Q5XAQ3 ACSERLY-RXN 2.5.1.47
+PRODUCT-TYPE	P
+EC	2.5.1.47
+//
+ID	gridtest_33_tRNA
+NAME	gridtest_33_tRNA
+STARTBASE	744341
+ENDBASE	744271
+PRODUCT	tRNA-Cys
+PRODUCT-TYPE	P
+//
+ID	gridtest_153_0
+NAME	gridtest_153_0
+STARTBASE	768236
+ENDBASE	769324
+PRODUCT	COG3335 # L Replication, recombination repair Function: Transposase inactivated derivatives Organism: Ralstonia solanacearum (Rso)
+PRODUCT-TYPE	P
+//
+ID	gridtest_157_5
+NAME	gridtest_157_5
+STARTBASE	785137
+ENDBASE	785751
+PRODUCT	COG0353 # L Replication, recombination repair Function: Recombinational DNA protein (RecF pathway) Organism: Staphylococcus aureus N315 (Sau)
+PRODUCT-TYPE	P
+//
+ID	gridtest_157_7
+NAME	gridtest_157_7
+STARTBASE	786232
+ENDBASE	787215
+PRODUCT	Putative transketolase C-terminal section OS Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 JAL-1 JCM 10045 NBRC 100440) GN MJ0679 PE 5 SV 1 # UNIPROT Q58092 1TRANSKETO-RXN 2.2.1.1
+PRODUCT-TYPE	P
+EC	2.2.1.1
+//
+ID	gridtest_157_9
+NAME	gridtest_157_9
+STARTBASE	788299
+ENDBASE	790221
+PRODUCT	Acyl-CoA synthetase short-chain family member B, mitochondrial OS Dictyostelium discoideum GN aslB PE 3 SV 1 # UNIPROT Q554Z5 ACETATE--COA-LIGASE-RXN 6.2.1.1
+PRODUCT-TYPE	P
+EC	6.2.1.1
+//
+ID	gridtest_157_10
+NAME	gridtest_157_10
+STARTBASE	790218
+ENDBASE	790625
+PRODUCT	COG0346 # E Amino acid transport metabolism Function: Lactoylglutathione lyase related lyases Organism: Bacillus halodurans (Bha)
+PRODUCT-TYPE	P
+//
+ID	gridtest_157_13
+NAME	gridtest_157_13
+STARTBASE	794279
+ENDBASE	796420
+PRODUCT	Probable methylmalonyl-CoA mutase large subunit OS Mycobacterium tuberculosis GN mutB PE 3 SV 1 # UNIPROT P65487 METHYLMALONYL-COA-MUT-RXN 5.4.99.2
+PRODUCT-TYPE	P
+EC	5.4.99.2
+//
+ID	gridtest_157_14
+NAME	gridtest_157_14
+STARTBASE	796420
+ENDBASE	797436
+PRODUCT	COG1703 # E Amino acid transport metabolism Function: Putative periplasmic protein kinase ArgK related GTPases G3E family Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_157_17
+NAME	gridtest_157_17
+STARTBASE	799025
+ENDBASE	799795
+PRODUCT	COG0330 # O Posttranslational modification, protein turnover, chaperones Function: Membrane protease subunits, stomatin/prohibitin homologs Organism: Sinorhizobium meliloti (Sme)
+PRODUCT-TYPE	P
+//
+ID	gridtest_157_tRNA
+NAME	gridtest_157_tRNA
+STARTBASE	783249
+ENDBASE	783177
+PRODUCT	tRNA-Pro
+PRODUCT-TYPE	P
+//
+ID	gridtest_156_0
+NAME	gridtest_156_0
+STARTBASE	805777
+ENDBASE	807000
+PRODUCT	COG0003 # P Inorganic ion transport metabolism Function: Oxyanion-translocating ATPase Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_156_3
+NAME	gridtest_156_3
+STARTBASE	808714
+ENDBASE	809001
+PRODUCT	COG0596 # R General function prediction only Function: Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) Organism: Vibrio cholerae (Vch)
+PRODUCT-TYPE	P
+//
+ID	gridtest_154_0
+NAME	gridtest_154_0
+STARTBASE	816176
+ENDBASE	817264
+PRODUCT	COG3335 # L Replication, recombination repair Function: Transposase inactivated derivatives Organism: Ralstonia solanacearum (Rso)
+PRODUCT-TYPE	P
+//
+ID	gridtest_159_4
+NAME	gridtest_159_4
+STARTBASE	824099
+ENDBASE	824920
+PRODUCT	COG3550 # R General function prediction only Function: Uncharacterized protein related to capsule biosynthesis enzymes Organism: Mesorhizobium loti (Mlo)
+PRODUCT-TYPE	P
+//
+ID	gridtest_128_9
+NAME	gridtest_128_9
+STARTBASE	835378
+ENDBASE	836175
+PRODUCT	Acyl---UDP-N-acetylglucosamine O-acyltransferase OS Geobacter lovleyi (strain ATCC BAA-1151 / DSM 17278 SZ) GN lpxA PE 3 SV 1 # UNIPROT B3E4H5 UDPNACETYLGLUCOSAMACYLTRANS-RXN 2.3.1.129
+PRODUCT-TYPE	P
+EC	2.3.1.129
+//
+ID	gridtest_128_13
+NAME	gridtest_128_13
+STARTBASE	840608
+ENDBASE	842080
+PRODUCT	Glycogen synthase OS Prosthecochloris aestuarii (strain DSM 271 / SK 413) GN glgA PE 3 SV 1 # UNIPROT B4S584 GLYCOGENSYN-RXN 2.4.1.21
+PRODUCT-TYPE	P
+EC	2.4.1.21
+//
+ID	gridtest_128_tRNA
+NAME	gridtest_128_tRNA
+STARTBASE	848014
+ENDBASE	847942
+PRODUCT	tRNA-Ala
+PRODUCT-TYPE	P
+//
+ID	gridtest_23_4
+NAME	gridtest_23_4
+STARTBASE	854468
+ENDBASE	855451
+PRODUCT	Ribose-phosphate pyrophosphokinase 2, chloroplastic OS Oryza sativa subsp. japonica GN Os06g0617800 PE 2 SV # UNIPROT Q69XQ6 PRPPSYN-RXN 2.7.6.1
+PRODUCT-TYPE	P
+EC	2.7.6.1
+//
+ID	gridtest_23_12
+NAME	gridtest_23_12
+STARTBASE	861529
+ENDBASE	862398
+PRODUCT	5,10-methylenetetrahydrofolate reductase OS Aquifex aeolicus GN metF PE 3 SV 1 # UNIPROT O67422 1.5.1.20-RXN 1.5.1.20
+PRODUCT-TYPE	P
+EC	1.5.1.20
+//
+ID	gridtest_23_13
+NAME	gridtest_23_13
+STARTBASE	862430
+ENDBASE	863683
+PRODUCT	Diaminopimelate decarboxylase OS Vibrio cholerae GN lysA PE 1 SV # UNIPROT Q9KVL7 DIAMINOPIMDECARB-RXN 4.1.1.20
+PRODUCT-TYPE	P
+EC	4.1.1.20
+//
+ID	gridtest_23_19
+NAME	gridtest_23_19
+STARTBASE	867655
+ENDBASE	868107
+PRODUCT	COG2885 # M Cell wall/membrane/envelope biogenesis Function: Outer membrane protein related peptidoglycan-associated (lipo)proteins Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_23_tRNA
+NAME	gridtest_23_tRNA
+STARTBASE	864126
+ENDBASE	864207
+PRODUCT	tRNA-Leu
+PRODUCT-TYPE	P
+//
+ID	gridtest_28_2
+NAME	gridtest_28_2
+STARTBASE	893717
+ENDBASE	894568
+PRODUCT	COG0682 # M Cell wall/membrane/envelope biogenesis Function: Prolipoprotein diacylglyceryltransferase Organism: Campylobacter jejuni (Cje)
+PRODUCT-TYPE	P
+//
+ID	gridtest_29_tRNA
+NAME	gridtest_29_tRNA
+STARTBASE	899210
+ENDBASE	899296
+PRODUCT	tRNA-Ser
+PRODUCT-TYPE	P
+//
+ID	gridtest_9_1
+NAME	gridtest_9_1
+STARTBASE	901072
+ENDBASE	901398
+PRODUCT	COG2076 # P Inorganic ion transport metabolism Function: Membrane transporters cations cationic drugs Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_9_2
+NAME	gridtest_9_2
+STARTBASE	901534
+ENDBASE	902001
+PRODUCT	COG1803 # G Carbohydrate transport metabolism Function: Methylglyoxal synthase Organism: Haemophilus influenzae (Hin)
+PRODUCT-TYPE	P
+//
+ID	gridtest_0_0
+NAME	gridtest_0_0
+STARTBASE	926540
+ENDBASE	927748
+PRODUCT	COG1053 # C Energy production conversion Function: Succinate dehydrogenase/fumarate reductase, flavoprotein subunit Organism: Corynebacterium glutamicum (Cgl)
+PRODUCT-TYPE	P
+//
+ID	gridtest_0_1
+NAME	gridtest_0_1
+STARTBASE	927757
+ENDBASE	928530
+PRODUCT	COG0479 # C Energy production conversion Function: Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit Organism: Corynebacterium glutamicum (Cgl)
+PRODUCT-TYPE	P
+//
+ID	gridtest_4_3
+NAME	gridtest_4_3
+STARTBASE	934942
+ENDBASE	936339
+PRODUCT	COG2204 # T Signal transduction mechanisms Function: Response regulator containing CheY-like receiver, AAA-type ATPase, DNA-binding domains Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_4_10
+NAME	gridtest_4_10
+STARTBASE	940252
+ENDBASE	941301
+PRODUCT	Probable mannitol dehydrogenase 3 OS Stylosanthes humilis GN CAD3 PE 2 SV 1 # UNIPROT Q43138 1.1.1.255-RXN 1.1.1.255
+PRODUCT-TYPE	P
+EC	1.1.1.255
+//
+ID	gridtest_4_11
+NAME	gridtest_4_11
+STARTBASE	941641
+ENDBASE	943008
+PRODUCT	COG2204 # T Signal transduction mechanisms Function: Response regulator containing CheY-like receiver, AAA-type ATPase, DNA-binding domains Organism: Pseudomonas aeruginosa (Pae)
+PRODUCT-TYPE	P
+//
+ID	gridtest_4_14
+NAME	gridtest_4_14
+STARTBASE	945304
+ENDBASE	946974
+PRODUCT	COG2060 # P Inorganic ion transport metabolism Function: K+-transporting ATPase, A chain Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_4_15
+NAME	gridtest_4_15
+STARTBASE	946990
+ENDBASE	949095
+PRODUCT	COG2216 # P Inorganic ion transport metabolism Function: High-affinity K+ system, ATPase chain B Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_56_0
+NAME	gridtest_56_0
+STARTBASE	965249
+ENDBASE	965728
+PRODUCT	COG0596 # R General function prediction only Function: Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) Organism: Vibrio cholerae (Vch)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_2
+NAME	gridtest_55_2
+STARTBASE	969403
+ENDBASE	969993
+PRODUCT	COG1077 # D Cell cycle control, cell division, chromosome partitioning Function: Actin-like ATPase involved morphogenesis Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_3
+NAME	gridtest_55_3
+STARTBASE	970431
+ENDBASE	970883
+PRODUCT	COG1974 # KT Function: SOS-response transcriptional repressors (RecA-mediated autopeptidases) Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_4
+NAME	gridtest_55_4
+STARTBASE	970890
+ENDBASE	972170
+PRODUCT	COG0389 # L Replication, recombination repair Function: Nucleotidyltransferase/DNA polymerase involved DNA Organism: Salmonella typhimurium LT2 (Sty)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_5
+NAME	gridtest_55_5
+STARTBASE	972307
+ENDBASE	973281
+PRODUCT	NULL # S Function unknown Function: Uncharacterized protein conserved bacteria Organism: Clostridium acetobutylicum (Cac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_7
+NAME	gridtest_55_7
+STARTBASE	973802
+ENDBASE	974269
+PRODUCT	COG2193 # P Inorganic ion transport metabolism Function: Bacterioferritin (cytochrome b1) Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_8
+NAME	gridtest_55_8
+STARTBASE	974452
+ENDBASE	974817
+PRODUCT	COG0640 # K Transcription Function: Predicted transcriptional regulators Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_11
+NAME	gridtest_55_11
+STARTBASE	976749
+ENDBASE	979031
+PRODUCT	Heavy metal translocating P-type ATPase OS Brucella melitensis biotype 2 (strain ATCC 23457) GN PE 3 SV 1 # UNIPROT C0RGR8 3.1.2.21-RXN 3.1.2.21
+PRODUCT-TYPE	P
+EC	3.1.2.21
+//
+ID	gridtest_55_18
+NAME	gridtest_55_18
+STARTBASE	985162
+ENDBASE	986757
+PRODUCT	COG4108 # J Translation, ribosomal structure biogenesis Function: Peptide chain release factor RF-3 Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_19
+NAME	gridtest_55_19
+STARTBASE	986966
+ENDBASE	988300
+PRODUCT	COG1115 # E Amino acid transport metabolism Function: Na+/alanine symporter Organism: Streptococcus pyogenes M1 GAS (Spy)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_20
+NAME	gridtest_55_20
+STARTBASE	988439
+ENDBASE	988972
+PRODUCT	COG0221 # C Energy production conversion Function: Inorganic pyrophosphatase Organism: Methanopyrus kandleri AV19 (Mka)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_23
+NAME	gridtest_55_23
+STARTBASE	990146
+ENDBASE	991534
+PRODUCT	Fumarate hydratase class II OS Methanosarcina acetivorans (strain ATCC 35395 / DSM 2834 JCM 12185 C2A) GN fumC PE 3 SV 2 # UNIPROT Q8TS07 FUMHYDR-RXN MACE188937:MA1001-MONOMER 4.2.1.2
+PRODUCT-TYPE	P
+EC	4.2.1.2
+//
+ID	gridtest_55_28
+NAME	gridtest_55_28
+STARTBASE	995685
+ENDBASE	996560
+PRODUCT	COG1814 # S Function unknown Function: Uncharacterized membrane protein Organism: Thermotoga maritima (Tma)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_31
+NAME	gridtest_55_31
+STARTBASE	999145
+ENDBASE	1000677
+PRODUCT	Fumarate hydratase class I, aerobic OS Geobacillus stearothermophilus GN fumA PE 3 SV 1 # UNIPROT Q04718 FUMHYDR-RXN 4.2.1.2
+PRODUCT-TYPE	P
+EC	4.2.1.2
+//
+ID	gridtest_55_32
+NAME	gridtest_55_32
+STARTBASE	1000809
+ENDBASE	1002743
+PRODUCT	COG5016 # C Energy production conversion Function: Pyruvate/oxaloacetate carboxyltransferase Organism: Campylobacter jejuni (Cje)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_38
+NAME	gridtest_55_38
+STARTBASE	1010513
+ENDBASE	1010842
+PRODUCT	Bifunctional thioredoxin reductase/thioredoxin OS Mycobacterium leprae GN trxB/A PE 3 SV 1 # UNIPROT P46843 THIOREDOXIN-REDUCT-NADPH-RXN MLEP272631:ML2703-MONOMER 1.8.1.9
+PRODUCT-TYPE	P
+EC	1.8.1.9
+//
+ID	gridtest_55_47
+NAME	gridtest_55_47
+STARTBASE	1020077
+ENDBASE	1020679
+PRODUCT	Superoxide dismutase 1 OS Bacillus cereus (strain ATCC 14579 / DSM 31) GN sodA1 PE 3 SV # UNIPROT Q818I1 SUPEROX-DISMUT-RXN 1.15.1.1
+PRODUCT-TYPE	P
+EC	1.15.1.1
+//
+ID	gridtest_55_49
+NAME	gridtest_55_49
+STARTBASE	1021173
+ENDBASE	1021835
+PRODUCT	Dephospho-CoA kinase OS Pelodictyon luteolum (strain DSM 273) GN coaE PE 3 SV 1 # UNIPROT Q3B3J7 DEPHOSPHOCOAKIN-RXN 2.7.1.24
+PRODUCT-TYPE	P
+EC	2.7.1.24
+//
+ID	gridtest_55_57
+NAME	gridtest_55_57
+STARTBASE	1027676
+ENDBASE	1029217
+PRODUCT	COG3845 # R General function prediction only Function: ABC-type uncharacterized transport systems, ATPase components Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_59
+NAME	gridtest_55_59
+STARTBASE	1030244
+ENDBASE	1030582
+PRODUCT	COG1950 # S Function unknown Function: Predicted membrane protein Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_60
+NAME	gridtest_55_60
+STARTBASE	1030671
+ENDBASE	1032038
+PRODUCT	COG1066 # O Posttranslational modification, protein turnover, chaperones Function: Predicted ATP-dependent serine protease Organism: Neisseria meningitidis Z2491 (NmA)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_61
+NAME	gridtest_55_61
+STARTBASE	1032045
+ENDBASE	1032932
+PRODUCT	Bifunctional protein FolD OS Salinibacter ruber (strain DSM 13855 / M31) GN folD PE 3 SV 1 # UNIPROT Q2S1I0 METHYLENETHFDEHYDROG-NADP-RXN 3.5.4.9 1.5.1.5
+PRODUCT-TYPE	P
+EC	3.5.4.9
+//
+ID	gridtest_55_64
+NAME	gridtest_55_64
+STARTBASE	1035156
+ENDBASE	1035704
+PRODUCT	COG5405 # O Posttranslational modification, protein turnover, chaperones Function: ATP-dependent protease HslVU (ClpYQ), peptidase subunit Organism: Pasteurella multocida (Pmu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_65
+NAME	gridtest_55_65
+STARTBASE	1035792
+ENDBASE	1037270
+PRODUCT	COG1220 # O Posttranslational modification, protein turnover, chaperones Function: ATP-dependent protease HslVU (ClpYQ), ATPase subunit Organism: Listeria innocua (Lin)
+PRODUCT-TYPE	P
+//
+ID	gridtest_55_66
+NAME	gridtest_55_66
+STARTBASE	1037330
+ENDBASE	1037806
+PRODUCT	3-dehydroquinate dehydratase OS Clostridium botulinum (strain Langeland / NCTC 10281 Type F) GN aroQ PE 3 SV 1 # UNIPROT A7GEL0 3-DEHYDROQUINATE-DEHYDRATASE-RXN 4.2.1.10
+PRODUCT-TYPE	P
+EC	4.2.1.10
+//
+ID	gridtest_55_70
+NAME	gridtest_55_70
+STARTBASE	1041776
+ENDBASE	1042435
+PRODUCT	Adenylate kinase OS Buchnera aphidicola subsp. Acyrthosiphon pisum (strain Tuc7) GN adk PE 3 SV 1 # UNIPROT B8D813 ADENYL-KIN-RXN 2.7.4.3
+PRODUCT-TYPE	P
+EC	2.7.4.3
+//
+ID	gridtest_53_0
+NAME	gridtest_53_0
+STARTBASE	1049239
+ENDBASE	1051086
+PRODUCT	Aspartyl-tRNA synthetase OS Dictyoglomus thermophilum (strain ATCC 35947 / DSM 3960 H-6-12) GN aspS PE 3 SV 1 # UNIPROT B5YDT0 ASPARTATE--TRNA-LIGASE-RXN 6.1.1.12
+PRODUCT-TYPE	P
+EC	6.1.1.12
+//
+ID	gridtest_53_5
+NAME	gridtest_53_5
+STARTBASE	1055528
+ENDBASE	1056232
+PRODUCT	Phosphoribosylformylglycinamidine synthase 1 OS Thermomicrobium roseum (strain ATCC 27502 / DSM 5159 P-2) GN purQ PE 3 SV # UNIPROT B9KZ37 FGAMSYN-RXN 6.3.5.3
+PRODUCT-TYPE	P
+EC	6.3.5.3
+//
+ID	gridtest_53_6
+NAME	gridtest_53_6
+STARTBASE	1056248
+ENDBASE	1056502
+PRODUCT	COG1828 # F Nucleotide transport metabolism Function: Phosphoribosylformylglycinamidine (FGAM) synthase, PurS component Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_53_8
+NAME	gridtest_53_8
+STARTBASE	1057462
+ENDBASE	1058295
+PRODUCT	3-methyl-2-oxobutanoate hydroxymethyltransferase OS Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785) GN panB PE 3 SV 1 # UNIPROT A9B2U4 3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN 2.1.2.11
+PRODUCT-TYPE	P
+EC	2.1.2.11
+//
+ID	gridtest_53_11
+NAME	gridtest_53_11
+STARTBASE	1060151
+ENDBASE	1060564
+PRODUCT	COG1832 # R General function prediction only Function: Predicted CoA-binding protein Organism: Escherichia coli O157:H7 (Ecs)
+PRODUCT-TYPE	P
+//
+ID	gridtest_53_12
+NAME	gridtest_53_12
+STARTBASE	1060581
+ENDBASE	1061690
+PRODUCT	D-alanine--D-alanine ligase OS Natranaerobius thermophilus (strain ATCC BAA-1301 / DSM 18059 JW/NM-WN-LF) GN ddl PE 3 SV 1 # UNIPROT B2A2Z6 DALADALALIG-RXN 6.3.2.4
+PRODUCT-TYPE	P
+EC	6.3.2.4
+//
+ID	gridtest_53_16
+NAME	gridtest_53_16
+STARTBASE	1065134
+ENDBASE	1065799
+PRODUCT	COG1136 # V Defense mechanisms Function: ABC-type antimicrobial peptide transport system, ATPase component Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_52_2
+NAME	gridtest_52_2
+STARTBASE	1069993
+ENDBASE	1071678
+PRODUCT	COG0318 # IQ Function: Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II Organism: Bacillus halodurans (Bha)
+PRODUCT-TYPE	P
+//
+ID	gridtest_52_3
+NAME	gridtest_52_3
+STARTBASE	1071756
+ENDBASE	1073048
+PRODUCT	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase OS Haemophilus influenzae (strain ATCC 51907 / DSM 11121 KW20 Rd) GN bioA PE 3 SV 1 # UNIPROT P44426 DAPASYN-RXN 2.6.1.62
+PRODUCT-TYPE	P
+EC	2.6.1.62
+//
+ID	gridtest_52_4
+NAME	gridtest_52_4
+STARTBASE	1073090
+ENDBASE	1073770
+PRODUCT	ATP-dependent dethiobiotin synthetase BioD OS Neisseria meningitidis serogroup C (strain 053442) GN bioD PE 3 SV 1 # UNIPROT A9M388 DETHIOBIOTIN-SYN-RXN 6.3.3.3
+PRODUCT-TYPE	P
+EC	6.3.3.3
+//
+ID	gridtest_52_7
+NAME	gridtest_52_7
+STARTBASE	1075222
+ENDBASE	1076394
+PRODUCT	Putative 8-amino-7-oxononanoate synthase/2-amino-3-ketobutyrate coenzyme A ligase OS Desulfococcus oleovorans (strain DSM 6200 / Hxd3) GN PE 3 SV 1 # UNIPROT A8ZUS7 AKBLIG-RXN 2.3.1.47 2.3.1.29
+PRODUCT-TYPE	P
+EC	2.3.1.47
+//
+ID	gridtest_52_8
+NAME	gridtest_52_8
+STARTBASE	1076406
+ENDBASE	1077410
+PRODUCT	Biotin synthase OS Chlorobium phaeobacteroides (strain BS1) GN bioB PE 3 SV 1 # UNIPROT B3EPW2 2.8.1.6-RXN 2.8.1.6
+PRODUCT-TYPE	P
+EC	2.8.1.6
+//
+ID	gridtest_52_12
+NAME	gridtest_52_12
+STARTBASE	1082911
+ENDBASE	1085049
+PRODUCT	COG0370 # P Inorganic ion transport metabolism Function: Fe2+ system protein B Organism: Methanosarcina acetivorans str.C2A (Mac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_52_14
+NAME	gridtest_52_14
+STARTBASE	1085452
+ENDBASE	1085832
+PRODUCT	COG0537 # FGR Function: Diadenosine tetraphosphate (Ap4A) hydrolase other HIT family hydrolases Organism: Fusobacterium nucleatum (Fnu)
+PRODUCT-TYPE	P
+//
+ID	gridtest_52_15
+NAME	gridtest_52_15
+STARTBASE	1085838
+ENDBASE	1087211
+PRODUCT	COG1253 # R General function prediction only Function: Hemolysins related proteins containing CBS domains Organism: Nostoc sp. PCC 7120 (Nos)
+PRODUCT-TYPE	P
+//
+ID	gridtest_51_5
+NAME	gridtest_51_5
+STARTBASE	1092159
+ENDBASE	1092449
+PRODUCT	COG1343 # L Replication, recombination repair Function: Uncharacterized protein predicted to be involved DNA Organism: Streptococcus pyogenes M1 GAS (Spy)
+PRODUCT-TYPE	P
+//
+ID	gridtest_51_6
+NAME	gridtest_51_6
+STARTBASE	1092453
+ENDBASE	1093367
+PRODUCT	COG1518 # L Replication, recombination repair Function: Uncharacterized protein predicted to be involved DNA Organism: Streptococcus pyogenes M1 GAS (Spy)
+PRODUCT-TYPE	P
+//
+ID	gridtest_51_16
+NAME	gridtest_51_16
+STARTBASE	1103200
+ENDBASE	1103601
+PRODUCT	COG1487 # R General function prediction only Function: Predicted nucleic acid-binding protein, contains PIN domain Organism: Salmonella typhimurium LT2 (Sty)
+PRODUCT-TYPE	P
+//
+ID	gridtest_51_17
+NAME	gridtest_51_17
+STARTBASE	1103601
+ENDBASE	1103834
+PRODUCT	COG4456 # S Function unknown Function: Virulence-associated protein related proteins Organism: Salmonella typhimurium LT2 (Sty)
+PRODUCT-TYPE	P
+//
+ID	gridtest_51_19
+NAME	gridtest_51_19
+STARTBASE	1104134
+ENDBASE	1105351
+PRODUCT	COG1902 # C Energy production conversion Function: NADH:flavin oxidoreductases, Old Yellow Enzyme family Organism: Clostridium acetobutylicum (Cac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_51_24
+NAME	gridtest_51_24
+STARTBASE	1107378
+ENDBASE	1108055
+PRODUCT	COG0655 # R General function prediction only Function: Multimeric flavodoxin WrbA Organism: Methanosarcina acetivorans str.C2A (Mac)
+PRODUCT-TYPE	P
+//
+ID	gridtest_51_28
+NAME	gridtest_51_28
+STARTBASE	1110682
+ENDBASE	1110885
+PRODUCT	COG0607 # P Inorganic ion transport metabolism Function: Rhodanese-related sulfurtransferase Organism: Vibrio cholerae (Vch)
+PRODUCT-TYPE	P
+//
+ID	gridtest_51_29
+NAME	gridtest_51_29
+STARTBASE	1110990
+ENDBASE	1112141
+PRODUCT	COG0446 # R General function prediction only Function: Uncharacterized NAD(FAD)-dependent dehydrogenases Organism: Aquifex aeolicus (Aae)
+PRODUCT-TYPE	P
+//
+ID	gridtest_51_32
+NAME	gridtest_51_32
+STARTBASE	1113116
+ENDBASE	1116346
+PRODUCT	COG0841 # V Defense mechanisms Function: Cation/multidrug efflux pump Organism: Vibrio cholerae (Vch)
+PRODUCT-TYPE	P
+//
+ID	gridtest_45_tRNA
+NAME	gridtest_45_tRNA
+STARTBASE	1240228
+ENDBASE	1240139
+PRODUCT	tRNA-Ser
+PRODUCT-TYPE	P
+//
+ID	gridtest_42_tRNA
+NAME	gridtest_42_tRNA
+STARTBASE	1292227
+ENDBASE	1292155
+PRODUCT	tRNA-Trp
+PRODUCT-TYPE	P
+//
+ID	gridtest_105_tRNA
+NAME	gridtest_105_tRNA
+STARTBASE	1581738
+ENDBASE	1581810
+PRODUCT	tRNA-Ala
+PRODUCT-TYPE	P
+//
+ID	gridtest_103_0
+NAME	gridtest_103_0
+STARTBASE	1633473
+ENDBASE	1633919
+PRODUCT	COG1225 # O Posttranslational modification, protein turnover, chaperones Function: Peroxiredoxin Organism: Campylobacter jejuni (Cje)
+PRODUCT-TYPE	P
+//
+ID	gridtest_175_tRNA
+NAME	gridtest_175_tRNA
+STARTBASE	1763859
+ENDBASE	1763787
+PRODUCT	tRNA-Gly
+PRODUCT-TYPE	P
+//
+ID	gridtest_62_tRNA
+NAME	gridtest_62_tRNA
+STARTBASE	1911260
+ENDBASE	1911177
+PRODUCT	tRNA-Leu
+PRODUCT-TYPE	P
+//
+ID	gridtest_112_tRNA
+NAME	gridtest_112_tRNA
+STARTBASE	1971397
+ENDBASE	1971325
+PRODUCT	tRNA-Met
+PRODUCT-TYPE	P
+//
+ID	gridtest_182_tRNA
+NAME	gridtest_182_tRNA
+STARTBASE	2051442
+ENDBASE	2051371
+PRODUCT	tRNA-Asn
+PRODUCT-TYPE	P
+//
+ID	gridtest_127_tRNA
+NAME	gridtest_127_tRNA
+STARTBASE	2368350
+ENDBASE	2368269
+PRODUCT	tRNA-Leu
+PRODUCT-TYPE	P
+//
+ID	gridtest_124_tRNA
+NAME	gridtest_124_tRNA
+STARTBASE	2486741
+ENDBASE	2486813
+PRODUCT	tRNA-Gly
+PRODUCT-TYPE	P
+//
+ID	gridtest_19_tRNA
+NAME	gridtest_19_tRNA
+STARTBASE	2533030
+ENDBASE	2533101
+PRODUCT	tRNA-Lys
+PRODUCT-TYPE	P
+//
+ID	gridtest_10_tRNA
+NAME	gridtest_10_tRNA
+STARTBASE	2577961
+ENDBASE	2577887
+PRODUCT	tRNA-Asp
+PRODUCT-TYPE	P
+//

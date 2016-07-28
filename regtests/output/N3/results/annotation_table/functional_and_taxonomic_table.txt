@@ -1,0 +1,19 @@
+ORF_ID	ORF_length	start	end	Contig_Name	Contig_length	strand	ec	taxonomy	product
+N3_0_0	137	2	139	N3_0	2500	-		root (1)	hypothetical protein
+N3_0_1	299	219	518	N3_0	2500	+		Flavobacteriaceae (49546)	RNA polymerase sigma-70 factor, ECF subfamily
+N3_0_2	143	583	726	N3_0	2500	+		root (1)	hypothetical protein
+N3_0_3	638	800	1438	N3_0	2500	-	4.2.99.18	Flavobacteriaceae (49546)	Endonuclease III (EC 4.2.99.18)
+N3_0_4	452	1476	1928	N3_0	2500	+	1.11.1.17	Flavobacteriaceae (49546)	Bacterioferritin comigratory protein OS Photobacterium profundum 3TCK GN bcp PE 4 SV 1 # UNIPROT Q1YYP4 RXN-6701 1.11.1.17
+N3_0_5	539	1961	2500	N3_0	2500	-		Flavobacteriales (200644)	nicotinamide mononucleotide adenylyltransferase
+N3_1_0	350	1	351	N3_1	2100	+		Bacteroidetes (976)	Metal-dependent hydrolases beta-lactamase superfamily I PhnP protein
+N3_1_1	182	353	535	N3_1	2100	+		root (1)	hypothetical protein
+N3_1_2	653	580	1233	N3_1	2100	-	3.1.1.1	Flavobacteriaceae (49546)	Serine esterase (EC 3.1.1.1)
+N3_1_3	332	1234	1566	N3_1	2100	-		Flavobacteriales (200644)	FIG00653137:
+N3_1_4	533	1566	2099	N3_1	2100	-	3.5.2.3	Flavobacteriaceae (49546)	Dihydroorotase (EC 3.5.2.3)
+N3_2_0	1442	2	1444	N3_2	3200	-		root (1)	hypothetical protein
+N3_2_1	1007	1489	2496	N3_2	3200	-	2.4.1.83	Flavobacteriaceae (49546)	Dolichol-phosphate mannosyltransferase (EC 2.4.1.83) lipid-linked oligosaccharide synthesis cluster
+N3_2_2	704	2496	3200	N3_2	3200	-		Bacteria (2)	Carboxypeptidase-related protein
+N3_3_0	749	1	750	N3_3	2600	-		Flavobacteriaceae (49546)	Hydrogen peroxide-inducible genes activator
+N3_3_1	698	833	1531	N3_3	2600	-	5.2.1.8	Flavobacteriaceae (49546)	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+N3_3_2	653	1558	2211	N3_3	2600	+		Flavobacteriaceae (49546)	Hypothetical nudix hydrolase YeaB
+N3_3_3	356	2242	2598	N3_3	2600	+		Flavobacteriaceae (49546)	acyltransferase family protein

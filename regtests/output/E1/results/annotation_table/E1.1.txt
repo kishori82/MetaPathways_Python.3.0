@@ -1,0 +1,7 @@
+orf_id	ref dbname	EC	product	value
+E1_0_0	COG_2013-12-27		COG0459 # O Posttranslational modification, protein turnover, chaperones Function: Chaperonin GroEL (HSP60 family) Organism: Saccharomyces cerevisiae (Sce)	16.0
+
+E1_0_1	COG_2013-12-27		NULL # E Amino acid transport metabolism Function: Aminopeptidase N Organism: Saccharomyces cerevisiae (Sce)	14.0
+
+E1_0_2	COG_2013-12-27		NULL # E Amino acid transport metabolism Function: Aminopeptidase N Organism: Saccharomyces cerevisiae (Sce)	14.0
+

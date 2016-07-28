@@ -1,0 +1,6 @@
+SAMPLE	PWY_NAME	PWY_COMMON_NAME	NUM_REACTIONS	NUM_COVERED_REACTIONS	ORF_COUNT	WTD	OBSERVED	EXPECTED	ORFS
+N3	PWY-6763	"salicortin biosynthesis"	11	1	1	-1.99218559265	Flavobacteriaceae (49546)	Salix (40685)	[N3_1_2]
+N3	PWY-5686	"UMP biosynthesis"	6	1	1	0.2421875	Flavobacteriaceae (49546)	Bacteria (2)	[N3_1_4]
+N3	PWY-6857	"retinol biosynthesis"	7	1	1	-1.8671875	Flavobacteriaceae (49546)	Metazoa (33208)	[N3_1_2]
+N3	PWY3O-4106	"NAD salvage pathway III"	2	1	1	0.234375	Flavobacteriales (200644)	Bacteria (2)	[N3_0_5]
+N3	PWY-6303	"methyl indole-3-acetate interconversion"	2	1	1	-1.9609375	Flavobacteriaceae (49546)	Embryophyta (3193)	[N3_1_2]

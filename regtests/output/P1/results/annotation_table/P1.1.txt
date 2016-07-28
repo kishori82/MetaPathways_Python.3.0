@@ -1,0 +1,25 @@
+orf_id	ref dbname	EC	product	value
+P1_17_0				
+	metacyc-v4-2011-07-03	6.2.1.3	Long chain acyl-CoA synthetase 4 OS Arabidopsis thaliana GN LACS4 PE 2 SV 1 # UNIPROT Q9T0A0 RXN-7904 6.2.1.3	29.0
+
+P1_107_0	COG_2013-12-27		COG1158 # K Transcription Function: termination factor Organism: Neisseria meningitidis Z2491 (NmA)	12.0
+
+P1_86_0	COG_2013-12-27		COG4804 # S Function unknown Function: Uncharacterized conserved protein Organism: Rickettsia conorii (Rco)	11.0
+
+P1_24_0	COG_2013-12-27		COG0618 # R General function prediction only Function: Exopolyphosphatase-related proteins Organism: Halobacterium sp. NRC-1 (Hbs)	15.0
+
+P1_127_0	COG_2013-12-27		COG5272 # O Posttranslational modification, protein turnover, chaperones Function: Ubiquitin Organism: Saccharomyces cerevisiae (Sce)	13.0
+
+P1_56_0	COG_2013-12-27		COG2201 # NT Function: Chemotaxis response regulator containing CheY-like receiver domain methylesterase Organism: Nostoc sp. PCC 7120 (Nos)	18.0
+
+P1_55_0	COG_2013-12-27		COG0031 # E Amino acid transport metabolism Function: Cysteine synthase Organism: Escherichia coli O157:H7 EDL933 (EcZ)	16.0
+	metacyc-v4-2011-07-03	2.5.1.47	Cysteine synthase (Fragment) OS Staphylococcus haemolyticus GN cysK PE 3 SV 1 # UNIPROT Q59918 ACSERLY-RXN 2.5.1.47	27.0
+
+P1_52_0	COG_2013-12-27		COG0772 # D Cell cycle control, cell division, chromosome partitioning Function: Bacterial division membrane protein Organism: Haemophilus influenzae (Hin)	18.0
+
+P1_134_0	COG_2013-12-27		COG0444 # EP Function: ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component Organism: Staphylococcus aureus N315 (Sau)	15.0
+
+P1_120_0	COG_2013-12-27		COG1837 # R General function prediction only Function: Predicted RNA-binding protein (contains KH domain) Organism: Bacillus subtilis (Bsu)	17.0
+
+P1_128_0	COG_2013-12-27		COG5272 # O Posttranslational modification, protein turnover, chaperones Function: Ubiquitin Organism: Saccharomyces cerevisiae (Sce)	13.0
+

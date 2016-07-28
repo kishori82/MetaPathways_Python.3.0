@@ -1,0 +1,11 @@
+ORF_ID	ORF_length	start	end	Contig_Name	Contig_length	strand	ec	taxonomy	product
+N2_1_0	974	1	975	N2_1	2400	-	5.99.1.2	Bacteria (2)	DNA topoisomerase I (EC 5.99.1.2)
+N2_1_1	1196	1099	2295	N2_1	2400	-		SAR324 cluster bacterium SCGC AAA001-C10 (913329)	DNA repair protein RecN
+N2_0_0	101	3	104	N2_0	1597	-		root (1)	hypothetical protein
+N2_0_1	182	385	567	N2_0	1597	-		root (1)	hypothetical protein
+N2_0_2	488	614	1102	N2_0	1597	-		SAR324 cluster bacterium SCGC AAA001-C10 (913329)	hypothetical protein
+N2_0_3	254	1342	1596	N2_0	1597	+		SAR324 cluster bacterium SCGC AAA001-C10 (913329)	hypothetical protein
+N2_3_0	770	170	940	N2_3	2125	+		SAR324 cluster bacterium SCGC AAA001-C10 (913329)	flagellar basal body rod protein
+N2_3_1	788	1003	1791	N2_3	2125	+		Bacteria (2)	Flagellar basal-body rod protein FlgG
+N2_3_2	200	1923	2123	N2_3	2125	+		SAR324 cluster bacterium SCGC AAA001-C10 (913329)	hypothetical protein
+N2_2_0	1097	3	1100	N2_2	1100	-	2.7.7.42	SAR324 cluster bacterium SCGC AAA001-C10 (913329)	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)

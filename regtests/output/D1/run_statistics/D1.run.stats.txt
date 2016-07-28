@@ -1,0 +1,196 @@
+1000	Number of sequences in input file BEFORE QC (nucleotide)	1
+1001	-min length	27360
+1002	-avg length	27360
+1003	-max length	27360
+1004	-total base pairs (bp)	27360
+1005	Number of sequences AFTER QC (nucleotide)	1
+1006	-min length	27360
+1007	-avg length	27360
+1008	-max length	27360
+1009	-total base pairs (bp)	27360
+1000	Number of sequences in input file BEFORE QC (nucleotide)	1
+1001	-min length	27360
+1002	-avg length	27360
+1003	-max length	27360
+1004	-total base pairs (bp)	27360
+1005	Number of sequences AFTER QC (nucleotide)	1
+1006	-min length	27360
+1007	-avg length	27360
+1008	-max length	27360
+1009	-total base pairs (bp)	27360
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+5000	Total Protein Annotations metacyc-v4-2011-07-03 (LAST)	5
+5000	Total Protein Annotations COG_2013-12-27 (LAST)	21
+7000	Taxonomic hits in GREENGENES_gg16S-2012-11-06	1
+7000	Taxonomic hits in LSURef_115_tax_silva	1
+7000	Taxonomic hits in SSURef_NR99_115_tax_silva	1
+6000	Protein Annotations from COG_2013-12-27	5
+6001	Protein Annotations from metacyc-v4-2011-07-03	1
+6002	Total Protein Annotations	5
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+5000	Total Protein Annotations metacyc-v4-2011-07-03 (LAST)	5
+5000	Total Protein Annotations COG_2013-12-27 (LAST)	21
+7000	Taxonomic hits in GREENGENES_gg16S-2012-11-06	1
+7000	Taxonomic hits in LSURef_115_tax_silva	1
+7000	Taxonomic hits in SSURef_NR99_115_tax_silva	1
+6000	Protein Annotations from COG_2013-12-27	5
+6001	Protein Annotations from metacyc-v4-2011-07-03	1
+6002	Total Protein Annotations	5
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998
+2000	Number of translated ORFs BEFORE QC (amino)	14
+2001	-min length	4
+2002	-avg length	286
+2003	-max length	749
+2004	-total base pairs (bp)	4006
+2005	Number of tranlated ORFs AFTER QC (amino)	12
+2006	-min length	66
+2007	-avg length	333
+2008	-max length	749
+2009	-total base pairs (bp)	3998

@@ -1,0 +1,9 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	1
+
+	LSURef_115_tax_silva			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+D1_0	1041	1389	85.79	8e-99	363.0	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella;Salmonella enterica subsp. enterica serovar Typhimurium str. ST1660/06

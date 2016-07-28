@@ -1,0 +1,3 @@
+SAMPLE	PWY_NAME	PWY_COMMON_NAME	NUM_REACTIONS	NUM_COVERED_REACTIONS	ORF_COUNT	WTD	OBSERVED	EXPECTED	ORFS
+B2	PWY-5392	"reductive TCA cycle II"	12	1	2	-0.3125	Bacteroidetes (976)	Aquificae <phylum> (200783)	[B2_0_0,B2_0_1]
+B2	P42-PWY	"incomplete reductive TCA cycle"	7	1	2	-0.875	Bacteroidetes (976)	Methanomicrobia (224756)	[B2_0_0,B2_0_1]

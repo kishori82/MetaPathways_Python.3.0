@@ -1,0 +1,10 @@
+N2_1	Prodigal_v2.00	CDS	1	975	117.78	-	0	ID=N2_1_0;locus_tag=N2_1_0;partial=10;orf_length=974;contig_length=2400
+N2_1	Prodigal_v2.00	CDS	1099	2295	115.67	-	0	ID=N2_1_1;locus_tag=N2_1_1;partial=00;orf_length=1196;contig_length=2400
+N2_0	Prodigal_v2.00	CDS	3	104	5.30	-	0	ID=N2_0_0;locus_tag=N2_0_0;partial=10;orf_length=101;contig_length=1597
+N2_0	Prodigal_v2.00	CDS	385	567	8.50	-	0	ID=N2_0_1;locus_tag=N2_0_1;partial=00;orf_length=182;contig_length=1597
+N2_0	Prodigal_v2.00	CDS	614	1102	47.44	-	0	ID=N2_0_2;locus_tag=N2_0_2;partial=00;orf_length=488;contig_length=1597
+N2_0	Prodigal_v2.00	CDS	1342	1596	38.86	+	0	ID=N2_0_3;locus_tag=N2_0_3;partial=01;orf_length=254;contig_length=1597
+N2_3	Prodigal_v2.00	CDS	170	940	82.44	+	0	ID=N2_3_0;locus_tag=N2_3_0;partial=00;orf_length=770;contig_length=2125
+N2_3	Prodigal_v2.00	CDS	1003	1791	82.53	+	0	ID=N2_3_1;locus_tag=N2_3_1;partial=00;orf_length=788;contig_length=2125
+N2_3	Prodigal_v2.00	CDS	1923	2123	14.61	+	0	ID=N2_3_2;locus_tag=N2_3_2;partial=01;orf_length=200;contig_length=2125
+N2_2	Prodigal_v2.00	CDS	3	1100	140.23	-	0	ID=N2_2_0;locus_tag=N2_2_0;partial=11;orf_length=1097;contig_length=1100

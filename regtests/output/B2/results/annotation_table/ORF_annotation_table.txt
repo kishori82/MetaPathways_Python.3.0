@@ -1,0 +1,10 @@
+B2_1_6	B2_1			hypothetical protein 		
+B2_1_4	B2_1			hypothetical protein 		
+B2_1_3	B2_1			hypothetical protein 		
+B2_1_2	B2_1			Possible restriction endonuclease 		
+B2_1_1	B2_1			DNA methylase N-4/N-6 		
+B2_1_0	B2_1			hypothetical protein 		
+B2_0_4	B2_0			FIG00498554: hypothetical protein 		
+B2_0_3	B2_0			RNA polymerase sigma-70 factor, ECF subfamily 		
+B2_0_0	B2_0	COG1053		Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1) 		
+B2_0_1	B2_0	COG0479		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1) 		

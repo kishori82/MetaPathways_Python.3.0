@@ -1,0 +1,81 @@
+orf_id	ref dbname	EC	product	value
+A2_18_0	COG_2013-12-27		COG0542 # O Posttranslational modification, protein turnover, chaperones Function: ATPases chaperone activity, ATP-binding subunit Organism: Mycobacterium tuberculosis CDC1551 (MtC)	18.0
+	refseq-nr-2014-01-18		negative regulator genetic competence ClpC/MecB	5.0
+	seed-2014-01-30		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator genetic competence clcC/mecB	12.0
+
+A2_19_0				
+	refseq-nr-2014-01-18		translation initiation factor IF-3, partial	5.0
+	seed-2014-01-30		Translation initiation factor 3	4.0
+
+A2_12_0	COG_2013-12-27		COG0459 # O Posttranslational modification, protein turnover, chaperones Function: Chaperonin GroEL (HSP60 family) Organism: Mycobacterium tuberculosis H37Rv (Mtu)	17.0
+	refseq-nr-2014-01-18		molecular chaperone GroEL	3.0
+	seed-2014-01-30		Heat shock protein 60 family chaperone GroEL	6.0
+
+A2_13_0	COG_2013-12-27		COG0459 # O Posttranslational modification, protein turnover, chaperones Function: Chaperonin GroEL (HSP60 family) Organism: Mycobacterium tuberculosis H37Rv (Mtu)	17.0
+	refseq-nr-2014-01-18		Heat shock protein 60 family chaperone GroEL	6.0
+	seed-2014-01-30		Heat shock protein 60 family chaperone GroEL	6.0
+
+A2_10_0	COG_2013-12-27		COG0459 # O Posttranslational modification, protein turnover, chaperones Function: Chaperonin GroEL (HSP60 family) Organism: Mycobacterium tuberculosis H37Rv (Mtu)	17.0
+	refseq-nr-2014-01-18		molecular chaperone GroEL	3.0
+	seed-2014-01-30		Heat shock protein 60 family chaperone GroEL	6.0
+
+A2_11_0	COG_2013-12-27		COG0166 # G Carbohydrate transport metabolism Function: Glucose-6-phosphate isomerase Organism: Streptococcus pyogenes M1 GAS (Spy)	15.0
+	refseq-nr-2014-01-18		glucose-6-phosphate isomerase	2.0
+	seed-2014-01-30	5.3.1.9	Glucose-6-phosphate isomerase (EC 5.3.1.9)	14.0
+	metacyc-v4-2011-07-03	5.3.1.9	Glucose-6-phosphate isomerase OS Mycoplasma capricolum subsp. (strain California kid / ATCC 27343 NCTC 10154) GN pgi PE 3 SV 1 # UNIPROT Q2SS24 PGLUCISOM-RXN 5.3.1.9	35.0
+
+A2_16_0	COG_2013-12-27		COG1344 # N Cell motility Function: Flagellin related hook-associated proteins Organism: Escherichia coli K12 (Eco)	15.0
+	refseq-nr-2014-01-18		Flagellin (Phase 1-C flagellin)	4.0
+	seed-2014-01-30		Flagellar biosynthesis protein FliC	3.0
+
+A2_17_0	COG_2013-12-27		COG1344 # N Cell motility Function: Flagellin related hook-associated proteins Organism: Salmonella typhimurium LT2 (Sty)	15.0
+	refseq-nr-2014-01-18		Flagellin (Phase 1-C flagellin)	4.0
+	seed-2014-01-30		Flagellar biosynthesis protein FliC	3.0
+
+A2_14_0	COG_2013-12-27		COG0459 # O Posttranslational modification, protein turnover, chaperones Function: Chaperonin GroEL (HSP60 family) Organism: Mycobacterium tuberculosis H37Rv (Mtu)	17.0
+	refseq-nr-2014-01-18		Heat shock protein 60 family chaperone GroEL	6.0
+	seed-2014-01-30		Heat shock protein 60 family chaperone GroEL	6.0
+
+A2_15_0	COG_2013-12-27		COG1344 # N Cell motility Function: Flagellin related hook-associated proteins Organism: Escherichia coli K12 (Eco)	15.0
+	refseq-nr-2014-01-18		Flagellin (Phase 1-C flagellin)	4.0
+	seed-2014-01-30		Flagellar biosynthesis protein FliC	3.0
+
+A2_0_0	COG_2013-12-27		COG5256 # J Translation, ribosomal structure biogenesis Function: Translation elongation factor EF-1alpha (GTPase) Organism: Saccharomyces cerevisiae (Sce)	17.0
+	refseq-nr-2014-01-18		elongation factor 1-alpha	3.0
+	seed-2014-01-30		Translation elongation factor 1 alpha subunit	6.0
+
+A2_1_0	COG_2013-12-27		COG2838 # C Energy production conversion Function: Monomeric isocitrate dehydrogenase Organism: Xylella fastidiosa 9a5c (Xfa)	15.0
+	refseq-nr-2014-01-18		isocitrate dehydrogenase, NADP-dependent	3.0
+	seed-2014-01-30	1.1.1.42	Isocitrate dehydrogenase (EC 1.1.1.42) Monomeric isocitrate 1.1.1.42)	16.0
+	metacyc-v4-2011-07-03	1.1.1.42	Isocitrate dehydrogenase 2 OS Colwellia maris GN icd2 PE 1 SV 3 # UNIPROT P41561 ISOCITDEH-RXN 1.1.1.42	27.0
+
+A2_2_0	COG_2013-12-27		COG1882 # C Energy production conversion Function: Pyruvate-formate lyase Organism: Escherichia coli O157:H7 EDL933 (EcZ)	15.0
+	refseq-nr-2014-01-18		formate acetyltransferase	2.0
+	seed-2014-01-30	2.3.1.54	Pyruvate formate-lyase (EC 2.3.1.54)	14.0
+	metacyc-v4-2011-07-03	2.3.1.54	Formate acetyltransferase OS Haemophilus influenzae (strain ATCC 51907 / DSM 11121 KW20 Rd) GN pflB PE 3 SV 2 # UNIPROT P43753 PYRUVFORMLY-RXN 2.3.1.54	34.0
+
+A2_3_0	COG_2013-12-27		COG3839 # G Carbohydrate transport metabolism Function: ABC-type sugar systems, ATPase components Organism: Salmonella typhimurium LT2 (Sty)	17.0
+	refseq-nr-2014-01-18		sugar ABC transporter ATP-binding protein	4.0
+	seed-2014-01-30	3.6.3.19	Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	16.0
+
+A2_4_0	COG_2013-12-27		COG0459 # O Posttranslational modification, protein turnover, chaperones Function: Chaperonin GroEL (HSP60 family) Organism: Sinorhizobium meliloti (Sme)	16.0
+	refseq-nr-2014-01-18		chaperonin, 60 kDa, partial	4.0
+	seed-2014-01-30		Heat shock protein 60 family chaperone GroEL	6.0
+
+A2_5_0	COG_2013-12-27		COG0459 # O Posttranslational modification, protein turnover, chaperones Function: Chaperonin GroEL (HSP60 family) Organism: Sinorhizobium meliloti (Sme)	16.0
+	refseq-nr-2014-01-18		chaperonin, 60 kDa, partial	4.0
+	seed-2014-01-30		Heat shock protein 60 family chaperone GroEL	6.0
+
+A2_7_0	COG_2013-12-27		COG0372 # C Energy production conversion Function: Citrate synthase Organism: Pasteurella multocida (Pmu)	13.0
+	refseq-nr-2014-01-18		type II citrate synthase	4.0
+	seed-2014-01-30	2.3.3.1	Citrate synthase (si) (EC 2.3.3.1)	15.0
+	metacyc-v4-2011-07-03	2.3.3.1	Citrate synthase OS Corynebacterium glutamicum GN gltA PE 3 SV 1 # UNIPROT P42457 CITSYN-RXN CGLU196627:CG0949-MONOMER 2.3.3.1	27.0
+
+A2_8_0	COG_2013-12-27		COG5256 # J Translation, ribosomal structure biogenesis Function: Translation elongation factor EF-1alpha (GTPase) Organism: Saccharomyces cerevisiae (Sce)	17.0
+	refseq-nr-2014-01-18		translation elongation factor aEF-1 alpha	5.0
+	seed-2014-01-30		Translation elongation factor 1 alpha subunit	6.0
+
+A2_9_0	COG_2013-12-27		COG0459 # O Posttranslational modification, protein turnover, chaperones Function: Chaperonin GroEL (HSP60 family) Organism: Mycobacterium tuberculosis H37Rv (Mtu)	17.0
+	refseq-nr-2014-01-18		molecular chaperone GroEL	3.0
+	seed-2014-01-30		Heat shock protein 60 family chaperone GroEL	6.0
+

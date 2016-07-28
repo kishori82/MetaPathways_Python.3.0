@@ -1,0 +1,9 @@
+#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
+P1_17_0	sp|Q55DR6|FCSA_DICDI	96	251	0.472693032015	1.19e-27	88.0	51.0	6.2.1.3	Fatty acyl-CoA synthetase A OS=Dictyostelium discoideum GN=fcsA PE=1 SV=1 # UNIPROT # Q55DR6 # RXN-7904 # # 6.2.1.3
+P1_55_0	sp|Q43725|CYSKM_ARATH	89	236	0.54128440367	2.3e-25	88.0	50.0	2.5.1.47	Cysteine synthase, mitochondrial OS=Arabidopsis thaliana GN=OASC PE=1 SV=3 # UNIPROT # Q43725 # ACSERLY-RXN # # 2.5.1.47
+P1_17_0	sp|Q8LPS1|LACS6_ARATH	100	235	0.442561205273	3.27e-25	92.0	50.0	6.2.1.3	Long chain acyl-CoA synthetase 6, peroxisomal OS=Arabidopsis thaliana GN=LACS6 PE=1 SV=1 # UNIPROT # Q8LPS1 # RXN-7904 # # 6.2.1.3
+P1_55_0	sp|Q7DDL5|CYSK_NEIMB	89	221	0.506880733945	4.43e-23	88.0	55.0	2.5.1.47	Cysteine synthase OS=Neisseria meningitidis serogroup B GN=cysK PE=1 SV=1 # UNIPROT # Q7DDL5 # ACSERLY-RXN # NMEN122586:NMB_0763-MONOMER # 2.5.1.47
+P1_55_0	sp|Q43317|CYSK_CITLA	89	216	0.495412844037	2.55e-22	88.0	47.0	2.5.1.51	Cysteine synthase OS=Citrullus lanatus PE=2 SV=1 # UNIPROT # Q43317 # RXN-7461 # # 2.5.1.51 2.5.1.52
+P1_55_0	sp|Q59918|CYSK_STAHA	89	216	0.495412844037	2.55e-22	88.0	48.0	2.5.1.47	Cysteine synthase (Fragment) OS=Staphylococcus haemolyticus GN=cysK PE=3 SV=1 # UNIPROT # Q59918 # ACSERLY-RXN # # 2.5.1.47
+P1_55_0	sp|P0ABK5|CYSK_ECOLI	89	216	0.495412844037	2.55e-22	96.0	54.0		Cysteine synthase A OS=Escherichia coli (strain K12) GN=cysK PE=1 SV=2 # UNIPROT # P0ABK5 # LCYSDESULF-RXN # MetaCyc:ACSERLYA-MONOMER # NIL
+P1_17_0	sp|Q9T0A0|LACS4_ARATH	94	194	0.365348399247	5.6e-19	84.0	48.0	6.2.1.3	Long chain acyl-CoA synthetase 4 OS=Arabidopsis thaliana GN=LACS4 PE=2 SV=1 # UNIPROT # Q9T0A0 # RXN-7904 # # 6.2.1.3

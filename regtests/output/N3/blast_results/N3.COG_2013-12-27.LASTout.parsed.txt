@@ -1,0 +1,6 @@
+#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
+N3_0_4	ECs3342	150	379	0.483418367347	1.7e-44	149.0	47.0		COG1225 # Func_class: O Posttranslational modification, protein turnover, chaperones # Function: Peroxiredoxin # Organism: Escherichia coli O157:H7 (Ecs)
+N3_0_4	Zbcp	150	379	0.483418367347	1.7e-44	149.0	47.0		COG1225 # Func_class: O Posttranslational modification, protein turnover, chaperones # Function: Peroxiredoxin # Organism: Escherichia coli O157:H7 EDL933 (EcZ)
+N3_0_4	bcp	150	379	0.483418367347	1.7e-44	149.0	47.0		COG1225 # Func_class: O Posttranslational modification, protein turnover, chaperones # Function: Peroxiredoxin # Organism: Escherichia coli K12 (Eco)
+N3_0_4	PM1052	150	377	0.480867346939	3.1e-44	149.0	46.0		COG1225 # Func_class: O Posttranslational modification, protein turnover, chaperones # Function: Peroxiredoxin # Organism: Pasteurella multocida (Pmu)
+N3_0_4	STM2491	150	375	0.478316326531	5.64e-44	149.0	46.0		COG1225 # Func_class: O Posttranslational modification, protein turnover, chaperones # Function: Peroxiredoxin # Organism: Salmonella typhimurium LT2 (Sty)

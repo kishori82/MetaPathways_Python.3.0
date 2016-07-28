@@ -1,0 +1,11 @@
+#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
+N2_1_0	SA1093_1	326	823	0.502748930971	5.09e-100	329.0	50.0		COG0550 # Func_class: L Replication, recombination and repair # Function: Topoisomerase IA # Organism: Staphylococcus aureus N315 (Sau)
+N2_1_0	BH2467_1	323	811	0.495418448381	1.7e-98	326.0	50.0		COG0550 # Func_class: L Replication, recombination and repair # Function: Topoisomerase IA # Organism: Bacillus halodurans (Bha)
+N2_1_0	SP1263_1	321	810	0.494807574832	2.28e-98	323.0	49.0		COG0550 # Func_class: L Replication, recombination and repair # Function: Topoisomerase IA # Organism: Streptococcus pneumoniae TIGR4 (Spn)
+N2_1_0	lin1314_1	323	803	0.490531459988	1.76e-97	326.0	48.0		COG0550 # Func_class: L Replication, recombination and repair # Function: Topoisomerase IA # Organism: Listeria innocua (Lin)
+N2_1_0	BS_topA_1	323	791	0.483200977398	5.89e-96	326.0	50.0		COG0550 # Func_class: L Replication, recombination and repair # Function: Topoisomerase IA # Organism: Bacillus subtilis (Bsu)
+N2_3_1	TM1542	263	719	0.539384846212	8.19e-87	261.0	53.0		COG4786 # Func_class: N Cell motility # Function: Flagellar basal body rod protein # Organism: Thermotoga maritima (Tma)
+N2_3_1	aq_834	263	693	0.519879969992	1.64e-83	262.0	51.0		COG4786 # Func_class: N Cell motility # Function: Flagellar basal body rod protein # Organism: Aquifex aeolicus (Aae)
+N2_3_1	jhp1492	263	686	0.514628657164	1.27e-82	262.0	53.0		COG4786 # Func_class: N Cell motility # Function: Flagellar basal body rod protein # Organism: Helicobacter pylori J99 (jHp)
+N2_3_1	HP1585	263	684	0.513128282071	2.28e-82	262.0	53.0		COG4786 # Func_class: N Cell motility # Function: Flagellar basal body rod protein # Organism: Helicobacter pylori 26695 (Hpy)
+N2_3_1	RSp0347	261	664	0.498124531133	7.9e-80	260.0	48.0		COG4786 # Func_class: N Cell motility # Function: Flagellar basal body rod protein # Organism: Ralstonia solanacearum (Rso)

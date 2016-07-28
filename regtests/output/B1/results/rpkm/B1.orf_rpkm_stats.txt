@@ -1,0 +1,44 @@
+
+Stats for file :  /Users/kishori/MetaPathways2.4/MetaPathways_Python.2.5.1/regtests/output/B1/bwa//B1.sam
+
+Number of lines in SAM file      : 14
+Number of unmapped lines         : 4
+Number of mapped lines           : 10
+Number of singletons             : 2
+Number of read 1                 : 7
+Number of read 2                 : 7
+Number of multireads             : 0
+Number of secondary hits         : 0
+Number distinct reads mapped     : 10
+Number distinct reads unmapped   : 4
+
+Composite stats for all files 
+
+Number of lines in SAM file      : 14
+Number of unmapped lines         : 4
+Number of mapped lines           : 10
+Number of singletons             : 2
+Number of read 1                 : 7
+Number of read 2                 : 7
+Number of multireads             : 0
+Number of secondary hits         : 0
+Number distinct reads mapped     : 10
+Number distinct reads unmapped   : 4
+
+Mapping stats for the sample 
+Number of Contigs               : 2 
+Number of ORFs in sample        : 12 
+Number of ORFs in pathway table : 0 
+Total contig cover length       : 972 
+Total Contig Length             : 10563 
+Total Genome Length             : 10563 
+Perentage contig coverage       : 9.20 %
+Total ORF Length                : 8505 
+Total num of mappable reads     : 10 
+Total num of unmappable reads   : 4 
+Number of total reads           : 14 
+Percentage of mapped reads      : 71.43 
+Number of multireads            : 0 
+Percentage of multireads        : 0.00 % 
+Avg rpkm across ORFs in sample  : 111517.45 
+Avg rpkm across ORFs pwy table  : 0.00 

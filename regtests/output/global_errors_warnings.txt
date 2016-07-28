@@ -1,0 +1,6 @@
+ERROR	Sample name _C1 must begin with an alphabet!	Consider prefixing an alphabet to the front
+ERROR	Sample names before the  suffixes .fasta, .fas, .fna, .faa or .gbk, must  consist only of alphabets, digits and _; and should consist of at least two characters 
+ERROR	Sample name C is too short1
+ERROR	Sample names before the  suffixes .fasta, .fas, .fna, .faa or .gbk, must  consist only of alphabets, digits and _; and should consist of at least two characters 
+ERROR	Sample name C1.C contains a '.' in its name!
+ERROR	Sample names before the  suffixes .fasta, .fas, .fna, .faa or .gbk, must  consist only of alphabets, digits and _; and should consist of at least two characters 

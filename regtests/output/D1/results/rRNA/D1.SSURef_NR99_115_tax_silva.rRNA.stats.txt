@@ -1,0 +1,9 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	1
+
+	SSURef_NR99_115_tax_silva			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+D1_0	781	1389	92.68	0.0	876.0	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Albidiferax;uncultured bacterium

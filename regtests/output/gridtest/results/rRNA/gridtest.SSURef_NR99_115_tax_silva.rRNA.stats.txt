@@ -1,0 +1,11 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	3
+
+	SSURef_NR99_115_tax_silva			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+gridtest_128	20750	22208	98.02	0.0	2534.0	Bacteria;Chlorobi;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobium;uncultured Chlorobi bacterium
+gridtest_131	58320	59778	98.02	0.0	2534.0	Bacteria;Chlorobi;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobium;uncultured Chlorobi bacterium
+gridtest_182	366	1824	98.02	0.0	2534.0	Bacteria;Chlorobi;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobium;uncultured Chlorobi bacterium
