@@ -1,2 +1,0 @@
-#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
-N3_0_4	tr|Q1YYP4|Q1YYP4_PHOPR	150	386	0.492346938776	1.49e-46	149.0	50.0	1.11.1.17	Bacterioferritin comigratory protein OS=Photobacterium profundum 3TCK GN=bcp PE=4 SV=1 # UNIPROT # Q1YYP4 # RXN-6701 # # 1.11.1.17

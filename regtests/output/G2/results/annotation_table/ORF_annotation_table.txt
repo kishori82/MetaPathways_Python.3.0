@@ -1,3 +1,0 @@
-G2_0_2	G2_0			Protein required for mutagenesis by physical and chemical agents 		
-G2_0_0	G2_0	COG0459		hypothetical protein 		
-G2_0_1	G2_0			Integral plasma membrane protein required for axial budding in haploid cells, localizes to the incipient bud site and bud neck; glycosylated by Pmt4p; potential Cdc28p substrate 		

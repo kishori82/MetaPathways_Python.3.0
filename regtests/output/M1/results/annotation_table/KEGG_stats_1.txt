@@ -1,7 +1,0 @@
-Function Category Level 1	Gene Count
-Cellular Processes	0
-Human Diseases	0
-Genetic Information Processing	0
-Environmental Information Processing	0
-Organismal Systems	0
-Metabolism	12

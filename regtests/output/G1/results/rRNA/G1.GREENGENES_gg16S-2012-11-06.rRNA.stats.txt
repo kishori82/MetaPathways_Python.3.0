@@ -1,9 +1,0 @@
-#Similarity cutoff :	20.0
-#Length cutoff :	180
-#Evalue cutoff :	1e-06
-#Bit score cutoff :	50.0
-#Number of rRNA sequences detected:	1
-
-	GREENGENES_gg16S-2012-11-06			
-sequence	start	end	similarity	evalue	bitscore	taxonomy
-G1_0	784	1389	92.66	0.0	870.0	k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Comamonadaceae;g__Limnohabitans;

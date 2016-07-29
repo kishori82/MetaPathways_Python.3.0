@@ -1,4 +1,0 @@
-N4_2	Prodigal_v2.00	CDS	2	184	9.77	-	0	ID=N4_2_0;locus_tag=N4_2_0;contig_length=740;orf_length=182;partial=10;sourcedb=None;annotvalue=0;ec=;product=hypothetical protein
-N4_2	Prodigal_v2.00	CDS	349	492	1.15	-	0	ID=N4_2_1;locus_tag=N4_2_1;contig_length=740;orf_length=143;partial=00;sourcedb=None;annotvalue=0;ec=;product=hypothetical protein
-N4_1	Prodigal_v2.00	CDS	3	647	69.33	+	0	ID=N4_1_0;locus_tag=N4_1_0;contig_length=647;orf_length=644;partial=11;sourcedb=seed-2014-01-30;annotvalue=1;ec=;product=FIG00487463: 
-N4_0	Prodigal_v2.00	CDS	3	692	86.47	-	0	ID=N4_0_0;locus_tag=N4_0_0;contig_length=904;orf_length=689;partial=10;sourcedb=seed-2014-01-30;annotvalue=14;ec=3.2.1.21;product=Periplasmic beta-glucosidase (EC 3.2.1.21)

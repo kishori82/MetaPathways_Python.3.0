@@ -1,3 +1,0 @@
-#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
-B2_0_0	Cgl0367	403	961	0.449485500468	2.03e-121	402.0	47.0		COG1053 # Func_class: C Energy production and conversion # Function: Succinate dehydrogenase/fumarate reductase, flavoprotein subunit # Organism: Corynebacterium glutamicum (Cgl)
-B2_0_1	Cgl0368	239	595	0.441394658754	1.98e-73	237.0	47.0		COG0479 # Func_class: C Energy production and conversion # Function: Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit # Organism: Corynebacterium glutamicum (Cgl)

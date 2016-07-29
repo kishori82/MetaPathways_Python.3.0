@@ -1,3 +1,0 @@
-G2_0	Genbank file	CDS	1	206	0.0	+	0	ID=G2_0_0;locus_tag=G2_0_0;contig_length=5028;orf_length=205;partial=00;sourcedb=seed-2014-01-30;annotvalue=3;ec=;product=Thermosome beta subunit
-G2_0	Genbank file	CDS	687	3158	0.0	+	0	ID=G2_0_1;locus_tag=G2_0_1;contig_length=5028;orf_length=2471;partial=00;sourcedb=seed-2014-01-30;annotvalue=19;ec=;product=Integral plasma membrane protein required axial budding haploid cells, localizes to incipient bud site neck glycosylated Pmt4p potential Cdc28p substrate
-G2_0	Genbank file	CDS	3300	4037	0.0	-	0	ID=G2_0_2;locus_tag=G2_0_2;contig_length=5028;orf_length=737;partial=00;sourcedb=seed-2014-01-30;annotvalue=6;ec=;product=Protein required mutagenesis physical chemical agents

@@ -1,3 +1,0 @@
-N4_2_0	N4_2			hypothetical protein 		
-N4_0_0	N4_0			Periplasmic beta-glucosidase (EC 3.2.1.21) 	ADT67612.1	
-N4_1_0	N4_1			FIG00487463: hypothetical protein 	AEW02398.1	

@@ -1,8 +1,0 @@
-#Similarity cutoff :	20.0
-#Length cutoff :	180
-#Evalue cutoff :	1e-06
-#Bit score cutoff :	50.0
-#Number of rRNA sequences detected:	0
-
-	LSURef_115_tax_silva			
-sequence	start	end	similarity	evalue	bitscore	taxonomy

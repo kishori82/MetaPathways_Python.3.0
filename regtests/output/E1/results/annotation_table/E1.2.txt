@@ -1,4 +1,0 @@
-orf_id	COG_2013-12-27(EC) 	COG_2013-12-27(product)	COG_2013-12-27(value)	metacyc-v4-2011-07-03(EC) 	metacyc-v4-2011-07-03(product)	metacyc-v4-2011-07-03(value)
-E1_0_0		COG0459 # O Posttranslational modification, protein turnover, chaperones Function: Chaperonin GroEL (HSP60 family) Organism: Saccharomyces cerevisiae (Sce)	16.0			
-E1_0_1		NULL # E Amino acid transport metabolism Function: Aminopeptidase N Organism: Saccharomyces cerevisiae (Sce)	14.0			
-E1_0_2		NULL # E Amino acid transport metabolism Function: Aminopeptidase N Organism: Saccharomyces cerevisiae (Sce)	14.0			

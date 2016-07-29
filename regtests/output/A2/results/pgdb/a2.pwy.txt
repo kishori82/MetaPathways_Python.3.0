@@ -1,7 +1,0 @@
-SAMPLE	PWY_NAME	PWY_COMMON_NAME	NUM_REACTIONS	NUM_COVERED_REACTIONS	ORF_COUNT	WTD	OBSERVED	EXPECTED	ORFS
-A2	PWY-621	"sucrose degradation III (sucrose invertase)"	5	1	1	-1.5	Bacteria (2)	Viridiplantae (33090)	[A2_11_0]
-A2	PWY-5493	"reductive monocarboxylic acid cycle"	2	1	1	-0.75	cellular organisms (131567)	Bacteria (2)	[A2_2_0]
-A2	ANARESP1-PWY	"respiration (anaerobic)"	13	3	3	-0.75	cellular organisms (131567)	Archaea (2157)	[A2_2_0,A2_7_0,A2_1_0]
-A2	FERMENTATION-PWY	"mixed acid fermentation"	16	3	3	-0.75	cellular organisms (131567)	Bacteria (2)	[A2_2_0,A2_7_0,A2_1_0]
-A2	PWY-5480	"pyruvate fermentation to ethanol I"	3	1	1	-0.75	cellular organisms (131567)	Bacteria (2)	[A2_2_0]
-A2	PWY66-399	"gluconeogenesis III"	13	1	1	-1.625	Bacteria (2)	Metazoa (33208)	[A2_11_0]

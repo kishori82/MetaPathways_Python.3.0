@@ -1,6 +1,0 @@
-orf_id	COG_2013-12-27(EC) 	COG_2013-12-27(product)	COG_2013-12-27(value)	metacyc-v4-2011-07-03(EC) 	metacyc-v4-2011-07-03(product)	metacyc-v4-2011-07-03(value)
-D1_4_3		COG1754 # R General function prediction only Function: Uncharacterized C-terminal domain topoisomerase IA Organism: Xylella fastidiosa 9a5c (Xfa)	18.0			
-D1_1_1		COG4786 # N Cell motility Function: Flagellar basal body rod protein Organism: Helicobacter pylori 26695 (Hpy)	15.0			
-D1_2_2		COG0174 # E Amino acid transport metabolism Function: Glutamine synthetase Organism: Nostoc sp. PCC 7120 (Nos)	16.0	6.3.1.2	Glutamine synthetase OS Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 JCM 8929 NBRC 15157 NCIMB 11770) GN glnA PE 1 SV 2 # UNIPROT Q9HH09 GLUTAMINESYN-RXN 6.3.1.2	38.0
-D1_3_0		COG0550 # L Replication, recombination repair Function: Topoisomerase IA Organism: Neisseria meningitidis Z2491 (NmA)	14.0			
-D1_3_1		COG0740 # OU Function: Protease subunit ATP-dependent Clp proteases Organism: Helicobacter pylori J99 (jHp)	14.0			

@@ -1,8 +1,0 @@
-N2_3_1	N2_3	COG4786		Flagellar basal-body rod protein FlgG 		
-N2_3_0	N2_3			flagellar basal body rod protein 		
-N2_3_2	N2_3			hypothetical protein 		
-N2_2_0	N2_2			Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42) 		
-N2_1_1	N2_1			DNA repair protein RecN 		
-N2_1_0	N2_1	COG0550		DNA topoisomerase I (EC 5.99.1.2) 		
-N2_0_2	N2_0			hypothetical protein 		
-N2_0_3	N2_0			hypothetical protein 		

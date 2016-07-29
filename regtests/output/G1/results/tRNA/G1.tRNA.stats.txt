@@ -1,7 +1,0 @@
-sequence name	tRNA Type	anticodon	start position	 end position	strand
-G1_0	Met	cat	243	316	+
-
-number of sequences = 5
-number of bases tested (one strand) = 15419
-number of bases tested (both strands) = 30838
-number of predicted tRNA=1

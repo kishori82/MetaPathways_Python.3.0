@@ -1,4 +1,0 @@
-ORF_ID	ORF_length	start	end	Contig_Name	Contig_length	strand	ec	taxonomy	product
-G2_0_0	205	1	206	G2_0	5028	+		root (1)	Thermosome beta subunit
-G2_0_1	2471	687	3158	G2_0	5028	+		root (1)	Integral plasma membrane protein required axial budding haploid cells, localizes to incipient bud site neck glycosylated Pmt4p potential Cdc28p substrate
-G2_0_2	737	3300	4037	G2_0	5028	-		root (1)	Protein required mutagenesis physical chemical agents

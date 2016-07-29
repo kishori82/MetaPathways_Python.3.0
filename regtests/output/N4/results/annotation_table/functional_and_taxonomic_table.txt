@@ -1,5 +1,0 @@
-ORF_ID	ORF_length	start	end	Contig_Name	Contig_length	strand	ec	taxonomy	product
-N4_2_0	182	2	184	N4_2	740	-		root (1)	hypothetical protein
-N4_2_1	143	349	492	N4_2	740	-		root (1)	hypothetical protein
-N4_1_0	644	3	647	N4_1	647	+		Bacteria (2)	FIG00487463:
-N4_0_0	689	3	692	N4_0	904	-	3.2.1.21	Bacteria (2)	Periplasmic beta-glucosidase (EC 3.2.1.21)

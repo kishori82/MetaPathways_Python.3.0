@@ -1,6 +1,0 @@
-orf_id	COG_2013-12-27(EC) 	COG_2013-12-27(product)	COG_2013-12-27(value)	CAZY_2014_09_04(EC) 	CAZY_2014_09_04(product)	CAZY_2014_09_04(value)	refseq-nr-2014-01-18(EC) 	refseq-nr-2014-01-18(product)	refseq-nr-2014-01-18(value)	seed-2014-01-30(EC) 	seed-2014-01-30(product)	seed-2014-01-30(value)	metacyc-v4-2011-07-03(EC) 	metacyc-v4-2011-07-03(product)	metacyc-v4-2011-07-03(value)
-N2_1_0		COG0550 # L Replication, recombination repair Function: Topoisomerase IA Organism: Streptococcus pneumoniae TIGR4 (Spn)	14.0					DNA topoisomerase I	3.0	5.99.1.2	DNA topoisomerase I (EC 5.99.1.2)	15.0			
-N2_1_1								DNA repair protein RecN	3.0		DNA repair protein RecN	3.0			
-N2_3_0								flagellar basal body rod protein FlgF	5.0		flagellar basal body rod protein	4.0			
-N2_3_1		COG4786 # N Cell motility Function: Flagellar basal body rod protein Organism: Helicobacter pylori 26695 (Hpy)	15.0					flagellar basal body rod protein FlgG	5.0		Flagellar basal-body rod protein FlgG	4.0			
-N2_2_0								(glutamate--ammonia-ligase) adenylyltransferase	2.0	2.7.7.42	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	14.0			

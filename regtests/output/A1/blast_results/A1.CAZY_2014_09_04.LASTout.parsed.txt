@@ -1,5 +1,0 @@
-#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
-127_0	gi|15553240|gb|AAL01718.1|AF325155_30	67	129.0	0.666434756503	1.48e-39	66.0	81.0		ubiquitin GP37 fusion protein [Spodoptera litura nucleopolyhedrovirus] [[AAL01718.1]] (AA10)
-128_0	gi|15553240|gb|AAL01718.1|AF325155_30	67	129.0	0.714433289858	1.48e-39	66.0	81.0		ubiquitin GP37 fusion protein [Spodoptera litura nucleopolyhedrovirus] [[AAL01718.1]] (AA10)
-127_0	gi|449139078|gb|AGE89883.1|	67	128.0	0.6612685956	3.66e-39	66.0	80.0		ubiquitin GP37 fusion protein [Spodoptera littoralis nucleopolyhedrovirus] [[AGE89883.1]] (AA10)
-128_0	gi|449139078|gb|AGE89883.1|	67	128.0	0.708895047301	3.66e-39	66.0	80.0		ubiquitin GP37 fusion protein [Spodoptera littoralis nucleopolyhedrovirus] [[AGE89883.1]] (AA10)

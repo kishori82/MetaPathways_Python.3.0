@@ -1,8 +1,0 @@
-SAMPLE	PWY_NAME	PWY_COMMON_NAME	NUM_REACTIONS	NUM_COVERED_REACTIONS	ORF_COUNT	WTD	OBSERVED	EXPECTED	ORFS
-M1	PWY-3121	"linamarin degradation"	2	1	1	-1.74993896484	Bacteria (2)	Papaveraceae (3465)	[M1_0_0]
-M1	PWY-6002	"lotaustralin degradation"	2	1	1	-1.74993896484	Bacteria (2)	Papaveraceae (3465)	[M1_0_0]
-M1	PWY-6788	"cellulose degradation II (fungi)"	3	1	1	-1.625	Bacteria (2)	Fungi (4751)	[M1_0_0]
-M1	PWY-5176	"coumarin biosynthesis (via 2-coumarate)"	5	1	1	-1.748046875	Bacteria (2)	Magnoliophyta (3398)	[M1_0_0]
-M1	PWY-7092	"neolinustatin bioactivation"	3	2	1	-1.74609375	Bacteria (2)	Spermatophyta (58024)	[M1_0_0]
-M1	PWY-7091	"linustatin bioactivation"	4	2	1	-1.74609375	Bacteria (2)	Spermatophyta (58024)	[M1_0_0]
-M1	PWY-7089	"taxiphyllin bioactivation"	1	1	1	-1.74609375	Bacteria (2)	Spermatophyta (58024)	[M1_0_0]
