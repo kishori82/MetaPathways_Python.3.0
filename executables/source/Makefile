@@ -4,28 +4,77 @@ LEX=lex
 LEXFLAGS=-lfl
 CFLAGS=-C
 
-TARS=RAxML-7.1.0.tar hmmer-2.3.2.tar prodigal.v2_00.tar rpkm.tar trnascan.tar wise2.2.0.tar
-SUBDIRS=RAxML-7.1.0 hmmer-2.3.2 prodigal.v2_00 rpkm_c trnascan wise2.2.0
+TARS= prodigal.v2_00.tar rpkm.tar trnascan.tar LAST-Plus.tar bwa-0.7.7.tar
+SUBDIRS= prodigal.v2_00 rpkm trnascan  LAST-Plus bwa-0.7.7
 
 
-buildall:
+build_folders:
 	$(MAKE) $(CFLAGS) trnascan 
-	$(MAKE) $(CFLAGS) rpkm_c 
-	$(MAKE) $(CFLAGS) wise2.2.0/src all
-	$(MAKE) $(CFLAGS) RAxML-7.1.0 -f Makefile.gcc all
+	$(MAKE) $(CFLAGS) rpkm 
 	$(MAKE) $(CFLAGS) prodigal.v2_00 all
-	#$(MAKE) $(CFLAGS) hmmer-2.3.2
+	$(MAKE) $(CFLAGS) LAST-Plus
+	$(MAKE) $(CFLAGS) bwa-0.7.7
 
-cleanall:
+clean_folders:
 	$(MAKE) $(CFLAGS) trnascan clean
-	$(MAKE) $(CFLAGS) rpkm_c clean
-	$(MAKE) $(CFLAGS) wise2.2.0/src clean
-	$(MAKE) $(CFLAGS) RAxML-7.1.0 -f Makefile.gcc clean
+	$(MAKE) $(CFLAGS) rpkm clean
 	$(MAKE) $(CFLAGS) prodigal.v2_00 clean
-	#$(MAKE) $(CFLAGS) hmmer-2.3.2 clean
+	$(MAKE) $(CFLAGS) LAST-Plus clean
+	$(MAKE) $(CFLAGS) bwa-0.7.7 clean
 
-unzip: $(TARS)
+untar_folders: $(TARS)
 	$(foreach tar, $(TARS), tar -xvf $(tar);)
 
-cleanunzip:
+tar_folders: $(SUBDIRS)
+	$(foreach folder, $(SUBDIRS), tar -cvvf $(folder).tar $(folder);)
+
+remove_folders:
 	rm -rf $(SUBDIRS)
+
+install_macosx:
+	cp  trnascan/trnascan-1.4  ../macosx/
+	cp  LAST-Plus/lastal+  ../macosx/ 
+	cp  LAST-Plus/lastdb+  ../macosx/ 
+	cp  bwa-0.7.7/bwa  ../macosx/ 
+	cp  prodigal.v2_00/prodigal  ../macosx/ 
+	cp  rpkm/rpkm  ../macosx/ 
+
+remove_macosx:
+	rm -rf  ../macosx/trnascan-1.4 
+	rm -rf ../macosx/lastal+  
+	rm -rf ../macosx/lastdb+  
+	rm -rf ../macosx/bwa  
+	rm -rf ../macosx/prodigal
+	rm -rf ../macosx/rpkm 
+
+install_redhat:
+	cp  trnascan/trnascan-1.4  ../redhat/
+	cp  LAST-Plus/lastal+  ../redhat/ 
+	cp  LAST-Plus/lastdb+  ../redhat/ 
+	cp  bwa-0.7.7/bwa  ../redhat/ 
+	cp  prodigal.v2_00/prodigal  ../redhat/ 
+	cp  rpkm/rpkm  ../redhat/ 
+
+remove_redhat:
+	rm -rf  ../redhat/trnascan-1.4 
+	rm -rf ../redhat/lastal+  
+	rm -rf ../redhat/lastdb+  
+	rm -rf ../redhat/bwa  
+	rm -rf ../redhat/prodigal
+	rm -rf ../redhat/rpkm 
+
+install_ubuntu:
+	cp  trnascan/trnascan-1.4  ../ubuntu/
+	cp  LAST-Plus/lastal+  ../ubuntu/ 
+	cp  LAST-Plus/lastdb+  ../ubuntu/ 
+	cp  bwa-0.7.7/bwa  ../ubuntu/ 
+	cp  prodigal.v2_00/prodigal  ../ubuntu/ 
+	cp  rpkm/rpkm  ../ubuntu/ 
+
+remove_ubuntu:
+	rm -rf  ../ubuntu/trnascan-1.4 
+	rm -rf ../ubuntu/lastal+  
+	rm -rf ../ubuntu/lastdb+  
+	rm -rf ../ubuntu/bwa  
+	rm -rf ../ubuntu/prodigal
+	rm -rf ../ubuntu/rpkm 
