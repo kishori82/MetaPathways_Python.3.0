@@ -47,8 +47,7 @@ class LCAComputation:
     def load_megan_map(self, megan_map_file):
         with open(megan_map_file) as file:
             for line in file:
-                fields = line.split("\t")
-                fields = map(str.strip, fields)
+                fields = [ x.strip() for x in  line.split("\t")]
                 self.megan_map[ fields[0] ] = fields[1]
 
 

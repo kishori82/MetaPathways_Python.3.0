@@ -127,7 +127,6 @@ def getSamFiles(readdir, sample_name):
 
 def getReadFiles(readdir, sample_name):
    '''This function finds the set of fastq files that has the reads'''
-   fastqFiles = []
    _fastqfiles = glob(readdir + PATHDELIM + sample_name + '*.[fF][aA][Ss][Tt][qQ][gz.]*')
 
    fastqfiles =[]
@@ -137,10 +136,11 @@ def getReadFiles(readdir, sample_name):
   
    samPATT=re.compile(sample_name+".fastq")
    samPATT1=re.compile(sample_name+"[.]b\d+.fastq")
-   samPATT2=re.compile('('+sample_name+ ')'+"_[1-2].(fastq|fastq[.]gz)")
-   samPATT3=re.compile(sample_name+"_r[1-2].fastq")
+   samPATT2=re.compile('('+sample_name+ ')'+"_R{0:1}[1-2].(fastq|fastq[.]gz)")
+   samPATT3=re.compile(sample_name+"_[rR][1-2].fastq")
    samPATT4=re.compile(sample_name+"_[1-2][.](b\d+).fastq")
 
+   readfiles = []
    batch = {}
    for f in fastqfiles:
       res = samPATT.search(f)
@@ -176,7 +176,6 @@ def getReadFiles(readdir, sample_name):
       
       eprintf("ERROR\tPossible error in read file naming \"%s\". Ignoring for now!\n", f)
 
-   readfiles = []
    for key, values in batch.items():
         readfiles.append(values)
 
@@ -238,11 +237,11 @@ class GffFileParser(object):
             self.insert_orf_into_dict(line, self.orf_dictionary)
             i += 1
 
-        self.orfs = self.orf_dictionary.keys()
+        self.orfs = list(self.orf_dictionary.keys())
         self.size = len(self.orfs)
         self.i = 0
 
-    def next(self):
+    def __next__(self):
         if self.i == self.size:
             self.refillBuffer()
 

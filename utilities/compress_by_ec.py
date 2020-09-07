@@ -35,15 +35,19 @@ parser.add_option( "--rout", dest="redout", default = None,
                   help='reduced out file')
 
 
-parser.add_option( "--level", dest="level", default = '0',  choices=['0', '1'],
-                  help='level of equivalennce    \n0 : if ECs and FUNCTIONS are the similar, \n1: if ECs are the similar')
+parser.add_option( "--level", dest="level", default = '2',  choices=['0', '1', '2'],
+                  help='two orfs are equivalent  \n' + \
+                        '0: if ECs the similar, \n ' +  \
+                        '1: if product/function strings are the similar\n' 
+                        '2: if product strings prefix similar\n' 
+                  )
 
+FIELDS  = ['ID', 'NAME', 'STARTBASE', 'ENDBASE', 'FUNCTION', 'PRODUCT-TYPE', 'EC']
 def fprintf(file, fmt, *args):
     file.write(fmt % args)
 
 def printf(fmt, *args):
     sys.stdout.write(fmt % args)
-
 
 
 def check_arguments(opts, args):
@@ -95,32 +99,44 @@ def read_pf_file(filel):
      annotation={}
      products ={}
 
+          
+     orfinfo = {}
      for line in lines:
          fields = line.strip().split('\t')
-         if len(fields)!=2:
-            continue
 
-         if fields[0]=="ID":
-             id = fields[1]
-             orfids.append(id)
-             annotation[id] = []
+         if len(fields)==1 and re.search('^//', line.strip()):
+             if 'ID' in orfinfo \
+                 and 'NAME' in orfinfo \
+                 and 'STARTBASE' in orfinfo \
+                 and 'ENDBASE' in orfinfo \
+                 and 'FUNCTION' in orfinfo \
+                 and 'PRODUCT-TYPE' in orfinfo:
 
-         annotation[id].append(line.strip())
+                 orfid = orfinfo['ID']
+                 products[orfid] = re.sub('  ', ' ', orfinfo['FUNCTION'].lower())
 
-         if fields[0]=="EC":
-            ecs[id] = fields[1]
-
-         if fields[0]=="FUNCTION":
-            products[id] = fields[1]
+                 orfids.append(orfid)
+                 annotation[orfid] =[]
+                 for field in FIELDS:
+                     if field in orfinfo:
+                         if fields[0]=="FUNCTION":
+                             products[orfid] = re.sub('  ', ' ', fields[1].lower())
+                         annotation[orfid].append(field + '\t' + orfinfo[field])
+             orfinfo = {}
+                     
+         if len(fields)==2:
+             orfinfo[fields[0]] = fields[1]
 
      orgfile.close()
 
-     return orfids, products, annotation, ecs
 
+     orfids.sort(key = lambda x: products[x] )
+
+     #for orfid in orfids:
+     #      print(annotation[orfid], products[orfid])
+
+     return orfids, products, annotation, ecs
      
-     #for id in orfids:
-     #   for line in annotation[id]:
-     #      print line
 
 def read_reduced_file(filel):
 
@@ -174,7 +190,6 @@ def  modify_files(filerenames, source, target):
 
 
 def get_files_to_modify(folder):
-
    all_files = []
    for root, directories, filenames in os.walk( folder +'/'):
      for filename in filenames: 
@@ -195,6 +210,38 @@ def  get_new_file_names(files, source, target):
             filerename[file] = file 
      return filerename
 
+
+def cleanFunctionStrings(_products):
+     funarray = []
+     for orf, prod in _products.items():
+        #prod = re.sub('-', ' ', prod)
+        prod = re.sub(',', '', prod)
+        prod = re.sub('\/', ' ', prod)
+        prod = re.sub(':', ' ', prod)
+        ncharwords=0
+        
+        for word in prod.split():
+            if len(word)==1:    
+               ncharwords += 1
+
+        if ncharwords > 1 or len(prod.split()) > 5  :
+            prod = "hypothetical protein"
+        funarray.append( (orf, prod) )
+
+     funarray.sort(key = lambda x: x[1] )
+     
+     prevfun = None
+     products = {}
+     for orf, fun in funarray:
+       if prevfun != None and  fun.startswith(prevfun):
+          products[orf] = prevfun
+       else:
+          products[orf] = fun
+          prevfun = fun
+
+       #print(fun, '\t\t', prevfun)
+     return products 
+
 # the main function
 def main(argv): 
     (opts, args) = parser.parse_args()
@@ -202,34 +249,58 @@ def main(argv):
        print(usage)
        sys.exit(0)
 
-    orfids, products, annotations, ecs = read_pf_file(opts.pfin)
+    orfids, _products, annotations, ecs = read_pf_file(opts.pfin)
+
+    # read the reduced file
     equivalent  = read_reduced_file(opts.redin)
 
-    seenec ={}
+    # orf-> function dictionary
+    products = cleanFunctionStrings(_products)
+
+    seenecs ={}
     seenproducts ={}
     neworfs =[]
-
+    prodstring = None 
     for orfid in orfids:
-       if not orfid in products:
-          continue
 
-       if not orfid in ecs:
-          if products[orfid] in seenproducts:
-             equivalent[orfid] = seenproducts[products[orfid]]
+       if opts.level == '0':
+  
+          if orfid not in ecs:
+             continue
+           
+          if ecs[orfid] in seenecs: 
+             if not orfid in equivalent:
+                equivalent[orfid] = seenecs[ecs[orfid]]
           else:
-             seenproducts[products[orfid]] = orfid
-             neworfs.append(orfid)
-          continue
+              neworfs.append(orfid)
+              seenecs[ecs[orfid]] = orfid
+ 
+
+       if opts.level == '1':
+          if orfid not in products:
+             continue
+
+          if products[orfid] in seenproducts:
+              if not orfid in equivalent:
+                 equivalent[orfid] = seenproducts[products[orfid]]
+                 if orfid in ["O_83746_0", "O_63745_0"]:
+                    print("not equivalent 1", orfid, products[orfid])
+          else:
+               seenproducts[products[orfid]] = orfid
+               neworfs.append(orfid)
+               if orfid in ["O_83746_0", "O_63745_0"]:
+                 print("equivalent 1", orfid, _products[orfid])
+
+       if opts.level == '2':
+           if prodstring == None or not  products[orfid].startswith(prodstring):
+              prodstring = products[orfid]
+              prodorfid = orfid
+              neworfs.append(orfid)
+           else:
+              equivalent[orfid] = prodorfid
 
 
-       if ecs[orfid] in seenec: 
-          if not orfid in equivalent:
-             equivalent[orfid] = seenec[ecs[orfid]]
-       else:
-          neworfs.append(orfid)
-          seenec[ecs[orfid]] = orfid
-          
-    write_new_pf_file(neworfs, annotations,opts.pfout)
+    write_new_pf_file(neworfs, annotations,  opts.pfout)
 
 #   print  len(orfids), len(neworfs), len(equivalent)
     print("Original # ORFs   : {}".format(len(orfids)))
@@ -248,12 +319,12 @@ def write_new_reduced_file(equivalent, filename):
     outputfile.close()
 
 def write_new_pf_file(neworfs, annotations, filename):
-    outputfile = open(filename,'w')
-    for orfid in neworfs: 
-       for line in annotations[orfid]:
-           fprintf(outputfile, "%s\n",line)
-       fprintf(outputfile, "//\n")
-    outputfile.close()
+    with open(filename,'w') as outputfile:
+        for orfid in neworfs: 
+           for line in annotations[orfid]:
+               fprintf(outputfile, "%s\n",line)
+           fprintf(outputfile, "//\n")
+        outputfile.close()
 
     #print len(equivalent.keys()), len(orfids), len(ecs)
     #for ec in ecs:

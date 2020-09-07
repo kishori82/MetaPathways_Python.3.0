@@ -33,7 +33,7 @@ echo "Your MetaPathways is installed in :"
 echo "Please set variable METAPATHWAYS_PATH in file template_config.txt as:"
 CURRDIR=`pwd`
 cd `dirname ${BASH_SOURCE[0]}`
-METAPATHWAYS_PATH=`pwd`
+export METAPATHWAYS_PATH=`pwd`
 METAPATHLIB=${METAPATHWAYS_PATH}:${METAPATHWAYS_PATH}/libs
 PYTHONPATH=${METAPATHLIB}:$PYTHONPATH
 echo PYTHONPATH " : "${PYTHONPATH}

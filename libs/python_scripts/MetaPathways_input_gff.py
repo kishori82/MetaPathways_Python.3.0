@@ -13,6 +13,7 @@ try:
      from os import makedirs, sys, remove
      from sys import path
      import re
+     import traceback
      
      from optparse import OptionParser, OptionGroup
      from libs.python_modules.utils.metapathways_utils  import parse_command_line_parameters, fprintf, printf
@@ -21,7 +22,7 @@ try:
 except:
      print(""" Could not load some user defined  module functions""")
      print(""" Make sure your typed \"source MetaPathwaysrc\" """)
-     print(""" """)
+     print(traceback.print_exc(10))
      sys.exit(3)
 
 

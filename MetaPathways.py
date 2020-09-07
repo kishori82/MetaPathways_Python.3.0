@@ -136,16 +136,22 @@ def remove_unspecified_samples(input_output_list, sample_subset,  globalerrorlog
 
    shortened_names = {}
    input_sample_list = input_output_list.keys()
-   for sample_name in input_sample_list:
+   filtered_input_output_list = {}
+   if sample_subset:
+     for sample_name in input_sample_list:
       short_sample_name = derive_sample_name(sample_name) 
-    #  print short_sample_name, len(short_sample_name)
       if len(short_sample_name) > 35:
          eprintf("ERROR\tSample name %s must not be longer than 35 characters!\n",short_sample_name)
          if globalerrorlogger:
              globalerrorlogger.printf("ERROR\tSample name %s must not be longer than 35 characters!\n",short_sample_name)
-      if not derive_sample_name(sample_name) in sample_subset and  sample_subset:
-         del input_output_list[sample_name]
+      if derive_sample_name(sample_name) in sample_subset:
+         filtered_input_output_list[sample_name]=input_output_list[sample_name]
+   else:
+         filtered_input_output_list=input_output_list.copy()
 
+   return filtered_input_output_list
+  
+   
 
 
 def check_for_error_in_input_file_name(shortname, globalerrorlogger=None):
@@ -399,7 +405,7 @@ def main(argv):
         in case of an empty subset process all the sample """
 
     # remove all samples that are not specifed unless sample_subset is empty
-    remove_unspecified_samples(input_output_list, sample_subset, globalerrorlogger = globalerrorlogger)
+    input_output_list = remove_unspecified_samples(input_output_list, sample_subset, globalerrorlogger = globalerrorlogger)
 
     # add check the config parameters 
     sorted_input_output_list = sorted(input_output_list.keys())

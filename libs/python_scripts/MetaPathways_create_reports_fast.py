@@ -399,7 +399,7 @@ class BlastOutputTsvParser(object):
     def __iter__(self):
         return self
 
-    def next(self):
+    def __next__(self):
         if self.i % self.SIZE == 0:
             self.refillBuffer()
             if len(self.lines)==0:
@@ -717,7 +717,7 @@ def get_list_of_queries(annotated_gff):
     #      if count%500000==0:
     #         print count
 
-    return orfList.keys()
+    return list(orfList.keys())
 
 
 def Heapify(A, i, S):
@@ -1057,7 +1057,7 @@ def main(argv, errorlogger = None,  runstatslogger = None):
 
                lca.set_results_dictionary(results_dictionary)
                lca.compute_min_support_tree(opts.input_annotated_gff, pickorfs, dbname = dbname )
-               for key, taxon  in pickorfs.iteritems():
+               for key, taxon  in pickorfs.items():
                    Taxons[key] = taxon
             except:
                eprintf("ERROR: while training for min support tree %s\n", dbname)

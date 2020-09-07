@@ -810,12 +810,15 @@ class ContextCreator:
           pyScript = self.configs.METAPATHWAYS_PATH + self.configs.GENBANK_FILE
           cmd="%s -g %s -n %s -p %s " %(pyScript, context.inputs['input_annot_gff'],\
                context.inputs['input_nucleotide_fasta'], context.inputs['input_amino_acid_fasta'])  
+          cmd += ' --out-gbk ' + context.outputs['output_annot_gbk']
 
           """GENBANK_FILE"""
           genbank_file_status = self.params.get('metapaths_steps','GENBANK_FILE')
-          if genbank_file_status in ['redo'] or\
-             (genbank_file_status in ['yes'] and not s.hasGenbankFile() ):
-             cmd += ' --out-gbk ' + context.outputs['output_annot_gbk']
+
+          #if genbank_file_status in ['redo'] or\
+          #   (genbank_file_status in ['yes'] and not s.hasGenbankFile() ):
+          #   cmd += ' --out-gbk ' + context.outputs['output_annot_gbk']
+
           context.message =  self._Message("GENBANK FILE" )
 
           context.status =  genbank_file_status = self.params.get('metapaths_steps','GENBANK_FILE')
@@ -858,15 +861,11 @@ class ContextCreator:
                            }
 
 
-          #  'output_fasta_pf_dir_fasta':s.output_fasta_pf_dir + PATHDELIM +  '0.fasta',
-          input_output_gbk  = s.genbank_dir +PATHDELIM + s.sample_name+".gbk"
-
           context.outputs = {
             'output_fasta_pf_dir':s.output_fasta_pf_dir,
             'output_fasta_pf_dir_genetic':s.output_fasta_pf_dir + PATHDELIM + 'genetic-elements.dat',
             'output_fasta_pf_dir_organism':s.output_fasta_pf_dir + PATHDELIM +  'organism-params.dat',
             'dummy_ouptut_file':s.output_fasta_pf_dir + PATHDELIM +  s.sample_name + '.dummy.txt',
-            'output_annot_gbk':s.genbank_dir + PATHDELIM + s.sample_name +  '.gbk'
           }
 
           context1.outputs = {
@@ -884,20 +883,19 @@ class ContextCreator:
 
 
           """PATHOLOGIC_INPUT"""
-          ptinput_status = self.params.get('metapaths_steps','ANNOTATE_ORFS')
+          #ptinput_status = self.params.get('metapaths_steps','ANNOTATE_ORFS')
 
-          if ptinput_status in ['redo'] or ( ptinput_status in ['yes'] and not s.hasPToolsInput() ):
-              cmd += ' --out-ptinput ' + context.outputs['output_fasta_pf_dir']
-              cmd += ' -n ' + context.inputs_optional['input_nucleotide_fasta']
-              cmd += ' --ncbi-tree ' + context.inputs1['ncbi_tree']
-              cmd += ' --taxonomy-table ' + context.inputs1['taxonomy_table']
-              cmd += ' -p ' + context.inputs['input_amino_acid_fasta']
-              cmd += ' --out-gbk ' + context.outputs['output_annot_gbk']
+          #if ptinput_status in ['redo'] or ( ptinput_status in ['yes'] and not s.hasPToolsInput() ):
+          cmd += ' --out-ptinput ' + context.outputs['output_fasta_pf_dir']
+          cmd += ' -n ' + context.inputs_optional['input_nucleotide_fasta']
+          cmd += ' --ncbi-tree ' + context.inputs1['ncbi_tree']
+          cmd += ' --taxonomy-table ' + context.inputs1['taxonomy_table']
+          cmd += ' -p ' + context.inputs['input_amino_acid_fasta']
 
           context.message = self._Message("PATHOLOGIC INPUT" )
 
           #context.status = self.params.get('metapaths_steps','PATHOLOGIC_INPUT')
-          context.status = self.params.get('metapaths_steps','ANNOTATE_ORFS')
+          context.status = self.params.get('metapaths_steps','PATHOLOGIC_INPUT')
 
           context.commands = [ cmd ]
           contexts.append(context)

@@ -168,7 +168,6 @@ def process_gff_file(gff_file_name, output_filenames, nucleotide_seq_dict, prote
         insert_orf_into_dict(line, contig_dict)
 
      if "gbk" in output_filenames:
-       print('gbk')
        write_gbk_file(output_filenames['gbk'], contig_dict, sample_name, nucleotide_seq_dict, protein_seq_dict)
 
      if "ptinput" in output_filenames:
@@ -186,8 +185,8 @@ def  write_ptinput_files(output_dir_name, contig_dict, sample_name, nucleotide_s
 
         reducedpffile = open(output_dir_name + "/tmp.reduced.txt", 'w')
      except:
-        print "cannot create the pathway tools files"
-        print "perhaps there is already a folder " + output_dir_name
+        print("cannot create the pathway tools files")
+        print("perhaps there is already a folder " + output_dir_name)
         traceback.print_exc(file=sys.stdout)
 
      count =0 
@@ -709,7 +708,7 @@ def process_sequence_file(sequence_file_name,  seq_dictionary, shortorfid=False)
      try:
         sequencefile = open(sequence_file_name, 'r')
      except IOError:
-        print "Cannot read file " + sequence_file_name + " !"
+        print("Cannot read file " + sequence_file_name + " !")
 
      sequence_lines = sequencefile.readlines()
      sequencefile.close()
@@ -824,7 +823,7 @@ def createParser():
     output_options_group.add_option("--out-ptinput", dest="ptinput_file",  default=None,
                      help='option and directory  to create ptools input files')
 
-    output_options_group.add_option("--compact-output", dest="compact_output",  default=False, action='store_true',
+    output_options_group.add_option("--compact-output", dest="compact_output",  default=True, action='store_true',
                      help='option to create compact orfid names')
 
     parser.add_option_group(output_options_group)
@@ -840,7 +839,6 @@ def main(argv, errorlogger = None, runstatslogger = None):
     options, args = parser.parse_args(argv)
 
     if not(options.gff_file or options.nucleotide_sequences or options.protein_sequences or options.output):
-      print help
       sys.exit(0)
     
 
@@ -857,7 +855,7 @@ def main(argv, errorlogger = None, runstatslogger = None):
 
 
     if not path.exists(options.gff_file):
-        print "gff file does not exist"
+        print("gff file does not exist")
         eprintf("ERROR\tGFF file %s  not found\n", options.gff_file)
         errorlogger.printf("ERROR\tGFF file %s  not found\n", options.gff_file)
         sys.exit(0)
@@ -875,10 +873,8 @@ def main(argv, errorlogger = None, runstatslogger = None):
     if  options.gbk_file:
        output_files['gbk'] = options.gbk_file
 
-
     if  options.ptinput_file:
        output_files['ptinput'] = options.ptinput_file
-    
 
     nucleotide_seq_dict = {}
     protein_seq_dict = {}
@@ -886,7 +882,7 @@ def main(argv, errorlogger = None, runstatslogger = None):
     if options.nucleotide_sequences  and path.exists(options.nucleotide_sequences):
        process_sequence_file(options.nucleotide_sequences, nucleotide_seq_dict) 
 
-    if  options.protein_sequences and  plain_or_gz_file_exists(options.protein_sequences):
+    if  options.protein_sequences and  does_plain_or_gz_FileExist(options.protein_sequences):
        process_sequence_file(options.protein_sequences, protein_seq_dict) 
     
     orf_to_taxonid={}
@@ -896,7 +892,9 @@ def main(argv, errorlogger = None, runstatslogger = None):
     process_gff_file(options.gff_file, output_files, nucleotide_seq_dict, protein_seq_dict, input_files,  orf_to_taxonid=orf_to_taxonid, compact_output=options.compact_output) 
  
     sample_name = get_sample_name(options.gff_file)
-    createDummyFile(options.ptinput_file + PATHDELIM + sample_name + ".dummy.txt")
+    
+    if  options.ptinput_file:
+      createDummyFile(options.ptinput_file + PATHDELIM + sample_name + ".dummy.txt")
 
 def MetaPathways_create_genbank_ptinput_sequin(argv, errorlogger = None, runstatslogger = None):
     createParser()
