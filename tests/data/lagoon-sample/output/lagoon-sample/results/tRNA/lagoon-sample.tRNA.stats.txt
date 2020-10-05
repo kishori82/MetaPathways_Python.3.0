@@ -1,0 +1,14 @@
+sequence name	tRNA Type	anticodon	start position	 end position	strand
+lagoon-sample_3	Ala 	 ggc	411	339	-
+lagoon-sample_4	Met	cat	73	146	+
+lagoon-sample_4	Phe	gaa	159	231	+
+lagoon-sample_5	Ala 	 cgc	452	380	-
+lagoon-sample_9	Thr	ggt	252	324	+
+lagoon-sample_10	Asn	gtt	3593	3665	+
+lagoon-sample_10	Asn	gtt	7290	7362	+
+lagoon-sample_69	Val	gac	3715	3786	+
+
+number of sequences = 118
+number of bases tested (one strand) = 115201
+number of bases tested (both strands) = 230402
+number of predicted tRNA=8

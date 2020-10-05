@@ -1,0 +1,24 @@
+>CVKP01000051.3319.4841 Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus pneumoniae
+>BBQE01000019.3752.5240 Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;Sulfurospirillum cavolei NBRC 109482
+>BBQE01000020.3752.5240 Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;Sulfurospirillum cavolei NBRC 109482
+>AGZL01000037.1454.2938 Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Myroides;Myroides odoratimimus CCUG 12700
+>CFFF01000203.442.2194 Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus pneumoniae
+>CDOU01045545.25941.27358 Bacteria;Cyanobacteria;Chloroplast;Quercus robur
+>LGJY01000007.95396.97084 Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae
+>DQ241813.1.2375 Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Bergeyella;Bergeyella sp. AF14
+>FJ799153.1.1470 Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;bacterium enrichment culture clone LA121
+>JF731007.1.3023 Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Ureaplasma;Ureaplasma sp. ES2783-GEN
+>AJ488095.1.1483 Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;uncultured bacterium
+>JQ996653.1.1498 Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;uncultured;uncultured bacterium
+>JQ996654.1.1497 Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;uncultured;uncultured bacterium
+>CP007393.191803.193312 Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella;Escherichia coli
+>EU542451.1.1468 Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;uncultured;uncultured bacterium
+>HM357794.1.1483 Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
+>AY958844.1.1893 Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;uncultured bacterium
+>CU921586.1.1328 Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;uncultured;uncultured bacterium
+>CU923606.3.1322 Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;uncultured;uncultured bacterium
+>CP014158.793178.794710 Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas citronellolis
+>CP014158.3205346.3206878 Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas citronellolis
+>CP014158.4532250.4533782 Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas citronellolis
+>CP014158.5954364.5955896 Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas citronellolis
+>JQ088366.1.1467 Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;uncultured bacterium

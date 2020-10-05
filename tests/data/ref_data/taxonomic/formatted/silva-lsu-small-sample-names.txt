@@ -1,0 +1,61 @@
+>JAGI01000002.3105282.3108172 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;Clostridium sp. 12(A)
+>JAGI01000002.2212247.2215043 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;Clostridium sp. 12(A)
+>JAGI01000002.2379083.2381879 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;Clostridium sp. 12(A)
+>BABB01001421.740.3075 Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Veillonella;human gut metagenome
+>AZUI01000001.2832173.2835063 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;[Clostridium] indolis DSM 755
+>ADMB01000111.2.2571 Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megamonas;Megamonas funiformis YIT 11815
+>CECF01020719.1245.3241 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;gut metagenome
+>CUGJ01000012.41083.44013 Bacteria;Firmicutes;Bacilli;Bacillales;Stapyhlococcaceae;Staphylococcus;Staphylococcus haemolyticus
+>CANG01001160.139.3061 Bacteria;Firmicutes;Clostridia;Clostridiales;uncultured;Sedimentibacter sp. B4
+>CANF01002287.79.2922 Bacteria;Firmicutes;Clostridia;Clostridiales;uncultured;Dehalobacter sp. E1 x Sedimentibacter sp. B4 coculture
+>BBDR01000036.244.3134 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;Clostridium sp. NkU-1
+>BBQE01000019.388.3285 Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;Sulfurospirillum cavolei NBRC 109482
+>BBQE01000020.388.3285 Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;Sulfurospirillum cavolei NBRC 109482
+>FJTZ01000011.303651.306493 Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Romboutsia;Romboutsia sp. MT17
+>AYMZ01000007.155400.157795 Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas moraviensis R28-S
+>JQGR01000685.61.2966 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;bioreactor metagenome
+>CZCB01005965.349.3257 Bacteria;Firmicutes;Clostridia;Clostridiales;uncultured;anaerobic digester metagenome
+>CZCB01010010.1.2438 Bacteria;Firmicutes;Clostridia;Clostridiales;uncultured;anaerobic digester metagenome
+>CZCB01021316.1.2000 Bacteria;Firmicutes;Clostridia;Clostridiales;Family XI;uncultured;anaerobic digester metagenome
+>CDYQ01027889.1.2008 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;gut metagenome
+>CDZA01040442.639.3528 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;uncultured;gut metagenome
+>CDYU01036058.992.2995 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;gut metagenome
+>JMSU01000658.120.2932 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;bioreactor metagenome
+>CDYY01015977.204.2253 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;gut metagenome
+>LIDZ01000693.2002.4911 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium;food metagenome
+>CCNN01000015.172221.174994 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium;Clostridium sp. LF2
+>CCSZ01000004.704530.707710 Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella;Salmonella enterica subsp. enterica serovar Paratyphi A
+>CCFK01000012.373.3183 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium;Clostridium sp. LF2
+>CCSZ01000003.93831.97011 Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella;Salmonella enterica subsp. enterica serovar Paratyphi A
+>CCFK01000008.15344.18154 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium;Clostridium sp. LF2
+>CCNN01000012.373.3183 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium;Clostridium sp. LF2
+>CCFK01000015.172221.174994 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium;Clostridium sp. LF2
+>CYSO01000008.20688.23469 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium;Clostridium sp. ND2
+>FAVI01000008.821028.823893 Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia sp. GD9
+>AXUN02000228.79.2987 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Youngiibacter;Youngiibacter fragilis 232.1
+>LGJR01000017.42213.45051 Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae
+>LTDF01000006.1.2881 Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides intestinalis
+>FLKF01000011.299420.302349 Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;uncultured;Clostridiales bacterium Marseille-P2411
+>FLKF01000012.539239.542171 Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;uncultured;Clostridiales bacterium Marseille-P2411
+>FLKF01000008.1070655.1073465 Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;uncultured;Clostridiales bacterium Marseille-P2411
+>FLKF01000012.1305.4237 Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;uncultured;Clostridiales bacterium Marseille-P2411
+>AAQK01010326.2255.5144 Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;uncultured;metagenome
+>FLKB01000019.119819.122664 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium;Clostridium sp. Marseille-P2414
+>LK022848.3737665.3740681 Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces iranensis
+>LK022848.5708482.5711535 Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces iranensis
+>HG530135.5844.8735 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium;Clostridium tetani 12124569
+>AP014724.755773.758681 Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;Sulfurospirillum cavolei
+>AP014724.50257.53165 Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;Sulfurospirillum cavolei
+>AP014724.748617.751525 Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;Sulfurospirillum cavolei
+>CP002213.4707008.4709609 Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus polymyxa SC2
+>CP002660.256375.259280 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium;Clostridium acetobutylicum DSM 1731
+>CP002660.170309.173214 Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium;Clostridium acetobutylicum DSM 1731
+>CP003326.12911.15844 Bacteria;Firmicutes;Clostridia;Clostridiales;Family XI;Gottschalkia;[Clostridium] acidurici 9a
+>CP005991.4001349.4004017 Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Citrobacter;Enterobacter sp. R4-368
+>CP005991.3299467.3301962 Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Citrobacter;Enterobacter sp. R4-368
+>CP006776.233831.236621 Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus sp. I-P16
+>CP006871.7025631.7028383 Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces albulus ZPM
+>CP007394.4242631.4245288 Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella;Escherichia coli
+>CP011539.4070532.4073456 Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Enterobacter aerogenes
+>CP011539.3889269.3892193 Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Enterobacter aerogenes
+>CP011539.3844229.3847153 Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Enterobacter aerogenes
