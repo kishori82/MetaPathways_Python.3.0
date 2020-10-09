@@ -1,47 +1,8 @@
 orf_id	refseq-small-sample(EC) 	refseq-small-sample(product)	refseq-small-sample(value)
-0_0		phosphoribosylformylglycinamidine synthase	2.0
-13_0		peptide ABC transporter substrate-binding protein	4.0
-14_0		MULTISPECIES: molybdate ABC transporter permease subunit	6.0
-14_1		ATP-binding cassette domain-containing protein	3.0
-15_1		EF2563 family selenium-dependent molybdenum hydroxylase system protein	6.0
-16_0		CatB-related O-acetyltransferase	2.0
-17_0		glycosyltransferase family 4 protein	3.0
-18_0		PTS system mannose/fructose/sorbose family transporter subunit IID	7.0
-29_0		cytidyltransferase	1.0
-31_0		sugar kinase	2.0
-32_0		MULTISPECIES: DUF1292 domain-containing protein	3.0
-32_1		MULTISPECIES: transcriptional repressor	3.0
-33_0		MULTISPECIES: 30S ribosomal protein S1	4.0
-34_0		oxaloacetate decarboxylase subunit alpha	4.0
-34_1		oxaloacetate decarboxylase subunit alpha	4.0
-35_0		MULTISPECIES: DUF4348 domain-containing protein	3.0
-35_1		MULTISPECIES: UDP-N-acetylmuramate dehydrogenase	3.0
-36_0		asparagine--tRNA ligase	2.0
-36_1		MULTISPECIES: 50S ribosomal protein L28	4.0
-37_0		MULTISPECIES: cation:dicarboxylase symporter family transporter	5.0
+84_0		Ig-like domain-containing protein	2.0
 38_0		NAD(+) synthase	2.0
-40_0		MBL fold metallo-hydrolase	3.0
-41_0		pyruvate carboxyltransferase	2.0
-44_0		MULTISPECIES: choline BCCT transporter BetT	5.0
-44_1		nickel-responsive transcriptional regulator NikR	4.0
-45_1		acyl-CoA synthetase FdrA	3.0
-47_0		PTS sugar transporter subunit IIC	5.0
-48_0		terminase large subunit	3.0
-49_0		rRNA pseudouridine synthase	3.0
-50_0		protein translocase subunit SecF	3.0
-51_1		DUF302 domain-containing protein	2.0
+82_0		ParB/RepB/Spo0J family partition protein	3.0
 52_0		FtsX-like permease family protein	3.0
-54_0		phosphoribosylformylglycinamidine synthase	2.0
-55_0		MULTISPECIES: GPR endopeptidase	3.0
-57_0		amidohydrolase	1.0
-59_0		phage portal protein	2.0
-59_4		PBSX family phage terminase large subunit	6.0
-61_0		Fe-only nitrogenase accessory protein AnfO	4.0
-62_0		MULTISPECIES: magnesium transporter CorA family protein	5.0
-63_0		MULTISPECIES: copper-translocating P-type ATPase	4.0
-63_2		MULTISPECIES: heavy-metal-associated domain-containing protein	3.0
-65_0		MULTISPECIES: argininosuccinate lyase	3.0
-66_0		voltage-gated chloride channel family protein	4.0
 67_0		MULTISPECIES: molecular chaperone HtpG	4.0
 67_1		MULTISPECIES: 1-acyl-sn-glycerol-3-phosphate acyltransferase	3.0
 67_3		MULTISPECIES: phosphoribosylformylglycinamidine synthase subunit PurQ	5.0
@@ -51,31 +12,70 @@ orf_id	refseq-small-sample(EC) 	refseq-small-sample(product)	refseq-small-sample
 67_7		MULTISPECIES: AAA family ATPase	4.0
 67_10		ribonuclease E activity regulator RraA	5.0
 67_11		MULTISPECIES: methylaspartate mutase subunit S	5.0
+18_0		PTS system mannose/fructose/sorbose family transporter subunit IID	7.0
+78_0		ABC transporter substrate-binding protein	3.0
+49_0		rRNA pseudouridine synthase	3.0
+87_1		DUF1292 domain-containing protein	2.0
+79_0		TlpA family protein disulfide reductase	4.0
+13_0		peptide ABC transporter substrate-binding protein	4.0
+63_0		MULTISPECIES: copper-translocating P-type ATPase	4.0
+63_2		MULTISPECIES: heavy-metal-associated domain-containing protein	3.0
+33_0		MULTISPECIES: 30S ribosomal protein S1	4.0
+65_0		MULTISPECIES: argininosuccinate lyase	3.0
+75_0		transglycosylase domain-containing protein	2.0
+36_0		asparagine--tRNA ligase	2.0
+36_1		MULTISPECIES: 50S ribosomal protein L28	4.0
+72_0		DUF554 domain-containing protein	2.0
+73_0		helicase-exonuclease AddAB subunit AddB	4.0
+29_0		cytidyltransferase	1.0
+89_0		MULTISPECIES: universal stress protein	3.0
+81_0		MULTISPECIES: MetQ/NlpA family ABC transporter substrate-binding protein	6.0
+31_0		sugar kinase	2.0
+90_1		methylmalonyl Co-A mutase-associated GTPase MeaB	5.0
+90_2		arsenic efflux protein	2.0
+90_3		transcription termination factor Rho	4.0
+41_0		pyruvate carboxyltransferase	2.0
+66_0		voltage-gated chloride channel family protein	4.0
+14_0		MULTISPECIES: molybdate ABC transporter permease subunit	6.0
+14_1		ATP-binding cassette domain-containing protein	3.0
+80_0		glycine/sarcosine/betaine reductase component B subunit	5.0
+50_0		protein translocase subunit SecF	3.0
+37_0		MULTISPECIES: cation:dicarboxylase symporter family transporter	5.0
+40_0		MBL fold metallo-hydrolase	3.0
+59_0		phage portal protein	2.0
+59_4		PBSX family phage terminase large subunit	6.0
+57_0		amidohydrolase	1.0
+32_0		MULTISPECIES: DUF1292 domain-containing protein	3.0
+32_1		MULTISPECIES: transcriptional repressor	3.0
+83_0		MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator	6.0
+44_0		MULTISPECIES: choline BCCT transporter BetT	5.0
+44_1		nickel-responsive transcriptional regulator NikR	4.0
+71_0		MULTISPECIES: hydrogenase maturation protease	4.0
+62_0		MULTISPECIES: magnesium transporter CorA family protein	5.0
+48_0		terminase large subunit	3.0
+0_0		phosphoribosylformylglycinamidine synthase	2.0
+93_0		MULTISPECIES: amino acid permease	4.0
+34_0		oxaloacetate decarboxylase subunit alpha	4.0
+34_1		oxaloacetate decarboxylase subunit alpha	4.0
+74_0		pitrilysin	1.0
+51_1		DUF302 domain-containing protein	2.0
+35_0		MULTISPECIES: DUF4348 domain-containing protein	3.0
+35_1		MULTISPECIES: UDP-N-acetylmuramate dehydrogenase	3.0
+85_0		ATP-binding protein	1.0
+61_0		Fe-only nitrogenase accessory protein AnfO	4.0
+76_0		neurotensin receptor R8	3.0
+16_0		CatB-related O-acetyltransferase	2.0
 69_0		NAD(P)-dependent glycerol-3-phosphate dehydrogenase	3.0
 69_1		YjbQ family protein	2.0
 69_2		ATP-binding protein	1.0
 69_3		SpoIIE family protein phosphatase	3.0
 69_4		SpoIIE family protein phosphatase	3.0
 69_5		M48 family metallopeptidase	3.0
+45_1		acyl-CoA synthetase FdrA	3.0
+15_1		EF2563 family selenium-dependent molybdenum hydroxylase system protein	6.0
 70_0		sulfatase-like hydrolase/transferase	2.0
-71_0		MULTISPECIES: hydrogenase maturation protease	4.0
-72_0		DUF554 domain-containing protein	2.0
-73_0		helicase-exonuclease AddAB subunit AddB	4.0
-74_0		pitrilysin	1.0
-75_0		transglycosylase domain-containing protein	2.0
-76_0		neurotensin receptor R8	3.0
+55_0		MULTISPECIES: GPR endopeptidase	3.0
 77_0		phosphonate C-P lyase system protein PhnH	5.0
-78_0		ABC transporter substrate-binding protein	3.0
-79_0		TlpA family protein disulfide reductase	4.0
-80_0		glycine/sarcosine/betaine reductase component B subunit	5.0
-81_0		MULTISPECIES: MetQ/NlpA family ABC transporter substrate-binding protein	6.0
-82_0		ParB/RepB/Spo0J family partition protein	3.0
-83_0		MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator	6.0
-84_0		Ig-like domain-containing protein	2.0
-85_0		ATP-binding protein	1.0
-87_1		DUF1292 domain-containing protein	2.0
-89_0		MULTISPECIES: universal stress protein	3.0
-90_1		methylmalonyl Co-A mutase-associated GTPase MeaB	5.0
-90_2		arsenic efflux protein	2.0
-90_3		transcription termination factor Rho	4.0
-93_0		MULTISPECIES: amino acid permease	4.0
+54_0		phosphoribosylformylglycinamidine synthase	2.0
+17_0		glycosyltransferase family 4 protein	3.0
+47_0		PTS sugar transporter subunit IIC	5.0

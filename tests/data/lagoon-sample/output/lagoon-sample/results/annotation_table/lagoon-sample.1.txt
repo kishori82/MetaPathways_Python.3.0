@@ -1,89 +1,11 @@
 orf_id	ref dbname	EC	product	value
-0_0	refseq-small-sample		phosphoribosylformylglycinamidine synthase	2.0
-
-13_0	refseq-small-sample		peptide ABC transporter substrate-binding protein	4.0
-
-14_0	refseq-small-sample		MULTISPECIES: molybdate ABC transporter permease subunit	6.0
-
-14_1	refseq-small-sample		ATP-binding cassette domain-containing protein	3.0
-
-15_1	refseq-small-sample		EF2563 family selenium-dependent molybdenum hydroxylase system protein	6.0
-
-16_0	refseq-small-sample		CatB-related O-acetyltransferase	2.0
-
-17_0	refseq-small-sample		glycosyltransferase family 4 protein	3.0
-
-18_0	refseq-small-sample		PTS system mannose/fructose/sorbose family transporter subunit IID	7.0
-
-29_0	refseq-small-sample		cytidyltransferase	1.0
-
-31_0	refseq-small-sample		sugar kinase	2.0
-
-32_0	refseq-small-sample		MULTISPECIES: DUF1292 domain-containing protein	3.0
-
-32_1	refseq-small-sample		MULTISPECIES: transcriptional repressor	3.0
-
-33_0	refseq-small-sample		MULTISPECIES: 30S ribosomal protein S1	4.0
-
-34_0	refseq-small-sample		oxaloacetate decarboxylase subunit alpha	4.0
-
-34_1	refseq-small-sample		oxaloacetate decarboxylase subunit alpha	4.0
-
-35_0	refseq-small-sample		MULTISPECIES: DUF4348 domain-containing protein	3.0
-
-35_1	refseq-small-sample		MULTISPECIES: UDP-N-acetylmuramate dehydrogenase	3.0
-
-36_0	refseq-small-sample		asparagine--tRNA ligase	2.0
-
-36_1	refseq-small-sample		MULTISPECIES: 50S ribosomal protein L28	4.0
-
-37_0	refseq-small-sample		MULTISPECIES: cation:dicarboxylase symporter family transporter	5.0
+84_0	refseq-small-sample		Ig-like domain-containing protein	2.0
 
 38_0	refseq-small-sample		NAD(+) synthase	2.0
 
-40_0	refseq-small-sample		MBL fold metallo-hydrolase	3.0
-
-41_0	refseq-small-sample		pyruvate carboxyltransferase	2.0
-
-44_0	refseq-small-sample		MULTISPECIES: choline BCCT transporter BetT	5.0
-
-44_1	refseq-small-sample		nickel-responsive transcriptional regulator NikR	4.0
-
-45_1	refseq-small-sample		acyl-CoA synthetase FdrA	3.0
-
-47_0	refseq-small-sample		PTS sugar transporter subunit IIC	5.0
-
-48_0	refseq-small-sample		terminase large subunit	3.0
-
-49_0	refseq-small-sample		rRNA pseudouridine synthase	3.0
-
-50_0	refseq-small-sample		protein translocase subunit SecF	3.0
-
-51_1	refseq-small-sample		DUF302 domain-containing protein	2.0
+82_0	refseq-small-sample		ParB/RepB/Spo0J family partition protein	3.0
 
 52_0	refseq-small-sample		FtsX-like permease family protein	3.0
-
-54_0	refseq-small-sample		phosphoribosylformylglycinamidine synthase	2.0
-
-55_0	refseq-small-sample		MULTISPECIES: GPR endopeptidase	3.0
-
-57_0	refseq-small-sample		amidohydrolase	1.0
-
-59_0	refseq-small-sample		phage portal protein	2.0
-
-59_4	refseq-small-sample		PBSX family phage terminase large subunit	6.0
-
-61_0	refseq-small-sample		Fe-only nitrogenase accessory protein AnfO	4.0
-
-62_0	refseq-small-sample		MULTISPECIES: magnesium transporter CorA family protein	5.0
-
-63_0	refseq-small-sample		MULTISPECIES: copper-translocating P-type ATPase	4.0
-
-63_2	refseq-small-sample		MULTISPECIES: heavy-metal-associated domain-containing protein	3.0
-
-65_0	refseq-small-sample		MULTISPECIES: argininosuccinate lyase	3.0
-
-66_0	refseq-small-sample		voltage-gated chloride channel family protein	4.0
 
 67_0	refseq-small-sample		MULTISPECIES: molecular chaperone HtpG	4.0
 
@@ -103,6 +25,112 @@ orf_id	ref dbname	EC	product	value
 
 67_11	refseq-small-sample		MULTISPECIES: methylaspartate mutase subunit S	5.0
 
+18_0	refseq-small-sample		PTS system mannose/fructose/sorbose family transporter subunit IID	7.0
+
+78_0	refseq-small-sample		ABC transporter substrate-binding protein	3.0
+
+49_0	refseq-small-sample		rRNA pseudouridine synthase	3.0
+
+87_1	refseq-small-sample		DUF1292 domain-containing protein	2.0
+
+79_0	refseq-small-sample		TlpA family protein disulfide reductase	4.0
+
+13_0	refseq-small-sample		peptide ABC transporter substrate-binding protein	4.0
+
+63_0	refseq-small-sample		MULTISPECIES: copper-translocating P-type ATPase	4.0
+
+63_2	refseq-small-sample		MULTISPECIES: heavy-metal-associated domain-containing protein	3.0
+
+33_0	refseq-small-sample		MULTISPECIES: 30S ribosomal protein S1	4.0
+
+65_0	refseq-small-sample		MULTISPECIES: argininosuccinate lyase	3.0
+
+75_0	refseq-small-sample		transglycosylase domain-containing protein	2.0
+
+36_0	refseq-small-sample		asparagine--tRNA ligase	2.0
+
+36_1	refseq-small-sample		MULTISPECIES: 50S ribosomal protein L28	4.0
+
+72_0	refseq-small-sample		DUF554 domain-containing protein	2.0
+
+73_0	refseq-small-sample		helicase-exonuclease AddAB subunit AddB	4.0
+
+29_0	refseq-small-sample		cytidyltransferase	1.0
+
+89_0	refseq-small-sample		MULTISPECIES: universal stress protein	3.0
+
+81_0	refseq-small-sample		MULTISPECIES: MetQ/NlpA family ABC transporter substrate-binding protein	6.0
+
+31_0	refseq-small-sample		sugar kinase	2.0
+
+90_1	refseq-small-sample		methylmalonyl Co-A mutase-associated GTPase MeaB	5.0
+
+90_2	refseq-small-sample		arsenic efflux protein	2.0
+
+90_3	refseq-small-sample		transcription termination factor Rho	4.0
+
+41_0	refseq-small-sample		pyruvate carboxyltransferase	2.0
+
+66_0	refseq-small-sample		voltage-gated chloride channel family protein	4.0
+
+14_0	refseq-small-sample		MULTISPECIES: molybdate ABC transporter permease subunit	6.0
+
+14_1	refseq-small-sample		ATP-binding cassette domain-containing protein	3.0
+
+80_0	refseq-small-sample		glycine/sarcosine/betaine reductase component B subunit	5.0
+
+50_0	refseq-small-sample		protein translocase subunit SecF	3.0
+
+37_0	refseq-small-sample		MULTISPECIES: cation:dicarboxylase symporter family transporter	5.0
+
+40_0	refseq-small-sample		MBL fold metallo-hydrolase	3.0
+
+59_0	refseq-small-sample		phage portal protein	2.0
+
+59_4	refseq-small-sample		PBSX family phage terminase large subunit	6.0
+
+57_0	refseq-small-sample		amidohydrolase	1.0
+
+32_0	refseq-small-sample		MULTISPECIES: DUF1292 domain-containing protein	3.0
+
+32_1	refseq-small-sample		MULTISPECIES: transcriptional repressor	3.0
+
+83_0	refseq-small-sample		MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator	6.0
+
+44_0	refseq-small-sample		MULTISPECIES: choline BCCT transporter BetT	5.0
+
+44_1	refseq-small-sample		nickel-responsive transcriptional regulator NikR	4.0
+
+71_0	refseq-small-sample		MULTISPECIES: hydrogenase maturation protease	4.0
+
+62_0	refseq-small-sample		MULTISPECIES: magnesium transporter CorA family protein	5.0
+
+48_0	refseq-small-sample		terminase large subunit	3.0
+
+0_0	refseq-small-sample		phosphoribosylformylglycinamidine synthase	2.0
+
+93_0	refseq-small-sample		MULTISPECIES: amino acid permease	4.0
+
+34_0	refseq-small-sample		oxaloacetate decarboxylase subunit alpha	4.0
+
+34_1	refseq-small-sample		oxaloacetate decarboxylase subunit alpha	4.0
+
+74_0	refseq-small-sample		pitrilysin	1.0
+
+51_1	refseq-small-sample		DUF302 domain-containing protein	2.0
+
+35_0	refseq-small-sample		MULTISPECIES: DUF4348 domain-containing protein	3.0
+
+35_1	refseq-small-sample		MULTISPECIES: UDP-N-acetylmuramate dehydrogenase	3.0
+
+85_0	refseq-small-sample		ATP-binding protein	1.0
+
+61_0	refseq-small-sample		Fe-only nitrogenase accessory protein AnfO	4.0
+
+76_0	refseq-small-sample		neurotensin receptor R8	3.0
+
+16_0	refseq-small-sample		CatB-related O-acetyltransferase	2.0
+
 69_0	refseq-small-sample		NAD(P)-dependent glycerol-3-phosphate dehydrogenase	3.0
 
 69_1	refseq-small-sample		YjbQ family protein	2.0
@@ -115,47 +143,19 @@ orf_id	ref dbname	EC	product	value
 
 69_5	refseq-small-sample		M48 family metallopeptidase	3.0
 
+45_1	refseq-small-sample		acyl-CoA synthetase FdrA	3.0
+
+15_1	refseq-small-sample		EF2563 family selenium-dependent molybdenum hydroxylase system protein	6.0
+
 70_0	refseq-small-sample		sulfatase-like hydrolase/transferase	2.0
 
-71_0	refseq-small-sample		MULTISPECIES: hydrogenase maturation protease	4.0
-
-72_0	refseq-small-sample		DUF554 domain-containing protein	2.0
-
-73_0	refseq-small-sample		helicase-exonuclease AddAB subunit AddB	4.0
-
-74_0	refseq-small-sample		pitrilysin	1.0
-
-75_0	refseq-small-sample		transglycosylase domain-containing protein	2.0
-
-76_0	refseq-small-sample		neurotensin receptor R8	3.0
+55_0	refseq-small-sample		MULTISPECIES: GPR endopeptidase	3.0
 
 77_0	refseq-small-sample		phosphonate C-P lyase system protein PhnH	5.0
 
-78_0	refseq-small-sample		ABC transporter substrate-binding protein	3.0
+54_0	refseq-small-sample		phosphoribosylformylglycinamidine synthase	2.0
 
-79_0	refseq-small-sample		TlpA family protein disulfide reductase	4.0
+17_0	refseq-small-sample		glycosyltransferase family 4 protein	3.0
 
-80_0	refseq-small-sample		glycine/sarcosine/betaine reductase component B subunit	5.0
-
-81_0	refseq-small-sample		MULTISPECIES: MetQ/NlpA family ABC transporter substrate-binding protein	6.0
-
-82_0	refseq-small-sample		ParB/RepB/Spo0J family partition protein	3.0
-
-83_0	refseq-small-sample		MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator	6.0
-
-84_0	refseq-small-sample		Ig-like domain-containing protein	2.0
-
-85_0	refseq-small-sample		ATP-binding protein	1.0
-
-87_1	refseq-small-sample		DUF1292 domain-containing protein	2.0
-
-89_0	refseq-small-sample		MULTISPECIES: universal stress protein	3.0
-
-90_1	refseq-small-sample		methylmalonyl Co-A mutase-associated GTPase MeaB	5.0
-
-90_2	refseq-small-sample		arsenic efflux protein	2.0
-
-90_3	refseq-small-sample		transcription termination factor Rho	4.0
-
-93_0	refseq-small-sample		MULTISPECIES: amino acid permease	4.0
+47_0	refseq-small-sample		PTS sugar transporter subunit IIC	5.0
 
