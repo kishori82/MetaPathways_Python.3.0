@@ -6,10 +6,10 @@
 
 	silva-ssu-small-sample			
 sequence	start	end	similarity	evalue	bitscore	taxonomy
+lagoon-sample_28	46	249	79.817	3.04e-37	145.0	Bacteria;Cyanobacteria;Chloroplast;Quercus robur
 lagoon-sample_27	1	220	82.273	4.44e-51	191.0	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus pneumoniae
-lagoon-sample_23	4	339	95.536	9.78e-156	538.0	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
-lagoon-sample_25	166	404	97.908	2.07e-118	414.0	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;uncultured bacterium
 lagoon-sample_7	21	325	98.033	1.57e-153	531.0	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;uncultured;uncultured bacterium
 lagoon-sample_12	68	437	95.676	7.46e-173	595.0	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;uncultured bacterium
+lagoon-sample_25	166	404	97.908	2.07e-118	414.0	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;uncultured bacterium
 lagoon-sample_26	115	361	79.681	6.8e-45	172.0	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Bergeyella;Bergeyella sp. AF14
-lagoon-sample_28	46	249	79.817	3.04e-37	145.0	Bacteria;Cyanobacteria;Chloroplast;Quercus robur
+lagoon-sample_23	4	339	95.536	9.78e-156	538.0	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium

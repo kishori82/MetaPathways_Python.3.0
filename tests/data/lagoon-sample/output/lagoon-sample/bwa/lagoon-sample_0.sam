@@ -9,7 +9,7 @@
 [M::mem_pestat] low and high boundaries for computing mean and std.dev: (150, 150)
 [M::mem_pestat] mean and std.dev: (150.00, 0.00)
 [M::mem_pestat] low and high boundaries for proper pairs: (150, 150)
-[M::mem_process_seqs] Processed 6212 reads in 0.254 CPU sec, 0.085 real sec
+[M::mem_process_seqs] Processed 6212 reads in 0.234 CPU sec, 0.080 real sec
 @SQ	SN:lagoon-sample_0	LN:333
 @SQ	SN:lagoon-sample_1	LN:333
 @SQ	SN:lagoon-sample_2	LN:470
@@ -6610,4 +6610,4 @@ NB501711:37:HVJ3JAFXX:1:11101:8440:3105	67	lagoon-sample_69	482	60	100M	=	332	-1
 NB501711:37:HVJ3JAFXX:1:11101:8440:3105	131	lagoon-sample_69	332	60	100M	=	482	151	GGGGAGTAGGCTTCAGGACAGGAGCTTGACCCAGACCGTGCGCGTGCGGGGGCCGTCGAATTCTCCCAGAAATACGCGCTGCCATGTGCCGAGCATCAGC	EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE	NM:i:0	MD:Z:100	MC:Z:100M	AS:i:100	XS:i:0
 [main] Version: 0.7.17-r1188
 [main] CMD: bwa mem -t 3 /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample/bwa//lagoon-sample tests/data/lagoon-sample/input/reads/lagoon-sample_2.fastq tests/data/lagoon-sample/input/reads/lagoon-sample_1.fastq
-[main] Real time: 0.202 sec; CPU: 0.275 sec
+[main] Real time: 0.217 sec; CPU: 0.245 sec
