@@ -1,0 +1,20 @@
+#query	target	q_length	bitscore	bsr	expect	aln_length	identity	ec	product
+32_1	UniRef100_Q8RAH1	147	168.0	0.5544554455445545	8.4e-58	147.0	56.463		Fe2+/Zn2+ uptake regulation proteins # K03711
+32_1	UniRef100_B0K0Q5	145	167.0	0.5511551155115512	1.48e-57	145.0	54.483		Ferric uptake regulator, Fur family # K03711
+32_1	UniRef100_L0IH90	145	166.0	0.5478547854785478	4.72e-57	145.0	53.103		Fe2+/Zn2+ uptake regulation protein # K03711
+32_1	UniRef100_A0A097AR82	147	165.0	0.5445544554455446	1.7e-56	147.0	53.061		Ferric uptake regulation protein Fur # K03711
+32_1	UniRef100_F6BKZ4	145	164.0	0.5412541254125413	2.81e-56	145.0	52.414		Ferric uptake regulator, Fur family # K03711
+31_0	UniRef100_A0A1D8GK16	111	194.0	0.8471615720524017	3.58e-66	111.0	80.18		2-dehydro-3-deoxygluconokinase # K00874
+31_0	UniRef100_A0A1J0GFV8	111	179.0	0.7816593886462883	4.36e-60	111.0	73.874		2-dehydro-3-deoxygluconokinase # K00874
+31_0	UniRef100_G2T0Y5	111	170.0	0.74235807860262	1e-56	111.0	73.874		2-dehydro-3-deoxygluconokinase KdgK # K00874
+31_0	UniRef100_B1GZ71	111	170.0	0.74235807860262	1.34e-56	111.0	72.072		2-dehydro-3-deoxygluconokinase # K00874
+31_0	UniRef100_D4KML5	111	169.0	0.7379912663755459	1.76e-56	111.0	72.973		Sugar kinases, ribokinase family # K00874
+0_0	UniRef100_D8MVS4	109	209.0	0.9126637554585153	2.95e-67	109.0	90.826		Phosphoribosylformylglycinamidine synthase # K01952
+0_0	UniRef100_A0A089Q262	109	209.0	0.9126637554585153	3.51e-67	109.0	89.908		Phosphoribosylformylglycinamidine synthase # K01952
+0_0	UniRef100_A0A0K2P4W6	109	208.0	0.9082969432314411	5.54e-67	109.0	89.908		Phosphoribosylformylglycinamidine synthase # K01952
+0_0	UniRef100_C9XY65	109	208.0	0.9082969432314411	5.82e-67	109.0	89.908		Phosphoribosylformylglycinamidine synthase # K01952
+0_0	UniRef100_D4GKL1	109	207.0	0.9039301310043668	1.52e-66	109.0	90.826		Phosphoribosylformylglycinamidine synthase # K01952
+33_0	UniRef100_A0A1U7EB81	325	481.0	0.7562893081761006	4.29e-174	328.0	73.78		30S ribosomal protein S1 # K02945
+33_0	UniRef100_A0A1S6INC1	327	475.0	0.7468553459119497	1.07e-171	328.0	72.866		Uncharacterized protein # K02945
+33_0	UniRef100_A0A0U3MUJ7	327	442.0	0.6949685534591195	6.23e-159	327.0	68.196		SSU ribosomal protein S1p # K02945
+33_0	UniRef100_F4BQB6	325	437.0	0.6871069182389937	8.28e-157	325.0	68.0		30S ribosomal protein S1 # K02945

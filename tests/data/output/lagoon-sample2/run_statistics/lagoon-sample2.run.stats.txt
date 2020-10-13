@@ -1,0 +1,223 @@
+1000	Number of sequences in input file BEFORE QC (nucleotide)	119
+1001	-min length	302
+1002	-avg length	1010
+1003	-max length	12184
+1004	-total base pairs (bp)	120196
+1005	Number of sequences AFTER QC (nucleotide)	119
+1006	-min length	302
+1007	-avg length	1010
+1008	-max length	12184
+1009	-total base pairs (bp)	120196
+2000	Number of translated ORFs BEFORE QC (amino)	193
+2001	-min length	21
+2002	-avg length	175
+2003	-max length	857
+2004	-total base pairs (bp)	33915
+2005	Number of tranlated ORFs AFTER QC (amino)	167
+2006	-min length	62
+2007	-avg length	197
+2008	-max length	857
+2009	-total base pairs (bp)	32948
+5000	Total Protein Annotations refseq-small-sample (BLAST)	364
+5500	Number of ORFs with hits in refseq-small-sample (BLAST)	86
+7000	Taxonomic hits in silva-lsu-small-sample	10
+7000	Taxonomic hits in silva-ssu-small-sample	7
+1000	Number of sequences in input file BEFORE QC (nucleotide)	119
+1001	-min length	302
+1002	-avg length	1010
+1003	-max length	12184
+1004	-total base pairs (bp)	120196
+1005	Number of sequences AFTER QC (nucleotide)	119
+1006	-min length	302
+1007	-avg length	1010
+1008	-max length	12184
+1009	-total base pairs (bp)	120196
+2000	Number of translated ORFs BEFORE QC (amino)	193
+2001	-min length	21
+2002	-avg length	175
+2003	-max length	857
+2004	-total base pairs (bp)	33915
+2005	Number of tranlated ORFs AFTER QC (amino)	167
+2006	-min length	62
+2007	-avg length	197
+2008	-max length	857
+2009	-total base pairs (bp)	32948
+5000	Total Protein Annotations refseq-small-sample (BLAST)	364
+5500	Number of ORFs with hits in refseq-small-sample (BLAST)	86
+7000	Taxonomic hits in silva-lsu-small-sample	10
+7000	Taxonomic hits in silva-ssu-small-sample	7
+1000	Number of sequences in input file BEFORE QC (nucleotide)	119
+1001	-min length	302
+1002	-avg length	1010
+1003	-max length	12184
+1004	-total base pairs (bp)	120196
+1005	Number of sequences AFTER QC (nucleotide)	119
+1006	-min length	302
+1007	-avg length	1010
+1008	-max length	12184
+1009	-total base pairs (bp)	120196
+2000	Number of translated ORFs BEFORE QC (amino)	193
+2001	-min length	21
+2002	-avg length	175
+2003	-max length	857
+2004	-total base pairs (bp)	33915
+2005	Number of tranlated ORFs AFTER QC (amino)	167
+2006	-min length	62
+2007	-avg length	197
+2008	-max length	857
+2009	-total base pairs (bp)	32948
+5000	Total Protein Annotations refseq-small-sample (BLAST)	364
+5500	Number of ORFs with hits in refseq-small-sample (BLAST)	86
+5000	Total Protein Annotations kegg-small-sample (BLAST)	19
+5500	Number of ORFs with hits in kegg-small-sample (BLAST)	4
+5000	Total Protein Annotations cazy-small-sample (BLAST)	14
+5500	Number of ORFs with hits in cazy-small-sample (BLAST)	7
+5000	Total Protein Annotations metacyc-small-sample (BLAST)	20
+5500	Number of ORFs with hits in metacyc-small-sample (BLAST)	7
+7000	Taxonomic hits in silva-lsu-small-sample	10
+7000	Taxonomic hits in silva-ssu-small-sample	7
+6000	Protein Annotations from metacyc-small-sample	7
+6001	Protein Annotations from cazy-small-sample	7
+6002	Protein Annotations from refseq-small-sample	86
+6003	Protein Annotations from kegg-small-sample	4
+6004	Total Protein Annotations	92
+1000	Number of sequences in input file BEFORE QC (nucleotide)	119
+1001	-min length	302
+1002	-avg length	1010
+1003	-max length	12184
+1004	-total base pairs (bp)	120196
+1005	Number of sequences AFTER QC (nucleotide)	119
+1006	-min length	302
+1007	-avg length	1010
+1008	-max length	12184
+1009	-total base pairs (bp)	120196
+2000	Number of translated ORFs BEFORE QC (amino)	193
+2001	-min length	21
+2002	-avg length	175
+2003	-max length	857
+2004	-total base pairs (bp)	33915
+2005	Number of tranlated ORFs AFTER QC (amino)	167
+2006	-min length	62
+2007	-avg length	197
+2008	-max length	857
+2009	-total base pairs (bp)	32948
+5000	Total Protein Annotations refseq-small-sample (BLAST)	364
+5500	Number of ORFs with hits in refseq-small-sample (BLAST)	86
+5000	Total Protein Annotations kegg-small-sample (BLAST)	19
+5500	Number of ORFs with hits in kegg-small-sample (BLAST)	4
+5000	Total Protein Annotations cazy-small-sample (BLAST)	14
+5500	Number of ORFs with hits in cazy-small-sample (BLAST)	7
+5000	Total Protein Annotations metacyc-small-sample (BLAST)	20
+5500	Number of ORFs with hits in metacyc-small-sample (BLAST)	7
+7000	Taxonomic hits in silva-lsu-small-sample	10
+7000	Taxonomic hits in silva-ssu-small-sample	7
+6000	Protein Annotations from metacyc-small-sample	7
+6001	Protein Annotations from cazy-small-sample	7
+6002	Protein Annotations from refseq-small-sample	86
+6003	Protein Annotations from kegg-small-sample	4
+6004	Total Protein Annotations	92
+1000	Number of sequences in input file BEFORE QC (nucleotide)	119
+1001	-min length	302
+1002	-avg length	1010
+1003	-max length	12184
+1004	-total base pairs (bp)	120196
+1005	Number of sequences AFTER QC (nucleotide)	119
+1006	-min length	302
+1007	-avg length	1010
+1008	-max length	12184
+1009	-total base pairs (bp)	120196
+2000	Number of translated ORFs BEFORE QC (amino)	193
+2001	-min length	21
+2002	-avg length	175
+2003	-max length	857
+2004	-total base pairs (bp)	33915
+2005	Number of tranlated ORFs AFTER QC (amino)	167
+2006	-min length	62
+2007	-avg length	197
+2008	-max length	857
+2009	-total base pairs (bp)	32948
+5000	Total Protein Annotations refseq-small-sample (BLAST)	364
+5500	Number of ORFs with hits in refseq-small-sample (BLAST)	86
+5000	Total Protein Annotations kegg-small-sample (BLAST)	19
+5500	Number of ORFs with hits in kegg-small-sample (BLAST)	4
+5000	Total Protein Annotations cazy-small-sample (BLAST)	14
+5500	Number of ORFs with hits in cazy-small-sample (BLAST)	7
+5000	Total Protein Annotations metacyc-small-sample (BLAST)	20
+5500	Number of ORFs with hits in metacyc-small-sample (BLAST)	7
+7000	Taxonomic hits in silva-lsu-small-sample	10
+7000	Taxonomic hits in silva-ssu-small-sample	7
+6000	Protein Annotations from metacyc-small-sample	7
+6001	Protein Annotations from cazy-small-sample	7
+6002	Protein Annotations from refseq-small-sample	86
+6003	Protein Annotations from kegg-small-sample	4
+6004	Total Protein Annotations	92
+1000	Number of sequences in input file BEFORE QC (nucleotide)	119
+1001	-min length	302
+1002	-avg length	1010
+1003	-max length	12184
+1004	-total base pairs (bp)	120196
+1005	Number of sequences AFTER QC (nucleotide)	119
+1006	-min length	302
+1007	-avg length	1010
+1008	-max length	12184
+1009	-total base pairs (bp)	120196
+2000	Number of translated ORFs BEFORE QC (amino)	193
+2001	-min length	21
+2002	-avg length	175
+2003	-max length	857
+2004	-total base pairs (bp)	33915
+2005	Number of tranlated ORFs AFTER QC (amino)	167
+2006	-min length	62
+2007	-avg length	197
+2008	-max length	857
+2009	-total base pairs (bp)	32948
+5000	Total Protein Annotations refseq-small-sample (BLAST)	364
+5500	Number of ORFs with hits in refseq-small-sample (BLAST)	86
+5000	Total Protein Annotations kegg-small-sample (BLAST)	19
+5500	Number of ORFs with hits in kegg-small-sample (BLAST)	4
+5000	Total Protein Annotations cazy-small-sample (BLAST)	14
+5500	Number of ORFs with hits in cazy-small-sample (BLAST)	7
+5000	Total Protein Annotations metacyc-small-sample (BLAST)	20
+5500	Number of ORFs with hits in metacyc-small-sample (BLAST)	7
+7000	Taxonomic hits in silva-lsu-small-sample	10
+7000	Taxonomic hits in silva-ssu-small-sample	7
+6000	Protein Annotations from metacyc-small-sample	7
+6001	Protein Annotations from cazy-small-sample	7
+6002	Protein Annotations from refseq-small-sample	86
+6003	Protein Annotations from kegg-small-sample	4
+6004	Total Protein Annotations	92
+1000	Number of sequences in input file BEFORE QC (nucleotide)	119
+1001	-min length	302
+1002	-avg length	1010
+1003	-max length	12184
+1004	-total base pairs (bp)	120196
+1005	Number of sequences AFTER QC (nucleotide)	119
+1006	-min length	302
+1007	-avg length	1010
+1008	-max length	12184
+1009	-total base pairs (bp)	120196
+2000	Number of translated ORFs BEFORE QC (amino)	193
+2001	-min length	21
+2002	-avg length	175
+2003	-max length	857
+2004	-total base pairs (bp)	33915
+2005	Number of tranlated ORFs AFTER QC (amino)	167
+2006	-min length	62
+2007	-avg length	197
+2008	-max length	857
+2009	-total base pairs (bp)	32948
+5000	Total Protein Annotations refseq-small-sample (BLAST)	364
+5500	Number of ORFs with hits in refseq-small-sample (BLAST)	86
+5000	Total Protein Annotations kegg-small-sample (BLAST)	19
+5500	Number of ORFs with hits in kegg-small-sample (BLAST)	4
+5000	Total Protein Annotations cazy-small-sample (BLAST)	14
+5500	Number of ORFs with hits in cazy-small-sample (BLAST)	7
+5000	Total Protein Annotations metacyc-small-sample (BLAST)	20
+5500	Number of ORFs with hits in metacyc-small-sample (BLAST)	7
+7000	Taxonomic hits in silva-lsu-small-sample	10
+7000	Taxonomic hits in silva-ssu-small-sample	7
+6000	Protein Annotations from metacyc-small-sample	7
+6001	Protein Annotations from cazy-small-sample	7
+6002	Protein Annotations from refseq-small-sample	86
+6003	Protein Annotations from kegg-small-sample	4
+6004	Total Protein Annotations	92

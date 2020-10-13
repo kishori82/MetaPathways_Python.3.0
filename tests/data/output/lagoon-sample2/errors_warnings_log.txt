@@ -1,0 +1,194 @@
+#STEP	ORF_PREDICTION
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	COMPUTE_REFSCORE
+#STEP	PARSE_BLAST
+#STEP	PARSE_FUNC_SEARCH:kegg-small-sample
+ERROR	Missing input tests/data/ref_data//functional/formatted/kegg-small-sample-names.txt
+ERROR	Missing input tests/data/ref_data//functional/formatted/kegg-small-sample-names.txt
+#STEP	PARSE_FUNC_SEARCH:cazy-small-sample
+ERROR	Missing input tests/data/ref_data//functional/formatted/cazy-small-sample-names.txt
+ERROR	Missing input tests/data/ref_data//functional/formatted/cazy-small-sample-names.txt
+#STEP	PARSE_FUNC_SEARCH:metacyc-small-sample
+ERROR	Missing input tests/data/ref_data//functional/formatted/metacyc-small-sample-names.txt
+ERROR	Missing input tests/data/ref_data//functional/formatted/metacyc-small-sample-names.txt
+#STEP	STATS_rRNA
+#STEP	STATS_rRNA
+#STEP	tRNA_SCAN
+#STEP	ANNOTATE_ORFS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.metacyc-small-sample.BLASTout.parsed.txt
+#STEP	ANNOTATE_ORFS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.kegg-small-sample.BLASTout.parsed.txt
+#STEP	ANNOTATE_ORFS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.cazy-small-sample.BLASTout.parsed.txt
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.metacyc-small-sample.BLASTout.parsed.txt
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.kegg-small-sample.BLASTout.parsed.txt
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.cazy-small-sample.BLASTout.parsed.txt
+#STEP	CREATE_ANNOT_REPORTS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/genbank//lagoon-sample2.annot.gff
+#STEP	CREATE_ANNOT_REPORTS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.metacyc-small-sample.BLASTout.parsed.txt
+#STEP	CREATE_ANNOT_REPORTS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.kegg-small-sample.BLASTout.parsed.txt
+#STEP	CREATE_ANNOT_REPORTS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.cazy-small-sample.BLASTout.parsed.txt
+ERROR	Missing input tests/data/ref_data//functional_categories/KO_classification.txt
+ERROR	Missing input tests/data/ref_data//ncbi_tree/ncbi_taxonomy_tree.txt
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/genbank//lagoon-sample2.annot.gff
+ERROR	Missing input tests/data/ref_data//functional_categories/COG_categories.txt
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.metacyc-small-sample.BLASTout.parsed.txt
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.kegg-small-sample.BLASTout.parsed.txt
+ERROR	Missing input tests/data/ref_data//functional_categories/SEED_subsystems.txt
+ERROR	Missing input tests/data/ref_data//ncbi_tree/ncbi.map
+ERROR	Missing input tests/data/ref_data//functional_categories/CAZY_hierarchy.txt
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.cazy-small-sample.BLASTout.parsed.txt
+#STEP	PATHOLOGIC_INPUT
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/genbank//lagoon-sample2.annot.gff
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/genbank//lagoon-sample2.annot.gff
+#STEP	COMPUTE_RPKM
+ERROR	Missing input tests/data/lagoon-sample2/input/reads
+#STEP	COMPUTE_RPKM
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/genbank/lagoon-sample2.annot.gff
+ERROR	Missing input tests/data/lagoon-sample2/input/reads
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/genbank/lagoon-sample2.annot.gff
+#STEP	ORF_PREDICTION
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	COMPUTE_REFSCORE
+#STEP	PARSE_BLAST
+#STEP	PARSE_FUNC_SEARCH:kegg-small-sample
+ERROR	Missing input tests/data/ref_data//functional/formatted/kegg-small-sample-names.txt
+ERROR	Missing input tests/data/ref_data//functional/formatted/kegg-small-sample-names.txt
+#STEP	PARSE_FUNC_SEARCH:cazy-small-sample
+ERROR	Missing input tests/data/ref_data//functional/formatted/cazy-small-sample-names.txt
+ERROR	Missing input tests/data/ref_data//functional/formatted/cazy-small-sample-names.txt
+#STEP	PARSE_FUNC_SEARCH:metacyc-small-sample
+ERROR	Missing input tests/data/ref_data//functional/formatted/metacyc-small-sample-names.txt
+ERROR	Missing input tests/data/ref_data//functional/formatted/metacyc-small-sample-names.txt
+#STEP	STATS_rRNA
+#STEP	STATS_rRNA
+#STEP	tRNA_SCAN
+#STEP	ANNOTATE_ORFS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.cazy-small-sample.BLASTout.parsed.txt
+#STEP	ANNOTATE_ORFS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.metacyc-small-sample.BLASTout.parsed.txt
+#STEP	ANNOTATE_ORFS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.kegg-small-sample.BLASTout.parsed.txt
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.cazy-small-sample.BLASTout.parsed.txt
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.metacyc-small-sample.BLASTout.parsed.txt
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.kegg-small-sample.BLASTout.parsed.txt
+#STEP	CREATE_ANNOT_REPORTS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.cazy-small-sample.BLASTout.parsed.txt
+#STEP	CREATE_ANNOT_REPORTS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.metacyc-small-sample.BLASTout.parsed.txt
+#STEP	CREATE_ANNOT_REPORTS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/genbank//lagoon-sample2.annot.gff
+#STEP	CREATE_ANNOT_REPORTS
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.kegg-small-sample.BLASTout.parsed.txt
+ERROR	Missing input tests/data/ref_data//ncbi_tree/ncbi_taxonomy_tree.txt
+ERROR	Missing input tests/data/ref_data//functional_categories/CAZY_hierarchy.txt
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.cazy-small-sample.BLASTout.parsed.txt
+ERROR	Missing input tests/data/ref_data//functional_categories/KO_classification.txt
+ERROR	Missing input tests/data/ref_data//functional_categories/SEED_subsystems.txt
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.metacyc-small-sample.BLASTout.parsed.txt
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/genbank//lagoon-sample2.annot.gff
+ERROR	Missing input tests/data/ref_data//functional_categories/COG_categories.txt
+ERROR	Missing input tests/data/ref_data//ncbi_tree/ncbi.map
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/blast_results//lagoon-sample2.kegg-small-sample.BLASTout.parsed.txt
+#STEP	PATHOLOGIC_INPUT
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/genbank//lagoon-sample2.annot.gff
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/genbank//lagoon-sample2.annot.gff
+#STEP	COMPUTE_RPKM
+ERROR	Missing input tests/data/lagoon-sample2/input/reads
+#STEP	COMPUTE_RPKM
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/genbank/lagoon-sample2.annot.gff
+ERROR	Missing input tests/data/lagoon-sample2/input/reads
+ERROR	Missing input /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/genbank/lagoon-sample2.annot.gff
+#STEP	ORF_PREDICTION
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	COMPUTE_REFSCORE
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	STATS_rRNA
+#STEP	STATS_rRNA
+#STEP	tRNA_SCAN
+#STEP	ANNOTATE_ORFS
+#STEP	CREATE_ANNOT_REPORTS
+#STEP	ORF_PREDICTION
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	COMPUTE_REFSCORE
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	STATS_rRNA
+#STEP	STATS_rRNA
+#STEP	tRNA_SCAN
+#STEP	ANNOTATE_ORFS
+#STEP	CREATE_ANNOT_REPORTS
+#STEP	COMPUTE_RPKM
+ERROR	Missing input tests/data/lagoon-sample2/input/reads
+ERROR	Missing input tests/data/lagoon-sample2/input/reads
+#STEP	ORF_PREDICTION
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	COMPUTE_REFSCORE
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	STATS_rRNA
+#STEP	STATS_rRNA
+#STEP	tRNA_SCAN
+#STEP	ANNOTATE_ORFS
+#STEP	CREATE_ANNOT_REPORTS
+#STEP	COMPUTE_RPKM
+ERROR	Missing input tests/data/lagoon-sample2/input/reads
+ERROR	Missing input tests/data/lagoon-sample2/input/reads
+#STEP	ORF_PREDICTION
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	COMPUTE_REFSCORE
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	STATS_rRNA
+#STEP	STATS_rRNA
+#STEP	tRNA_SCAN
+#STEP	ANNOTATE_ORFS
+#STEP	CREATE_ANNOT_REPORTS
+#STEP	COMPUTE_RPKM
+ERROR	Missing input tests/data/lagoon-sample2/input/reads
+#STEP	ORF_PREDICTION
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	FUNC_SEARCH
+#STEP	COMPUTE_REFSCORE
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	PARSE_BLAST
+#STEP	STATS_rRNA
+#STEP	STATS_rRNA
+#STEP	tRNA_SCAN
+#STEP	ANNOTATE_ORFS
+#STEP	CREATE_ANNOT_REPORTS
+#STEP	RPKM_CALCULATION

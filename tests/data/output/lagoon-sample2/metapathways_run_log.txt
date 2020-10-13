@@ -1,0 +1,23 @@
+quality_control:min_length	180
+quality_control:delete_replicates	yes
+orf_prediction:strand	both
+orf_prediction:algorithm	prodigal
+orf_prediction:min_length	60
+orf_prediction:translation_table	11
+orf_prediction:mode	meta
+annotation:algorithm	BLAST
+annotation:dbs_high	
+annotation:dbs_custom	
+annotation:dbs	refseq-small-sample,kegg-small-sample,cazy-small-sample,metacyc-small-sample
+annotation:dbtype	high
+annotation:min_bsr	0.4
+annotation:max_evalue	0.000001
+annotation:min_score	20
+annotation:min_length	45
+annotation:max_hits	5
+rRNA:refdbs	silva-lsu-small-sample,silva-ssu-small-sample
+rRNA:max_evalue	0.000001
+rRNA:min_identity	20
+rRNA:min_bitscore	50
+ptools_settings:taxonomic_pruning	no
+ptools_input:compact_mode	yes

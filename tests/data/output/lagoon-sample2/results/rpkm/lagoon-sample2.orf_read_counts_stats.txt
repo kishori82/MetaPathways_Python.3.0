@@ -1,0 +1,44 @@
+
+Stats for file :  /home/kishori/metapathways_engcyc/metapathways/mp_output/lagoon-sample2/bwa/lagoon-sample2_0.sam
+
+Number of lines in SAM file      : 6479
+Number of unmapped lines         : 0
+Number of mapped lines           : 6479
+Number of singletons             : 0
+Number of read 1                 : 3235
+Number of read 2                 : 3244
+Number of multireads             : 267
+Number of secondary hits         : 267
+Number distinct reads mapped     : 6212
+Number distinct reads unmapped   : 0
+
+Composite stats for all files 
+
+Number of lines in SAM file      : 6479
+Number of unmapped lines         : 0
+Number of mapped lines           : 6479
+Number of singletons             : 0
+Number of read 1                 : 3235
+Number of read 2                 : 3244
+Number of multireads             : 267
+Number of secondary hits         : 267
+Number distinct reads mapped     : 6212
+Number distinct reads unmapped   : 0
+
+Mapping stats for the sample 
+Number of Contigs               : 119 
+Number of ORFs in sample        : 214 
+Number of ORFs in pathway table : 0 
+Total contig cover length       : 114702 
+Total Contig Length             : 120196 
+Total Genome Length             : 120196 
+Perentage contig coverage       : 95.43%
+Total ORF Length                : 106672 
+Total num of mappable reads     : 6212 
+Total num of unmappable reads   : 0 
+Number of total reads           : 6212 
+Percentage of mapped reads      : 100.00 
+Number of multireads            : 267 
+Percentage of multireads        : 4.30 % 
+Avg rpkm across ORFs in sample  : 10586.89 
+Avg rpkm across ORFs pwy table  : 0.00 

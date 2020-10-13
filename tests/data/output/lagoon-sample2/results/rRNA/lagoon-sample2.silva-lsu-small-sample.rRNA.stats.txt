@@ -1,0 +1,18 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	10
+
+	silva-lsu-small-sample			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+lagoon-sample2_23	4	336	88.393	2.1e-113	399.0	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae
+lagoon-sample2_24	56	320	90.943	1.56e-99	353.0	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XI;Gottschalkia;[Clostridium] acidurici 9a
+lagoon-sample2_6	141	629	89.919	0.0	630.0	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;gut metagenome
+lagoon-sample2_8	1	225	99.556	1.07e-116	411.0	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Enterobacter aerogenes
+lagoon-sample2_27	1	385	96.364	0.0	634.0	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Enterobacter aerogenes
+lagoon-sample2_28	47	402	77.568	1.66e-55	207.0	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;Enterobacter aerogenes
+lagoon-sample2_22	27	665	87.267	0.0	717.0	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium;Clostridium sp. LF2
+lagoon-sample2_1	1	333	87.202	3.47e-106	375.0	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megamonas;Megamonas funiformis YIT 11815
+lagoon-sample2_11	1	223	94.619	5.03e-97	346.0	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;Sulfurospirillum cavolei NBRC 109482
+lagoon-sample2_26	116	1942	77.117	0.0	1018.0	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;gut metagenome

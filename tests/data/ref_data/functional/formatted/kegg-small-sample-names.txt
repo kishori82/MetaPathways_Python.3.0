@@ -1,0 +1,19 @@
+>UniRef100_B0K0Q5 Ferric uptake regulator, Fur family # K03711
+>UniRef100_G2T0Y5 2-dehydro-3-deoxygluconokinase KdgK # K00874
+>UniRef100_D4KML5 Sugar kinases, ribokinase family # K00874
+>UniRef100_L0IH90 Fe2+/Zn2+ uptake regulation protein # K03711
+>UniRef100_F6BKZ4 Ferric uptake regulator, Fur family # K03711
+>UniRef100_D4GKL1 Phosphoribosylformylglycinamidine synthase # K01952
+>UniRef100_D8MVS4 Phosphoribosylformylglycinamidine synthase # K01952
+>UniRef100_A0A1J0GFV8 2-dehydro-3-deoxygluconokinase # K00874
+>UniRef100_Q8RAH1 Fe2+/Zn2+ uptake regulation proteins # K03711
+>UniRef100_A0A1U7EB81 30S ribosomal protein S1 # K02945
+>UniRef100_A0A1D8GK16 2-dehydro-3-deoxygluconokinase # K00874
+>UniRef100_A0A089Q262 Phosphoribosylformylglycinamidine synthase # K01952
+>UniRef100_F4BQB6 30S ribosomal protein S1 # K02945
+>UniRef100_A0A0U3MUJ7 SSU ribosomal protein S1p # K02945
+>UniRef100_B1GZ71 2-dehydro-3-deoxygluconokinase # K00874
+>UniRef100_A0A0K2P4W6 Phosphoribosylformylglycinamidine synthase # K01952
+>UniRef100_A0A097AR82 Ferric uptake regulation protein Fur # K03711
+>UniRef100_C9XY65 Phosphoribosylformylglycinamidine synthase # K01952
+>UniRef100_A0A1S6INC1 Uncharacterized protein # K02945
