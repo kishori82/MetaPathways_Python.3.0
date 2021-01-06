@@ -4,14 +4,33 @@ Installation
 Setup a virtual environment
 ===========================
 
-**Create a python virtual environment** 
-python Virtual enviroments `venv` (for Python 3) allow you to manage separate 
+python virtual enviroments `venv` (for Python 3) allow you to manage separate 
 package installations for different projects. They essentially allow you to create 
 a “virtual” isolated Python installation and install packages into that virtual 
 installation. When you switch projects, you can simply create a new virtual 
 environment and not have to worry about breaking the packages installed in 
 the other environments. It is always recommended to use a virtual environment 
-while trying out new Python applications.
+while trying out new Python applications. We outline two methods for creating a
+venv for MetaPathways through either Anaconda (recommended) or virtualenv.
+
+**Option 1: Create a python virtual environment with Anaconda (recommended)**
+The following command creates a new conda environment with a name *mynewenv* with Python 3
+::
+
+ $ conda create -y -n mynewenv python=3
+
+Activate the new conda environment by running 
+::
+
+ $ conda activate mynewenv
+
+Deactivate If you want to switch projects or otherwise leave your virtual environment, simply run:
+::
+
+  $ conda deactivate
+
+
+**Option 2: Create a python virtual environment with virtualenv** 
 
 The following command creates a new virtual environment with a name *mynewenv* with Python 3
 ::
@@ -27,23 +46,6 @@ Deactivate If you want to switch projects or otherwise leave your virtual enviro
 ::
 
   $ deactivate
-
-pip install MetaPathways
-========================
-Install MetaPathways by running:
-::
-
- $ pip3 install metapathways
-
-To make sure MetaPathways is installed type
-::
-
- $ MetaPathways --version
-
-which, if MetaPathways, is properly installed, will print a version number. For example
-::
-
-  MetaPathways: Version 3.5.0
 
 
 Install Binaries
@@ -64,19 +66,29 @@ untar the files, make and install, which takes a few minutes
   $ make`
   $ sudo make install
 
-NOTE: if you would like to unstall then type
+NOTE: if you would like to uninstall then type
 ::
    
   $ sudo make uninstall
 
 
-Install ``ncbi-blast+`` locally. Visit the `download page
-<https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download>`_.
+Install ``ncbi-blast+`` locally. There are several options to available.
+If following the recommended Anaconda setup
+::
 
+  $ conda install -y -c bioconda blast
+
+If you have root privileges:
 For Ubuntu/Debian
 ::
 
   $ sudo apt-get install ncbi-blast+
+
+OR
+
+Visit the `download page
+<https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download>`_ for manual installation.
+
 
 
 Reference Sequences
@@ -108,10 +120,10 @@ Download and unzip the NCBI taxonomy file to the ``MetaPathways_DBs/ncbi_tree`` 
  $ wget https://github.com/kishori82/MetaPathways_Python.3.0/raw/kmk-develop/data/refdata/ncbi_taxonomy_tree.txt.gz
  $ wget https://github.com/kishori82/MetaPathways_Python.3.0/raw/kmk-develop/data/refdata/ncbi.map.gz
 
-Download and unzip functional classification files to ``MetaPathways_DBs/functional_hierarchy`` folder
+Download and unzip functional classification files to ``MetaPathways_DBs/functional_categories`` folder
 ::
 
-$ cd MetaPathways_DBs/functional_hierarchy
+$ cd MetaPathways_DBs/functional_categories
 $ wget https://github.com/kishori82/MetaPathways_Python.3.0/raw/kmk-develop/data/refdata/CAZY_hierarchy.txt.gz
 $ wget https://github.com/kishori82/MetaPathways_Python.3.0/raw/kmk-develop/data/refdata/COG_categories.txt.gz
 $ wget https://github.com/kishori82/MetaPathways_Python.3.0/raw/kmk-develop/data/refdata/KO_classification.txt.gz
@@ -175,6 +187,7 @@ rename to remove the `fasta` suffix
 
 FAST
 ----
+[This needs to be completed]
 
 BLAST
 -----
@@ -186,3 +199,24 @@ Format the database for `blastp` as follows:
 
 Taxonomic Reference 
 +++++++++++++++++++
+[This needs to be completed]
+
+pip install MetaPathways
+========================
+Install MetaPathways by running:
+::
+
+ $ pip3 install metapathways
+
+To make sure MetaPathways is installed type
+::
+
+ $ MetaPathways --version
+
+which, if MetaPathways, is properly installed, will print a version number. For example
+::
+
+  MetaPathways: Version 3.5.0
+
+
+
