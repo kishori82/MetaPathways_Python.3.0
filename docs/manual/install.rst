@@ -61,7 +61,7 @@ untar the files, make and install, which takes a few minutes
 
   $ tar -zxvf c_cpp_sources.1.0.tar.gz
   $ cd c_cpp_sources
-  $ make`
+  $ make
   $ sudo make install
 
 NOTE: if you would like to unstall then type
